@@ -1,0 +1,25 @@
+<skin>
+    <output id="0"><resolution xres="1280" yres="720" bpp="32" /></output>
+    <colors>
+        <color name="background" value="#07142f" />
+        <color name="foreground" value="#edf6ff" />
+    </colors>
+    <fonts>
+        <font name="MagicBox" filename="/usr/share/enigma2/magicbox/assets/RobotoCondensed.ttf" scale="100" />
+    </fonts>
+    <screen name="Mute" position="50,50" zPosition="10" size="34,45" backgroundColor="transparent" title="Mute" flags="wfNoBorder">
+        <ePixmap position="0,0" size="34,45" pixmap="/usr/share/enigma2/magicbox/assets/mute.svg" alphatest="blend" />
+    </screen>
+    <screen name="UnhandledKey" flags="wfNoBorder" position="620,50" size="34,45" title="UnhandledKey" zPosition="100" backgroundColor="transparent">
+        <widget name="UnhandledKeyPixmap" pixmap="/usr/share/enigma2/magicbox/assets/unhandled-key.svg" position="0,0" size="34,45" alphatest="blend" />
+    </screen>
+    <windowstyle type="skinned" id="0">
+        <title offset="0,0" font="MagicBox;24" />
+        <color name="Background" color="#07142f" />
+        <color name="LabelForeground" color="#edf6ff" />
+        <color name="ListboxBackground" color="#07142f" />
+        <color name="ListboxForeground" color="#edf6ff" />
+        <color name="ListboxSelectedBackground" color="#104778" />
+        <color name="ListboxSelectedForeground" color="#ffdf54" />
+    </windowstyle>
+</skin>

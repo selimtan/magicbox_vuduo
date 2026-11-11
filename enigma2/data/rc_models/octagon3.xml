@@ -1,0 +1,65 @@
+<rcs>
+	<rc id="2">
+		<button name="POWER" pos="93,27" />
+
+		<button name="1" pos="26,74" />
+		<button name="2" pos="60,72" />
+		<button name="3" pos="94,74" />
+		<button name="4" pos="26,101" />
+		<button name="5" pos="60,101" />
+		<button name="6" pos="94,101" />
+		<button name="7" pos="26,129" />
+		<button name="8" pos="60,129" />
+		<button name="9" pos="94,129" />
+		<button name="OPTION" pos="26,156" />
+		<button name="0" pos="60,156" />
+		<!--button name="IPTV" pos="95,156" /-->
+
+		<button name="MUTE" pos="26,178" />
+		<button name="AUDIO" pos="48,178" />
+		<button name="SUBTITLE" pos="72,178" />
+		<button name="TEXT" pos="96,178" />
+
+		<button name="RED" pos="24,197" />
+		<button name="GREEN" pos="48,197" />
+		<button name="YELLOW" pos="72,197" />
+		<button name="BLUE" pos="96,197" />
+
+		<button name="INFO" pos="20,221" />
+		<button name="RECALL" pos="100,221" />
+		<button name="UP" pos="60,226" />
+		<button name="LEFT" pos="35,251" />
+		<button name="OK" pos="60,251" />
+		<button name="RIGHT" pos="86,251" />
+		<button name="DOWN" pos="61,276" />
+		<button name="MENU" pos="25,286" />
+		<button name="EXIT" pos="97,286" />
+
+		<button name="VOL+" pos="26,310" />
+		<button name="BOUQUET+" pos="92,310" />
+		<button name="FAVORITES" pos="60,314" />
+		<button name="EPG" pos="60,339" />
+		<button name="VOL-" pos="26,344" />
+		<button name="BOUQUET-" pos="92,344" />
+
+		<button name="REWIND" pos="24,363" />
+		<button name="FASTFORWARD" pos="48,363" />
+		<button name="ARROWLEFT" pos="72,363" />
+		<button name="ARROWRIGHT" pos="96,363" />
+
+		<button name="SAT" pos="24,383" />
+		<button name="PLAYPAUSE" pos="48,383" />
+		<button name="STOP" pos="72,383" />
+		<button name="RECORD" pos="96,383" />
+
+		<button name="VIDEO" pos="24,402" />
+		<!--button name="" pos="48,402" /-->
+		<button name="MP3" pos="72,402" />
+		<button name="VOD" pos="96,402" />
+
+		<button name="TV" pos="24,420" />
+		<button name="VMODE" pos="48,420" />
+		<button name="VKEY" pos="72,420" />
+		<button name="SLEEP" pos="96,420" />
+	</rc>
+</rcs>

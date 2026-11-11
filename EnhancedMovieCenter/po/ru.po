@@ -1,0 +1,2424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EMC V.4.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-12 09:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: litvcom\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid " Deleting remotely recorded and it will display an rec-error dialog on the other DB."
+msgstr " Удаление удаленной записи, ошибка записи будет отображаться на другом ресивере."
+
+msgid " all selected video files?"
+msgstr " Все выбранные видеофайлы?"
+
+msgid " all selected video files? The currently playing movie is also one of the selections and its playback will be stopped."
+msgstr " Все выбранные файлы? Просматриваемая запись также будет удалена, а ее воспроизведение остановлено."
+
+msgid " currently played?"
+msgstr " Проигрываемый сейчас?"
+
+msgid " files\n"
+msgstr " файлы\n"
+
+msgid " permanently"
+msgstr " навсегда"
+
+#, python-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d секунда"
+msgstr[1] "%d секунды"
+msgstr[2] "%d секунд"
+
+#, python-format
+msgid "%s not removed. Write protect?"
+msgstr "%s не удалось удалить. Защита от записи?"
+
+#, python-format
+msgid "%s removed."
+msgstr "%s удален."
+
+msgid "( # )"
+msgstr "( # )"
+
+msgid "( # / GB )"
+msgstr "( # / Гбайт )"
+
+msgid "( GB )"
+msgstr "( Гб )"
+
+msgid "(Un-)Lock Directory"
+msgstr "Разблокировать/заблокировать каталог"
+
+msgid "(show optional DVD audio menu)"
+msgstr "(Показывать аудио меню DVD)"
+
+msgid "*** Multiselection active ***"
+msgstr "*** Мультивыбор ***"
+
+msgid ".../foldername.jpg"
+msgstr ".../foldername.jpg"
+
+msgid ".../foldername/folder.jpg"
+msgstr ".../foldername/folder.jpg"
+
+msgid ".../foldername/foldername.jpg"
+msgstr ".../foldername/foldername.jpg"
+
+msgid ""
+"ATTENTION\n"
+"\n"
+"This option will move all finished movies in Movie Home automatically to Your trashcan at the given time.\n"
+"At next trashcan cleanup all movies will be deleted.\n"
+"\n"
+"Confirm this with the blue key followed by the green key."
+msgstr ""
+"ВНИМАНИЕ\n"
+"\n"
+"Все просмотренные видео в каталоге \"Домой\" в заданное время будут перемещены в корзину. \n"
+"При следующей очистки корзины все видеофайлы будут удалены.\n"
+"\n"
+"Подтвердите выбор последовательным нажатием синей и зеленой кнопок."
+
+msgid "AUDIO METADATA"
+msgstr "АУДИО МЕТАДАННЫЕ"
+
+msgid "AUTOSTART"
+msgstr "АВТОЗАПУСК"
+
+msgid "About"
+msgstr "О плагине"
+
+msgid "Add directory to E2 Bookmarks"
+msgstr "Добавить каталог в закладки E2"
+
+msgid "Add directory to EMC Bookmarks"
+msgstr "Добавить каталог в закладки EMC"
+
+msgid "Add to Playlist"
+msgstr "Добавить в список воспроизведения"
+
+msgid "Add to current Playlist"
+msgstr "Добавить в текущий список воспроизведения"
+
+msgid "After file OPs only re-scan affected dirs"
+msgstr "Сканировать только измененные каталоги"
+
+msgid "Age of finished movies in movie folder (days)"
+msgstr "Возраст просмотренных записей в каталоге записей (дни)"
+
+msgid "Album:"
+msgstr "Альбом:"
+
+msgid "Alpha sort"
+msgstr "А-Я"
+
+msgid "Alpha sort ascending (AZ)"
+msgstr "По алфавиту, по возрастанию (AZ)"
+
+msgid "Alpha sort ascending with meta (AZM)"
+msgstr "По алфавиту, с учетом метаданных (AZM)"
+
+msgid "Alpha sort ascending with meta, Date descending (AZMD-)"
+msgstr "По алфавиту, с учетом метаданных. Новые сверху (AZMD-)"
+
+msgid "Alpha sort ascending, Date descending (AZD-)"
+msgstr "По алфавиту, по возрастанию. Новые сверху (AZD-)"
+
+msgid "Alpha sort date newest"
+msgstr "А-Я+ДАТА"
+
+msgid "Alpha sort descending (ZA)"
+msgstr "По алфавиту, по убыванию (ZA)"
+
+msgid "Alpha sort descending with meta (ZAM)"
+msgstr "По алфавиту, с учетом метаданных (ZAM)"
+
+msgid "Alpha sort descending with meta, Date ascending (ZAMD+)"
+msgstr "По алфавиту, с учетом метаданных. Старые сверху (ZAMD+)"
+
+msgid "Alpha sort descending, Date ascending (ZAD+)"
+msgstr "По алфавиту, по убыванию. Старые сверху (ZAD+)"
+
+msgid "Alpha sort meta"
+msgstr "А-Я+МЕТА"
+
+msgid "Alpha sort meta date newest"
+msgstr "А-Я+МЕТА+ДАТА-"
+
+msgid "Always save current Playlist"
+msgstr "Всегда сохранять текущий список воспроизведения"
+
+msgid "Always save last played progress as marker"
+msgstr "Всегда сохранять последнюю позицию воспроизведения"
+
+msgid "Artist:"
+msgstr "Артист:"
+
+msgid "Automatic timers list cleaning"
+msgstr "Очистка списка автоматических таймеров"
+
+msgid "Available plugins menu"
+msgstr "Меню плагинов"
+
+msgid "Black"
+msgstr "Черный"
+
+msgid "Blue button function"
+msgstr "Синяя кнопка"
+
+msgid "Bookmark"
+msgstr "Закладки"
+
+msgid "Both"
+msgstr "Закладки E2 и EMC"
+
+msgid "Bouquet buttons behaviour"
+msgstr "Функция кнопок 'Букет'"
+
+msgid "Button disabled"
+msgstr "Кнопка отключена"
+
+msgid "COVER-SEARCH"
+msgstr ""
+
+msgid "CSFD"
+msgstr "CSFD"
+
+msgid "CSFD Info"
+msgstr "Описание в CSFD"
+
+msgid "Can not save "
+msgstr "Не удалось сохранить "
+
+msgid "Can not save Cover in "
+msgstr "Не удалось сохранить обложку в "
+
+msgid "Can not save current Playlist!"
+msgstr "Не удалось сохранить текущий список воспроизведения!"
+
+#, python-format
+msgid ""
+"Can not write Movie Information File\n"
+"\n"
+"%s"
+msgstr ""
+"Информация о фильме не может быть сохранена\n"
+"\n"
+"%s"
+
+#, python-format
+msgid ""
+"Can not write Movie Information and Cover File\n"
+"\n"
+"%(info)s\n"
+"%(file)s"
+msgstr ""
+"Не удалось сохранить сведения о фильме и файл обложки\n"
+"\n"
+"%(info)s\n"
+"%(file)s"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Cannot delete the parent directory."
+msgstr "Не удалось удалить родительский каталог."
+
+msgid "Change File/Moviename and/or Description"
+msgstr "Измените имя файла, название фильма и описание"
+
+msgid "Change Folder"
+msgstr "Сменить каталог"
+
+msgid "Change Foldername"
+msgstr "Изменить имя папки"
+
+msgid "Change the filename to save current Playlist:"
+msgstr "Изменить имя файла для сохранения текущего списка воспроизведения:"
+
+msgid "Chap."
+msgstr "Глава"
+
+msgid "Chapter"
+msgstr "Глава"
+
+msgid "Check for dead links"
+msgstr "Проверять мертвые ссылки"
+
+msgid "Choose Directory:"
+msgstr "Выберите каталог:"
+
+msgid "Choose bookmark"
+msgstr "Выберите закладку"
+
+msgid "Choose directory"
+msgstr "Выберите каталог"
+
+msgid "Choose operation"
+msgstr "Выберите действие"
+
+msgid "Choose plugin"
+msgstr "Выберите дополниние"
+
+msgid "Choose script"
+msgstr "Выберите сценарий"
+
+msgid "Close EMC"
+msgstr "Закрыть EMC"
+
+msgid "Close EMC and do power button action"
+msgstr "Закрыть EMC и выполнить действие кнопки питания"
+
+msgid "Collection"
+msgstr "Коллекция"
+
+msgid "Configured directories at the top of movielist"
+msgstr "Показывать добавленные каталоги вверху списка"
+
+msgid "Content:"
+msgstr "Содержание:"
+
+msgid "Copy File"
+msgstr "Копировать"
+
+msgid "Copy Files"
+msgstr "Копировать"
+
+msgid "Copy file(s):"
+msgstr "Копировать файл(ы):"
+
+#, python-format
+msgid ""
+"Cover %s exists!\n"
+"\n"
+"Do you want to replace the existing cover?"
+msgstr ""
+"Обложка % s уже существует!\n"
+"\n"
+"Хотите заменить существующую обложку?"
+
+msgid "Cover Search"
+msgstr "Поиск обложки"
+
+msgid "Cover background"
+msgstr "Фон обложки"
+
+msgid "Cover delay in ms"
+msgstr "Задержка перед отображением обложки (мс)"
+
+msgid "Cover disabled in EMC-Setup"
+msgstr "Обложка отключена в настройках EMC"
+
+msgid "Cover is Saved."
+msgstr "Обложка сохранена."
+
+msgid "Cover search"
+msgstr "Поиск обложки"
+
+msgid ""
+"Cover search with all Files in Subdirectories?\n"
+"\n"
+"This may take a while on huge Disks, or Directories!"
+msgstr ""
+"Поиск обложки среди всех файлов и подкаталогов?\n"
+"\n"
+"Это может занять некоторое время на больших дисках или каталогах!"
+
+msgid "Coversize"
+msgstr "Размер обложки"
+
+msgid "Create directory"
+msgstr "Создать каталог"
+
+msgid "Create link"
+msgstr "Создать ссылку"
+
+msgid "Creating Search List.."
+msgstr "Создание списка поиска..."
+
+msgid "Current Playlist saved successfully!"
+msgstr "Текущий список воспроизведения успешно сохранен!"
+
+msgid "Cursor predictive move after selection"
+msgstr "Переместить курсор после выбора"
+
+msgid "Custom"
+msgstr "Пользовательский"
+
+msgid "Czech"
+msgstr ""
+
+msgid "DD.MM. HH:MM"
+msgstr "ДД.ММ. ЧЧ:ММ"
+
+msgid "DD.MM.YYYY"
+msgstr "ДД.ММ.ГГГГ"
+
+msgid "DD.MM.YYYY HH:MM"
+msgstr "ДД.ММ.ГГГГ ЧЧ:ММ"
+
+msgid "DEBUG"
+msgstr "ОТЛАДКА"
+
+msgid "DELAYS"
+msgstr "ЗАДЕРЖКИ"
+
+msgid "DISPLAY-SETTINGS"
+msgstr "УСТАНОВКИ ОТОБРАЖЕНИЯ"
+
+msgid "DVD / BLU-RAY / FOLDERS"
+msgstr "DVD / BLU-RAY / КАТАЛОГИ"
+
+msgid "Daily cleanup time"
+msgstr "Время ежедневной очистки корзины/списка записей"
+
+msgid "Dark green"
+msgstr "Темно-зеленый"
+
+msgid "Dark grey"
+msgstr "Темно-серый"
+
+msgid "Dark orange"
+msgstr "Темно-оранжевый"
+
+msgid "Dark red"
+msgstr "Темно-красный"
+
+msgid "Date format"
+msgstr "Формат даты"
+
+msgid "Date sort"
+msgstr "Хронологически"
+
+msgid "Date sort ascending (D+)"
+msgstr "По дате, по возрастанию (D+)"
+
+msgid "Date sort descending (D-)"
+msgstr "По дате, по убыванию (D-)"
+
+msgid "Day"
+msgstr "День"
+
+msgid "Days"
+msgstr "Дн."
+
+msgid "Debug output file name"
+msgstr "Имя файла журнала"
+
+msgid "DeepStandby"
+msgstr "Выключить"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid ""
+"Default Playlist is not empty!\n"
+"\n"
+"Save default Playlist?"
+msgstr ""
+"Список воспроизведения не пуст!\n"
+"\n"
+"Сохранить текущий список воспроизведения?"
+
+msgid "Default Playlist name"
+msgstr "Название списка воспроизведения по умолчанию"
+
+msgid "Default Playlist path"
+msgstr "Путь списка воспроизведения по умолчанию"
+
+msgid "Default color for highlighted movie"
+msgstr "Цвет для выделенного фильма"
+
+msgid "Default color for partially watched movie"
+msgstr "Цвет для частично просмотренных фильмов"
+
+msgid "Default color for recording movie"
+msgstr "Цвет для записываемых фильмов"
+
+msgid "Default color for unwatched movie"
+msgstr "Цвет для непросмотенных фильмов"
+
+msgid "Default color for watched movie"
+msgstr "Цвет для просмотренных фильмов"
+
+msgid "Default sort mode"
+msgstr "Сортировка по умолчанию"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete All"
+msgstr "Удалить все"
+
+msgid "Delete Entry"
+msgstr "Удалить записи"
+
+msgid "Delete current Playlist"
+msgstr "Удалить текущий список воспроизведения"
+
+msgid "Delete cut file(s)"
+msgstr "Удалить .cut-файлы"
+
+msgid "Delete error:\n"
+msgstr "Не удалось удалить:\n"
+
+msgid "Delete failed because the trashcan directory does not exist. Attempt to create it now?"
+msgstr "Не удалось удалить, потому что каталог корзины не существует. Создать его сейчас?"
+
+msgid "Delete failed!"
+msgstr "Удалить не удалось!"
+
+msgid "Delete permanently"
+msgstr "Удалить навсегда"
+
+msgid "Delete validation"
+msgstr "Подтверждение удаления с активной корзиной"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Description field update delay"
+msgstr "Задержка перед отображением описания"
+
+msgid "Description:"
+msgstr "Описание:"
+
+msgid "Directory"
+msgstr "Каталог"
+
+#, python-format
+msgid "Directory %s already exists!"
+msgstr "Каталог %s существует!"
+
+msgid "Directory back"
+msgstr "Назад"
+
+msgid "Directory forward"
+msgstr "Вперед"
+
+msgid "Directory is not empty! Do you really want to delete it?"
+msgstr "Каталог не пустой! Вы действительно хотите его удалить?"
+
+msgid "Directory up"
+msgstr "Наверх"
+
+msgid "Directory-Cover search"
+msgstr "Поиск каталога обложек"
+
+msgid "Disable EMC"
+msgstr "Отключить EMC"
+
+msgid "Display directory reading text"
+msgstr "Показать текст чтения каталога"
+
+msgid ""
+"Do you really want to delete the cut file?\n"
+"If you have selected a directory, all cut files within the folder and its subfolders will be deleted!"
+msgstr ""
+"Вы действительно хотите удалить .cut-файл?\n"
+"Если выбран каталог, то все .cut-файлы внутри каталога и его подкаталогов будут удалены!"
+
+#, python-format
+msgid "Do you really want to lock the directory %s and all its subfolders?"
+msgstr "Вы действительно хотите заблокировать каталог %s и все его подкаталоги?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your bookmark\n"
+"%s?"
+msgstr ""
+"Вы действительно хотите удалить закладку?\n"
+"\n"
+"%s"
+
+#, python-format
+msgid ""
+"Do you really want to remove your directory\n"
+"%s?"
+msgstr ""
+"Вы действительно хотите удалить каталог?\n"
+"\n"
+"%s"
+
+#, python-format
+msgid ""
+"Do you really want to remove your link\n"
+"%s?"
+msgstr ""
+"Вы действительно хотите удалить ссылку?\n"
+"\n"
+"%s"
+
+msgid "Do you want to resume this playback?"
+msgstr "Возобновить воспроизведение?"
+
+msgid "Does not contain any scripts."
+msgstr "Не содержит никаких сценариев."
+
+msgid "Don't auto scan size of dirs from emc-noscan.cfg"
+msgstr "Не определять размеры каталогов 'emc-noscan.cfg'"
+
+msgid "Download Movie Info"
+msgstr "Загрузить информацию о фильме"
+
+msgid "Download Movie Information"
+msgstr "Загрузить информацию о фильме"
+
+msgid "Download cutlist from Cutlist.at"
+msgstr "Загрузить список вырезок с Cutlist.at"
+
+#, python-format
+msgid "Download: %s"
+msgstr "Загрузить: %s"
+
+msgid "E2 Bookmark"
+msgstr "Закладки E2"
+
+msgid "E2 Bookmarks"
+msgstr "Закладки E2"
+
+msgid "E2 Restart"
+msgstr "Перегрузить GUI"
+
+msgid ""
+"EMC\n"
+"Zap to Live TV of record"
+msgstr ""
+"EMC\n"
+"Переключить на прямую трансляцию этой записи."
+
+msgid "EMC Bookmarks"
+msgstr "Закладки EMC"
+
+msgid "EMC Cover Selecter"
+msgstr "Выбор обложки"
+
+msgid "EMC Cover search"
+msgstr "Поиск обложки"
+
+msgid "EMC Cover search setup"
+msgstr "Настройки поиска обложки"
+
+msgid "EMC Filebrowser"
+msgstr "Файловый браузер"
+
+#, fuzzy
+msgid "EMC Help"
+msgstr "Настройки EMC"
+
+msgid "EMC Playlist - current playlist"
+msgstr "Список воспроизведения - текущий список"
+
+msgid "EMC Playlist Menu"
+msgstr "Меню списка воспроизведения"
+
+msgid "EMC Playlist Setup"
+msgstr "Настройки списка воспроизведения"
+
+msgid "EMC Setup"
+msgstr "Настройки EMC"
+
+msgid "EMC Trashcan Cleanup failed!"
+msgstr "Не удалось очистить корзину EMC!"
+
+msgid "EMC always reload after open"
+msgstr "Обновление каталога после открытия"
+
+msgid "EMC output directory"
+msgstr "Каталог для журнала"
+
+msgid "EMC path access limit"
+msgstr "Ограничение доступа к каталогам"
+
+msgid "EMC re-open list after Movie end"
+msgstr "Открыть список по завершению просмотра"
+
+msgid "EMC re-open list after STOP-press"
+msgstr "Открыть список после нажатия 'Стоп'"
+
+msgid "EMC-TMDB Info"
+msgstr "Описание в EMC-TMDB"
+
+msgid ""
+"EMC: Skipping Trashcan Cleanup\n"
+"Movie Home Path is equal to or a subfolder of the Trashcan"
+msgstr ""
+"EMC: Пропустить очистку корзины\n"
+"Каталог \"Домой\" совпадает с каталогом \"Корзина\" или находится внутри каталога \"Корзина\""
+
+msgid "Edit Tags"
+msgstr ""
+
+msgid "Empty trashcan"
+msgstr "Очистить корзину"
+
+msgid "Enable EMC debug output"
+msgstr "Отладка EMC"
+
+msgid "Enable daily trashcan cleanup"
+msgstr "Ежедневная очистка корзины"
+
+msgid "Enable playback AC3-track first"
+msgstr "Приоритет дорожки AC3"
+
+msgid "Enable playback auto-language selection"
+msgstr "Автоматический выбор звуковой дорожки"
+
+msgid "Enable playback auto-subtitling"
+msgstr "Автоматическое включение субтитров"
+
+msgid "Enable remote recordings"
+msgstr "Удаленные записи"
+
+msgid "English"
+msgstr "Английский"
+
+msgid "Enter Name for Playlist"
+msgstr "Введите имя списка воспроизведения"
+
+msgid "Enter name for new directory:"
+msgstr "Введите имя нового каталога:"
+
+msgid "Exist"
+msgstr "Существует"
+
+#, python-format
+msgid "Exist: %s"
+msgstr "Существует: %s"
+
+#, fuzzy
+msgid "F1-button"
+msgstr "ТВ"
+
+msgid "File added to current Playlist."
+msgstr "Файл добавлен в текущий список воспроизведения."
+
+msgid "File exists in current Playlist."
+msgstr "Файл уже в текущем списке воспроизведения."
+
+msgid "File not available."
+msgstr "Файл не существует."
+
+msgid "Filename:"
+msgstr "Имя файла:"
+
+msgid "Files added to current Playlist."
+msgstr "Файлы добавлены в текущий список воспроизведения."
+
+#, python-format
+msgid ""
+"Files added to current Playlist:\n"
+"%(add)s\n"
+"\n"
+"Files exists in current Playlist:\n"
+"%(exist)s"
+msgstr ""
+"Файлы будут добавлены в текущий список воспроизведения:\n"
+"%(add)s\n"
+"\n"
+"Существующие файлы:\n"
+"%(exist)s"
+
+#, python-format
+msgid ""
+"Files exists in current Playlist:\n"
+"%s"
+msgstr ""
+"Файлы уже в текущем списке воспроизведения:\n"
+"%s"
+
+msgid "Finished watching percent"
+msgstr "Просмотр окончен после (%)"
+
+msgid "Foldername:"
+msgstr "Имя каталога:"
+
+msgid "Force standby after auto-restart"
+msgstr "Режим ожидания после перезагрузки"
+
+msgid "Format AVSwitch"
+msgstr "Переключить AV-формат"
+
+msgid ""
+"Found rogue files:\n"
+"\n"
+msgstr ""
+"Найдены поврежденные файлы:\n"
+"\n"
+
+msgid "Free: "
+msgstr "Свободно: "
+
+msgid "French"
+msgstr "Французский"
+
+msgid "GENERAL"
+msgstr "ОБЩИЕ УСТАНОВКИ"
+
+msgid "Genre:"
+msgstr "Жанр:"
+
+msgid "German"
+msgstr "Немецкий"
+
+#, python-format
+msgid "Given path %s does not exist. Please change."
+msgstr "Указанный путь %s не существует. Пожалуйста, измените."
+
+msgid "Go to trashcan"
+msgstr "Перейти в корзину"
+
+msgid "Green"
+msgstr "Зеленый"
+
+msgid "Grey"
+msgstr "Серый"
+
+msgid "HELP_About"
+msgstr "Информацией о плагине."
+
+msgid "HELP_After file OPs only re-scan affected dirs"
+msgstr "После добавления или удаления файлов пересканированы будут только каталоги, в которых произошли изменения."
+
+msgid "HELP_Age of finished movies in movie folder (days)"
+msgstr "Записи старше указанных, помеченные как \"просмотренные\", будут перемещены в корзину."
+
+msgid "HELP_Always save last played progress as marker"
+msgstr ""
+"При остановке воспроизведения, текущее положение сохраняется как маркер.\n"
+"После возобновления воспроизведения кнопки '<' и '>' выполняют переход к этому положению вне зависимости от значения функции \"Возобновление воспроизведения\"."
+
+msgid "HELP_Automatic timers list cleaning"
+msgstr "По завершению таймер автоматически будет удален из списка."
+
+msgid "HELP_Blue button function"
+msgstr "Укажите действие для нажатия на синюю кнопку."
+
+msgid "HELP_Bouquet buttons behaviour"
+msgstr "Переход к началу/концу списка или пропуск определенного количества записей"
+
+msgid "HELP_Check for dead links"
+msgstr "'Только в первый раз' поможет сохранять внешний диск в режиме ожидания, однако файлы с отключенных томов могут отображаться."
+
+msgid "HELP_Configure in etc/enigma2/emc-topdir.cfg"
+msgstr "Каталоги, перечисленные в emc-topdir.cfg, отображаются вверху списка."
+
+msgid "HELP_Cover background"
+msgstr "Укажите фон обложки."
+
+msgid "HELP_Cover delay in ms"
+msgstr "Если отображение обложки включено, то здесь может быть указано время задержки перед отображением. Это предотвращает немедленное отображение обложки при переключениях в списке фильмов."
+
+msgid "HELP_Cursor predictive move after selection"
+msgstr ""
+"При выборе кнопкой 'Видео/Запись' курсор продолжит движение в заданном направлении.\n"
+"Кнопки 'Вверх/Вниз' передвигают курсор в заданном направлении."
+
+msgid "HELP_Daily auto-start"
+msgstr "Настройте ежедневный запуск."
+
+msgid "HELP_Daily cleanup time"
+msgstr "Укажите время ежедневной очистки корзины."
+
+msgid "HELP_Date format"
+msgstr "Формат даты и времени, отображаемых рядом с именем файла."
+
+msgid "HELP_Debug output file name"
+msgstr "Задайте имя файла журнала отладки."
+
+msgid "HELP_Default color highlighted"
+msgstr "Задайте цвет по умолчанию для выделенного фильма."
+
+msgid "HELP_Default color partially watched"
+msgstr "Задайте цвет по умолчанию для частично просмотренных фильмов."
+
+msgid "HELP_Default color recording"
+msgstr "Задайте цвет по умолчания для записываемых фильмов."
+
+msgid "HELP_Default color unwatched"
+msgstr "Задайте цвет по умолчанию для непросмотенных фильмов."
+
+msgid "HELP_Default color watched"
+msgstr "Задайте цвет по умолчания для просмотренных фильмов."
+
+msgid "HELP_Delete validation"
+msgstr "Если включено и задействована корзина, EMC не спрашивает подтверждения на удаление."
+
+msgid "HELP_Description field update delay"
+msgstr ""
+"Задержка перед отображением описания в списке фильмов.\n"
+"Ускоряет навигацию по списку при многочисленных нажатиях кнопок 'Вверх/Вниз', поскольку описание загружается только после заданной задержки."
+
+msgid "HELP_Disable EMC"
+msgstr "Отключает EMC, но некоторые функции продолжат работать в фоновом режиме. Например, \"Очистка таймеров\", \"Очистка корзины\" и \"Перезагрузка\"."
+
+msgid "HELP_Display directory reading text"
+msgstr "Показывает сообщение \"Читаю каталог...\" во время чтения каталога."
+
+msgid "HELP_Don't auto scan size of dirs from emc-noscan.cfg"
+msgstr "Не выполнять автоматическое сканирование размера каталогов 'emc-noscan.cfg'."
+
+msgid "HELP_Download cutlist from Cutlist.at"
+msgstr "Название загружается, если эта услуга предоставляется. В противном случае название загружается из имени файла."
+
+msgid "HELP_Dynamic trashcan"
+msgstr "Показывает количество записей в корзине и/или занятое корзиной дисковое пространство."
+
+msgid "HELP_EMC always reload after open"
+msgstr "Каталог обновляется с каждым запуском EMC. В противном случае при втором и последующих запусках содержимое каталога считывается из кэша."
+
+msgid "HELP_EMC output directory"
+msgstr "Задайте каталог для журнала (.log файлов)."
+
+msgid "HELP_EMC path access limit"
+msgstr "Ограничение доступа за пределами каталога \"Домой\". Данные ограничения не накладываются на кнопки '<' '>' возле кнопки '0'."
+
+msgid "HELP_EMC re-open list after Movie end"
+msgstr "Если воспроизведение завершилось, то снова откроется список фильмов. В противном случае откроется телеканал."
+
+msgid "HELP_EMC re-open list after STOP-press"
+msgstr "Если воспроизведение остановлено кнопкой 'Стоп', то снова откроется список фильмов. В противном случае откроется телеканал."
+
+msgid "HELP_Enable EMC debug output"
+msgstr ""
+"Включает отладку EMC. Журнал будет сохранен в каталоге \"Каталог вывода\"\n"
+"ВКЛЮЧАЙТЕ ТОЛЬКО В СЛУЧАЕ ПРОБЛЕМ!"
+
+msgid "HELP_Enable daily trashcan cleanup"
+msgstr "Позволяет EMC очищать корзину от старых файлов, время хранения которых истекло."
+
+msgid "HELP_Enable playback AC3-track first"
+msgstr "При наличии дорожки AC3 начать воспроизведение с нее."
+
+msgid "HELP_Enable playback auto-language selection"
+msgstr "Включение автоматического выбора звуковой дорожки."
+
+msgid "HELP_Enable playback auto-subtitling"
+msgstr "Автоматический выбор субтитров."
+
+msgid "HELP_Enable remote recordings"
+msgstr ""
+"Обнаружение записи с другого ресивера на общий диск.\n"
+"Такая запись получит специальную иконку."
+
+msgid "HELP_Fallback Cover"
+msgstr "Если отключено, то фон обложки отображается, только если обложка присутствует."
+
+msgid "HELP_Finished watching percent"
+msgstr ""
+"Указывает, на какой стадии просмотра (%) отмечать запись \"Просмотренной\".\n"
+"Цвет индикатора просмотра станет зеленым."
+
+msgid "HELP_Force standby after auto-start"
+msgstr "После автоматической перезагрузки перевести ресивер в режим ожидания."
+
+msgid "HELP_Hide movies being deleted"
+msgstr ""
+"Удаляемые записи сначала будут удалены из списка фильмов.\n"
+"Процесс удаления продолжится в фоновом режиме."
+
+msgid "HELP_Hide movies being moved"
+msgstr ""
+"Переносимые записи сначала будут удалены из списка фильмов.\n"
+"Процесс переноса продолжится в фоновом режиме."
+
+msgid "HELP_Horizontal alignment for count / size"
+msgstr "Здесь может быть определено горизонтальное выравнивание текста для счетчиков и размеров. Показывать по центру или выровнять вправо."
+
+msgid "HELP_Horizontal alignment for date"
+msgstr "Здесь может быть определено горизонтальное выравнивание текста для даты. Показывать по центру, выровнять вправо или влево."
+
+msgid "HELP_How many days files may remain in trashcan"
+msgstr ""
+"Сколько дней файл может находиться в корзине, пока не будет удален навсегда.\n"
+"Если установлено \"0\", то файл будет удален немедленно."
+
+msgid "HELP_Icon shown for initially unknown count / size"
+msgstr "Показывает символ каталога, когда изначально количество файлов и/или используемого дискового пространства - неизвестно."
+
+msgid "HELP_Jump to first mark when playing movie"
+msgstr "Автоматический переход на первую метку в начале записи, если таковая имеется, может помочь для автоматического пропуска \"хвоста\" предыдущей передачи."
+
+msgid "HELP_Key period value (50-900)"
+msgstr "Время до повторной передачи, когда кнопка удерживается нажатой."
+
+msgid "HELP_Key repeat value (250-900)"
+msgstr "Скорость повторной передачи, когда кнопка удерживается нажатой."
+
+msgid "HELP_Latest Recordings directory limit"
+msgstr "Позволяет задать ограничения для каталога записей."
+
+msgid "HELP_Latest Recordings directory use emc-noscan.cfg"
+msgstr "Использование файла 'emc-noscan.cfg' для каталога \"Последние записи\"."
+
+msgid "HELP_Leave Movie with Exit"
+msgstr "Воспроизведение записи может быть остановлено кнопкой 'Выход' в дополнение к кнопке 'Стоп'."
+
+msgid "HELP_Limit file operations in dirs from emc-noscan.cfg"
+msgstr "Ограничить файловые операции с каталогами 'emc-noscan.cfg'."
+
+msgid "HELP_List entries to skip"
+msgstr "Количество элементов в списке для пропуска при нажатии кнопки 'Букет'."
+
+msgid "HELP_Listbox is skin able"
+msgstr ""
+"Позволяет использовать системный интерфейс для списка фильмов, если это возможно.\n"
+"В противном случае использует заданный в настройках EMC."
+
+msgid "HELP_Long Blue button function"
+msgstr "Укажите действие для долгого нажатия на синюю кнопку."
+
+msgid "HELP_Long Red button function"
+msgstr "Укажите действие для долгого нажатия на красную кнопку."
+
+msgid "HELP_Long Yellow button function"
+msgstr "Укажите действие для долгого нажатия на желтую кнопку."
+
+msgid "HELP_LongInfo Button"
+msgstr "Укажите действие для долгого нажатия на кнопку 'Инфо'."
+
+msgid "HELP_Mark new recordings with a star"
+msgstr "Новые записи будут выделяться звездочкой."
+
+msgid "HELP_Minimum file cache limit"
+msgstr "Укажите минимальный размер кэша."
+
+msgid "HELP_Move finished movies in trashcan"
+msgstr "По мере устаревания просмотренные записи из каталога \"Домой\" будут перемещены в корзину\"."
+
+msgid "HELP_Movie home at start"
+msgstr "При запуске EMC открывает каталог \"Домой\"."
+
+msgid "HELP_Movie home home path"
+msgstr "Укажите путь для каталога \"Домой\"."
+
+msgid "HELP_Movie preview delay in ms"
+msgstr "Задержка перед предварительным просмотром. Это предотвращает предварительный просмотр фильма при быстром переключении по списку фильмов."
+
+msgid "HELP_Movie preview offset in seconds"
+msgstr "Предварительный просмотр фильма начинается за указанное количество секунд перед последней позицией воспроизведения."
+
+msgid "HELP_No resume below 10 seconds"
+msgstr "Если просмотр остановлен в течение первых 10 секунд, то при следующем сеансе не предлагать продолжить с последней сохраненной позиции."
+
+msgid "HELP_Own Path to movie picons"
+msgstr "Использовать свой каталог с пиконами для фильмов."
+
+msgid "HELP_Path to movie picons"
+msgstr "Укажите каталог с пиконами для фильмов."
+
+msgid "HELP_Position movie picons"
+msgstr "Укажите, где отображается пикон фильма."
+
+msgid "HELP_Preferred EPG language"
+msgstr "Укажите предпочтительный язык для телегида."
+
+msgid "HELP_Primary playback audio language"
+msgstr "Настройка первого языка аудио (высокий приоритет)."
+
+msgid "HELP_Primary playback subtitle language"
+msgstr "Настройка первого языка субтитров (высокий приоритет)."
+
+msgid "HELP_Red button function"
+msgstr "Укажите действие для нажатия на красную кнопку."
+
+msgid "HELP_Replace special chars in title"
+msgstr "В списке фильмов, символы подчеркивания и точки в имени файла будут пробелами."
+
+msgid "HELP_Resolve links and show real path"
+msgstr ""
+"Вместо ссылок будут отображены реальные пути.\n"
+"При возникновении проблем со спинером или пробуждением сетевых хранилищ отключите опцию."
+
+msgid "HELP_Rewind finished movies before playing"
+msgstr "Повторное воспроизведение фильма или записи со статусом \"Просмотрено\" начинать с начала."
+
+msgid "HELP_Scan for DVD structures"
+msgstr "Поиск структур DVD в каталогах можно отключить. Это предотвращает нежелательное пробуждение жестких дисков или сетевых хранилищ."
+
+msgid "HELP_Scan for bluray structures"
+msgstr "Поиск структур Blu-ray в каталогах можно отключить. Это предотвращает нежелательное пробуждение жестких дисков или сетевых хранилищ."
+
+msgid "HELP_Scan for bluray structures in .iso"
+msgstr "Поиск структур Blu-ray в ISO-файлах каталогов можно отключить. Это предотвращает нежелательное пробуждение жестких дисков или сетевых хранилищ."
+
+msgid "HELP_Scan for movie structures"
+msgstr "Поиск структур фильмов в каталогах можно отключить. Это предотвращает нежелательное пробуждение жестких дисков или сетевых хранилищ."
+
+msgid "HELP_Secondary playback audio language"
+msgstr "Настройка второго языка аудио."
+
+msgid "HELP_Secondary playback subtitle language"
+msgstr "Настройка второго языка субтитров."
+
+msgid "HELP_Short watching percent"
+msgstr ""
+"Укажите, на какой стадии просмотра (%) отмечать запись \"Просматриваемой\".\n"
+"Индикатор просмотра изменит цвет на синий."
+
+msgid "HELP_Show Bookmarks in movielist"
+msgstr "Показывает закладки в списке фильмов."
+
+msgid "HELP_Show Cover"
+msgstr "Показывает обложку, если она существует."
+
+msgid "HELP_Show Cut-Nr if exist"
+msgstr "Если во время записи произойдет перегрузка Enigma2, запись автоматически будет продолжена. При этом к имени нового файла будет добавлен числовой индекс."
+
+msgid "HELP_Show EMC in extensions menu"
+msgstr ""
+"Показывает EMC в меню дополнений.\n"
+"Меню дополнений обычно вызывается нажатием на синюю кнопку."
+
+msgid "HELP_Show EMC in main menu"
+msgstr "Показывает EMC в главном меню."
+
+msgid "HELP_Show Latest Recordings directory"
+msgstr "Последние записи будут сгруппированы в виртуальном каталоге, который будет отображаться в каталоге \"Домой\" и в его подкаталогах."
+
+msgid "HELP_Show Movie Format"
+msgstr "Показывает расширение файла, будет добавлено к названию. (Например: \".avi\", \".mkv\", \".ts\", и т.д.)"
+
+msgid "HELP_Show Path if no extended description available"
+msgstr "Показывает путь к файлу, если расширенное описание отсутствует."
+
+msgid "HELP_Show VLC directory"
+msgstr "Если установлено дополнение \"VLCPlayerExtended\", то в списке фильмов можно показать виртуальный каталог \"VLC\"."
+
+msgid "HELP_Show audio metadata"
+msgstr "Показывает метаданные звука."
+
+msgid "HELP_Show directories"
+msgstr "Показывает каталоги."
+
+msgid "HELP_Show directories information"
+msgstr "Показывает информацию каталогов."
+
+msgid "HELP_Show directories within movielist"
+msgstr "Показывает каталоги в списке фильмов."
+
+msgid "HELP_Show directory size in skin"
+msgstr "Показывает размер каталога в области состояния при навигации по списку."
+
+msgid "HELP_Show experimental options"
+msgstr ""
+"Показывает экспериментальные опции.\n"
+"Могут быть использованы для предотвращения пробуждения дисков и/или сетевых хранилищ."
+
+msgid "HELP_Show link arrow"
+msgstr "Показывает ссылку стрелкой."
+
+msgid "HELP_Show message if file added to playlist"
+msgstr "Показывает сообщение о том, что файл быть добавлен в список воспроизведения."
+
+msgid "HELP_Show movie icons"
+msgstr "В списке фильмов перед каждой записью или фильмом будет отображена соответствующая иконка."
+
+msgid "HELP_Show movie picons"
+msgstr "Показывает пикон рядом с названием фильма."
+
+msgid "HELP_Show movie preview"
+msgstr "Включите предварительный просмотр по истечении установленного времени задержки."
+
+msgid "HELP_Show movie progress"
+msgstr "Показать прогресс просмотра перед именем файла в списке фильмов."
+
+msgid "HELP_Show plugin config in extensions menu"
+msgstr ""
+"Показывает \"Настройки EMC\" в меню дополнений.\n"
+"Меню дополнений обычно вызывается нажатием на синюю кнопку."
+
+msgid "HELP_Show real length of running records"
+msgstr "Показывает фактическую продолжительность записи."
+
+msgid "HELP_Show symlinks"
+msgstr "Показывает ссылки."
+
+msgid "HELP_Show trashcan directory"
+msgstr "Показывает каталог \"Корзина\" в EMC. Добраться до корзины можно через меню EMC даже если она скрыта."
+
+msgid "HELP_Sort mode at startup"
+msgstr "Укажите режим сортировки списка фильмов при запуске EMC."
+
+msgid "HELP_Start EMC with"
+msgstr "Укажите кнопку пульта для запуска EMC."
+
+msgid "HELP_Style for original EMC-skin (needs reopen)"
+msgstr "Выберите стиль для оригинального скина EMC, который будет использоваться. (Требуется перезапуск EMC)."
+
+msgid "HELP_Tertiary playback audio language"
+msgstr "Настройка третьего языка аудио."
+
+msgid "HELP_Tertiary playback subtitle language"
+msgstr "Настройка третьего языка субтитров."
+
+msgid "HELP_Text shown for initially unknown count and size"
+msgstr "Определите, как отображается текст при поиске каталогов с неизвестным количеством и размером файлов."
+
+msgid "HELP_Text shown for initially unknown directory size"
+msgstr "Определите, как отображается текст при поиске каталогов с неизвестным размером."
+
+msgid "HELP_Text shown for initially unknown file count"
+msgstr "Определите, как отображается текст при поиске каталогов с неизвестным количеством файлов."
+
+msgid "HELP_Trashcan enable"
+msgstr "Если включено, вместо немедленного удаления, файлы будут перемещены в корзину."
+
+msgid "HELP_Trashcan path"
+msgstr "Укажите каталог, используемый для корзины."
+
+msgid "HELP_Try to load extra title and more from .meta files"
+msgstr "Попытаться загружать дополнительные сведения, например, названия эпизодов и пр. из .META-файлов."
+
+msgid "HELP_Try to load titles from .eit files"
+msgstr "Название записи будет загружено из вспомогательного .EIT-файла, если это возможно. В противном случае название будет сформировано на основании имени файла. (Если загрузка разрешена, имеет преимущество)."
+
+msgid "HELP_Try to load titles from .meta files"
+msgstr "Название записи будет загружено из вспомогательного .META-файла, если это возможно. В противном случае название будет сформировано на основании имени файла. (Если загрузка разрешена, имеет преимущество)."
+
+msgid "HELP_Use cache for files and directories"
+msgstr "Использование кэша для файлов и каталогов."
+
+msgid "HELP_Use original EMC-skin (needs reopen)"
+msgstr "Включите оригинальный скин EMC. (Требуется перезапуск EMC)."
+
+msgid "HELP_Wake device when entering dir from emc-noscan.cfg"
+msgstr "Вывести диск из режима сна при входе в каталог, указанный в 'emc-noscan.cfg'."
+
+msgid "HELP_Yellow button function"
+msgstr "Укажите действие для нажатия на желтую кнопку."
+
+msgid "HELP_Zap to channel after record EOF"
+msgstr "Закрыть EMC и переключить на записываемый канал, если при воспроизведении активной (записываемой в настоящий момент) записи был достигнут конец файла (посредством перемотки или быстрого перехода)."
+
+msgid "HELP_auto-start window begin"
+msgstr "Установите время начала."
+
+msgid "HELP_auto-start window end"
+msgstr "Установите время окончания."
+
+msgid "HELP_cfghide_enable"
+msgstr ""
+"Не показывает файлы и каталоги, указанные в 'emc-hide.cfg'\n"
+"Потребуется перезагрузка Enigma2!"
+
+msgid "HELP_cfgscan_suppress"
+msgstr ""
+"Не искать структуры в каталогах (и их подкаталогах), указанных в 'emc-noscan.cfg'. Это предотвращает нежелательное пробуждение жестких дисков или сетевых хранилищ.\n"
+"Потребуется перезагрузка Enigma2!"
+
+msgid "HELP_hide_MiniTV"
+msgstr "Скрывает PiG."
+
+msgid "HELP_hide_MiniTV cover"
+msgstr "Скрыть обложку PiG"
+
+msgid "HELP_hide_MiniTV_method"
+msgstr "Выберите способ скрывания PiG"
+
+msgid "HELP_scan_linked"
+msgstr "Не искать структуры в ссылках, указывающих на каталоги. Это предотвращает нежелательное пробуждение жестких дисков или сетевых хранилищ."
+
+msgid "Hide Cover"
+msgstr "Скрыть обложку"
+
+msgid "Hide MiniTV"
+msgstr "Скрыть PiG"
+
+msgid "Hide MiniTV if Cover is shown"
+msgstr "Скрыть PiG при отображение обложки"
+
+msgid "Hide configured entries"
+msgstr "Скрыть настроенные файлы и каталоги"
+
+msgid "Hide movies being deleted"
+msgstr "Скрывать записи во время удаления"
+
+msgid "Hide movies being moved"
+msgstr "Скрывать записи во время перемещения"
+
+msgid "HomeEnd"
+msgstr "Начало/Конец"
+
+msgid "Horizontal alignment for count / size"
+msgstr "Горизонтальное выравнивание счетчиков и размеров"
+
+msgid "Horizontal alignment for date"
+msgstr "Горизонтальное выравнивание даты"
+
+msgid "How many days files may remain in trashcan"
+msgstr "Сколько дней файлы могут оставаться в корзине"
+
+msgid ""
+"How to copy files:\n"
+"Select some movies with the VIDEO-button, move the cursor on top of the destination directory and press yellow long."
+msgstr ""
+"Как копировать файлы:\n"
+"Выберите несколько записей кнопкой Видео, переместите курсор на каталог назначения и зажмите не отпуская желтую кнопку."
+
+msgid ""
+"How to move files:\n"
+"Select some movies with the VIDEO-button, move the cursor on top of the destination directory and press yellow."
+msgstr ""
+"Как перемещать файлы:\n"
+"Выберите несколько записей кнопкой Видео, переместите курсор на каталог назначения и нажмите желтую кнопку."
+
+msgid "IMDBSearch / EMC-TMDBInfo / TMDBInfo / TMBDInfo / CSFDInfo"
+msgstr "IMDBSearch / EMC-TMDBInfo / TMDBInfo / TMBDInfo / CSFDInfo"
+
+msgid "IMDb"
+msgstr "IMDb"
+
+msgid "IMDb Search"
+msgstr "IMDb поиск"
+
+msgid "Icon shown for initially unknown count / size"
+msgstr "Значок отображается для изначально неизвестного количества/размера"
+
+msgid "Information"
+msgstr "Сведения"
+
+msgid "Italian"
+msgstr "Итальянский"
+
+msgid "Jump to first mark when playing movie"
+msgstr "Автоматический переход к первой метке"
+
+msgid "KEYMAPPING"
+msgstr "КНОПКИ"
+
+msgid "Key period value (50-900)"
+msgstr "Время кнопок (50-900)"
+
+msgid "Key repeat value (250-900)"
+msgstr "Скорость кнопок (250-900)"
+
+msgid "LANGUAGE"
+msgstr "ЯЗЫК"
+
+msgid "Language:"
+msgstr "Язык:"
+
+msgid "Last played movie/playlist not available..."
+msgstr "Последняя запись или список воспроизведения отсутствует..."
+
+msgid "Latest"
+msgstr "Последний"
+
+msgid "Latest Recordings"
+msgstr "Последние записи"
+
+msgid "Latest Recordings directory limit"
+msgstr "Ограничения на каталог \"Последние записи\""
+
+msgid "Latest Recordings directory use emc-noscan.cfg"
+msgstr "Использовать 'emc-noscan.cfg' для \"Последние записи\""
+
+msgid "Leave Movie with Exit"
+msgstr "Закончить воспроизведение кнопкой 'Выход'"
+
+msgid "Light green"
+msgstr "Светло-зеленый"
+
+msgid "Light grey"
+msgstr "Светло-серый"
+
+msgid "Light orange"
+msgstr "Светло-оранжевый"
+
+msgid "Light red"
+msgstr "Светло-красный"
+
+msgid "Limit file operations in dirs from emc-noscan.cfg"
+msgstr "Ограничить операций с каталогами 'emc-noscan.cfg'"
+
+msgid "Link"
+msgstr "Ссылка"
+
+msgid "List entries to skip"
+msgstr "Пропустить каталог"
+
+msgid "Listbox is skin able"
+msgstr "Использовать системный интерфейс для списка фильмов"
+
+msgid "Load Genre:"
+msgstr "Загрузить жанр:"
+
+msgid "Load Production Countries:"
+msgstr "Загрузить страны-производители:"
+
+msgid "Load Release Date:"
+msgstr "Загрузить дату выпуска:"
+
+msgid "Load Runtime:"
+msgstr "Загрузить длительность:"
+
+msgid "Load Vote:"
+msgstr "Загрузить рейтинг:"
+
+msgid "Load default settings will overwrite all settings, really load them?"
+msgstr ""
+"Загрузка настроек по умолчанию удалит все текущие настройки.\n"
+"Загрузить?"
+
+msgid "Locate rogue files and remove them? (permanently if no trashcan available, may take a minute or so)"
+msgstr "Найти и удалить поврежденные файлы? (Навсегда, если корзина недоступна. Это может занять некоторое время.)"
+
+msgid "Location:"
+msgstr "Расположение:"
+
+msgid "Long Blue button function"
+msgstr "Синяя кнопка (долгое нажатие)"
+
+msgid "Long Red button function"
+msgstr "Красная кнопка (долгое нажатие)"
+
+msgid "Long Yellow button function"
+msgstr "Желтая кнопка (долгое нажатие)"
+
+msgid "LongInfo Button"
+msgstr "Кнопка 'Инфо' (долгое нажатие)"
+
+msgid "MM/DD HH:MM"
+msgstr "ММ/ДД ЧЧ:ММ"
+
+msgid "Manage Cover"
+msgstr "Управление обложкой"
+
+msgid "Mark all movies"
+msgstr "Отметить все записи"
+
+msgid "Mark new recordings with a star"
+msgstr "Отмечать новые записи звездочкой"
+
+msgid "Method of hiding MiniTV"
+msgstr "Способ скрыть PiG"
+
+msgid "Minimum file cache limit (0=cache everything)"
+msgstr "Минимальный размер кэша (0=кэшировать все)"
+
+msgid "Minutes"
+msgstr "Минуты"
+
+msgid "Month"
+msgstr "Месяц"
+
+msgid "Months"
+msgstr "Месяцы"
+
+msgid "Move Cover to:"
+msgstr "Переместить обложку в:"
+
+msgid "Move Directory:"
+msgstr "Переместить каталог:"
+
+msgid "Move File"
+msgstr "Переместить"
+
+msgid "Move Files"
+msgstr "Переместить"
+
+msgid "Move cursor down"
+msgstr "Курсор вниз"
+
+msgid "Move cursor page down"
+msgstr "Курсор вниз на одну страницу"
+
+msgid "Move cursor page up"
+msgstr "Курсор вверх на одну страницу"
+
+msgid "Move cursor to the end / Move cursor x entries down / Switch Folders in Movie Home (down)"
+msgstr "Переместить курсор в конец / Переместить курсор на X позиций вниз / Переключить каталог в каталоге \"Домой\" (вниз)"
+
+msgid "Move cursor to the top / Move cursor x entries up / Switch Folders in Movie Home (up)"
+msgstr "Переместить курсор в начало / Переместить курсор на X позиций вверх / Переключить каталог в каталоге \"Домой\" (вверх)"
+
+msgid "Move cursor up"
+msgstr "Курсор вверх"
+
+msgid "Move file(s):"
+msgstr "Переместить файл(ы):"
+
+msgid "Move finished movies in trashcan"
+msgstr "Перемесить просмотренные записи в корзину"
+
+msgid "Movie Color"
+msgstr "Цвет записи"
+
+#, python-format
+msgid ""
+"Movie Cover downloaded successfully!\n"
+"\n"
+"Can not write Movie Information File\n"
+"\n"
+"%s"
+msgstr ""
+"Обложка успешно загружена!\n"
+"\n"
+"Информация о фильме не может быть сохранена\n"
+"\n"
+"%s"
+
+msgid "Movie Information Download Setup"
+msgstr "Настройка загрузки сведений о фильме"
+
+msgid "Movie Information Preview for:"
+msgstr "Предварительный просмотр сведений о фильме:"
+
+msgid "Movie Information TMDb"
+msgstr "Сведения о фильме TMDb"
+
+msgid "Movie Information and Cover downloaded successfully!"
+msgstr "Сведения о фильме и обложка успешно загружены!"
+
+msgid "Movie Information downloaded successfully!"
+msgstr "Сведения о фильме успешно загружена!"
+
+#, python-format
+msgid ""
+"Movie Information downloaded successfully!\n"
+"\n"
+"Can not write Movie Cover File\n"
+"\n"
+"%s"
+msgstr ""
+"Информация о фильме успешно загружена!\n"
+"\n"
+"Не удалось сохранить обложку в файл\n"
+"\n"
+"%s"
+
+msgid "Movie Selection Menu"
+msgstr "Меню выбора фильма"
+
+msgid "Movie home"
+msgstr "Домой"
+
+msgid "Movie home at start"
+msgstr "\"Домой\" при запуске"
+
+msgid "Movie home home path"
+msgstr "Каталог \"Домой\""
+
+msgid "Movie information"
+msgstr "Сведения о фильме"
+
+msgid "Movie preview delay in ms"
+msgstr "Задержка перед пред. просмотром фильма (мс)"
+
+msgid "Movies"
+msgstr "Фильмы"
+
+msgid "Movietitle:"
+msgstr "Название:"
+
+msgid "N/A"
+msgstr "Нет данных"
+
+msgid "Next auto-start in "
+msgstr "Перезагрузка через "
+
+msgid "No"
+msgstr "Нет"
+
+#, python-format
+msgid "No Cover: %s"
+msgstr "Нет обложки: %s"
+
+msgid "No DVD-Player found!"
+msgstr "DVD-плеер не найден!"
+
+msgid "No Movies found!"
+msgstr "Фильмы не найдены!"
+
+msgid "No functionality set..."
+msgstr "Функция не назначена..."
+
+msgid "No limit"
+msgstr "Без ограничений"
+
+msgid "No override"
+msgstr "Не перезаписывать"
+
+msgid "No resume below 10 seconds"
+msgstr "Не продолжать, если прошло менее 10 сек."
+
+msgid "No rogue files found."
+msgstr "Поврежденных файлов не найдено."
+
+msgid "No script operation for VLC streams."
+msgstr "Нет операций сценария для потоков VLC."
+
+msgid "Not all timers have been stopped. Modify them with the timer editor."
+msgstr "Не все таймеры остановлены. Измените их в редакторе таймеров."
+
+msgid "Nothing was found !"
+msgstr "Ничего не найдено!"
+
+msgid "OSError - please reload list (EMC menu)"
+msgstr "Ошибка - обновите список (меню EMC)"
+
+msgid "OTHER"
+msgstr "ДРУГОЕ"
+
+msgid "Off"
+msgstr "Выкл."
+
+msgid "Open"
+msgstr "Открыть"
+
+msgid "Open E2 Bookmark path"
+msgstr "Открыть закладку E2"
+
+msgid "Open E2 bookmarks"
+msgstr "Открыть закладки E2"
+
+msgid "Open EMC Bookmark path"
+msgstr "Открыть закладку EMC"
+
+msgid "Open Timer List"
+msgstr "Открыть список таймеров"
+
+msgid "Open menu"
+msgstr "Открыть меню"
+
+msgid "Orange"
+msgstr "Оранжевый"
+
+msgid "Own Path to movie picons"
+msgstr "Свой каталог для пикон фильмов"
+
+msgid "Path to movie picons"
+msgstr "Каталог пикон для фильмов"
+
+msgid "Percent (%)"
+msgstr "Проценты (%)"
+
+msgid "Performance"
+msgstr "Воспроизведение"
+
+msgid "Permanently delete all files in trashcan?"
+msgstr "Удалить все файлы из корзины навсегда?"
+
+msgid "Play All"
+msgstr "Воспроизвести все"
+
+msgid "Play All starting"
+msgstr "Воспроизвести все"
+
+msgid "Play current Playlist"
+msgstr "Воспроизвести текущий список"
+
+msgid "Play last"
+msgstr "Воспроизвести последний фильм"
+
+msgid "Play last movie starting"
+msgstr "Запуск воспроизведения последнего видео"
+
+msgid "Play random current Playlist"
+msgstr "Воспроизвести текущий список в случайном порядке"
+
+msgid "Play selected movie(s)"
+msgstr "Воспроизвести выбранные фильмы"
+
+msgid "Playlist Options"
+msgstr "Параметры списка воспроизведения"
+
+msgid "Playlist Setup"
+msgstr "Настройки списка воспроизведения"
+
+msgid "Playlist open"
+msgstr "Открыть список воспроизведения"
+
+msgid ""
+"Playlist with same name exists!\n"
+"\n"
+"Try to save the Playlist with another name?"
+msgstr ""
+"Список воспроизведения с таким названием существует!\n"
+"\n"
+"Вы хотите сохранить список воспроизведения под другим именем?"
+
+msgid "Portuguese"
+msgstr "Португальский"
+
+msgid "Position movie picons"
+msgstr "Разместите пиконы фильмов"
+
+msgid "Preferred EPG language"
+msgstr "Предпочитаемый язык EPG"
+
+msgid "Preferred cover resolution (if possible):"
+msgstr "Предпочтительное разрешение обложки (если возможно):"
+
+msgid "Press green button to start search"
+msgstr "Нажмите зеленую кнопку, чтобы начать поиск"
+
+msgid "Primary playback audio language"
+msgstr "Выбор языка аудио 1"
+
+msgid "Primary playback subtitle language"
+msgstr "Выбор языка субтитров 1"
+
+msgid "Production Countries:"
+msgstr "Страна-производитель:"
+
+msgid "Progress sort"
+msgstr "Сортировка прогресса"
+
+msgid "Progress sort ascending (P+)"
+msgstr "Сортировка по возрастанию прогресса (P+)"
+
+msgid "Progress sort descending (P-)"
+msgstr "Сортировка по убыванию прогресса (P-)"
+
+msgid "ProgressBar"
+msgstr "Ход события"
+
+msgid "REC"
+msgstr ""
+
+msgid "Radio-button"
+msgstr "Радио"
+
+msgid "Reading directory..."
+msgstr "Чтение каталога..."
+
+msgid "Really close without saving settings?"
+msgstr "Закрыть без сохранения настроек?"
+
+msgid "Reboot"
+msgstr "Перегрузить"
+
+msgid "Red"
+msgstr "Красный"
+
+msgid "Red button function"
+msgstr "Красная кнопка"
+
+msgid "Release Date:"
+msgstr "Дата выхода:"
+
+msgid "Reload current directory"
+msgstr "Обновить текущий каталог"
+
+msgid "Reload movie file list"
+msgstr "Обновить список фильмов"
+
+msgid "Remove all cut file marker permanently?"
+msgstr "Удалить все маркеры из .cut-файла навсегда?"
+
+msgid "Remove all marker permanently?"
+msgstr "Удалить все маркеры навсегда?"
+
+msgid "Remove cut list marker"
+msgstr "Удалить маркер текущей записи"
+
+msgid "Remove directory from E2 Bookmarks"
+msgstr "Удалить каталог из закладок E2"
+
+msgid "Remove directory from EMC Bookmarks"
+msgstr "Удалить каталог из закладок EMC"
+
+msgid "Remove permanent sort"
+msgstr "Удалить постоянную сортировку"
+
+msgid "Remove permanent sort from parent"
+msgstr "Удалить постоянную сортировку из родительского"
+
+msgid "Remove rogue files"
+msgstr "Удалить поврежденные файлы"
+
+msgid "Remove selected E2 Bookmark"
+msgstr "Удалить выбранную закладку E2"
+
+msgid "Remove selected EMC Bookmark"
+msgstr "Удалить выбранную закладку EMC"
+
+msgid "Remove service selection"
+msgstr "Снять выделение"
+
+msgid "Rename selected movie(s)"
+msgstr "Переименовать выбранные фильмы"
+
+msgid "Replace special chars in title"
+msgstr "Заменить специальные символы в названии"
+
+msgid "Reset marker from selected movie(s)"
+msgstr "Удалить маркер в выбранных фильмов"
+
+msgid "Resolve links and show real path"
+msgstr "Распознавать ссылки и показывать реальный путь"
+
+#, python-format
+msgid "Resume position at %s"
+msgstr "%s продолжить?"
+
+msgid "Resuming playback"
+msgstr "Возобновление воспроизведения"
+
+msgid "Rewind finished movies before playing"
+msgstr "Перед воспроизведением перейти в начало"
+
+msgid "Runtime:"
+msgstr "Длительность:"
+
+msgid "SINGLE COVER-SEARCH"
+msgstr ""
+
+msgid "SKIN-SETTINGS"
+msgstr "УСТАНОВКИ СКИНА"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save Cover"
+msgstr "Сохранить обложку"
+
+msgid "Save current Playlist"
+msgstr "Сохранить текущий список воспроизведения"
+
+msgid "Save description to movie.txt file:"
+msgstr "Сохранить описание в файл movie.txt:"
+
+msgid "Scan for DVD structures"
+msgstr "Поиск структур DVD"
+
+msgid "Scan for bluray structures"
+msgstr "Поиск структур Blu-ray"
+
+msgid "Scan for bluray structures in .iso"
+msgstr "Поиск структур Blu-ray в ISO"
+
+msgid "Scan for movie structures"
+msgstr "Поиск структур фильма"
+
+msgid "Scan linked folders"
+msgstr "Искать структуры в ссылках на каталоги"
+
+msgid "Search"
+msgstr "Поиск"
+
+#, fuzzy
+msgid "Search Results per Search Site (without counting cover range):"
+msgstr " (без учета диапазона обложек)"
+
+msgid "Search Results per Search Site:"
+msgstr "Результаты на странице поиска:"
+
+msgid "Search filter for matching existing terms in the title:"
+msgstr "Фильтр поиска совпадений по терминам в заголовке:"
+
+msgid "Search results for:"
+msgstr "Результаты поиска для:"
+
+#, python-format
+msgid "Searching for %s"
+msgstr "Поиск %s"
+
+msgid "Searching..."
+msgstr "Поиск..."
+
+msgid "Secondary playback audio language"
+msgstr "Выбор языка аудио 2"
+
+msgid "Secondary playback subtitle language"
+msgstr "Выбор языка субтитров 2"
+
+msgid "Seek backward"
+msgstr "Перемотка назад"
+
+msgid "Seek forward"
+msgstr "Перемотка вперед"
+
+msgid "Select Location"
+msgstr "Выбрать расположение"
+
+msgid "Set path to save the folder Cover:"
+msgstr "Задать путь для каталога обложек:"
+
+msgid "Set permanent sort"
+msgstr "Установить постоянную сортировку"
+
+msgid "Settings have been Saved."
+msgstr "Настройки сохранены."
+
+msgid "Setup"
+msgstr "Настройки"
+
+msgid "Setup open"
+msgstr "Открыть настройки"
+
+msgid "Short watching percent"
+msgstr "Предварительный просмотр (%)"
+
+msgid "Show Bookmarks in movielist"
+msgstr "Показать закладки в списке фильмов"
+
+msgid "Show Cover"
+msgstr "Показать обложку"
+
+msgid "Show Cut-Nr if exist"
+msgstr "Показать Cut-Nr, если существуют"
+
+msgid "Show EMC in extensions menu"
+msgstr "Показать EMC в меню дополнений"
+
+msgid "Show EMC in main menu"
+msgstr "Показать EMC в главном меню"
+
+msgid "Show Latest Recordings directory"
+msgstr "Показать каталог \"Последние записи\""
+
+msgid "Show Movie Format"
+msgstr "Показать формат видео"
+
+msgid "Show Path if no extended description available"
+msgstr "Показать путь при отсутствие подробного описания"
+
+msgid "Show VLC directory"
+msgstr "Показать каталог \"VLC\""
+
+msgid "Show audio metadata"
+msgstr "Показать метаданные аудио"
+
+msgid "Show current Playlist"
+msgstr "Показать текущий список воспроизведения"
+
+msgid "Show directories"
+msgstr "Показать каталоги"
+
+msgid "Show directories information"
+msgstr "Показать информацию каталогов"
+
+msgid "Show directories within movielist"
+msgstr "Показать каталоги в списке фильмов"
+
+msgid "Show directory size in skin"
+msgstr "Показать размер каталога в области уведомлений"
+
+msgid "Show event info"
+msgstr "Показать сведения о событии"
+
+msgid "Show experimental options"
+msgstr "Показать экспериментальные опции"
+
+msgid "Show fallback cover"
+msgstr "Показать фон обложки, если обложка отсутствует"
+
+msgid "Show info at the bottom"
+msgstr "Показать сведения снизу"
+
+msgid "Show info at the bottom (with MiniTV)"
+msgstr "Показать сведения снизу (с PiG)"
+
+msgid "Show info on the left"
+msgstr "Показать сведения слева"
+
+msgid "Show info on the left (with MiniTV)"
+msgstr "Показать сведения слева (с PiG)"
+
+msgid "Show link arrow"
+msgstr "Показать ссылку стрелкой"
+
+msgid "Show message if file added to playlist"
+msgstr "Показать \"Добавлено в список воспроизведения\""
+
+msgid "Show movie icons"
+msgstr "Показать иконки фильмов"
+
+msgid "Show movie picons"
+msgstr "Показать пиконы фильмов"
+
+msgid "Show movie preview"
+msgstr "Показать трейлер"
+
+msgid "Show movie progress"
+msgstr "Показать прогресс просмотра"
+
+msgid "Show plugin config in extensions menu"
+msgstr "Показать \"Настройки EMC\" в меню дополнений"
+
+msgid "Show real length of running records"
+msgstr "Показать фактическую продолжительность записи"
+
+msgid "Show symlinks"
+msgstr "Показать ссылки"
+
+msgid "Show trashcan directory"
+msgstr "Показать каталог \"Корзина\""
+
+msgid "Show trashcan information"
+msgstr "Показать информацию о корзине"
+
+msgid "Shuffle All"
+msgstr "Воспроизвусти все в случайном порядке"
+
+msgid "Shuffle All starting"
+msgstr "Начать воспроизведение в случайном порядке"
+
+msgid "Single Search:"
+msgstr "Простой поиск:"
+
+msgid "Single search"
+msgstr "Простой поиск"
+
+msgid "Skip"
+msgstr "Пропустить"
+
+msgid ""
+"Skipping movie, the file does not exist.\n"
+"\n"
+msgstr ""
+"Пропуск фильма, файл не существует.\n"
+"\n"
+
+msgid "Some settings changes require GUI restart to take effect."
+msgstr "Для вступления в силу некоторых изменений настроек требуется перезапуск графического интерфейса."
+
+msgid "Sort Mode"
+msgstr "Режим сортировки"
+
+msgid "Sort Options"
+msgstr "Параметры сортировки"
+
+msgid "Sort Order"
+msgstr "Порядок сортировки"
+
+msgid "Spanish"
+msgstr "Испанский"
+
+msgid "Standby"
+msgstr "Режим ожидания"
+
+msgid "Start / end multiselection"
+msgstr "Начало/конец множественного выбора"
+
+msgid "Start EMC with"
+msgstr "Запустить EMC кнопкой"
+
+msgid "Start movie preview before last position"
+msgstr "Запустить пред. просмотр фильма до последней позиции (сек)"
+
+msgid "Stop ongoing recording?\n"
+msgstr "Остановить текущую запись?\n"
+
+msgid "Stop playback"
+msgstr "Остановить воспроизведение"
+
+msgid "Style for original EMC-skin (needs reopen)"
+msgstr "Стиль оригинального скина EMC"
+
+msgid "Suppress scan in selected folders"
+msgstr "Запретить поиск в выбранных каталогах"
+
+msgid "TMBD Info"
+msgstr "Описание в TMBD"
+
+msgid "TMDB Info"
+msgstr "Описание в TMDB"
+
+msgid "TMDb"
+msgstr "TMDb"
+
+msgid "TRASHCAN"
+msgstr "КОРЗИНА"
+
+msgid "TV Shows"
+msgstr "Сериалы"
+
+msgid "TV-button"
+msgstr "ТВ"
+
+msgid "Tertiary playback audio language"
+msgstr "Выбор языка аудио 3"
+
+msgid "Tertiary playback subtitle language"
+msgstr "Выбор языка субтитров 3"
+
+msgid "Text shown for initially unknown count and size"
+msgstr "Текст для первоначально неизвестных счетчиков и размеров"
+
+msgid "Text shown for initially unknown directory size"
+msgstr "Текст для первоначально неизвестных размеров каталогов"
+
+msgid "Text shown for initially unknown file count"
+msgstr "Текст для первоначально неизвестного количества файлов"
+
+#, python-format
+msgid "The directory %s is already locked. Do you want to unlock it and all its subfolders?"
+msgstr "Каталог %s уже заблокирован. Хотите разблокировать его и все подкаталоги?"
+
+#, python-format
+msgid ""
+"The following files are used for other entrys in List !\n"
+"\n"
+"Also delete these files?\n"
+"\n"
+"%s"
+msgstr ""
+"Следующие файлы используются другими записями в списке!\n"
+"\n"
+"Также удалить эти файлы?\n"
+"\n"
+"%s"
+
+msgid "This element belongs to a locked folder and cannot be deleted!"
+msgstr "Этот элемент принадлежит заблокированной папке и не может быть удален!"
+
+msgid "This folder is locked or contains a locked subfolder, unlock it first!"
+msgstr "Эта папка заблокирована или содержит заблокированную подпапку, сначала разблокируйте ее!"
+
+msgid "Title"
+msgstr "Название"
+
+msgid "Toggle Cover Button"
+msgstr "Переключить кнопку обложки"
+
+msgid "Toggle service selection"
+msgstr "Переключить выбор услуги"
+
+msgid "Toggle viewed / not viewed"
+msgstr "Отметить просмотрено/непросмотрено"
+
+msgid "Total"
+msgstr "Всего"
+
+msgid "Trashcan"
+msgstr "Корзина"
+
+msgid "Trashcan create failed. Check mounts and permissions."
+msgstr "Не удалось создать корзину. Проверьте точки монтирования и права."
+
+msgid "Trashcan enable"
+msgstr "Включить корзину"
+
+msgid "Trashcan path"
+msgstr "Каталог \"Корзина\""
+
+msgid "Try to load extra title and more from .meta files"
+msgstr "Загружать доп. сведения из .META-файлов"
+
+msgid "Try to load titles from .eit files"
+msgstr "Загружать названия из .EIT-файлов"
+
+msgid "Try to load titles from .meta files"
+msgstr "Загружать названия из .META-файлов"
+
+msgid "UNKNOWN"
+msgstr "НЕИЗВЕСТНО"
+
+msgid "Up"
+msgstr "Вверх"
+
+msgid "Use cache for files and directories"
+msgstr "Использовать кэш для файлов и каталогов"
+
+msgid "Use original EMC-skin (needs reopen)"
+msgstr "Использовать оригинальный скин EMC"
+
+msgid "VLC"
+msgstr "VLC"
+
+msgid "VLC Server not reachable"
+msgstr "VLC-сервер не доступен"
+
+msgid "VLC-Dir"
+msgstr "VLC-каталог"
+
+msgid "VLC-Server"
+msgstr "VLC-сервер"
+
+msgid "Video-button"
+msgstr "Видео"
+
+msgid "Vote:"
+msgstr "Рейтинг:"
+
+msgid "WD DD.MM. HH:MM"
+msgstr "День ДД.ММ. ЧЧ:ММ"
+
+msgid "WD DD.MM.YYYY"
+msgstr "День ДД.ММ.ГГГГ"
+
+msgid "WD DD.MM.YYYY HH:MM"
+msgstr "День ДД.ММ.ГГГГ ЧЧ:ММ"
+
+msgid "WD MM/DD HH:MM"
+msgstr "День ММ/ДД ЧЧ:ММ"
+
+msgid "WD YYYY/MM/DD"
+msgstr "День ГГГГ/ММ/ДД"
+
+msgid "WD YYYY/MM/DD HH:MM"
+msgstr "День ГГГГ/ММ/ДД ЧЧ:ММ"
+
+msgid "Wake device when entering dir from emc-noscan.cfg"
+msgstr "Пробуждать диск при входе в каталоги 'emc-noscan.cfg'"
+
+msgid "Week"
+msgstr "Неделя"
+
+msgid "Weeks"
+msgstr "Нед."
+
+msgid "White"
+msgstr "Белый"
+
+msgid "YYYY/MM/DD"
+msgstr "ГГГГ/ММ/ДД"
+
+msgid "YYYY/MM/DD HH:MM"
+msgstr "ГГГГ/ММ/ДД ЧЧ:ММ"
+
+msgid "Yellow button function"
+msgstr "Желтая кнопка"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Yes, everything"
+msgstr "Да, все"
+
+msgid "Yes, only extra title"
+msgstr "Да, только доп. заголовки"
+
+msgid "Yes, with Message"
+msgstr "Да, с уведомлением"
+
+msgid "Yes, without Message"
+msgstr "Да, без уведомления"
+
+msgid ""
+"Your Box is about to go into DeepStandby, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"EMC: Ваш ресивер будет выключен. Продолжить?\n"
+" Выберите 'Нет', чтобы отложить на час."
+
+msgid ""
+"Your Box is about to go into E2 Restart, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"EMC: Интерфейс будет перезагружен. Продолжить?\n"
+" Выберите 'Нет', чтобы отложить на час."
+
+msgid ""
+"Your Box is about to go into Reboot, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"EMC: Ваш ресивер будет перезагружен. Продолжить?\n"
+" Выберите 'Нет', чтобы отложить на час."
+
+msgid ""
+"Your Box is about to go into Standby, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"EMC: Ваш ресивер перейдет в режим ожидания. Продолжить?\n"
+" Выберите 'Нет', чтобы отложить на час."
+
+msgid "Zap to channel after record EOF"
+msgstr "Перейти на канал после просмотра записи"
+
+msgid "after reload list"
+msgstr "После обновления списка"
+
+msgid "after standby"
+msgstr "После режима ожидания"
+
+msgid "all"
+msgstr "Все"
+
+msgid "always"
+msgstr "Всегда"
+
+msgid "always hide"
+msgstr "Всегда скрывать"
+
+msgid "auto-start is currently not active."
+msgstr "Автоматический перезапуск в настоящее время не активен"
+
+msgid "auto-start window begin"
+msgstr "Начало автозапуска"
+
+msgid "auto-start window end"
+msgstr "Конец автозапуска"
+
+msgid "center"
+msgstr "В центре"
+
+msgid "configuration"
+msgstr "настройки"
+
+msgid "covers in"
+msgstr "Обложки в"
+
+msgid "daily auto-start"
+msgstr "Ежедневный запуск"
+
+msgid "down"
+msgstr "Вниз"
+
+msgid "every single one"
+msgstr "каждый"
+
+msgid "forward to the next chapter"
+msgstr "Перейти к следующей главе"
+
+msgid "found"
+msgstr "Найден"
+
+msgid "from"
+msgstr "из"
+
+msgid "hide live TV"
+msgstr "Скрыть трансляцию"
+
+msgid "hide live TV and timeshift"
+msgstr "Скрыть трансляцию и таймшифт"
+
+msgid "hide playback"
+msgstr "Скрыть воспроизведение"
+
+msgid "imdb.com"
+msgstr "imdb.com"
+
+msgid "jump back to the previous title"
+msgstr "Перейти к предыдущему заголовку"
+
+msgid "jump forward to the next title"
+msgstr "Перейти к следующему заголовку"
+
+msgid "jump to next marked position"
+msgstr "Перейти к следующему маркеру"
+
+msgid "jump to previous marked position"
+msgstr "Перейти к предыдущему маркеру"
+
+msgid "left"
+msgstr "Слева"
+
+msgid "left from Name"
+msgstr "Слева от имени"
+
+msgid "movie manipulation list"
+msgstr "Список манипуляций"
+
+msgid "movies in"
+msgstr "Фильмы в"
+
+msgid "never hide"
+msgstr "Никогда не скрывать"
+
+msgid "no limit"
+msgstr "без ограничений"
+
+msgid "off"
+msgstr "Выкл."
+
+msgid "only initially"
+msgstr "Только в первый раз"
+
+msgid "overall"
+msgstr "в целом"
+
+msgid "rewind to the previous chapter"
+msgstr "Перейти к предыдущей главе"
+
+msgid "right"
+msgstr "Справа"
+
+msgid "right from Name"
+msgstr "Справа от имени"
+
+msgid "sec"
+msgstr "сек."
+
+msgid "sec found. Avg. Speed:"
+msgstr "сек. найдено. Средняя скорость:"
+
+msgid "sec."
+msgstr "сек."
+
+msgid "show DVD main menu"
+msgstr "Показать главное меню DVD"
+
+msgid "single pixel TV, muted"
+msgstr "Свернуть изображение и отключить звук"
+
+msgid "standard cover"
+msgstr "стандартная обложка"
+
+msgid "stop service"
+msgstr "Остановить прием сигнала"
+
+msgid "switch to the next angle"
+msgstr "Переключить на след. ракурс"
+
+msgid "switch to the next audio track"
+msgstr "Перейти к следующей звуковой дорожке"
+
+msgid "switch to the next subtitle language"
+msgstr "Переключить на следующий язык субтитров"
+
+msgid "themoviedb.org"
+msgstr "themoviedb.org"
+
+msgid "themoviedb.org + thetvdb.com"
+msgstr "themoviedb.org + thetvdb.com"
+
+msgid "thetvdb cover number (standard cover):"
+msgstr "число обложек thetvdb (по умолчанию):"
+
+msgid "thetvdb cover range per title:"
+msgstr "диапазон обложек thetvdb для заголовка:"
+
+msgid "thetvdb.com"
+msgstr "thetvdb.com"
+
+msgid "three contiguous"
+msgstr "три смежных"
+
+msgid "toggle a cut mark at the current position"
+msgstr "Переместить метку разреза в текущую позицию"
+
+msgid "trashcan"
+msgstr "Корзина"
+
+msgid "two contiguous"
+msgstr "два смежных"
+
+msgid "type 1 - OSD + black (#00000000)"
+msgstr "Вид 1 - OSD и черный (#00000000)"
+
+msgid "type 2 - transparent + white (#FFFFFFFF)"
+msgstr "Вид 2 - прозрачный и белый (#FFFFFFFF)"
+
+msgid "type 3 - OSD + black (#00FFFFFF)"
+msgstr "Вид 3 - OSD и черный (#00FFFFFF)"
+
+msgid "type 4 - transparent + black (#FF000000)"
+msgstr "Вид 4 - прозрачный и черный (#FF000000)"
+
+msgid "unknown"
+msgstr "неизвестно"
+
+msgid "up/down"
+msgstr "Вверх/Вниз"
+
+msgid "view extensions..."
+msgstr "Открыть меню дополнений"
+
+msgid "x"
+msgstr ""

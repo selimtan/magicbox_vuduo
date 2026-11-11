@@ -1,0 +1,186 @@
+Subject: [PATCH] Keep playback responsive and correct video metadata and file seeks
+Upstream-Status: Pending
+
+diff --git a/servicemp3/servicemp3.cpp b/servicemp3/servicemp3.cpp
+index 3363166..dbeeca1 100644
+--- a/servicemp3/servicemp3.cpp
++++ b/servicemp3/servicemp3.cpp
+@@ -461,6 +461,7 @@ eServiceMP3::eServiceMP3(eServiceReference ref):
+ 	m_cuesheet_loaded = false; /* cuesheet CVR */
+ 	m_use_chapter_entries = false; /* TOC chapter support CVR */
+ 	m_last_seek_pos = 0; /* CVR last seek position */
++	m_duration = GST_CLOCK_TIME_NONE;
+ 	m_useragent = "HbbTV/1.1.1 (+PVR+RTSP+DL; Sonic; TV44; 1.32.455; 2.002) Bee/3.5";
+ 	m_extra_headers = "";
+ 	m_download_buffer_path = "";
+@@ -983,8 +984,11 @@ RESULT eServiceMP3::stop()
+ 
+ 	GstStateChangeReturn ret;
+ 	GstState state, pending;
+-	/* make sure that last state change was successfull */
+-	ret = gst_element_get_state(m_gst_playbin, &state, &pending, 5 * GST_SECOND);
++	/* A network source may still be connecting. Cancel it without waiting for
++	 * preroll to finish on Enigma2's GUI thread. NULL/READY transitions are
++	 * synchronous in GStreamer, so a network stop needs no extra state wait. */
++	const GstClockTime stop_wait = m_sourceinfo.is_streaming ? 0 : 5 * GST_SECOND;
++	ret = gst_element_get_state(m_gst_playbin, &state, &pending, stop_wait);
+ 	eDebug("[eServiceMP3] stop state:%s pending:%s ret:%s",
+ 		gst_element_state_get_name(state),
+ 		gst_element_state_get_name(pending),
+@@ -996,7 +1000,7 @@ RESULT eServiceMP3::stop()
+ 		saveCuesheet();
+ 	m_nownext_timer->stop();
+ 	/* make sure that media is stopped before proceeding further */
+-	ret = gst_element_get_state(m_gst_playbin, &state, &pending, 5 * GST_SECOND);
++	ret = gst_element_get_state(m_gst_playbin, &state, &pending, stop_wait);
+ 	eDebug("[eServiceMP3] **** TO NULL state:%s pending:%s ret:%s ****",
+ 		gst_element_state_get_name(state),
+ 		gst_element_state_get_name(pending),
+@@ -1071,6 +1075,7 @@ RESULT eServiceMP3::getLength(pts_t &pts)
+ 	gint64 len;
+ 	if (!gst_element_query_duration(m_gst_playbin, fmt, &len))
+ 		return -1;
++	m_duration = len;
+ 		/* len is in nanoseconds. we have 90 000 pts per second. */
+ 
+ 	pts = len / 11111LL;
+@@ -1081,7 +1086,13 @@ RESULT eServiceMP3::seekToImpl(pts_t to)
+ {
+ 		/* convert pts to nanoseconds */
+ 	m_last_seek_pos = to * 11111LL;
+-	if (!gst_element_seek (m_gst_playbin, m_currentTrickRatio, GST_FORMAT_TIME, (GstSeekFlags)(GST_SEEK_FLAG_FLUSH | GST_SEEK_FLAG_KEY_UNIT),
++	/* A local MP4 may contain subtitle key units at the beginning of a long
++	 * cue. KEY_UNIT can snap the entire seek back to that cue. Keep the file
++	 * segment at the requested time; the demuxer still supplies preceding
++	 * video keyframes for decoding. Network playback retains its old policy. */
++	const GstSeekFlags flags = (GstSeekFlags)(GST_SEEK_FLAG_FLUSH |
++		(m_sourceinfo.is_streaming ? GST_SEEK_FLAG_KEY_UNIT : 0));
++	if (!gst_element_seek (m_gst_playbin, m_currentTrickRatio, GST_FORMAT_TIME, flags,
+ 		GST_SEEK_TYPE_SET, m_last_seek_pos,
+ 		GST_SEEK_TYPE_NONE, GST_CLOCK_TIME_NONE))
+ 	{
+@@ -1243,7 +1254,7 @@ gint eServiceMP3::match_sinktype(const GValue *velement, const gchar *type)
+ 
+ RESULT eServiceMP3::getPlayPosition(pts_t &pts)
+ {
+-	gint64 pos;
++	gint64 pos = GST_CLOCK_TIME_NONE;
+ 	pts = 0;
+ 
+ 	if (!m_gst_playbin || m_state != stRunning)
+@@ -1252,9 +1263,12 @@ RESULT eServiceMP3::getPlayPosition(pts_t &pts)
+ 	if ((audioSink || videoSink) && !m_paused)
+ 	{
+ 		g_signal_emit_by_name(videoSink ? videoSink : audioSink, "get-decoder-time", &pos);
+-		if (!GST_CLOCK_TIME_IS_VALID(pos)) return -1;
+ 	}
+-	else
++	/* Old DVB drivers can briefly report a wrapped 33-bit PTS after a flush.
++	 * Never expose that as a multi-hour file position to relative seek/EOF
++	 * handling. Query this pipeline's segment while its decoder clock settles. */
++	const bool outside_file = !m_sourceinfo.is_streaming && m_duration > 0 && pos > m_duration + GST_SECOND;
++	if (m_paused || (!audioSink && !videoSink) || pos < 0 || outside_file)
+ 	{
+ 		GstFormat fmt = GST_FORMAT_TIME;
+ 		if (!gst_element_query_position(m_gst_playbin, fmt, &pos))
+@@ -1263,6 +1277,8 @@ RESULT eServiceMP3::getPlayPosition(pts_t &pts)
+ 			return -1;
+ 		}
+ 	}
++	if (pos < 0 || (!m_sourceinfo.is_streaming && m_duration > 0 && pos > m_duration + GST_SECOND))
++		return -1;
+ 
+ 	/* pos is in nanoseconds. we have 90 000 pts per second. */
+ 	pts = pos / 11111LL;
+@@ -1805,6 +1821,41 @@ subtype_t getSubtitleType(GstPad* pad, gchar *g_codec=NULL)
+ 	return type;
+ }
+ 
++void eServiceMP3::updateVideoInfo()
++{
++	/* Some DVB sinks omit their size message when consecutive services have
++	 * the same resolution. Use this pipeline's negotiated caps, never the
++	 * decoder's /proc values, which may still describe the previous service. */
++	GstPad *pad = videoSink ? gst_element_get_static_pad(videoSink, "sink") : NULL;
++	if (!pad && m_gst_playbin)
++	{
++		gint current = -1;
++		g_object_get(m_gst_playbin, "current-video", &current, NULL);
++		if (current >= 0)
++			g_signal_emit_by_name(m_gst_playbin, "get-video-pad", current, &pad);
++	}
++	if (!pad)
++		return;
++	GstCaps *caps = gst_pad_get_current_caps(pad);
++	gst_object_unref(pad);
++	if (!caps)
++		return;
++	if (gst_caps_get_size(caps))
++	{
++		const GstStructure *structure = gst_caps_get_structure(caps, 0);
++		gint width = 0, height = 0;
++		if (gst_structure_get_int(structure, "width", &width) && width > 0 &&
++			gst_structure_get_int(structure, "height", &height) && height > 0 &&
++			(m_width <= 0 || m_height <= 0))
++		{
++			m_width = width;
++			m_height = height;
++			m_event((iPlayableService*)this, evVideoSizeChanged);
++		}
++	}
++	gst_caps_unref(caps);
++}
++
+ void eServiceMP3::gstBusCall(GstMessage *msg)
+ {
+ 	if (!msg)
+@@ -1977,6 +2028,7 @@ void eServiceMP3::gstBusCall(GstMessage *msg)
+ 					{
+ 						selectTrack(m_currentAudioStream);
+ 					}
++					updateVideoInfo();
+ 					m_event((iPlayableService*)this, evGstreamerPlayStarted);
+ 				}	break;
+ 				case GST_STATE_CHANGE_PLAYING_TO_PAUSED:
+@@ -2137,6 +2189,8 @@ void eServiceMP3::gstBusCall(GstMessage *msg)
+ 
+ 
+ 			eDebug("[eServiceMP3] async-done - %d video, %d audio, %d subtitle", n_video, n_audio, n_text);
++			if (n_video > 0)
++				updateVideoInfo();
+ 
+ 			if ( n_video + n_audio <= 0 )
+ 				stop();
+@@ -2285,10 +2339,11 @@ void eServiceMP3::gstBusCall(GstMessage *msg)
+ 					{
+ 						if (!strcmp(eventname, "eventSizeChanged") || !strcmp(eventname, "eventSizeAvail"))
+ 						{
++							const gint old_width = m_width, old_height = m_height;
+ 							gst_structure_get_int (msgstruct, "aspect_ratio", &m_aspect);
+ 							gst_structure_get_int (msgstruct, "width", &m_width);
+ 							gst_structure_get_int (msgstruct, "height", &m_height);
+-							if (strstr(eventname, "Changed"))
++							if (strstr(eventname, "Changed") || m_width != old_width || m_height != old_height)
+ 								m_event((iPlayableService*)this, evVideoSizeChanged);
+ 						}
+ 						else if (!strcmp(eventname, "eventFrameRateChanged") || !strcmp(eventname, "eventFrameRateAvail"))
+diff --git a/servicemp3/servicemp3.h b/servicemp3/servicemp3.h
+index f20f56c..f27191d 100644
+--- a/servicemp3/servicemp3.h
++++ b/servicemp3/servicemp3.h
+@@ -337,6 +337,7 @@ private:
+ 	bool m_use_chapter_entries;
+ 	/* last used seek position gst-1 only */
+ 	gint64 m_last_seek_pos;
++	gint64 m_duration;
+ 	bufferInfo m_bufferInfo;
+ 	errorInfo m_errorInfo;
+ 	std::string m_download_buffer_path;
+@@ -356,6 +357,7 @@ private:
+ 
+ 	audiotype_t gstCheckAudioPad(GstStructure* structure);
+ 	void gstBusCall(GstMessage *msg);
++	void updateVideoInfo();
+ 	void handleMessage(GstMessage *msg);
+ 	static GstBusSyncReply gstBusSyncHandler(GstBus *bus, GstMessage *message, gpointer user_data);
+ 	static void gstTextpadHasCAPS(GstPad *pad, GParamSpec * unused, gpointer user_data);

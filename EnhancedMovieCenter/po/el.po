@@ -1,0 +1,2409 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-12 09:04+0100\n"
+"PO-Revision-Date: 2018-02-09 01:09+0200\n"
+"Last-Translator: MCelliot_g <mcelliot_g@hotmail.com>\n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: src\n"
+
+msgid " Deleting remotely recorded and it will display an rec-error dialog on the other DB."
+msgstr " Διαγραφή απομακρυσμένων εγγραφών και θα εμφανιστεί ένας διάλογος σφάλματος εγγραφής στην άλλη Β/Δ."
+
+msgid " all selected video files?"
+msgstr " όλα τα επιλεγμένα αρχεία βίντεο;"
+
+msgid " all selected video files? The currently playing movie is also one of the selections and its playback will be stopped."
+msgstr " όλα τα επιλεγμένα αρχεία βίντεο; Η τρέχουσα αναπαραγώμενη ταινία είναι επίσης επιλεγμένη και η αναπαραγωγή της θα διακοπεί."
+
+msgid " currently played?"
+msgstr " τρέχουσα αναπαραγωγή;"
+
+msgid " files\n"
+msgstr " αρχεία\n"
+
+msgid " permanently"
+msgstr "μόνιμα"
+
+#, python-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d δευτερόλεπτο"
+msgstr[1] "%d δευτερόλεπτα"
+
+#, python-format
+msgid "%s not removed. Write protect?"
+msgstr "Το %s δεν αφαιρέθηκε. Προστασία εγγραφής;"
+
+#, python-format
+msgid "%s removed."
+msgstr "%s αφαιρέθηκαν."
+
+msgid "( # )"
+msgstr "( # )"
+
+msgid "( # / GB )"
+msgstr "( # / GB )"
+
+msgid "( GB )"
+msgstr "( GB )"
+
+msgid "(Un-)Lock Directory"
+msgstr "(Ξε)Κλείδωμα Φακέλου"
+
+msgid "(show optional DVD audio menu)"
+msgstr "(εμφάνιση προαιρετικού μενού ήχου DVD)"
+
+msgid "*** Multiselection active ***"
+msgstr "*** Πολλαπλή επιλογή ενεργή ***"
+
+msgid ".../foldername.jpg"
+msgstr ".../foldername.jpg"
+
+msgid ".../foldername/folder.jpg"
+msgstr ".../foldername/folder.jpg"
+
+msgid ".../foldername/foldername.jpg"
+msgstr ".../foldername/foldername.jpg"
+
+msgid ""
+"ATTENTION\n"
+"\n"
+"This option will move all finished movies in Movie Home automatically to Your trashcan at the given time.\n"
+"At next trashcan cleanup all movies will be deleted.\n"
+"\n"
+"Confirm this with the blue key followed by the green key."
+msgstr ""
+"ΠΡΟΣΟΧΗ\n"
+"\n"
+"Αυτή η επιλογή θα μετακινήσει όλες τις ολοκληρωμένες ταινίες στην Κεντρική Σελίδα Ταινιών αυτόματα στον κάδο αχρήστων στον ορισμένο χρόνο.\n"
+"Στη συνέχεια η εκκαθάριση του κάδου θα διαγράψει όλες τις ταινίες.\n"
+"\n"
+"Επιβεβαιώστε με το μπλε πλήκτρο και έπειτα με το πράσινο πλήκτρο."
+
+msgid "AUDIO METADATA"
+msgstr ""
+
+msgid "AUTOSTART"
+msgstr ""
+
+msgid "About"
+msgstr "Περί"
+
+msgid "Add directory to E2 Bookmarks"
+msgstr "Προσθήκη φακέλου στους Σελιδοδείκτες Ε2"
+
+msgid "Add directory to EMC Bookmarks"
+msgstr "Προσθήκη φακέλου στους Σελιδοδείκτες EMC"
+
+msgid "Add to Playlist"
+msgstr "Προσθήκη στη Λίστα Αναπαραγωγής"
+
+msgid "Add to current Playlist"
+msgstr "Προσθήκη στην τρέχουσα Λίστα Αναπαραγωγής"
+
+msgid "After file OPs only re-scan affected dirs"
+msgstr "Μετά τις ενέργειες των αρχείων, επανασάρωση  μόνο των σχετικών φακέλων"
+
+msgid "Age of finished movies in movie folder (days)"
+msgstr "Χρονικό διάστημα των ολοκληρωμένων ταινιών στο φάκελο ταινιών (ημέρες)"
+
+msgid "Album:"
+msgstr "Άλμπουμ:"
+
+msgid "Alpha sort"
+msgstr "Ταξινόμηση αλφαβητικά"
+
+msgid "Alpha sort ascending (AZ)"
+msgstr "Αύξουσα ταξινόμηση αλφαβητικά (AZ)"
+
+msgid "Alpha sort ascending with meta (AZM)"
+msgstr "Αλφαβητική ταξινόμηση με μεταδεδομένα (AZM)"
+
+msgid "Alpha sort ascending with meta, Date descending (AZMD-)"
+msgstr "Αλφαβητική ταξινόμηση μεταδ., φθίνουσα ημερομηνία (AZMD-)"
+
+msgid "Alpha sort ascending, Date descending (AZD-)"
+msgstr "Αύξουσα ταξινόμηση αλφαβητικά, φθίνουσα Ημερομηνία (AZD-)"
+
+msgid "Alpha sort date newest"
+msgstr "Αλφαβητική ταξινόμηση νεότερη ημερομηνία"
+
+msgid "Alpha sort descending (ZA)"
+msgstr "Φθίνουσα ταξινόμηση αλφαβητικά (ZA)"
+
+msgid "Alpha sort descending with meta (ZAM)"
+msgstr "Φθίνουσα ταξινόμηση αλφαβητικά με μεταδ. (ZAM)"
+
+msgid "Alpha sort descending with meta, Date ascending (ZAMD+)"
+msgstr "Φθίνουσα αλφαβητικά με μεταδ., αύξουσα ημερομηνία (ZAMD+)"
+
+msgid "Alpha sort descending, Date ascending (ZAD+)"
+msgstr "Φθίνουσα ταξινόμηση αλφαβητικά, αύξουσα Ημερομηνία (ZAD+)"
+
+msgid "Alpha sort meta"
+msgstr "Αλφαβητική ταξινόμηση μεταδεδομένων"
+
+msgid "Alpha sort meta date newest"
+msgstr "Αλφαβητική ταξινόμηση μεταδ. νεότερη ημερομηνία"
+
+msgid "Always save current Playlist"
+msgstr "Πάντα αποθήκευση της τρέχουσας Λίστας Αναπαραγωγής"
+
+msgid "Always save last played progress as marker"
+msgstr "Πάντα αποθήκευση της τελευταίας αναπαραγώμενης προόδου ως σημειωτής"
+
+msgid "Artist:"
+msgstr "Καλλιτέχνης:"
+
+msgid "Automatic timers list cleaning"
+msgstr "Εκκαθάριση λίστας αυτόματων χρονοδιακοπτών"
+
+msgid "Available plugins menu"
+msgstr "Διαθέσιμο μενού προσθέτων"
+
+msgid "Black"
+msgstr ""
+
+msgid "Blue button function"
+msgstr "Λειτουργία μπλε πλήκτρου"
+
+msgid "Bookmark"
+msgstr "Σελιδοδείκτης"
+
+msgid "Both"
+msgstr "Και τα δύο"
+
+msgid "Bouquet buttons behaviour"
+msgstr "Συμπεριφορά πλήκτρου Μπουκέτων"
+
+msgid "Button disabled"
+msgstr "Πλήκτρο ανενεργό"
+
+msgid "COVER-SEARCH"
+msgstr ""
+
+msgid "CSFD"
+msgstr "CSFD"
+
+msgid "CSFD Info"
+msgstr "Πληροφορίες CSFD"
+
+msgid "Can not save "
+msgstr "Αδυναμία αποθήκευσης"
+
+msgid "Can not save Cover in "
+msgstr " Αδυναμία αποθήκευσης Εξωφύλλου στο "
+
+msgid "Can not save current Playlist!"
+msgstr "Αδυναμία αποθήκευσης της τρέχουσας Λίστας!"
+
+#, python-format
+msgid ""
+"Can not write Movie Information File\n"
+"\n"
+"%s"
+msgstr ""
+"Αδυναμία εγγραφής αρχείου Πληροφοριών Ταινίας\n"
+"\n"
+"%s"
+
+#, fuzzy, python-format
+msgid ""
+"Can not write Movie Information and Cover File\n"
+"\n"
+"%(info)s\n"
+"%(file)s"
+msgstr ""
+"Αδυναμία εγγραφής αρχείου Πληροφοριών Ταινίας και Εξωφύλλου\n"
+"\n"
+"%s\n"
+"%s"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Cannot delete the parent directory."
+msgstr "Αδυναμία διαγραφής του γονικού φακέλου."
+
+msgid "Change File/Moviename and/or Description"
+msgstr "Αλλαγή Αρχείου/Ονόματος Ταινίας και/ή Περιγραφής"
+
+msgid "Change Folder"
+msgstr "Αλλαγή Φακέλου"
+
+msgid "Change Foldername"
+msgstr "Αλλαγή ονόματος φακέλου"
+
+msgid "Change the filename to save current Playlist:"
+msgstr "Αλλαγή ονόματος αρχείου για αποθήκευση της τρέχουσας Λίστας Αναπαραγωγής:"
+
+msgid "Chap."
+msgstr "Κεφ."
+
+msgid "Chapter"
+msgstr "Κεφάλαιο"
+
+msgid "Check for dead links"
+msgstr "Έλεγχος για ανενεργούς συνδέσμους"
+
+msgid "Choose Directory:"
+msgstr "Επιλογή Φακέλου:"
+
+msgid "Choose bookmark"
+msgstr "Επιλογή σελιδοδείκτη"
+
+msgid "Choose directory"
+msgstr "Επιλογή φακέλου"
+
+msgid "Choose operation"
+msgstr "Επιλογή εργασίας"
+
+msgid "Choose plugin"
+msgstr "Επιλογή πρόσθετου"
+
+msgid "Choose script"
+msgstr "Επιλογή script"
+
+msgid "Close EMC"
+msgstr "Κλείσιμο του EMC"
+
+msgid "Close EMC and do power button action"
+msgstr ""
+
+msgid "Collection"
+msgstr "Συλλογή"
+
+msgid "Configured directories at the top of movielist"
+msgstr "Ρυθμισμένοι φάκελοι στην κορυφή της λίστας ταινιών"
+
+msgid "Content:"
+msgstr "Περιεχόμενο:"
+
+msgid "Copy File"
+msgstr "Αντιγραφή Αρχείου"
+
+msgid "Copy Files"
+msgstr "Αντιγραφή Αρχείων"
+
+msgid "Copy file(s):"
+msgstr "Αντιγραφή αρχείου(ων):"
+
+#, python-format
+msgid ""
+"Cover %s exists!\n"
+"\n"
+"Do you want to replace the existing cover?"
+msgstr ""
+"Το εξώφυλλο %s υπάρχει!\n"
+"\n"
+"Θέλετε να αντικατασταθεί το υπάρχον εξώφυλλο;"
+
+msgid "Cover Search"
+msgstr "Αναζήτηση Εξωφύλλου"
+
+msgid "Cover background"
+msgstr "Φόντο εξωφύλλου"
+
+msgid "Cover delay in ms"
+msgstr "Καθυστέρηση εξωφύλλου σε ms"
+
+msgid "Cover disabled in EMC-Setup"
+msgstr "Εξώφυλλο ανενεργό στις ρυθμίσεις EMC"
+
+msgid "Cover is Saved."
+msgstr "Το Εξώφυλλο αποθηκεύτηκε."
+
+msgid "Cover search"
+msgstr "Αναζήτηση εξωφύλλου"
+
+msgid ""
+"Cover search with all Files in Subdirectories?\n"
+"\n"
+"This may take a while on huge Disks, or Directories!"
+msgstr ""
+"Αναζήτηση Εξωφύλλου με όλα τα Αρχεία στους Υποφακέλους;\n"
+"\n"
+"Αυτό μπορεί να διαρκέσει αρκετά σε τεράστιους δίσκους ή φακέλους!"
+
+msgid "Coversize"
+msgstr "Μέγεθος εξωφύλλου"
+
+msgid "Create directory"
+msgstr "Δημιουργία φακέλου"
+
+msgid "Create link"
+msgstr "Δημιουργία συντόμευσης"
+
+msgid "Creating Search List.."
+msgstr "Δημιουργία Λίστας Αναζήτησης..."
+
+msgid "Current Playlist saved successfully!"
+msgstr "Η τρέχουσα Λίστα Αναπαραγωγής αποθηκεύτηκε με επιτυχία!"
+
+msgid "Cursor predictive move after selection"
+msgstr "Προβλεπόμενη κίνηση κέρσορα μετά την επιλογή"
+
+msgid "Custom"
+msgstr "Προσαρμογή"
+
+msgid "Czech"
+msgstr ""
+
+msgid "DD.MM. HH:MM"
+msgstr "ΗΗ.ΜΜ. ΩΩ:ΛΛ"
+
+msgid "DD.MM.YYYY"
+msgstr "ΗΗ.ΜΜ.ΕΕΕΕ"
+
+msgid "DD.MM.YYYY HH:MM"
+msgstr "ΗΗ.ΜΜ.ΕΕΕΕ ΩΩ:ΛΛ"
+
+msgid "DEBUG"
+msgstr ""
+
+msgid "DELAYS"
+msgstr ""
+
+msgid "DISPLAY-SETTINGS"
+msgstr ""
+
+msgid "DVD / BLU-RAY / FOLDERS"
+msgstr ""
+
+msgid "Daily cleanup time"
+msgstr "Ώρα καθημερινής εκκαθάρισης"
+
+msgid "Dark green"
+msgstr ""
+
+msgid "Dark grey"
+msgstr ""
+
+msgid "Dark orange"
+msgstr ""
+
+msgid "Dark red"
+msgstr ""
+
+msgid "Date format"
+msgstr "Μορφή ημερομηνίας"
+
+msgid "Date sort"
+msgstr "Ταξινόμηση κατά ημερομηνία"
+
+msgid "Date sort ascending (D+)"
+msgstr "Αύξουσα ταξινόμηση ημερομηνίας (D+)"
+
+msgid "Date sort descending (D-)"
+msgstr "Φθίνουσα ταξινόμηση ημερομηνίας (D-)"
+
+msgid "Day"
+msgstr "Ημέρα"
+
+msgid "Days"
+msgstr "Ημέρες"
+
+msgid "Debug output file name"
+msgstr "Όνομα αρχείου εξόδου εκσφαλμάτωσης"
+
+msgid "DeepStandby"
+msgstr "Βαθιά Αναμονή"
+
+msgid "Default"
+msgstr "Προεπιλογή"
+
+msgid ""
+"Default Playlist is not empty!\n"
+"\n"
+"Save default Playlist?"
+msgstr ""
+"Η Προεπιλεγμένη Λίστα Αναπαραγωγής δεν είναι κενή!\n"
+"\n"
+"Να γίνει αποθήκευση της προεπιλεγμένης λίστας;"
+
+msgid "Default Playlist name"
+msgstr "Προεπιλεγμένο όνομα Λίστας Αναπαραγωγής"
+
+msgid "Default Playlist path"
+msgstr "Διαδρομή προεπιλεγμένης Λίστας Αναπαραγωγής"
+
+msgid "Default color for highlighted movie"
+msgstr ""
+
+msgid "Default color for partially watched movie"
+msgstr ""
+
+msgid "Default color for recording movie"
+msgstr ""
+
+#, fuzzy
+msgid "Default color for unwatched movie"
+msgstr "Προεπιλεγμένη λειτουργία ταξινόμησης"
+
+#, fuzzy
+msgid "Default color for watched movie"
+msgstr "Προεπιλεγμένη λειτουργία ταξινόμησης"
+
+msgid "Default sort mode"
+msgstr "Προεπιλεγμένη λειτουργία ταξινόμησης"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Delete All"
+msgstr "Διαγραφή Όλων"
+
+msgid "Delete Entry"
+msgstr "Διαγραφή Στοιχείου"
+
+msgid "Delete current Playlist"
+msgstr "Διαγραφή τρέχουσας Λίστας Αναπαραγωγής"
+
+msgid "Delete cut file(s)"
+msgstr "Διαγραφή αρχείου(ων) αποκοπής"
+
+msgid "Delete error:\n"
+msgstr "Σφάλμα διαγραφής:\n"
+
+msgid "Delete failed because the trashcan directory does not exist. Attempt to create it now?"
+msgstr "Η διαγραφή απέτυχε λόγω απουσίας του κάδου αχρήστων. Προσπάθεια δημιουργίας του τώρα;"
+
+msgid "Delete failed!"
+msgstr "Η διαγραφή απέτυχε!"
+
+msgid "Delete permanently"
+msgstr "Μόνιμη διαγραφή"
+
+msgid "Delete validation"
+msgstr "Επιβεβαίωση διαγραφής"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Description field update delay"
+msgstr "Καθυστέρηση ενημέρωσης πλαισίου περιγραφής"
+
+msgid "Description:"
+msgstr "Περιγραφή:"
+
+msgid "Directory"
+msgstr "Φάκελος"
+
+#, python-format
+msgid "Directory %s already exists!"
+msgstr "Ο φάκελος %s υπάρχει ήδη!"
+
+msgid "Directory back"
+msgstr "Φάκελος πίσω"
+
+msgid "Directory forward"
+msgstr "Φάκελος εμπρός"
+
+msgid "Directory is not empty! Do you really want to delete it?"
+msgstr "Ο φάκελος δεν είναι κενός! Θέλετε σίγουρα να διαγραφεί;"
+
+msgid "Directory up"
+msgstr "Φάκελος επάνω"
+
+msgid "Directory-Cover search"
+msgstr "Αναζήτηση Εξωφύλλου Φακέλου"
+
+msgid "Disable EMC"
+msgstr "Απενεργοποίηση του EMC"
+
+msgid "Display directory reading text"
+msgstr "Εμφάνιση κειμένου ανάγνωσης φακέλου"
+
+msgid ""
+"Do you really want to delete the cut file?\n"
+"If you have selected a directory, all cut files within the folder and its subfolders will be deleted!"
+msgstr ""
+"Θέλετε να διαγραφεί το αρχείο αποκοπής;\n"
+"Αν επιλέξατε έναν φάκελο, όλα τα αρχεία αποκοπής μέσα στο φάκελο και τους υποφακέλους θα διαγραφεί!"
+
+#, python-format
+msgid "Do you really want to lock the directory %s and all its subfolders?"
+msgstr "Θέλετε σίγουρα να κλειδώσετε το φάκελο %s και όλους τους υποφακέλους του;"
+
+#, python-format
+msgid ""
+"Do you really want to remove your bookmark\n"
+"%s?"
+msgstr ""
+"Θέλετε σίγουρα να αφαιρεθεί ο σελιδοδείκτης σας;\n"
+"%s?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your directory\n"
+"%s?"
+msgstr ""
+"Θέλετε σίγουρα να αφαιρεθεί ο φάκελός σας\n"
+"%s?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your link\n"
+"%s?"
+msgstr ""
+"Θέλετε σίγουρα να αφαιρεθεί ο σύνδεσμός σας\n"
+"%s?"
+
+msgid "Do you want to resume this playback?"
+msgstr "Θέλετε να επανασυνεχίσετε την αναπαραγωγή;"
+
+msgid "Does not contain any scripts."
+msgstr "Δεν περιέχονται scripts."
+
+msgid "Don't auto scan size of dirs from emc-noscan.cfg"
+msgstr "Να μη γίνεται αυτόματη ανίχνευση του μεγέθους των φακέλων από το emc-noscan.cfg"
+
+msgid "Download Movie Info"
+msgstr "Λήψη Πληροφοριών Ταινίας"
+
+msgid "Download Movie Information"
+msgstr "Λήψη Πληροφοριών Ταινίας"
+
+msgid "Download cutlist from Cutlist.at"
+msgstr "Λήψη λίστας αποκοπών από το Cutlist.at"
+
+#, python-format
+msgid "Download: %s"
+msgstr "Λήψη: %s"
+
+msgid "E2 Bookmark"
+msgstr "Σελιδοδείκτης Ε2"
+
+msgid "E2 Bookmarks"
+msgstr "Σελιδοδείκτες Ε2"
+
+msgid "E2 Restart"
+msgstr "Επανεκκίνηση Ε2"
+
+msgid ""
+"EMC\n"
+"Zap to Live TV of record"
+msgstr ""
+"EMC\n"
+"Μετάβαση σε ζωντανή TV από εγγραφή"
+
+msgid "EMC Bookmarks"
+msgstr "EMC Σελιδοδείκτες"
+
+msgid "EMC Cover Selecter"
+msgstr "EMC Επιλογή Εξωφύλλου"
+
+msgid "EMC Cover search"
+msgstr "EMC αναζήτηση Εξωφύλλου"
+
+msgid "EMC Cover search setup"
+msgstr "EMC Ρυθμίσεις αναζήτησης εξωφύλλου"
+
+msgid "EMC Filebrowser"
+msgstr "EMC Πλοηγός Αρχείων"
+
+#, fuzzy
+msgid "EMC Help"
+msgstr "Ρυθμίσεις EMC"
+
+msgid "EMC Playlist - current playlist"
+msgstr "EMC Λίστα Αναπαραγωγής - τρέχουσα λίστα"
+
+msgid "EMC Playlist Menu"
+msgstr "EMC Μενού Λίστας Αναπαραγωγής"
+
+msgid "EMC Playlist Setup"
+msgstr "EMC Ρυθμίσεις Λίστας Αναπαραγωγής"
+
+msgid "EMC Setup"
+msgstr "Ρυθμίσεις EMC"
+
+msgid "EMC Trashcan Cleanup failed!"
+msgstr "Αποτυχία Εκκαθάρισης Κάδου Αχρήστων EMC!"
+
+msgid "EMC always reload after open"
+msgstr "Πάντα επαναφόρτωση του EMC μετά το άνοιγμα"
+
+msgid "EMC output directory"
+msgstr "EMC φάκελος εξόδου"
+
+msgid "EMC path access limit"
+msgstr "Όριο πρόσβασης διαδρομής EMC"
+
+msgid "EMC re-open list after Movie end"
+msgstr "EMC άνοιγμα ξανά της λίστας μετά το τέλος της Ταινίας"
+
+msgid "EMC re-open list after STOP-press"
+msgstr "EMC άνοιγμα ξανά της λίστας μετά την πίεση του STOP"
+
+msgid "EMC-TMDB Info"
+msgstr "Πληροφορίες EMC-TMDB"
+
+msgid ""
+"EMC: Skipping Trashcan Cleanup\n"
+"Movie Home Path is equal to or a subfolder of the Trashcan"
+msgstr ""
+"EMC: Παράκαμψη Εκκαθάρισης Κάδου Αχρήστων\n"
+"Η Κεντρική Διαδρομή Ταινιών είναι ίση με ή υποφάκελος του Κάδου Αχρήστων"
+
+msgid "Edit Tags"
+msgstr ""
+
+msgid "Empty trashcan"
+msgstr "Άδειασμα του κάδου αχρήστων"
+
+msgid "Enable EMC debug output"
+msgstr "Ενεργοποίηση εξόδου εκσφαλμάτωσης EMC"
+
+msgid "Enable daily trashcan cleanup"
+msgstr "Ενεργοποίηση καθημερινής εκκαθάρισης του κάδου αχρήστων"
+
+msgid "Enable playback AC3-track first"
+msgstr "Ενεργοποίηση πρώτα της φέρουσας AC3"
+
+msgid "Enable playback auto-language selection"
+msgstr "Ενεργοποίηση αυτόματης επιλογής γλώσσας αναπαραγωγής"
+
+msgid "Enable playback auto-subtitling"
+msgstr "Ενεργοποίηση αυτόματων υποτίτλων κατά την αναπαραγωγή"
+
+msgid "Enable remote recordings"
+msgstr "Ενεργοποίηση απομακρυσμένων εγγραφών"
+
+msgid "English"
+msgstr "Αγγλικά"
+
+msgid "Enter Name for Playlist"
+msgstr "Εισαγωγή Ονόματος για τη Λίστα Αναπαραγωγής"
+
+msgid "Enter name for new directory:"
+msgstr "Εισαγωγή ονόματος για το νέο φάκελο:"
+
+msgid "Exist"
+msgstr "Υπάρχει"
+
+#, python-format
+msgid "Exist: %s"
+msgstr "Υπάρχει: %s"
+
+#, fuzzy
+msgid "F1-button"
+msgstr "Πλήκτρο TV"
+
+msgid "File added to current Playlist."
+msgstr "Το αρχείο προστέθηκε στην τρέχουσα Λίστα Αναπαραγωγής."
+
+msgid "File exists in current Playlist."
+msgstr "Το αρχείο υπάρχει στην τρέχουσα Λίστα Αναπαραγωγής."
+
+msgid "File not available."
+msgstr "Το αρχείο δεν είναι διαθέσιμο."
+
+msgid "Filename:"
+msgstr "Όνομα αρχείου:"
+
+msgid "Files added to current Playlist."
+msgstr "Τα αρχεία προστέθηκαν στην τρέχουσα Λίστα Αναπαραγωγής."
+
+#, fuzzy, python-format
+msgid ""
+"Files added to current Playlist:\n"
+"%(add)s\n"
+"\n"
+"Files exists in current Playlist:\n"
+"%(exist)s"
+msgstr ""
+"Τα αρχεία προστέθηκαν στην τρέχουσα Λίστα Αναπαραγωγής:\n"
+"%s\n"
+"\n"
+"Τα αρχεία υπάρχουν στην τρέχουσα Λίστα Αναπαραγωγής:\n"
+"%s"
+
+#, python-format
+msgid ""
+"Files exists in current Playlist:\n"
+"%s"
+msgstr ""
+"Τα αρχεία υπάρχουν στην τρέχουσα Λίστα Αναπαραγωγής:\n"
+"%s"
+
+msgid "Finished watching percent"
+msgstr "Ποσοστό ολοκλήρωσης παρακολούθησης"
+
+msgid "Foldername:"
+msgstr "Όνομα φακέλου:"
+
+msgid "Force standby after auto-restart"
+msgstr "Αναγκαστική αναμονή μετά την αυτόματη έναρξη"
+
+msgid "Format AVSwitch"
+msgstr "Φορμά AVSwitch"
+
+msgid ""
+"Found rogue files:\n"
+"\n"
+msgstr ""
+"Βρέθηκαν περιττά αρχεία:\n"
+"\n"
+
+msgid "Free: "
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "GENERAL"
+msgstr ""
+
+msgid "Genre:"
+msgstr "Είδος:"
+
+msgid "German"
+msgstr "Γερμανικά"
+
+#, python-format
+msgid "Given path %s does not exist. Please change."
+msgstr "Η διαδρομή %s δεν υπάρχει. Παρακαλώ αλλάξτε την."
+
+msgid "Go to trashcan"
+msgstr "Μετάβαση στον κάδο αχρήστων"
+
+msgid "Green"
+msgstr ""
+
+msgid "Grey"
+msgstr ""
+
+msgid "HELP_About"
+msgstr "ΒΟΗΘΕΙΑ_Περί"
+
+msgid "HELP_After file OPs only re-scan affected dirs"
+msgstr "ΒΟΗΘΕΙΑ_Μετά τις ενέργειες των αρχείων, επανασάρωση  μόνο των σχετικών φακέλων"
+
+msgid "HELP_Age of finished movies in movie folder (days)"
+msgstr "ΒΟΗΘΕΙΑ_Χρονικό διάστημα των ολοκληρωμένων ταινιών στο φάκελο ταινιών (ημέρες)"
+
+msgid "HELP_Always save last played progress as marker"
+msgstr "ΒΟΗΘΕΙΑ_Πάντα αποθήκευση της τελευταίας αναπαραγώμενης προόδου ως σημειωτής"
+
+msgid "HELP_Automatic timers list cleaning"
+msgstr "ΒΟΗΘΕΙΑ_Εκκαθάριση λίστας αυτόματων χρονοδιακοπτών"
+
+msgid "HELP_Blue button function"
+msgstr "ΒΟΗΘΕΙΑ_Λειτουργία μπλε πλήκτρου"
+
+msgid "HELP_Bouquet buttons behaviour"
+msgstr "ΒΟΗΘΕΙΑ_Συμπεριφορά πλήκτρου Μπουκέτων"
+
+msgid "HELP_Check for dead links"
+msgstr "ΒΟΗΘΕΙΑ_Έλεγχος για ανενεργούς συνδέσμους"
+
+msgid "HELP_Configure in etc/enigma2/emc-topdir.cfg"
+msgstr "ΒΟΗΘΕΙΑ_Ρυθμίσεις στο etc/enigma2/emc-topdir.cfg"
+
+msgid "HELP_Cover background"
+msgstr "ΒΟΗΘΕΙΑ_Φόντο εξωφύλλου"
+
+msgid "HELP_Cover delay in ms"
+msgstr "ΒΟΗΘΕΙΑ_Καθυστέρηση εξωφύλλου σε ms"
+
+msgid "HELP_Cursor predictive move after selection"
+msgstr "ΒΟΗΘΕΙΑ_Προβλεπόμενη κίνηση κέρσορα μετά την επιλογή"
+
+msgid "HELP_Daily auto-start"
+msgstr "ΒΟΗΘΕΙΑ_Καθημερινή αυτόματη εκκίνηση"
+
+msgid "HELP_Daily cleanup time"
+msgstr "ΒΟΗΘΕΙΑ_Ώρα καθημερινής εκκαθάρισης"
+
+msgid "HELP_Date format"
+msgstr "ΒΟΗΘΕΙΑ_Μορφή ημερομηνίας"
+
+msgid "HELP_Debug output file name"
+msgstr "ΒΟΗΘΕΙΑ_Όνομα αρχείου εξόδου εκσφαλμάτωσης"
+
+msgid "HELP_Default color highlighted"
+msgstr ""
+
+msgid "HELP_Default color partially watched"
+msgstr ""
+
+#, fuzzy
+msgid "HELP_Default color recording"
+msgstr "ΒΟΗΘΕΙΑ_Ενεργοποίηση απομακρυσμένων εγγραφών"
+
+msgid "HELP_Default color unwatched"
+msgstr ""
+
+#, fuzzy
+msgid "HELP_Default color watched"
+msgstr "ΒΟΗΘΕΙΑ_Μορφή ημερομηνίας"
+
+msgid "HELP_Delete validation"
+msgstr "ΒΟΗΘΕΙΑ_Επιβεβαίωση διαγραφής"
+
+msgid "HELP_Description field update delay"
+msgstr "ΒΟΗΘΕΙΑ_Καθυστέρηση ενημέρωσης πλαισίου περιγραφής"
+
+msgid "HELP_Disable EMC"
+msgstr "ΒΟΗΘΕΙΑ_Απενεργοποίηση του EMC"
+
+msgid "HELP_Display directory reading text"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση κειμένου ανάγνωσης φακέλου"
+
+msgid "HELP_Don't auto scan size of dirs from emc-noscan.cfg"
+msgstr "ΒΟΗΘΕΙΑ_Να μη γίνεται αυτόματη ανίχνευση του μεγέθους των φακέλων από το emc-noscan.cfg"
+
+msgid "HELP_Download cutlist from Cutlist.at"
+msgstr "ΒΟΗΘΕΙΑ_Λήψη λίστας αποκοπών από το Cutlist.at"
+
+msgid "HELP_Dynamic trashcan"
+msgstr "ΒΟΗΘΕΙΑ_Δυναμικός κάδος αχρήστων"
+
+msgid "HELP_EMC always reload after open"
+msgstr "ΒΟΗΘΕΙΑ_Πάντα επαναφόρτωση του EMC μετά το άνοιγμα"
+
+msgid "HELP_EMC output directory"
+msgstr "ΒΟΗΘΕΙΑ_EMC φάκελος εξόδου"
+
+msgid "HELP_EMC path access limit"
+msgstr "ΒΟΗΘΕΙΑ_Όριο πρόσβασης διαδρομής EMC"
+
+msgid "HELP_EMC re-open list after Movie end"
+msgstr "ΒΟΗΘΕΙΑ_EMC άνοιγμα ξανά της λίστας μετά το τέλος της Ταινίας"
+
+msgid "HELP_EMC re-open list after STOP-press"
+msgstr "ΒΟΗΘΕΙΑ_EMC άνοιγμα ξανά της λίστας μετά την πίεση του STOP"
+
+msgid "HELP_Enable EMC debug output"
+msgstr "ΒΟΗΘΕΙΑ_Ενεργοποίηση εξόδου εκσφαλμάτωσης EMC"
+
+msgid "HELP_Enable daily trashcan cleanup"
+msgstr "ΒΟΗΘΕΙΑ_Ενεργοποίηση καθημερινής εκκαθάρισης του κάδου αχρήστων"
+
+msgid "HELP_Enable playback AC3-track first"
+msgstr "ΒΟΗΘΕΙΑ_Ενεργοποίηση πρώτα της φέρουσας AC3"
+
+msgid "HELP_Enable playback auto-language selection"
+msgstr "ΒΟΗΘΕΙΑ_Ενεργοποίηση αυτόματης επιλογής γλώσσας αναπαραγωγής"
+
+msgid "HELP_Enable playback auto-subtitling"
+msgstr "ΒΟΗΘΕΙΑ_Ενεργοποίηση αυτόματων υποτίτλων κατά την αναπαραγωγή"
+
+msgid "HELP_Enable remote recordings"
+msgstr "ΒΟΗΘΕΙΑ_Ενεργοποίηση απομακρυσμένων εγγραφών"
+
+msgid "HELP_Fallback Cover"
+msgstr "ΒΟΗΘΕΙΑ_Εναλλακτικό Εξώφυλλο"
+
+msgid "HELP_Finished watching percent"
+msgstr "ΒΟΗΘΕΙΑ_Ποσοστό ολοκλήρωσης παρακολούθησης"
+
+msgid "HELP_Force standby after auto-start"
+msgstr "ΒΟΗΘΕΙΑ_Αναγκαστική αναμονή μετά την αυτόματη έναρξη"
+
+msgid "HELP_Hide movies being deleted"
+msgstr "ΒΟΗΘΕΙΑ_Απόκρυψη ταινιών που διαγράφονται"
+
+msgid "HELP_Hide movies being moved"
+msgstr "ΒΟΗΘΕΙΑ_Απόκρυψη ταινιών που μετακινούνται"
+
+msgid "HELP_Horizontal alignment for count / size"
+msgstr "ΒΟΗΘΕΙΑ_Οριζόντια στοίχιση για αριθμό / μέγεθος"
+
+msgid "HELP_Horizontal alignment for date"
+msgstr "ΒΟΗΘΕΙΑ_Οριζόντια στοίχιση για ημερομηνία"
+
+msgid "HELP_How many days files may remain in trashcan"
+msgstr "ΒΟΗΘΕΙΑ_Πόσες ημέρες τα αρχεία θα παραμένουν στον κάδο αχρήστων"
+
+msgid "HELP_Icon shown for initially unknown count / size"
+msgstr "ΒΟΗΘΕΙΑ_Εμφανιζόμενο εικονίδιο για αρχικά άγνωστο αριθμό / μέγεθος"
+
+msgid "HELP_Jump to first mark when playing movie"
+msgstr "ΒΟΗΘΕΙΑ_Μετάβαση στον πρώτο σημειωτή κατά την αναπαραγωγή της ταινίας"
+
+msgid "HELP_Key period value (50-900)"
+msgstr "ΒΟΗΘΕΙΑ_Τιμή περιόδου πλήκτρου (50-900)"
+
+msgid "HELP_Key repeat value (250-900)"
+msgstr "ΒΟΗΘΕΙΑ_Τιμή επανάληψης πλήκτρου (250-900)"
+
+msgid "HELP_Latest Recordings directory limit"
+msgstr "ΒΟΗΘΕΙΑ_Όριο φακέλου Τελευταίων Εγγραφών"
+
+msgid "HELP_Latest Recordings directory use emc-noscan.cfg"
+msgstr "ΒΟΗΘΕΙΑ_Χρήση του emc-noscan.cfg για το φάκελο Τελευταίων Εγγραφών"
+
+msgid "HELP_Leave Movie with Exit"
+msgstr "ΒΟΗΘΕΙΑ_Έξοδος από την Ταινία με το Exit"
+
+msgid "HELP_Limit file operations in dirs from emc-noscan.cfg"
+msgstr "ΒΟΗΘΕΙΑ_Περιορισμός ενεργειών αρχείου σε φακέλους του emc-noscan.cfg"
+
+msgid "HELP_List entries to skip"
+msgstr "ΒΟΗΘΕΙΑ_Λίστα στοιχείων προς παράκαμψη"
+
+msgid "HELP_Listbox is skin able"
+msgstr "ΒΟΗΘΕΙΑ_Η λίστα μπορεί να θεματοποιηθεί"
+
+msgid "HELP_Long Blue button function"
+msgstr "ΒΟΗΘΕΙΑ_Λειτουργία παρατεταμένου μπλε πλήκτρου"
+
+msgid "HELP_Long Red button function"
+msgstr "ΒΟΗΘΕΙΑ_Λειτουργία παρατεταμένου κόκκινου πλήκτρου"
+
+msgid "HELP_Long Yellow button function"
+msgstr "ΒΟΗΘΕΙΑ_Λειτουργία παρατεταμένου κίτρινου πλήκτρου"
+
+msgid "HELP_LongInfo Button"
+msgstr "ΒΟΗΘΕΙΑ_Παρατεταμένο πλήκτρο πληροφοριών"
+
+msgid "HELP_Mark new recordings with a star"
+msgstr "ΒΟΗΘΕΙΑ_Μαρκάρισμα νέων εγγραφών με αστέρι"
+
+msgid "HELP_Minimum file cache limit"
+msgstr "ΒΟΗΘΕΙΑ_Ελάχιστο όριο προφόρτωσης αρχείου"
+
+msgid "HELP_Move finished movies in trashcan"
+msgstr "ΒΟΗΘΕΙΑ_Μετακίνηση των ολοκληρωμένων ταινιών στον κάδο αχρήστων"
+
+msgid "HELP_Movie home at start"
+msgstr "ΒΟΗΘΕΙΑ_Κεντρικός φάκελος ταινιών στην αρχή"
+
+msgid "HELP_Movie home home path"
+msgstr "ΒΟΗΘΕΙΑ_Διαδρομή κεντρικού φακέλου ταινιών"
+
+msgid "HELP_Movie preview delay in ms"
+msgstr "ΒΟΗΘΕΙΑ_Καθυστέρηση προεπισκόπησης ταινίας σε ms"
+
+msgid "HELP_Movie preview offset in seconds"
+msgstr "ΒΟΗΘΕΙΑ_Καθυστέρηση προεπισκόπησης ταινίας σε δευτερόλεπτα"
+
+msgid "HELP_No resume below 10 seconds"
+msgstr "ΒΟΗΘΕΙΑ_Χωρίς επανασυνέχιση κάτω των 10 δευτερολέπτων"
+
+msgid "HELP_Own Path to movie picons"
+msgstr "ΒΟΗΘΕΙΑ_Διαδρομή Χρήστη λογότυπων ταινιών"
+
+msgid "HELP_Path to movie picons"
+msgstr "ΒΟΗΘΕΙΑ_Διαδρομή λογότυπων ταινιών"
+
+msgid "HELP_Position movie picons"
+msgstr "ΒΟΗΘΕΙΑ_Θέση λογοτύπων ταινιών"
+
+msgid "HELP_Preferred EPG language"
+msgstr "ΒΟΗΘΕΙΑ_Προτιμώμενη γλώσσα EPG"
+
+msgid "HELP_Primary playback audio language"
+msgstr "ΒΟΗΘΕΙΑ_Κύρια γλώσσα ήχου αναπαραγωγής"
+
+msgid "HELP_Primary playback subtitle language"
+msgstr "ΒΟΗΘΕΙΑ_Κύρια γλώσσα υπότιτλου αναπαραγωγής"
+
+msgid "HELP_Red button function"
+msgstr "ΒΟΗΘΕΙΑ_Λειτουργία κόκκινου πλήκτρου"
+
+msgid "HELP_Replace special chars in title"
+msgstr "ΒΟΗΘΕΙΑ_Αντικατάσταση ειδικών χαρακτήρων στον τίτλο"
+
+msgid "HELP_Resolve links and show real path"
+msgstr "ΒΟΗΘΕΙΑ_Ανάλυση συνδέσμων και εμφάνιση πραγματικής διαδρομής"
+
+msgid "HELP_Rewind finished movies before playing"
+msgstr "ΒΟΗΘΕΙΑ_Προώθηση προς τα πίσω των ολοκληρωμένων ταινιών πριν την αναπαραγωγή"
+
+msgid "HELP_Scan for DVD structures"
+msgstr "ΒΟΗΘΕΙΑ_Ανίχνευση δομών DVD"
+
+msgid "HELP_Scan for bluray structures"
+msgstr "ΒΟΗΘΕΙΑ_Ανίχνευση δομών bluray"
+
+msgid "HELP_Scan for bluray structures in .iso"
+msgstr "ΒΟΗΘΕΙΑ_Ανίχνευση δομών bluray στο .iso"
+
+msgid "HELP_Scan for movie structures"
+msgstr "ΒΟΗΘΕΙΑ_Ανίχνευση δομών ταινιών"
+
+msgid "HELP_Secondary playback audio language"
+msgstr "ΒΟΗΘΕΙΑ_Δεύτερη γλώσσα ήχου αναπαραγωγής"
+
+msgid "HELP_Secondary playback subtitle language"
+msgstr "ΒΟΗΘΕΙΑ_Δεύτερη γλώσσα υπότιτλου αναπαραγωγής"
+
+msgid "HELP_Short watching percent"
+msgstr "ΒΟΗΘΕΙΑ_Σύντομο ποσοστό παρακολούθησης"
+
+msgid "HELP_Show Bookmarks in movielist"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση Σελιδοδεικτών στη λίστα ταινιών"
+
+msgid "HELP_Show Cover"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση Εξωφύλλου"
+
+msgid "HELP_Show Cut-Nr if exist"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση αριθμού Αποκοπής αν υπάρχει"
+
+msgid "HELP_Show EMC in extensions menu"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση του EMC στη λίστα επεκτάσεων"
+
+#, fuzzy
+msgid "HELP_Show EMC in main menu"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση του EMC στη λίστα επεκτάσεων"
+
+msgid "HELP_Show Latest Recordings directory"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση φακέλου Τελευταίων Εγγραφών"
+
+msgid "HELP_Show Movie Format"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση Φορμά Ταινίας"
+
+msgid "HELP_Show Path if no extended description available"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση Διαδρομής αν δεν διατίθεται εκτεταμένη περιγραφή"
+
+msgid "HELP_Show VLC directory"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση φακέλου VLC"
+
+#, fuzzy
+msgid "HELP_Show audio metadata"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση μεταταδεδομένων ήχου (απαιτούνται αλλαγές στο θέμα)"
+
+msgid "HELP_Show directories"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση φακέλων"
+
+msgid "HELP_Show directories information"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση πληροφοριών φακέλων"
+
+msgid "HELP_Show directories within movielist"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση φακέλων εντός της λίστας ταινιών"
+
+msgid "HELP_Show directory size in skin"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση μεγέθους φακέλου στο θέμα"
+
+msgid "HELP_Show experimental options"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση πειραματικών επιλογών"
+
+msgid "HELP_Show link arrow"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση βέλους συντόμευσης"
+
+msgid "HELP_Show message if file added to playlist"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση μηνύματος όταν ένα αρχείο προστίθεται στη λίστα αναπαραγωγής"
+
+msgid "HELP_Show movie icons"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση εικονιδίων ταινιών"
+
+msgid "HELP_Show movie picons"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση λογότυπων ταινιών"
+
+msgid "HELP_Show movie preview"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση προεπισκόπησης ταινίας"
+
+msgid "HELP_Show movie progress"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση προόδου ταινίας"
+
+msgid "HELP_Show plugin config in extensions menu"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση των ρυθμίσεων του πρόσθετου στο μενού επεκτάσεων"
+
+msgid "HELP_Show real length of running records"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση πραγματικής διάρκειας των εκτελούμενων εγγραφών"
+
+msgid "HELP_Show symlinks"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση συντομεύσεων"
+
+msgid "HELP_Show trashcan directory"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση φακέλου κάδου αχρήστων"
+
+msgid "HELP_Sort mode at startup"
+msgstr "ΒΟΗΘΕΙΑ_Λειτουργία Ταξινόμησης στην εκκίνηση"
+
+msgid "HELP_Start EMC with"
+msgstr "ΒΟΗΘΕΙΑ_Εκκίνηση του EMC με"
+
+#, fuzzy
+msgid "HELP_Style for original EMC-skin (needs reopen)"
+msgstr "ΒΟΗΘΕΙΑ_Χρήση του αρχικού θέματος EMC (απαιτείται επανεκκίνηση)"
+
+msgid "HELP_Tertiary playback audio language"
+msgstr "ΒΟΗΘΕΙΑ_Τρίτη γλώσσα υπότιτλου αναπαραγωγής"
+
+msgid "HELP_Tertiary playback subtitle language"
+msgstr "ΒΟΗΘΕΙΑ_Τρίτη γλώσσα υπότιτλου αναπαραγωγής"
+
+msgid "HELP_Text shown for initially unknown count and size"
+msgstr "ΒΟΗΘΕΙΑ_Εμφανιζόμενο κείμενο για αρχικά άγνωστο αριθμό και μέγεθος"
+
+msgid "HELP_Text shown for initially unknown directory size"
+msgstr "ΒΟΗΘΕΙΑ_Εμφανιζόμενο κείμενο για αρχικά άγνωστο μέγεθος φακέλου"
+
+msgid "HELP_Text shown for initially unknown file count"
+msgstr "ΒΟΗΘΕΙΑ_Εμφάνιση κειμένου για αρχικά άγνωστη αρίθμηση αρχείου"
+
+msgid "HELP_Trashcan enable"
+msgstr "ΒΟΗΘΕΙΑ_Ενεργοποίηση κάδου αχρήστων"
+
+msgid "HELP_Trashcan path"
+msgstr "ΒΟΗΘΕΙΑ_Διαδρομή κάδου αχρήστων"
+
+#, fuzzy
+msgid "HELP_Try to load extra title and more from .meta files"
+msgstr "ΒΟΗΘΕΙΑ_Προσπάθεια φόρτωσης τίτλων από αρχεία .meta"
+
+msgid "HELP_Try to load titles from .eit files"
+msgstr "ΒΟΗΘΕΙΑ_Προσπάθεια φόρτωσης τίτλων από αρχεία .eit"
+
+msgid "HELP_Try to load titles from .meta files"
+msgstr "ΒΟΗΘΕΙΑ_Προσπάθεια φόρτωσης τίτλων από αρχεία .meta"
+
+msgid "HELP_Use cache for files and directories"
+msgstr "ΒΟΗΘΕΙΑ_Χρήση προσωρινής μνήμης για αρχεία και φακέλους"
+
+msgid "HELP_Use original EMC-skin (needs reopen)"
+msgstr "ΒΟΗΘΕΙΑ_Χρήση του αρχικού θέματος EMC (απαιτείται επανεκκίνηση)"
+
+msgid "HELP_Wake device when entering dir from emc-noscan.cfg"
+msgstr "ΒΟΗΘΕΙΑ_Αφύπνιση συσκευής κατά την εισαγωγή φακέλου από το emc-noscan.cfg"
+
+msgid "HELP_Yellow button function"
+msgstr "ΒΟΗΘΕΙΑ_Λειτουργία κίτρινου πλήκτρου"
+
+msgid "HELP_Zap to channel after record EOF"
+msgstr "ΒΟΗΘΕΙΑ_Μετάβαση στο κανάλι μετά την εγγραφή του EOF"
+
+msgid "HELP_auto-start window begin"
+msgstr "ΒΟΗΘΕΙΑ_εκκίνηση παραθύρου αυτόματης έναρξης"
+
+msgid "HELP_auto-start window end"
+msgstr "ΒΟΗΘΕΙΑ_τέλος παραθύρου αυτόματης έναρξης"
+
+msgid "HELP_cfghide_enable"
+msgstr "ΒΟΗΘΕΙΑ_ενεργοποίηση_απόκρυψης_cfg"
+
+msgid "HELP_cfgscan_suppress"
+msgstr "ΒΟΗΘΕΙΑ_καταστολή_ανίχνευσης_cfg"
+
+msgid "HELP_hide_MiniTV"
+msgstr "ΒΟΗΘΕΙΑ_απόκρυψη_MiniTV"
+
+#, fuzzy
+msgid "HELP_hide_MiniTV cover"
+msgstr "ΒΟΗΘΕΙΑ_απόκρυψη_MiniTV"
+
+msgid "HELP_hide_MiniTV_method"
+msgstr "ΒΟΗΘΕΙΑ_μέθοδος_απόκρυψης_MiniTV"
+
+msgid "HELP_scan_linked"
+msgstr "ΒΟΗΘΕΙΑ_ανίχνευση_συνδεδεμένων"
+
+msgid "Hide Cover"
+msgstr "Απόκρυψη Εξωφύλλου"
+
+msgid "Hide MiniTV"
+msgstr "Απόκρυψη MiniTV"
+
+msgid "Hide MiniTV if Cover is shown"
+msgstr ""
+
+msgid "Hide configured entries"
+msgstr "Απόκρυψη ρυθμισμένων στοιχείων"
+
+msgid "Hide movies being deleted"
+msgstr "Απόκρυψη ταινιών που διαγράφονται"
+
+msgid "Hide movies being moved"
+msgstr "Απόκρυψη ταινιών που μετακινούνται"
+
+msgid "HomeEnd"
+msgstr "Τέλος Κεντρικής"
+
+msgid "Horizontal alignment for count / size"
+msgstr "Οριζόντια στοίχιση για αριθμό / μέγεθος"
+
+msgid "Horizontal alignment for date"
+msgstr "Οριζόντια στοίχιση για ημερομηνία"
+
+msgid "How many days files may remain in trashcan"
+msgstr "Πόσες ημέρες τα αρχεία θα παραμένουν στον κάδο αχρήστων"
+
+msgid ""
+"How to copy files:\n"
+"Select some movies with the VIDEO-button, move the cursor on top of the destination directory and press yellow long."
+msgstr ""
+"Τρόπος αντιγραφής αρχείων:\n"
+"Επιλέξτε κάποιες ταινίες με το πλήκτρο VIDEO, μετακινήστε τον κέρσορα στην κορυφή του φακέλου προορισμού και πιέστε παρατεταμένα το κίτρινο."
+
+msgid ""
+"How to move files:\n"
+"Select some movies with the VIDEO-button, move the cursor on top of the destination directory and press yellow."
+msgstr ""
+"Τρόπος μετακίνησης αρχείων:\n"
+"Επιλέξτε κάποιες ταινίες με το πλήκτρο VIDEO, μετακινήστε τον κέρσορα στην κορυφή του φακέλου προορισμού και πιέστε το κίτρινο."
+
+msgid "IMDBSearch / EMC-TMDBInfo / TMDBInfo / TMBDInfo / CSFDInfo"
+msgstr "Αναζήτηση IMDB / Πληροφορίες EMC-TMDB / Πληροφορίες TMDB / Πληροφορίες TMBD / Πληροφορίες CSFD"
+
+msgid "IMDb"
+msgstr "IMDb"
+
+msgid "IMDb Search"
+msgstr "Αναζήτηση IMDb"
+
+msgid "Icon shown for initially unknown count / size"
+msgstr "Εμφανιζόμενο εικονίδιο για αρχικά άγνωστο αριθμό / μέγεθος"
+
+msgid "Information"
+msgstr "Πληροφορίες"
+
+msgid "Italian"
+msgstr ""
+
+msgid "Jump to first mark when playing movie"
+msgstr "Μετάβαση στον πρώτο σημειωτή κατά την αναπαραγωγή της ταινίας"
+
+msgid "KEYMAPPING"
+msgstr ""
+
+msgid "Key period value (50-900)"
+msgstr "Τιμή περιόδου πλήκτρου (50-900)"
+
+msgid "Key repeat value (250-900)"
+msgstr "Τιμή επανάληψης πλήκτρου (250-900)"
+
+msgid "LANGUAGE"
+msgstr ""
+
+msgid "Language:"
+msgstr "Γλώσσα:"
+
+msgid "Last played movie/playlist not available..."
+msgstr "Η τελευταία αναπαραγώμενη ταινία/λίστα αναπαραγωγής δεν είναι διαθέσιμη..."
+
+msgid "Latest"
+msgstr "Τελευταία"
+
+msgid "Latest Recordings"
+msgstr "Τελευταίες Εγγραφές"
+
+msgid "Latest Recordings directory limit"
+msgstr "Όριο φακέλου Τελευταίων Εγγραφών"
+
+msgid "Latest Recordings directory use emc-noscan.cfg"
+msgstr "Χρήση του emc-noscan.cfg για το φάκελο Τελευταίων Εγγραφών"
+
+msgid "Leave Movie with Exit"
+msgstr "Έξοδος από την Ταινία με το Exit"
+
+msgid "Light green"
+msgstr ""
+
+msgid "Light grey"
+msgstr ""
+
+msgid "Light orange"
+msgstr ""
+
+msgid "Light red"
+msgstr ""
+
+msgid "Limit file operations in dirs from emc-noscan.cfg"
+msgstr "Περιορισμός ενεργειών αρχείου σε φακέλους του emc-noscan.cfg"
+
+msgid "Link"
+msgstr "Σύνδεση"
+
+msgid "List entries to skip"
+msgstr "Λίστα στοιχείων προς παράκαμψη"
+
+msgid "Listbox is skin able"
+msgstr "Η λίστα μπορεί να θεματοποιηθεί"
+
+msgid "Load Genre:"
+msgstr "Φόρτωση Είδους:"
+
+msgid "Load Production Countries:"
+msgstr "Φόρτωση Χωρών Παραγωγής:"
+
+msgid "Load Release Date:"
+msgstr "Φόρτωση Ημερομηνίας Κυκλοφορίας:"
+
+msgid "Load Runtime:"
+msgstr "Φόρτωση Χρονικής Διάρκειας:"
+
+msgid "Load Vote:"
+msgstr "Φόρτωση Βαθμολογίας:"
+
+msgid "Load default settings will overwrite all settings, really load them?"
+msgstr "Η φόρτωση των προεπιλεγμένων ρυθμίσεων θα διαγράψει όλες τις ρυθμίσεις, να γίνει σίγουρα φόρτωση;"
+
+msgid "Locate rogue files and remove them? (permanently if no trashcan available, may take a minute or so)"
+msgstr "Εντοπισμός και αφαίρεση περιττών αρχείων; (μόνιμα σε μη διαθέσιμο κάδο αχρήστων, μπορεί να χρειαστεί ένα λεπτό περίπου)"
+
+msgid "Location:"
+msgstr "Τοποθεσία:"
+
+msgid "Long Blue button function"
+msgstr "Λειτουργία παρατεταμένου μπλε πλήκτρου"
+
+msgid "Long Red button function"
+msgstr "Λειτουργία παρατεταμένου κόκκινου πλήκτρου"
+
+msgid "Long Yellow button function"
+msgstr "Λειτουργία παρατεταμένου κίτρινου πλήκτρου"
+
+msgid "LongInfo Button"
+msgstr "Παρατεταμένο πλήκτρο πληροφοριών"
+
+msgid "MM/DD HH:MM"
+msgstr "ΜΜ/ΗΗ ΩΩ:ΛΛ"
+
+msgid "Manage Cover"
+msgstr "Διαχείριση Εξωφύλλου"
+
+msgid "Mark all movies"
+msgstr "Μαρκάρισμα όλων των ταινιών"
+
+msgid "Mark new recordings with a star"
+msgstr "Μαρκάρισμα νέων εγγραφών με αστέρι"
+
+msgid "Method of hiding MiniTV"
+msgstr "Μέθοδος απόκρυψης της MiniTV"
+
+msgid "Minimum file cache limit (0=cache everything)"
+msgstr "Ελάχιστο όριο μεγέθους προσωρινής αποθήκευσης αρχείου (0= αποθήκευση όλων)"
+
+msgid "Minutes"
+msgstr "Λεπτά"
+
+msgid "Month"
+msgstr "Μήνας"
+
+msgid "Months"
+msgstr "Μήνες"
+
+msgid "Move Cover to:"
+msgstr "Μετακίνηση Εξωφύλλου σε:"
+
+msgid "Move Directory:"
+msgstr "Μετακίνηση Φακέλου:"
+
+msgid "Move File"
+msgstr "Μετακίνηση Αρχείου"
+
+msgid "Move Files"
+msgstr "Μετακίνηση Αρχείων"
+
+msgid "Move cursor down"
+msgstr "Μετακίνηση κέρσορα κάτω"
+
+msgid "Move cursor page down"
+msgstr "Μετακίνηση κέρσορα μία σελίδα κάτω"
+
+msgid "Move cursor page up"
+msgstr "Μετακίνηση κέρσορα μία σελίδα επάνω"
+
+msgid "Move cursor to the end / Move cursor x entries down / Switch Folders in Movie Home (down)"
+msgstr "Μετακίνηση κέρσορα στο τέλος / Μετακίνηση κέρσορα x στοιχεία κάτω / Αλλαγή Φακέλων στην Κεντρική Σελίδα Ταινιών (κάτω)"
+
+msgid "Move cursor to the top / Move cursor x entries up / Switch Folders in Movie Home (up)"
+msgstr "Μετακίνηση κέρσορα στην κορυφή / Μετακίνηση κέρσορα x στοιχεία επάνω / Αλλαγή Φακέλων στην Κεντρική Σελίδα Ταινιών (επάνω)"
+
+msgid "Move cursor up"
+msgstr "Μετακίνηση κέρσορα επάνω"
+
+msgid "Move file(s):"
+msgstr "Μετακίνηση αρχείου(ων):"
+
+msgid "Move finished movies in trashcan"
+msgstr "Μετακίνηση των ολοκληρωμένων ταινιών στον κάδο αχρήστων"
+
+msgid "Movie Color"
+msgstr "Χρώμα Ταινίας"
+
+#, python-format
+msgid ""
+"Movie Cover downloaded successfully!\n"
+"\n"
+"Can not write Movie Information File\n"
+"\n"
+"%s"
+msgstr ""
+"Επιτυχής λήψη Εξωφύλλου Ταινίας!\n"
+"\n"
+"Αδυναμία εγγραφής αρχείου Πληροφοριών Ταινίας\n"
+"\n"
+"%s"
+
+msgid "Movie Information Download Setup"
+msgstr "Ρυθμίσεις Λήψης Πληροφοριών Ταινίας"
+
+msgid "Movie Information Preview for:"
+msgstr "Προεπισκόπηση Πληροφοριών Ταινίας για:"
+
+msgid "Movie Information TMDb"
+msgstr "Πληροφορίες Ταινίας TMDb"
+
+msgid "Movie Information and Cover downloaded successfully!"
+msgstr "Επιτυχής λήψη Πληροφοριών και Εξωφύλλου Ταινίας!"
+
+msgid "Movie Information downloaded successfully!"
+msgstr "Επιτυχής λήψη Πληροφοριών Ταινίας"
+
+#, python-format
+msgid ""
+"Movie Information downloaded successfully!\n"
+"\n"
+"Can not write Movie Cover File\n"
+"\n"
+"%s"
+msgstr ""
+"Επιτυχής λήψη Πληροφοριών Ταινίας!\n"
+"\n"
+"Αδυναμία εγγραφής αρχείου Εξωφύλλου\n"
+"\n"
+"%s"
+
+msgid "Movie Selection Menu"
+msgstr "Μενού Επιλογής Ταινιών"
+
+msgid "Movie home"
+msgstr "Κεντρικός φάκελος ταινιών"
+
+msgid "Movie home at start"
+msgstr "Κεντρικός φάκελος ταινιών στην αρχή"
+
+msgid "Movie home home path"
+msgstr "Διαδρομή κεντρικού φακέλου ταινιών"
+
+msgid "Movie information"
+msgstr "Πληροφορίες ταινίας"
+
+msgid "Movie preview delay in ms"
+msgstr "Καθυστέρηση προεπισκόπησης ταινίας σε ms"
+
+msgid "Movies"
+msgstr "Ταινίες"
+
+msgid "Movietitle:"
+msgstr "Τίτλος ταινίας:"
+
+msgid "N/A"
+msgstr "Μ/Δ"
+
+msgid "Next auto-start in "
+msgstr "Επόμενη αυτόματη εκκίνηση σε "
+
+msgid "No"
+msgstr "Όχι"
+
+#, python-format
+msgid "No Cover: %s"
+msgstr "Χωρίς Εξώφυλλο: %s"
+
+msgid "No DVD-Player found!"
+msgstr "Δεν βρέθηκε αναπαραγωγός DVD!"
+
+msgid "No Movies found!"
+msgstr "Δεν βρέθηκαν Ταινίες!"
+
+msgid "No functionality set..."
+msgstr "Μη ορισμένη λειτουργικότητα..."
+
+msgid "No limit"
+msgstr "Χωρίς όριο"
+
+msgid "No override"
+msgstr "Χωρίς επικάλυψη"
+
+msgid "No resume below 10 seconds"
+msgstr "Χωρίς επανασυνέχιση κάτω των 10 δευτερολέπτων"
+
+msgid "No rogue files found."
+msgstr "Δεν βρέθηκαν περιττά αρχεία."
+
+msgid "No script operation for VLC streams."
+msgstr "Χωρίς λειτουργία script για τις ροές VLC."
+
+#, fuzzy
+msgid "Not all timers have been stopped. Modify them with the timer editor."
+msgstr "Μη διακοπή κανενός επαναλαμβανόμενου χρονοδιακόπτη. Τροποποιήστε τους με την επεξεργασία χρονοδιακοπτών."
+
+msgid "Nothing was found !"
+msgstr "Δεν βρέθηκε τίποτα !"
+
+msgid "OSError - please reload list (EMC menu)"
+msgstr "Σφάλμα OS - παρακαλώ επαναφορτώστε τη λίστα (μενού EMC)"
+
+msgid "OTHER"
+msgstr ""
+
+msgid "Off"
+msgstr "Κλειστό"
+
+msgid "Open"
+msgstr "Άνοιγμα"
+
+msgid "Open E2 Bookmark path"
+msgstr "Άνοιγμα διαδρομής Σελιδοδείκτη Ε2"
+
+msgid "Open E2 bookmarks"
+msgstr "Άνοιγμα σελιδοδεικτών Ε2"
+
+msgid "Open EMC Bookmark path"
+msgstr "Άνοιγμα διαδρομής Σελιδοδείκτη EMC"
+
+msgid "Open Timer List"
+msgstr "Άνοιγμα Λίστας Χρονοδιακοπτών"
+
+msgid "Open menu"
+msgstr "Άνοιγμα μενού"
+
+msgid "Orange"
+msgstr ""
+
+msgid "Own Path to movie picons"
+msgstr "Διαδρομή Χρήστη λογότυπων ταινιών"
+
+msgid "Path to movie picons"
+msgstr "Διαδρομή λογότυπων ταινιών"
+
+msgid "Percent (%)"
+msgstr "Ποσοστό (%)"
+
+msgid "Performance"
+msgstr "Επιδόσεις"
+
+msgid "Permanently delete all files in trashcan?"
+msgstr "Οριστική διαγραφή όλων των αρχείων του κάδου αχρήστων;"
+
+msgid "Play All"
+msgstr "Αναπαραγωγή Όλων"
+
+msgid "Play All starting"
+msgstr "Εκκίνηση Αναπαραγωγής Όλων"
+
+msgid "Play current Playlist"
+msgstr "Αναπαραγωγή τρέχουσας Λίστας Αναπαραγωγής"
+
+msgid "Play last"
+msgstr "Αναπαραγωγή τελευταίου"
+
+msgid "Play last movie starting"
+msgstr "Εκκίνηση αναπαραγωγής τελευταίας ταινίας"
+
+msgid "Play random current Playlist"
+msgstr "Τυχαία αναπαραγωγή τρέχουσας Λίστας"
+
+msgid "Play selected movie(s)"
+msgstr "Αναπαραγωγή επιλεγμένης(ων) ταινίας(ων)"
+
+msgid "Playlist Options"
+msgstr "Επιλογές Λίστας Αναπαραγωγής"
+
+msgid "Playlist Setup"
+msgstr "Ρυθμίσεις Λίστας Αναπαραγωγής"
+
+msgid "Playlist open"
+msgstr "Λίστα αναπαραγωγής ανοιχτή"
+
+msgid ""
+"Playlist with same name exists!\n"
+"\n"
+"Try to save the Playlist with another name?"
+msgstr ""
+"Μία Λίστα Αναπαραγωγής με το ίδιο όνομα υπάρχει ήδη!\n"
+"\n"
+"Προσπάθεια αποθήκευσης της Λίστας με άλλο όνομα;"
+
+msgid "Portuguese"
+msgstr ""
+
+msgid "Position movie picons"
+msgstr "Θέση λογοτύπων ταινιών"
+
+msgid "Preferred EPG language"
+msgstr "Προτιμώμενη γλώσσα EPG"
+
+msgid "Preferred cover resolution (if possible):"
+msgstr "Προτιμώμενη ανάλυση εξωφύλλου (αν είναι δυνατό):"
+
+msgid "Press green button to start search"
+msgstr "Πατήστε το πράσινο κουμπί για να ξεκινήσετε την αναζήτηση"
+
+msgid "Primary playback audio language"
+msgstr "Κύρια γλώσσα ήχου αναπαραγωγής"
+
+msgid "Primary playback subtitle language"
+msgstr "Κύρια γλώσσα υπότιτλου αναπαραγωγής"
+
+msgid "Production Countries:"
+msgstr "Χώρες Παραγωγής:"
+
+msgid "Progress sort"
+msgstr "Ταξινόμηση προόδου"
+
+msgid "Progress sort ascending (P+)"
+msgstr "Αύξουσα ταξινόμηση προόδου (P+)"
+
+msgid "Progress sort descending (P-)"
+msgstr "Φθίνουσα ταξινόμηση προόδου (P-)"
+
+msgid "ProgressBar"
+msgstr "Μπάρα προόδου"
+
+msgid "REC"
+msgstr ""
+
+msgid "Radio-button"
+msgstr "Πλήκτρο ραδιοφώνου"
+
+msgid "Reading directory..."
+msgstr "Ανάγνωση φακέλου..."
+
+msgid "Really close without saving settings?"
+msgstr "Έξοδος χωρίς αποθήκευση ρυθμίσεων;"
+
+msgid "Reboot"
+msgstr "Επανεκκίνηση"
+
+msgid "Red"
+msgstr "Κόκκινο"
+
+msgid "Red button function"
+msgstr "Λειτουργία κόκκινου πλήκτρου"
+
+msgid "Release Date:"
+msgstr "Ημερομηνία Κυκλοφορίας:"
+
+msgid "Reload current directory"
+msgstr "Επαναφόρτωση τρέχοντος φακέλου"
+
+msgid "Reload movie file list"
+msgstr "Επαναφόρτωση λίστας αρχείων ταινιών"
+
+msgid "Remove all cut file marker permanently?"
+msgstr "Οριστική διαγραφή όλων σημειωτών των αρχείων αποκοπής;"
+
+msgid "Remove all marker permanently?"
+msgstr "Οριστική διαγραφή όλων των σημειωτών;"
+
+msgid "Remove cut list marker"
+msgstr "Αφαίρεση σημειωτή λίστας αποκοπών"
+
+msgid "Remove directory from E2 Bookmarks"
+msgstr "Αφαίρεση φακέλου από τους Σελιδοδείκτες Ε2"
+
+msgid "Remove directory from EMC Bookmarks"
+msgstr "Αφαίρεση φακέλου από τους Σελιδοδείκτες EMC"
+
+msgid "Remove permanent sort"
+msgstr "Αφαίρεση μόνιμης ταξινόμησης"
+
+msgid "Remove permanent sort from parent"
+msgstr "Αφαίρεση μόνιμης ταξινόμησης από το γονικό"
+
+msgid "Remove rogue files"
+msgstr "Αφαίρεση περιττών αρχείων"
+
+msgid "Remove selected E2 Bookmark"
+msgstr "Αφαίρεση επιλεγμένου Σελιδοδείκτη Ε2"
+
+msgid "Remove selected EMC Bookmark"
+msgstr "Αφαίρεση επιλεγμένου Σελιδοδείκτη EMC"
+
+msgid "Remove service selection"
+msgstr "Αφαίρεση επιλογής υπηρεσίας"
+
+msgid "Rename selected movie(s)"
+msgstr "Μετονομασία επιλεγμένων ταινιών"
+
+msgid "Replace special chars in title"
+msgstr "Αντικατάσταση ειδικών χαρακτήρων στον τίτλο"
+
+msgid "Reset marker from selected movie(s)"
+msgstr "Μηδενισμός σημειωτή από τις επιλεγμένες ταινίες"
+
+msgid "Resolve links and show real path"
+msgstr "Ανάλυση συνδέσμων και εμφάνιση πραγματικής διαδρομής"
+
+#, python-format
+msgid "Resume position at %s"
+msgstr "Συνέχιση από το %s"
+
+msgid "Resuming playback"
+msgstr "Επανασυνέχιση αναπαραγωγής"
+
+msgid "Rewind finished movies before playing"
+msgstr "Προώθηση προς τα πίσω των ολοκληρωμένων ταινιών πριν την αναπαραγωγή"
+
+msgid "Runtime:"
+msgstr "Χρονική διάρκεια:"
+
+msgid "SINGLE COVER-SEARCH"
+msgstr ""
+
+msgid "SKIN-SETTINGS"
+msgstr ""
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Save Cover"
+msgstr "Αποθήκευση Εξωφύλλου"
+
+msgid "Save current Playlist"
+msgstr "Αποθήκευση τρέχουσας Λίστας Αναπαραγωγής"
+
+msgid "Save description to movie.txt file:"
+msgstr "Αποθήκευση περιγραφής στο αρχείο movie.txt:"
+
+msgid "Scan for DVD structures"
+msgstr "Ανίχνευση δομών DVD"
+
+msgid "Scan for bluray structures"
+msgstr "Ανίχνευση δομών bluray"
+
+msgid "Scan for bluray structures in .iso"
+msgstr "Ανίχνευση δομών bluray στο .iso"
+
+msgid "Scan for movie structures"
+msgstr "Ανίχνευση δομών ταινιών"
+
+msgid "Scan linked folders"
+msgstr "Αναζήτηση σε συνδεδεμένους φακέλους"
+
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#, fuzzy
+msgid "Search Results per Search Site (without counting cover range):"
+msgstr " (χωρίς μέτρηση του εύρους εξωφύλλων)"
+
+msgid "Search Results per Search Site:"
+msgstr "Αποτελέσματα Αναζήτησης ανά Ιστότοπο Αναζήτησης :"
+
+msgid "Search filter for matching existing terms in the title:"
+msgstr "Φίλτρο αναζήτησης για υπάρχοντες όρους που ταιριάζουν στον τίτλο:"
+
+msgid "Search results for:"
+msgstr "Αποτελέσματα αναζήτησης για:"
+
+#, python-format
+msgid "Searching for %s"
+msgstr "Αναζήτηση για %s"
+
+msgid "Searching..."
+msgstr "Αναζήτηση..."
+
+msgid "Secondary playback audio language"
+msgstr "Δεύτερη γλώσσα ήχου αναπαραγωγής"
+
+msgid "Secondary playback subtitle language"
+msgstr "Δεύτερη γλώσσα υπότιτλου αναπαραγωγής"
+
+msgid "Seek backward"
+msgstr "Αναζήτηση προς τα πίσω"
+
+msgid "Seek forward"
+msgstr "Αναζήτηση εμπρός"
+
+msgid "Select Location"
+msgstr "Επιλογή Τοποθεσίας"
+
+msgid "Set path to save the folder Cover:"
+msgstr "Ορισμός διαδρομής αποθήκευσης του Εξωφύλλου φακέλου:"
+
+msgid "Set permanent sort"
+msgstr "Ορισμός μόνιμης ταξινόμησης"
+
+msgid "Settings have been Saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+msgid "Setup"
+msgstr "Εγκατάσταση"
+
+msgid "Setup open"
+msgstr "Ρυθμίσεις ανοικτές"
+
+msgid "Short watching percent"
+msgstr "Σύντομο ποσοστό παρακολούθησης"
+
+msgid "Show Bookmarks in movielist"
+msgstr "Εμφάνιση Σελιδοδεικτών στη λίστα ταινιών"
+
+msgid "Show Cover"
+msgstr "Εμφάνιση Εξωφύλλου"
+
+msgid "Show Cut-Nr if exist"
+msgstr "Εμφάνιση αριθμού Αποκοπής αν υπάρχει"
+
+msgid "Show EMC in extensions menu"
+msgstr "Εμφάνιση του EMC στη λίστα επεκτάσεων"
+
+#, fuzzy
+msgid "Show EMC in main menu"
+msgstr "Εμφάνιση του EMC στη λίστα επεκτάσεων"
+
+msgid "Show Latest Recordings directory"
+msgstr "Εμφάνιση φακέλου Τελευταίων Εγγραφών"
+
+msgid "Show Movie Format"
+msgstr "Εμφάνιση Φορμά Ταινίας"
+
+msgid "Show Path if no extended description available"
+msgstr "Εμφάνιση Διαδρομής αν δεν διατίθεται εκτεταμένη περιγραφή"
+
+msgid "Show VLC directory"
+msgstr "Εμφάνιση φακέλου VLC"
+
+#, fuzzy
+msgid "Show audio metadata"
+msgstr "Εμφάνιση μεταταδεδομένων ήχου (απαιτούνται αλλαγές στο θέμα)"
+
+msgid "Show current Playlist"
+msgstr "Εμφάνιση τρέχουσας Λίστας Αναπαραγωγής"
+
+msgid "Show directories"
+msgstr "Εμφάνιση φακέλων"
+
+msgid "Show directories information"
+msgstr "Εμφάνιση πληροφοριών φακέλων"
+
+msgid "Show directories within movielist"
+msgstr "Εμφάνιση φακέλων εντός της λίστας ταινιών"
+
+msgid "Show directory size in skin"
+msgstr "Εμφάνιση μεγέθους φακέλου στο θέμα"
+
+msgid "Show event info"
+msgstr "Εμφάνιση πληροφοριών προγράμματος"
+
+msgid "Show experimental options"
+msgstr "Εμφάνιση πειραματικών επιλογών"
+
+msgid "Show fallback cover"
+msgstr "Εμφάνιση εναλλακτικού εξωφύλλου"
+
+msgid "Show info at the bottom"
+msgstr ""
+
+msgid "Show info at the bottom (with MiniTV)"
+msgstr ""
+
+msgid "Show info on the left"
+msgstr ""
+
+msgid "Show info on the left (with MiniTV)"
+msgstr ""
+
+msgid "Show link arrow"
+msgstr "Εμφάνιση βέλους συντόμευσης"
+
+msgid "Show message if file added to playlist"
+msgstr "Εμφάνιση μηνύματος όταν ένα αρχείο προστίθεται στη λίστα αναπαραγωγής"
+
+msgid "Show movie icons"
+msgstr "Εμφάνιση εικονιδίων ταινιών"
+
+msgid "Show movie picons"
+msgstr "Εμφάνιση λογότυπων ταινιών"
+
+msgid "Show movie preview"
+msgstr "Εμφάνιση προεπισκόπησης ταινίας"
+
+msgid "Show movie progress"
+msgstr "Εμφάνιση προόδου ταινίας"
+
+msgid "Show plugin config in extensions menu"
+msgstr "Εμφάνιση των ρυθμίσεων του πρόσθετου στο μενού επεκτάσεων"
+
+msgid "Show real length of running records"
+msgstr "Εμφάνιση πραγματικής διάρκειας των εκτελούμενων εγγραφών"
+
+msgid "Show symlinks"
+msgstr "Εμφάνιση συντομεύσεων"
+
+msgid "Show trashcan directory"
+msgstr "Εμφάνιση φακέλου κάδου αχρήστων"
+
+msgid "Show trashcan information"
+msgstr "Εμφάνιση πληροφοριών κάδου αχρήστων"
+
+msgid "Shuffle All"
+msgstr "Τυχαία αναπαραγωγή Όλων"
+
+msgid "Shuffle All starting"
+msgstr "Εκκίνηση Τυχαίας Αναπαραγωγής Όλων"
+
+msgid "Single Search:"
+msgstr "Μονή Αναζήτηση:"
+
+msgid "Single search"
+msgstr "Μονή αναζήτηση"
+
+msgid "Skip"
+msgstr "Παράκαμψη"
+
+msgid ""
+"Skipping movie, the file does not exist.\n"
+"\n"
+msgstr ""
+"Παράκαμψη ταινίας, το αρχείο δεν υπάρχει.\n"
+"\n"
+
+msgid "Some settings changes require GUI restart to take effect."
+msgstr "Μερικές αλλαγές στις ρυθμίσεις απαιτούν επανεκκίνηση της επιφάνειας χρήστη για να εφαρμοστούν."
+
+msgid "Sort Mode"
+msgstr "Λειτουργία Ταξινόμησης"
+
+msgid "Sort Options"
+msgstr "Επιλογές Ταξινόμησης"
+
+msgid "Sort Order"
+msgstr "Σειρά Ταξινόμησης"
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Standby"
+msgstr "Αναμονή"
+
+msgid "Start / end multiselection"
+msgstr "Εκκίνηση / τέλος πολλαπλής επιλογής"
+
+msgid "Start EMC with"
+msgstr "Εκκίνηση του EMC με"
+
+msgid "Start movie preview before last position"
+msgstr "Εκκίνηση προεπισκόπησης ταινίας πριν την τελευταία θέση"
+
+msgid "Stop ongoing recording?\n"
+msgstr "Διακοπή συνεχιζόμενης εγγραφής;\n"
+
+msgid "Stop playback"
+msgstr "Διακοπή αναπαραγωγής"
+
+#, fuzzy
+msgid "Style for original EMC-skin (needs reopen)"
+msgstr "Χρήση του αρχικού θέματος EMC (απαιτείται επανεκκίνηση)"
+
+msgid "Suppress scan in selected folders"
+msgstr "Παράκαμψη ανίχνευσης σε επιλεγμένους φακέλους"
+
+msgid "TMBD Info"
+msgstr "Πληροφορίες TMBD"
+
+msgid "TMDB Info"
+msgstr "Πληροφορίες TMDB"
+
+msgid "TMDb"
+msgstr "TMDb"
+
+msgid "TRASHCAN"
+msgstr ""
+
+msgid "TV Shows"
+msgstr "Τηλεοπτικά Σόου"
+
+msgid "TV-button"
+msgstr "Πλήκτρο TV"
+
+msgid "Tertiary playback audio language"
+msgstr "Τρίτη γλώσσα υπότιτλου αναπαραγωγής"
+
+msgid "Tertiary playback subtitle language"
+msgstr "Τρίτη γλώσσα υπότιτλου αναπαραγωγής"
+
+msgid "Text shown for initially unknown count and size"
+msgstr "Εμφανιζόμενο κείμενο για αρχικά άγνωστο αριθμό και μέγεθος"
+
+msgid "Text shown for initially unknown directory size"
+msgstr "Εμφανιζόμενο κείμενο για αρχικά άγνωστο μέγεθος φακέλου"
+
+msgid "Text shown for initially unknown file count"
+msgstr "Εμφάνιση κειμένου για αρχικά άγνωστη αρίθμηση αρχείου"
+
+#, python-format
+msgid "The directory %s is already locked. Do you want to unlock it and all its subfolders?"
+msgstr "Ο φάκελος %s είναι ήδη κλειδωμένος. Θέλετε να τον ξεκλειδώσετε με όλους τους υποφακέλους του;"
+
+#, python-format
+msgid ""
+"The following files are used for other entrys in List !\n"
+"\n"
+"Also delete these files?\n"
+"\n"
+"%s"
+msgstr ""
+"Τα ακόλουθα αρχεία χρησιμοποιούνται για άλλα στοιχεία στη Λίστα !\n"
+"\n"
+"Να διαγραφούν επίσης αυτά τα αρχεία;\n"
+"\n"
+"%s"
+
+msgid "This element belongs to a locked folder and cannot be deleted!"
+msgstr "Αυτό το στοιχείο ανήκει σε έναν κλειδωμένο φάκελο και δεν μπορεί να διαγραφεί!"
+
+msgid "This folder is locked or contains a locked subfolder, unlock it first!"
+msgstr "Αυτός ο φάκελος είναι κλειδωμένος ή περιέχει έναν κλειδωμένο υποφάκελο, ξεκλειδώστε τον πρώτα!"
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "Toggle Cover Button"
+msgstr "Εναλλαγή Πλήκτρου Εξωφύλλου"
+
+msgid "Toggle service selection"
+msgstr "Εναλλαγή επιλογής υπηρεσίας"
+
+msgid "Toggle viewed / not viewed"
+msgstr "Εναλλαγή παρακολούθησης / μη παρακολούθησης"
+
+msgid "Total"
+msgstr "Σύνολο"
+
+msgid "Trashcan"
+msgstr "Κάδος αχρήστων"
+
+msgid "Trashcan create failed. Check mounts and permissions."
+msgstr "Αποτυχία δημιουργίας κάδου αχρήστων. Ελέγξτε τις προσαρτήσεις και τα δικαιώματα."
+
+msgid "Trashcan enable"
+msgstr "Ενεργοποίηση κάδου αχρήστων"
+
+msgid "Trashcan path"
+msgstr "Διαδρομή κάδου αχρήστων"
+
+#, fuzzy
+msgid "Try to load extra title and more from .meta files"
+msgstr "Προσπάθεια φόρτωσης τίτλων από αρχεία .meta"
+
+msgid "Try to load titles from .eit files"
+msgstr "Προσπάθεια φόρτωσης τίτλων από αρχεία .eit"
+
+msgid "Try to load titles from .meta files"
+msgstr "Προσπάθεια φόρτωσης τίτλων από αρχεία .meta"
+
+msgid "UNKNOWN"
+msgstr "ΑΓΝΩΣΤΟ"
+
+msgid "Up"
+msgstr "Επάνω"
+
+msgid "Use cache for files and directories"
+msgstr "Χρήση προσωρινής μνήμης για αρχεία και φακέλους"
+
+msgid "Use original EMC-skin (needs reopen)"
+msgstr "Χρήση του αρχικού θέματος EMC (απαιτείται επανεκκίνηση)"
+
+msgid "VLC"
+msgstr "VLC"
+
+msgid "VLC Server not reachable"
+msgstr "Αδυναμία σύνδεσης με το Διακομιστή VLC"
+
+msgid "VLC-Dir"
+msgstr "Φάκελος VLC"
+
+msgid "VLC-Server"
+msgstr "Διακομιστής VLC"
+
+msgid "Video-button"
+msgstr "Πλήκτρο Video"
+
+msgid "Vote:"
+msgstr "Βαθμολογία:"
+
+#, fuzzy
+msgid "WD DD.MM. HH:MM"
+msgstr "ΗΗ.ΜΜ. ΩΩ:ΛΛ"
+
+#, fuzzy
+msgid "WD DD.MM.YYYY"
+msgstr "ΗΗ.ΜΜ.ΕΕΕΕ"
+
+#, fuzzy
+msgid "WD DD.MM.YYYY HH:MM"
+msgstr "ΗΗ.ΜΜ.ΕΕΕΕ ΩΩ:ΛΛ"
+
+#, fuzzy
+msgid "WD MM/DD HH:MM"
+msgstr "ΜΜ/ΗΗ ΩΩ:ΛΛ"
+
+#, fuzzy
+msgid "WD YYYY/MM/DD"
+msgstr "ΕΕΕΕ/ΜΜ/ΗΗ"
+
+#, fuzzy
+msgid "WD YYYY/MM/DD HH:MM"
+msgstr "ΕΕΕΕ/ΜΜ/ΗΗ ΩΩ:ΛΛ"
+
+msgid "Wake device when entering dir from emc-noscan.cfg"
+msgstr "Αφύπνιση συσκευής κατά την εισαγωγή φακέλου από το emc-noscan.cfg"
+
+msgid "Week"
+msgstr "Εβδομάδα"
+
+msgid "Weeks"
+msgstr "Εβδομάδες"
+
+msgid "White"
+msgstr ""
+
+msgid "YYYY/MM/DD"
+msgstr "ΕΕΕΕ/ΜΜ/ΗΗ"
+
+msgid "YYYY/MM/DD HH:MM"
+msgstr "ΕΕΕΕ/ΜΜ/ΗΗ ΩΩ:ΛΛ"
+
+msgid "Yellow button function"
+msgstr "Λειτουργία κίτρινου πλήκτρου"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "Yes, everything"
+msgstr ""
+
+msgid "Yes, only extra title"
+msgstr ""
+
+msgid "Yes, with Message"
+msgstr "Ναι, με Μήνυμα"
+
+msgid "Yes, without Message"
+msgstr "Ναι, χωρίς Μήνυμα"
+
+msgid ""
+"Your Box is about to go into DeepStandby, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Ο δέκτης σας θα μεταβεί σε Βαθιά Αναμονή, συνέχεια;\n"
+" Επιλέξτε όχι για καθυστέρηση μίας ώρας"
+
+msgid ""
+"Your Box is about to go into E2 Restart, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Θα γίνει επανεκκίνηση του E2 του δέκτη σας, συνέχεια;\n"
+" Επιλέξτε όχι για καθυστέρηση μίας ώρας"
+
+msgid ""
+"Your Box is about to go into Reboot, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Ο δέκτης σας θα επανεκκινηθεί, συνέχεια;\n"
+" Επιλέξτε όχι για καθυστέρηση μίας ώρας"
+
+msgid ""
+"Your Box is about to go into Standby, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Ο δέκτης σας θα μεταβεί σε Αναμονή, συνέχεια;\n"
+" Επιλέξτε όχι για καθυστέρηση μίας ώρας"
+
+msgid "Zap to channel after record EOF"
+msgstr "Μετάβαση στο κανάλι μετά την εγγραφή του EOF"
+
+msgid "after reload list"
+msgstr "μετά τη λίστα επαναφόρτωσης"
+
+msgid "after standby"
+msgstr "μετά την αναμονή"
+
+msgid "all"
+msgstr "όλα"
+
+msgid "always"
+msgstr "πάντα"
+
+msgid "always hide"
+msgstr "πάντα απόκρυψη"
+
+msgid "auto-start is currently not active."
+msgstr "η αυτόματη εκκίνηση δεν είναι ενεργή."
+
+msgid "auto-start window begin"
+msgstr "εκκίνηση παραθύρου αυτόματης έναρξης"
+
+msgid "auto-start window end"
+msgstr "τέλος παραθύρου αυτόματης έναρξης"
+
+msgid "center"
+msgstr "κέντρο"
+
+msgid "configuration"
+msgstr "παραμετροποίηση"
+
+msgid "covers in"
+msgstr "εξώφυλλα σε"
+
+msgid "daily auto-start"
+msgstr "καθημερινή αυτόματη εκκίνηση"
+
+msgid "down"
+msgstr "κάτω"
+
+msgid "every single one"
+msgstr "καθένα ξεχωριστά"
+
+msgid "forward to the next chapter"
+msgstr "προώθηση στο επόμενο κεφάλαιο"
+
+msgid "found"
+msgstr "βρέθηκαν"
+
+msgid "from"
+msgstr "από"
+
+msgid "hide live TV"
+msgstr "απόκρυψη ζωντανής TV"
+
+msgid "hide live TV and timeshift"
+msgstr "απόκρυψη ζωντανής TV και χρονομετατόπισης"
+
+msgid "hide playback"
+msgstr "απόκρυψη αναπαραγωγής"
+
+msgid "imdb.com"
+msgstr "imdb.com"
+
+msgid "jump back to the previous title"
+msgstr "μετάβαση στον πρηγούμενο τίτλο"
+
+msgid "jump forward to the next title"
+msgstr "μετάβαση στον επόμενο τίτλο"
+
+msgid "jump to next marked position"
+msgstr "μετάβαση στην επόμενη μαρκαρισμένη θέση"
+
+msgid "jump to previous marked position"
+msgstr "μετάβαση στην προηγούμενη μαρκαρισμένη θέση"
+
+msgid "left"
+msgstr "αριστερά"
+
+msgid "left from Name"
+msgstr "αριστερά του Ονόματος"
+
+msgid "movie manipulation list"
+msgstr "λίστα χειρισμού ταινιών"
+
+msgid "movies in"
+msgstr "ταινίες σε"
+
+msgid "never hide"
+msgstr "ποτέ απόκρυψη"
+
+msgid "no limit"
+msgstr "χωρίς όριο"
+
+msgid "off"
+msgstr "κλειστό"
+
+msgid "only initially"
+msgstr "μόνο αρχικά"
+
+msgid "overall"
+msgstr "συνολικά"
+
+msgid "rewind to the previous chapter"
+msgstr "μετάβαση στο προηγούμενο κεφάλαιο"
+
+msgid "right"
+msgstr "δεξιά"
+
+msgid "right from Name"
+msgstr "δεξιά του Ονόματος"
+
+msgid "sec"
+msgstr "δευτερόλεπτα"
+
+msgid "sec found. Avg. Speed:"
+msgstr "δευτ. βρέθηκαν. Μέση Ταχύτητα:"
+
+msgid "sec."
+msgstr "δευτ."
+
+msgid "show DVD main menu"
+msgstr "εμφάνιση κύριου μενού DVD"
+
+msgid "single pixel TV, muted"
+msgstr "TV μονού πίξελ, σίγαση"
+
+msgid "standard cover"
+msgstr "στάνταρ εξώφυλλο"
+
+msgid "stop service"
+msgstr "διακοπή υπηρεσίας"
+
+msgid "switch to the next angle"
+msgstr "μετάβαση στην επόμενη γωνία"
+
+msgid "switch to the next audio track"
+msgstr "μετάβαση στο επόμενο κανάλι ήχου"
+
+msgid "switch to the next subtitle language"
+msgstr "μετάβαση στην επόμενη γλώσσα υποτίτλων"
+
+msgid "themoviedb.org"
+msgstr "themoviedb.org"
+
+msgid "themoviedb.org + thetvdb.com"
+msgstr "themoviedb.org + thetvdb.com"
+
+msgid "thetvdb cover number (standard cover):"
+msgstr "αριθμός εξωφύλλου thetvdb (στάνταρ εξώφυλλο):"
+
+msgid "thetvdb cover range per title:"
+msgstr "εύρος εξωφύλλων thetvdb ανά τίτλο:"
+
+msgid "thetvdb.com"
+msgstr "thetvdb.com"
+
+msgid "three contiguous"
+msgstr "τρία συναφή"
+
+msgid "toggle a cut mark at the current position"
+msgstr "εναλλαγή σημειωτή αποκοπής στην τρέχουσα θέση"
+
+msgid "trashcan"
+msgstr "κάδος αχρήστων"
+
+msgid "two contiguous"
+msgstr "δύο συναφή"
+
+msgid "type 1 - OSD + black (#00000000)"
+msgstr "τύπος 1 - OSD + μαύρο (#00000000)"
+
+msgid "type 2 - transparent + white (#FFFFFFFF)"
+msgstr "τύπος 2 - διάφανο + λευκό (#FFFFFFFF)"
+
+msgid "type 3 - OSD + black (#00FFFFFF)"
+msgstr "τύπος 3 - OSD + μαύρο (#00FFFFFF)"
+
+msgid "type 4 - transparent + black (#FF000000)"
+msgstr "τύπος 4 - διάφανο + λευκό (#FF000000)"
+
+msgid "unknown"
+msgstr "άγνωστο"
+
+msgid "up/down"
+msgstr "επάνω/κάτω"
+
+msgid "view extensions..."
+msgstr "εμφάνιση επεκτάσεων..."
+
+msgid "x"
+msgstr ""

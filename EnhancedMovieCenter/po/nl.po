@@ -1,0 +1,2453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EMC V.4.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-12 09:04+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: src\n"
+
+msgid " Deleting remotely recorded and it will display an rec-error dialog on the other DB."
+msgstr " Verwijder remote opname, er zal een opnamefout worden getoond op de andere ontvanger."
+
+msgid " all selected video files?"
+msgstr " alle geselecteerde videobestanden?"
+
+msgid " all selected video files? The currently playing movie is also one of the selections and its playback will be stopped."
+msgstr " alle geselecteerde videobestanden? De opname die nu wordt afgespeeld behoort ook tot de selectie en de weergave zal worden gestopt."
+
+msgid " currently played?"
+msgstr " wordt momenteel weergegeven?"
+
+msgid " files\n"
+msgstr " bestanden\n"
+
+msgid " permanently"
+msgstr " permanent"
+
+#, python-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d seconde"
+msgstr[1] "%d seconden"
+
+#, python-format
+msgid "%s not removed. Write protect?"
+msgstr "%s niet verwijderd. Schrijf beveiliging?"
+
+#, python-format
+msgid "%s removed."
+msgstr "%s verwijderd."
+
+msgid "( # )"
+msgstr "( # )"
+
+msgid "( # / GB )"
+msgstr "( # / GB )"
+
+msgid "( GB )"
+msgstr "( GB )"
+
+msgid "(Un-)Lock Directory"
+msgstr "Ont- of vergrendel map"
+
+msgid "(show optional DVD audio menu)"
+msgstr "(Toon optioneel DVD audiomenu)"
+
+msgid "*** Multiselection active ***"
+msgstr "*** Multiselectie actief ***"
+
+msgid ".../foldername.jpg"
+msgstr ".../foldernaam.jpg"
+
+msgid ".../foldername/folder.jpg"
+msgstr ".../foldernaam/folder.jpg"
+
+msgid ".../foldername/foldername.jpg"
+msgstr ".../foldernaam/foldernaam.jpg"
+
+msgid ""
+"ATTENTION\n"
+"\n"
+"This option will move all finished movies in Movie Home automatically to Your trashcan at the given time.\n"
+"At next trashcan cleanup all movies will be deleted.\n"
+"\n"
+"Confirm this with the blue key followed by the green key."
+msgstr ""
+"OPGELET\n"
+"\n"
+"Deze optie zal alle geziene opnames in Movie automatisch naar de prullenbak verplaatsen na een ingestelde tijd.\n"
+"Bij een volgend legen van de prullenbak worden alle opnames verwijderd.\n"
+"\n"
+"Bevestig deze keuze met de blauwe knop, gevolgd door de groene knop."
+
+msgid "AUDIO METADATA"
+msgstr "AUDIO METADATA"
+
+msgid "AUTOSTART"
+msgstr "AUTOSTART"
+
+msgid "About"
+msgstr "EMC info"
+
+msgid "Add directory to E2 Bookmarks"
+msgstr "Map toevoegen aan E2 bladwijzers"
+
+msgid "Add directory to EMC Bookmarks"
+msgstr "Map toevoegen aan EMC bladwijzers"
+
+msgid "Add to Playlist"
+msgstr "Toevoegen aan afspeellijst"
+
+msgid "Add to current Playlist"
+msgstr "Toevoegen aan huidige afspeellijst"
+
+msgid "After file OPs only re-scan affected dirs"
+msgstr "Na bestandbewerking alleen opnieuw scannen van betroffen mappen"
+
+msgid "Age of finished movies in movie folder (days)"
+msgstr "Instellen hoeveel dagen de afgespeelde opnames in \"Movie\" mogen blijven."
+
+msgid "Album:"
+msgstr "Album:"
+
+msgid "Alpha sort"
+msgstr "Alfabetisch sorteren"
+
+msgid "Alpha sort ascending (AZ)"
+msgstr "Alfabetisch sorteren (AZ)"
+
+msgid "Alpha sort ascending with meta (AZM)"
+msgstr "Alfa oplopend met meta (AZM)"
+
+msgid "Alpha sort ascending with meta, Date descending (AZMD-)"
+msgstr "Alfa oplopend met meta, datum aflopend (AZMD-)"
+
+msgid "Alpha sort ascending, Date descending (AZD-)"
+msgstr "Alfa oplopend, datum aflopend (AZD-)"
+
+msgid "Alpha sort date newest"
+msgstr "Alfa nieuwste datum "
+
+msgid "Alpha sort descending (ZA)"
+msgstr "Alfa aflopend (ZA)"
+
+msgid "Alpha sort descending with meta (ZAM)"
+msgstr "Alfa aflopend met meta (ZAM)"
+
+msgid "Alpha sort descending with meta, Date ascending (ZAMD+)"
+msgstr "Alfa aflopend met meta, datum oplopend (ZAMD +)"
+
+msgid "Alpha sort descending, Date ascending (ZAD+)"
+msgstr "Alfa aflopend, datum oplopend (ZAD+)"
+
+msgid "Alpha sort meta"
+msgstr "Alfabetisch meta"
+
+msgid "Alpha sort meta date newest"
+msgstr "Alfa meta datum nieuwste"
+
+msgid "Always save current Playlist"
+msgstr "Huidige afspeellijst altijd opslaan"
+
+msgid "Always save last played progress as marker"
+msgstr "Laatste afspeelpositie altijd als markeerpunt bewaren"
+
+msgid "Artist:"
+msgstr "Artiest:"
+
+msgid "Automatic timers list cleaning"
+msgstr "Automatisch timers opschonen"
+
+msgid "Available plugins menu"
+msgstr "Menu beschikbare plugins"
+
+msgid "Black"
+msgstr "Zwart"
+
+msgid "Blue button function"
+msgstr "Functie van de Blauwe knop"
+
+msgid "Bookmark"
+msgstr "Bladwijzers"
+
+msgid "Both"
+msgstr "Beide"
+
+msgid "Bouquet buttons behaviour"
+msgstr "Functie van de Bouquet knop"
+
+msgid "Button disabled"
+msgstr "Knop uitgeschakeld"
+
+msgid "COVER-SEARCH"
+msgstr ""
+
+msgid "CSFD"
+msgstr "CSFD"
+
+msgid "CSFD Info"
+msgstr "CSFD Info"
+
+msgid "Can not save "
+msgstr "Kan niet opslaan "
+
+msgid "Can not save Cover in "
+msgstr "Kan cover niet opslaan in "
+
+msgid "Can not save current Playlist!"
+msgstr "Kan huidige afspeellijst niet opslaan!"
+
+#, python-format
+msgid ""
+"Can not write Movie Information File\n"
+"\n"
+"%s"
+msgstr ""
+"Kan opname informatie niet opslaan\n"
+"\n"
+"%s"
+
+#, python-format
+msgid ""
+"Can not write Movie Information and Cover File\n"
+"\n"
+"%(info)s\n"
+"%(file)s"
+msgstr ""
+"Kan opname informatie en cover bestand niet opslaan\n"
+"\n"
+"%(info)s\n"
+"%(file)s"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Cannot delete the parent directory."
+msgstr "Kan bovenliggende map niet verwijderen."
+
+msgid "Change File/Moviename and/or Description"
+msgstr "Wijzig bestand/naam en/of beschrijving"
+
+msgid "Change Folder"
+msgstr "Verander map"
+
+msgid "Change Foldername"
+msgstr "Wijzig map naam:"
+
+msgid "Change the filename to save current Playlist:"
+msgstr "Verander de naam om afspeellijst op te slaan:"
+
+msgid "Chap."
+msgstr "Hfdstk"
+
+msgid "Chapter"
+msgstr "Hoofdstuk"
+
+msgid "Check for dead links"
+msgstr "Controleer op niet werkende links"
+
+msgid "Choose Directory:"
+msgstr "Selecteer map:"
+
+msgid "Choose bookmark"
+msgstr "Selecteer bladwijzer"
+
+msgid "Choose directory"
+msgstr "Selecteer map"
+
+msgid "Choose operation"
+msgstr "Selecteer functie"
+
+msgid "Choose plugin"
+msgstr "Selecteer plugin"
+
+msgid "Choose script"
+msgstr "Selecteer script"
+
+msgid "Close EMC"
+msgstr "EMC sluiten"
+
+msgid "Close EMC and do power button action"
+msgstr "Sluit EMC en voer power knop actie uit"
+
+msgid "Collection"
+msgstr "Collectie"
+
+msgid "Configured directories at the top of movielist"
+msgstr "Toon toegevoegde mappen bovenin opnamelijst"
+
+msgid "Content:"
+msgstr "Inhoud:"
+
+msgid "Copy File"
+msgstr "Bestand kopiëren"
+
+msgid "Copy Files"
+msgstr "Bestanden kopiëren"
+
+msgid "Copy file(s):"
+msgstr "Kopieer bestand(en):"
+
+#, python-format
+msgid ""
+"Cover %s exists!\n"
+"\n"
+"Do you want to replace the existing cover?"
+msgstr ""
+"Cover %s bestaat!\n"
+"\n"
+"Wilt u de bestaande cover overschrijven?"
+
+msgid "Cover Search"
+msgstr "Cover zoeken"
+
+msgid "Cover background"
+msgstr "Cover achtergrond"
+
+msgid "Cover delay in ms"
+msgstr "Cover vertraging in ms"
+
+msgid "Cover disabled in EMC-Setup"
+msgstr "Cover uitgeschakeld in EMC-Instellingen"
+
+msgid "Cover is Saved."
+msgstr "Cover is opgeslagen."
+
+msgid "Cover search"
+msgstr "Cover zoeken"
+
+msgid ""
+"Cover search with all Files in Subdirectories?\n"
+"\n"
+"This may take a while on huge Disks, or Directories!"
+msgstr ""
+"Zoek cover in onderliggende mappen?\n"
+"\n"
+"Dit kan een tijdje duren bij grootte HDD's of mappen!"
+
+msgid "Coversize"
+msgstr "Cover grootte"
+
+msgid "Create directory"
+msgstr "Creëer map"
+
+msgid "Create link"
+msgstr "Creëer link"
+
+msgid "Creating Search List.."
+msgstr "Creëren zoeklijst..."
+
+msgid "Current Playlist saved successfully!"
+msgstr "Huidige afspeellijst succesvol opgeslagen!"
+
+msgid "Cursor predictive move after selection"
+msgstr "Cursor verplaatsen na selecteren"
+
+msgid "Custom"
+msgstr "Voorkeur"
+
+msgid "Czech"
+msgstr ""
+
+msgid "DD.MM. HH:MM"
+msgstr "DD.MM. HH:MM"
+
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+msgid "DD.MM.YYYY HH:MM"
+msgstr "DD.MM.YYYY HH:MM"
+
+msgid "DEBUG"
+msgstr "DEBUG"
+
+msgid "DELAYS"
+msgstr "VERTRAGINGEN"
+
+msgid "DISPLAY-SETTINGS"
+msgstr "WEERGAVE-INSTELLINGEN"
+
+msgid "DVD / BLU-RAY / FOLDERS"
+msgstr "DVD / BLU-RAY / MAPPEN"
+
+msgid "Daily cleanup time"
+msgstr "Prullenbak dagelijks leeg maken tijdstip"
+
+msgid "Dark green"
+msgstr "Donker Groen"
+
+msgid "Dark grey"
+msgstr "Donker Grijs"
+
+msgid "Dark orange"
+msgstr "Donker Oranje"
+
+msgid "Dark red"
+msgstr "Donker Rood"
+
+msgid "Date format"
+msgstr "Toon datum stijl"
+
+msgid "Date sort"
+msgstr "Chronologisch"
+
+msgid "Date sort ascending (D+)"
+msgstr "Datum oplopend (D +)"
+
+msgid "Date sort descending (D-)"
+msgstr "Datum sort aflopend (D-)"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Days"
+msgstr "Dagen"
+
+msgid "Debug output file name"
+msgstr "Debug log bestandsnaam"
+
+msgid "DeepStandby"
+msgstr "Uitgeschakeld"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid ""
+"Default Playlist is not empty!\n"
+"\n"
+"Save default Playlist?"
+msgstr ""
+"Standaard afspeellijst is niet leeg!\n"
+"\n"
+"Standaard afspeellijst opslaan?"
+
+msgid "Default Playlist name"
+msgstr "Standaard afspeellijst naam"
+
+msgid "Default Playlist path"
+msgstr "Standaard afspeellijst locatie"
+
+msgid "Default color for highlighted movie"
+msgstr "Standaardkleur gemarkeerde opnames"
+
+msgid "Default color for partially watched movie"
+msgstr "Standaardkleur gedeeltelijk bekeken opnames"
+
+msgid "Default color for recording movie"
+msgstr "Standaardkleur lopende opname"
+
+msgid "Default color for unwatched movie"
+msgstr "Standaardkleur onbekeken opnames"
+
+msgid "Default color for watched movie"
+msgstr "Standaardkleur bekeken opnames"
+
+msgid "Default sort mode"
+msgstr "Standaard sorteer methode"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Delete All"
+msgstr "Verwijder alles"
+
+msgid "Delete Entry"
+msgstr "Verwijder invoer"
+
+msgid "Delete current Playlist"
+msgstr "Verwijder huidige afspeellijst"
+
+msgid "Delete cut file(s)"
+msgstr "Verwijder cut bestand(en)"
+
+msgid "Delete error:\n"
+msgstr "Fout tijdens verwijderen:\n"
+
+msgid "Delete failed because the trashcan directory does not exist. Attempt to create it now?"
+msgstr "Verwijderen mislukt omdat de map met de prullenbak niet is gevonden. Nu aanmaken?"
+
+msgid "Delete failed!"
+msgstr "Verwijderen mislukt!"
+
+msgid "Delete permanently"
+msgstr "Definitief verwijderen"
+
+msgid "Delete validation"
+msgstr "Toon bevestigen bij wissen"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Description field update delay"
+msgstr "Vertraging actualisatie beschrijving"
+
+msgid "Description:"
+msgstr "Beschrijving:"
+
+msgid "Directory"
+msgstr "Map"
+
+#, python-format
+msgid "Directory %s already exists!"
+msgstr "Map %s bestaat al!"
+
+msgid "Directory back"
+msgstr "Vorige map"
+
+msgid "Directory forward"
+msgstr "Volgende map"
+
+msgid "Directory is not empty! Do you really want to delete it?"
+msgstr "Map is niet leeg! Wilt u deze werkelijk verwijderen?"
+
+msgid "Directory up"
+msgstr "Naar bovenliggende map"
+
+msgid "Directory-Cover search"
+msgstr "Map-cover zoeken"
+
+msgid "Disable EMC"
+msgstr "EMC uitschakelen"
+
+msgid "Display directory reading text"
+msgstr "Toon bericht bij actualiseren overzicht"
+
+msgid ""
+"Do you really want to delete the cut file?\n"
+"If you have selected a directory, all cut files within the folder and its subfolders will be deleted!"
+msgstr ""
+"Wilt u echt de cut bestanden verwijderen?\n"
+"Als u een map hebt geselecteerd, zullen alle cut bestanden in de map en onderliggende mappen worden verwijderd!"
+
+#, python-format
+msgid "Do you really want to lock the directory %s and all its subfolders?"
+msgstr "Wilt u echt de map %s en alle onderliggende mappen vergrendelen?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your bookmark\n"
+"%s?"
+msgstr ""
+"Wilt U uw bladwijzers echt verwijderen\n"
+"%s?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your directory\n"
+"%s?"
+msgstr ""
+"Wilt U uw map echt verwijderen\n"
+"%s?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your link\n"
+"%s?"
+msgstr ""
+"Wilt U uw link echt verwijderen\n"
+"%s?"
+
+msgid "Do you want to resume this playback?"
+msgstr "Wilt u het afspelen voortzetten?"
+
+msgid "Does not contain any scripts."
+msgstr "Bevat geen scripts."
+
+msgid "Don't auto scan size of dirs from emc-noscan.cfg"
+msgstr "Niet auto scannen naar map grootte van mappen in de EMC-noscan.cfg"
+
+msgid "Download Movie Info"
+msgstr "Download opname informatie"
+
+msgid "Download Movie Information"
+msgstr "Download  informatie"
+
+msgid "Download cutlist from Cutlist.at"
+msgstr "Download cutlist van Cutlist.at"
+
+#, python-format
+msgid "Download: %s"
+msgstr "Download: %s"
+
+msgid "E2 Bookmark"
+msgstr "E2 Bladwijzer"
+
+msgid "E2 Bookmarks"
+msgstr "E2 bladwijzers"
+
+msgid "E2 Restart"
+msgstr "E2 herstarten"
+
+msgid ""
+"EMC\n"
+"Zap to Live TV of record"
+msgstr ""
+"EMC\n"
+"Zap naar live TV of opname"
+
+msgid "EMC Bookmarks"
+msgstr "EMC bladwijzers"
+
+msgid "EMC Cover Selecter"
+msgstr "EMC cover selecteren"
+
+msgid "EMC Cover search"
+msgstr "EMC cover zoeken"
+
+msgid "EMC Cover search setup"
+msgstr "EMC cover zoeken instellingen"
+
+msgid "EMC Filebrowser"
+msgstr "EMC bestandsbrowser"
+
+msgid "EMC Help"
+msgstr "EMC Help"
+
+msgid "EMC Playlist - current playlist"
+msgstr "ECM afspeellijst - huidige afspeellijst"
+
+msgid "EMC Playlist Menu"
+msgstr "EMC afspeellijst menu"
+
+msgid "EMC Playlist Setup"
+msgstr "EMC afspeellijst instellingen"
+
+msgid "EMC Setup"
+msgstr "EMC instellingen"
+
+msgid "EMC Trashcan Cleanup failed!"
+msgstr "Leegmaken EMC prullenbak mislukt!"
+
+msgid "EMC always reload after open"
+msgstr "EMC mappen actualiseren bij starten"
+
+msgid "EMC output directory"
+msgstr "EMC debug Locatie"
+
+msgid "EMC path access limit"
+msgstr "EMC (bovenliggende)map begrenzing"
+
+msgid "EMC re-open list after Movie end"
+msgstr "Toon EMC na einde van een "
+
+msgid "EMC re-open list after STOP-press"
+msgstr "Toon EMC na op STOP gedrukt te hebben"
+
+msgid "EMC-TMDB Info"
+msgstr "EMC-TMDB Info"
+
+msgid ""
+"EMC: Skipping Trashcan Cleanup\n"
+"Movie Home Path is equal to or a subfolder of the Trashcan"
+msgstr ""
+"EMC: Leegmaken prullenbak overgeslagen\n"
+"Standaardmap movie is hetzelfde als de Prullenbak"
+
+msgid "Edit Tags"
+msgstr ""
+
+msgid "Empty trashcan"
+msgstr "Prullenbak leegmaken"
+
+msgid "Enable EMC debug output"
+msgstr "ECM debug logs activeren"
+
+msgid "Enable daily trashcan cleanup"
+msgstr "Prullenbak dagelijks leegmaken"
+
+msgid "Enable playback AC3-track first"
+msgstr "Selecteer AC3-geluidsspoor eerst"
+
+msgid "Enable playback auto-language selection"
+msgstr "Selecteer geluidsspoor automatisch"
+
+msgid "Enable playback auto-subtitling"
+msgstr "Selecteer ondertiteling automatisch"
+
+msgid "Enable remote recordings"
+msgstr "Detecteer opnames van een andere Box"
+
+msgid "English"
+msgstr "Engels"
+
+msgid "Enter Name for Playlist"
+msgstr "Geef naam voor de afspeellijst"
+
+msgid "Enter name for new directory:"
+msgstr "Voer de naam van de nieuwe map in:"
+
+msgid "Exist"
+msgstr "Bestaat"
+
+#, python-format
+msgid "Exist: %s"
+msgstr "Bestaat: %s"
+
+msgid "F1-button"
+msgstr "F1-knop"
+
+msgid "File added to current Playlist."
+msgstr "Bestand toegevoegd aan huidige afspeellijst."
+
+msgid "File exists in current Playlist."
+msgstr "Bestand bestaat in huidige afspeellijst."
+
+msgid "File not available."
+msgstr "Bestand niet beschikbaar."
+
+msgid "Filename:"
+msgstr "Bestandsnaam:"
+
+msgid "Files added to current Playlist."
+msgstr "Bestanden toegevoegd aan huidige afspeellijst."
+
+#, python-format
+msgid ""
+"Files added to current Playlist:\n"
+"%(add)s\n"
+"\n"
+"Files exists in current Playlist:\n"
+"%(exist)s"
+msgstr ""
+"Bestanden toegevoegd aan huidige afspeellijst:\n"
+"%(add)s\n"
+"\n"
+"Reeds bestaande bestanden:\n"
+"%(exist)s"
+
+#, python-format
+msgid ""
+"Files exists in current Playlist:\n"
+"%s"
+msgstr ""
+"Bestand bestaat in huidige afspeellijst.\n"
+"%s"
+
+msgid "Finished watching percent"
+msgstr "Percentage volledig afgespeeld"
+
+msgid "Foldername:"
+msgstr "Map naam:"
+
+msgid "Force standby after auto-restart"
+msgstr "Forceer stand-by status na een auto-herstart"
+
+msgid "Format AVSwitch"
+msgstr "AV-formaat wisselen"
+
+msgid ""
+"Found rogue files:\n"
+"\n"
+msgstr ""
+"Ongewenste bestanden gevonden:\n"
+"\n"
+
+msgid "Free: "
+msgstr "Vrij: "
+
+msgid "French"
+msgstr "Frans"
+
+msgid "GENERAL"
+msgstr "ALGEMEEN"
+
+msgid "Genre:"
+msgstr "Genre:"
+
+msgid "German"
+msgstr "Duits"
+
+#, python-format
+msgid "Given path %s does not exist. Please change."
+msgstr "Opgegeven locatie %s bestaat niet. Veranderen a.u.b."
+
+msgid "Go to trashcan"
+msgstr "Ga naar de prullenbak"
+
+msgid "Green"
+msgstr "Groen"
+
+msgid "Grey"
+msgstr "Grijs"
+
+msgid "HELP_About"
+msgstr "Opent het \"Info\" venster."
+
+msgid "HELP_After file OPs only re-scan affected dirs"
+msgstr "Na bestandbewerking alleen opnieuw scannen van betroffen mappen"
+
+msgid "HELP_Age of finished movies in movie folder (days)"
+msgstr "Instellen hoeveel dagen de afgespeelde opnames in \"Movie\" mogen blijven."
+
+msgid "HELP_Always save last played progress as marker"
+msgstr ""
+"Met deze optie wordt een markeerpunt op de afspeelpositie toegevoegd als het afspelen onderbroken wordt.\n"
+"Bij het hervatten van het afspelen kan met < > knoppen gesprongen worden naar deze posities (onafhankelijk van de functie \"afspelen hervatten\")."
+
+msgid "HELP_Automatic timers list cleaning"
+msgstr "Verlopen Timers worden automatisch uit de TimerLijst verwijderd."
+
+msgid "HELP_Blue button function"
+msgstr "Een keuzelijst voor het toewijzen van een functie aan de blauwe knop."
+
+msgid "HELP_Bouquet buttons behaviour"
+msgstr "Functie van de Bouquet knop"
+
+msgid "HELP_Check for dead links"
+msgstr "Controleer op niet werkende links"
+
+msgid "HELP_Configure in etc/enigma2/emc-topdir.cfg"
+msgstr "Dit kan worden ingesteld in etc/enigma2/emc-topdir.cfg"
+
+msgid "HELP_Cover background"
+msgstr "Cover achtergrond"
+
+msgid "HELP_Cover delay in ms"
+msgstr "Cover vertraging in ms"
+
+msgid "HELP_Cursor predictive move after selection"
+msgstr ""
+"De cursor wordt tijdens het kiezen met de [VIDEO/PVR] knop in de ingestelde richting verplaatst.\n"
+"Met \"omhoog/omlaag\" verplaatst de cursor zich in de richting van de laatst uitgevoerde beweging."
+
+msgid "HELP_Daily auto-start"
+msgstr "Selecteer welke functie de auto-start timer functie moet uitvoeren"
+
+msgid "HELP_Daily cleanup time"
+msgstr "Tijdstip waarop EMC alle bestanden uit de prullenbak verwijderd die de limiet overschrijden."
+
+msgid "HELP_Date format"
+msgstr "Datum verbergen, of de datumweergave kiezen die in de opnamelijst bij elke opname weergegeven wordt."
+
+msgid "HELP_Debug output file name"
+msgstr "Bestandsnaam van het logbestand voor het debuggen"
+
+msgid "HELP_Default color highlighted"
+msgstr "Standaardkleur die wordt gebruikt voor gemarkeerde opname"
+
+msgid "HELP_Default color partially watched"
+msgstr "Standaardkleur die wordt gebruikt voor een gedeeltelijk bekeken opname"
+
+msgid "HELP_Default color recording"
+msgstr "Standaardkleur lopende opname"
+
+msgid "HELP_Default color unwatched"
+msgstr "Standaardkleur onbekeken opnames"
+
+msgid "HELP_Default color watched"
+msgstr "Standaardkleur die wordt gebruikt voor een bekeken opname"
+
+msgid "HELP_Delete validation"
+msgstr "Indien actief en de prullenbak is in gebruik zal EMC nooit een bevestiging vragen."
+
+msgid "HELP_Description field update delay"
+msgstr ""
+"Vertraging voor het tonen van de opname beschrijving.\n"
+"(Versneld het snel bladeren met de omhoog/omlaag-knop in de opnamelijst, omdat de beschrijving later ingelezen wordt.)"
+
+msgid "HELP_Disable EMC"
+msgstr "EMC (opnamelijst) uitschakelen. Bepaalde speciale functies zoals [Timers opschonen],[Prullenbak leegmaken] en [Auto-herstart] blijven actief op de achtergrond."
+
+msgid "HELP_Display directory reading text"
+msgstr "Toon bericht \"Mappen inlezen...\" tijdens het inlezen van mappen."
+
+msgid "HELP_Don't auto scan size of dirs from emc-noscan.cfg"
+msgstr "Niet auto scannen naar map grootte van mappen in de EMC-noscan.cfg"
+
+msgid "HELP_Download cutlist from Cutlist.at"
+msgstr "Download cutlist van Cutlist.at"
+
+msgid "HELP_Dynamic trashcan"
+msgstr "Bij de prullenbak kan het aantal opnames, de totale bestandsgrootte , of beide samen weergegeven worden."
+
+msgid "HELP_EMC always reload after open"
+msgstr ""
+"Mappen opnieuw inlezen bij elke start van EMC.\n"
+"(Anders worden de gegevens uit een buffer ingelezen vanaf de 2de start.)"
+
+msgid "HELP_EMC output directory"
+msgstr "Map voor het schrijven van EMC-debuginformatie instellen"
+
+msgid "HELP_EMC path access limit"
+msgstr ""
+"Beperk de toegang tot bovenliggende mappen buiten de Standaardmap \"Movie\".\n"
+"Met de [<] en [>] knoppen (naast de Nr.0 knop) is het mogelijk deze beperking te overschrijden."
+
+msgid "HELP_EMC re-open list after Movie end"
+msgstr ""
+"Indien het afspelen het einde bereikt, de EMC opnamelijst opnieuw tonen.\n"
+"(Anders wordt de TV-mode terug actief.)"
+
+msgid "HELP_EMC re-open list after STOP-press"
+msgstr ""
+"Indien het afspelen afgebroken wordt, de EMC opnamelijst opnieuw tonen.\n"
+"(Anders wordt de TV-mode terug actief.)"
+
+msgid "HELP_Enable EMC debug output"
+msgstr ""
+"Debuggen van EMC activeren. Het logbestand wordt in de map ingestelde \"EMC map\" geschreven.\n"
+"ENKEL BIJ PROBLEMEN ACTIVEREN !!!"
+
+msgid "HELP_Enable daily trashcan cleanup"
+msgstr "EMC verwijderd oude bestanden uit de prullenbak, van zodra ze de limiet bereiken die in de volgende regel ingesteld wordt."
+
+msgid "HELP_Enable playback AC3-track first"
+msgstr "Selecteer AC3-geluidsspoor eerst"
+
+msgid "HELP_Enable playback auto-language selection"
+msgstr "De automatische selectie van het geluidsspooor activeren."
+
+msgid "HELP_Enable playback auto-subtitling"
+msgstr "De automatische selectie van de ondertitels activeren."
+
+msgid "HELP_Enable remote recordings"
+msgstr ""
+"Detecteer opnames van een andere Dreambox op een gemeenschappelijk volume (bijv. een NAS).\n"
+"Deze opnames krijgen een specifiek icoon."
+
+msgid "HELP_Fallback Cover"
+msgstr "Toon terugval cover"
+
+msgid "HELP_Finished watching percent"
+msgstr ""
+"Specifieer welk percentage van de voortgang aanzien wordt als \"gezien\". \n"
+"De voortgangsbalk wordt groen."
+
+msgid "HELP_Force standby after auto-start"
+msgstr "Forceer stand-by na een automatische herstart"
+
+msgid "HELP_Hide movies being deleted"
+msgstr ""
+"De opname wordt verborgen tijdens het verwijderen.\n"
+"(Het verwijderen wordt altijd in de achtergrond uitgevoerd.)"
+
+msgid "HELP_Hide movies being moved"
+msgstr ""
+"De wordt verborgen tijdens het verplaatsen.\n"
+"(Het verplaatsen wordt altijd in de achtergrond uitgevoerd.)"
+
+msgid "HELP_Horizontal alignment for count / size"
+msgstr "Horizontale uitlijning voor totaal / grootte"
+
+msgid "HELP_Horizontal alignment for date"
+msgstr "Horizontale uitlijning voor datum"
+
+msgid "HELP_How many days files may remain in trashcan"
+msgstr ""
+"Instellen hoeveel dagen de bestanden in de prullenbak blijven alvorens EMC deze definitief verwijderd.\n"
+"(Indien ingesteld op [0] worden de bestanden onmiddellijk verwijderd)."
+
+msgid "HELP_Icon shown for initially unknown count / size"
+msgstr "Toon pictogram voor aanvankelijk onbekend aantal / grootte"
+
+msgid "HELP_Jump to first mark when playing movie"
+msgstr ""
+"Automatisch naar het eerste markeerpunt springen indien beschikbaar in het begin van een opname.\n"
+"(Kan helpen om de voorlooptijd automatisch te overbruggen.)"
+
+msgid "HELP_Key period value (50-900)"
+msgstr "Tijd tot de knopdruk herhaald wordt bij blijvend indrukken van de knop."
+
+msgid "HELP_Key repeat value (250-900)"
+msgstr "Snelheid waarmee de knopdruk herhaald wordt bij blijvend indrukken van de knop."
+
+msgid "HELP_Latest Recordings directory limit"
+msgstr "Nieuwste opnames map limiet"
+
+msgid "HELP_Latest Recordings directory use emc-noscan.cfg"
+msgstr "Nieuwste opnames map gebruik emc-noscan.cfg"
+
+msgid "HELP_Leave Movie with Exit"
+msgstr "Het afspelen van een opname kan afgebroken worden met de EXIT knop, als alternatief voor de STOP knop."
+
+msgid "HELP_Limit file operations in dirs from emc-noscan.cfg"
+msgstr "Limiteer de bestandsbewerkingen van mappen in de emc-noscan.cfg"
+
+msgid "HELP_List entries to skip"
+msgstr ""
+"Weergeven invoer tot en met overslaan\n"
+"Functie omschrijving klopt mogelijk niet.! (Origineel : List entries to skip)"
+
+msgid "HELP_Listbox is skin able"
+msgstr ""
+"De weergave van de opnamelijst volgens de Skin (indien beschikbaar) wordt toegepast (enkel <widget name=\"list\").\n"
+"Anders wordt de opnamelijst weergegeven zoals in de EMC instellingen bepaald."
+
+msgid "HELP_Long Blue button function"
+msgstr "Functie van de Blauwe knop (lang)"
+
+msgid "HELP_Long Red button function"
+msgstr "Functie van de Rode knop (lang) "
+
+msgid "HELP_Long Yellow button function"
+msgstr "Functie van de Gele knop (lang)"
+
+msgid "HELP_LongInfo Button"
+msgstr "Selecteer welke functie het lang indrukken van de Info knop moet uitvoeren"
+
+msgid "HELP_Mark new recordings with a star"
+msgstr "Markeer nieuwe opnames met een ster"
+
+msgid "HELP_Minimum file cache limit"
+msgstr "Minimale bestands cache limiet ( 0=cache alles)"
+
+msgid "HELP_Move finished movies in trashcan"
+msgstr "Verplaats alle afgespeelde (geziene) opnames van \"Movie\" naar de prullenbak, van zodra ze de limiet bereiken die in de volgende regel ingesteld wordt."
+
+msgid "HELP_Movie home at start"
+msgstr ""
+"EMC start steeds in de Standaardmap \"Movie\".\n"
+"(In de volgende regel kan de hoofdmap \"Movie\" ingesteld worden)."
+
+msgid "HELP_Movie home home path"
+msgstr "Instellen standaardmap voor opnames. De standaard map is Movie."
+
+msgid "HELP_Movie preview delay in ms"
+msgstr "Opname voorbeeld vertraging in ms"
+
+msgid "HELP_Movie preview offset in seconds"
+msgstr "Opname voorbeeld offset vertraging in ms"
+
+msgid "HELP_No resume below 10 seconds"
+msgstr ""
+"Markeerpunten tijdens de eerste 10 seconden negeren.\n"
+"Indien het afspelen tijdens de eerste 10 seconden onderbroken wordt, zal bij het volgende afspelen geen \"hervatten\" voorgesteld worden."
+
+msgid "HELP_Own Path to movie picons"
+msgstr "Eigen locatie van opname picons"
+
+msgid "HELP_Path to movie picons"
+msgstr "Locatie  picons"
+
+msgid "HELP_Position movie picons"
+msgstr "Stel de positie in van de  picons"
+
+msgid "HELP_Preferred EPG language"
+msgstr "Hier kan de voorkeurstaal voor de EPG ingesteld worden."
+
+msgid "HELP_Primary playback audio language"
+msgstr "Eerste geluidsspoor, indien beschikbaar, dat gekozen moet worden."
+
+msgid "HELP_Primary playback subtitle language"
+msgstr "Eerste taal ondertitels, indien beschikbaar, die gekozen moeten worden."
+
+msgid "HELP_Red button function"
+msgstr "Functie van de Rode knop"
+
+msgid "HELP_Replace special chars in title"
+msgstr "Vervang underscores en punten in de bestandsnaam door spatie."
+
+msgid "HELP_Resolve links and show real path"
+msgstr "Verwijzingen van (symbolische) links worden verwijderd. Bij problemen met \"spinners\" of het ontwaken van een NAS, deze keuze uitschakelen. (De locatie wordt bij \"Uitgebreide beschrijving\" getoond.)"
+
+msgid "HELP_Rewind finished movies before playing"
+msgstr "Indien een opname de status \"gezien\" heeft, wordt de opname bij een volgende start weer vanaf het begin afgespeeld."
+
+msgid "HELP_Scan for DVD structures"
+msgstr ""
+"In geen enkele map naar DVD-structuren zoeken.\n"
+"Dit voorkomt het ongewenst opstarten van andere dragers zoals harde schijven, NAS e.d."
+
+msgid "HELP_Scan for bluray structures"
+msgstr "Naar Bluray-structuren zoeken"
+
+msgid "HELP_Scan for bluray structures in .iso"
+msgstr "Naar Bluray-structuren zoeken in .iso"
+
+msgid "HELP_Scan for movie structures"
+msgstr "Naar opname-structuren zoeken"
+
+msgid "HELP_Secondary playback audio language"
+msgstr "Tweede geluidsspoor, indien beschikbaar, dat gekozen moet worden."
+
+msgid "HELP_Secondary playback subtitle language"
+msgstr "Tweede taal ondertitels, indien beschikbaar, die gekozen moeten worden."
+
+msgid "HELP_Short watching percent"
+msgstr ""
+"Specifieer welk percentage van de voortgang aanzien wordt als \"wordt afgespeeld\". \n"
+"De voortgangsbalk wordt blauw."
+
+msgid "HELP_Show Bookmarks in movielist"
+msgstr "Toon bladwijzers in de opnamelijst"
+
+msgid "HELP_Show Cover"
+msgstr "Toon cover"
+
+msgid "HELP_Show Cut-Nr if exist"
+msgstr ""
+"Indien Enigma2 herstart tijdens een opname, wordt de opname automatisch hervat met een volgnummer aan het einde van de bestandsnaam.\n"
+"Met deze optie wordt dit volgnummer aan de titel toegevoegd."
+
+msgid "HELP_Show EMC in extensions menu"
+msgstr ""
+"EMC-plugin verbergen of tonen in het extensie-menu.\n"
+"Het extensie-menu is normaliter via de blauwe toets te bereiken."
+
+msgid "HELP_Show EMC in main menu"
+msgstr ""
+"EMC verbergen of tonen in het hoofd-menu.\n"
+"Het hoofd-menu is normaliter met de menu toets te bereiken."
+
+msgid "HELP_Show Latest Recordings directory"
+msgstr ""
+"Een virtuele map tonen in \"Movie\" met een lijst van de recentste opnames. Eveneens voor de sub mappen van \"Movie\".\n"
+"(Enkel 1 pagina)"
+
+msgid "HELP_Show Movie Format"
+msgstr "De bestandsextensie (bestandsformaat) wordt weergegeven. bv *.mkv , *.mp4"
+
+msgid "HELP_Show Path if no extended description available"
+msgstr "Toon locatie wanneer geen omschrijving beschikbaar is"
+
+msgid "HELP_Show VLC directory"
+msgstr "VLC map verbergen of tonen, enkel indien VlcPlayerExtended Plugin geïnstalleerd is."
+
+msgid "HELP_Show audio metadata"
+msgstr "Toon geluids-metadata"
+
+msgid "HELP_Show directories"
+msgstr "Toon mappen"
+
+msgid "HELP_Show directories information"
+msgstr "Bij mappen kan het aantal opnames, de totale bestandsgrootte , of beide weergegeven worden."
+
+msgid "HELP_Show directories within movielist"
+msgstr "Toon mappen in opnamelijst"
+
+msgid "HELP_Show directory size in skin"
+msgstr "Toon de gebruikte ruimte van een map in de skin"
+
+msgid "HELP_Show experimental options"
+msgstr "Toont experimentele instellingen die kunnen worden gebruikt"
+
+msgid "HELP_Show link arrow"
+msgstr "Toon link pijl"
+
+msgid "HELP_Show message if file added to playlist"
+msgstr "Toon bericht bij toevoegen aan afspeellijst"
+
+msgid "HELP_Show movie icons"
+msgstr "Een overeenstemmende icon wordt weergegeven in de opnamelijst."
+
+msgid "HELP_Show movie picons"
+msgstr "Toon opname picons"
+
+msgid "HELP_Show movie preview"
+msgstr "Toon voorbeeld"
+
+msgid "HELP_Show movie progress"
+msgstr "Een voortgangsindicatie (balk of percentage) wordt weergegeven in de opnamelijst voor de opnamenaam."
+
+msgid "HELP_Show plugin config in extensions menu"
+msgstr ""
+"EMC-instellingen verbergen of tonen in het extensie-menu.\n"
+"Het extensie-menu is normaliter via de blauwe knop te bereiken."
+
+msgid "HELP_Show real length of running records"
+msgstr "Toon werkelijke lengte van lopende opnames"
+
+msgid "HELP_Show symlinks"
+msgstr "Toon symlinks"
+
+msgid "HELP_Show trashcan directory"
+msgstr ""
+"Laat de prullenbak in de opnamelijst zien.\n"
+"(De prullenbak kan in elk geval via het menu worden opgeroepen, zelfs wanneer het verborgen is.)"
+
+msgid "HELP_Sort mode at startup"
+msgstr "Standaard sorteer methode"
+
+msgid "HELP_Start EMC with"
+msgstr "Selecteer de knop voor het opstarten van EMC instellen."
+
+msgid "HELP_Style for original EMC-skin (needs reopen)"
+msgstr "Selecteer de stijl voor de ogionele EMC-skin die gebruikt moet worden. (herstart EMC noodzakelijk)"
+
+msgid "HELP_Tertiary playback audio language"
+msgstr "Derde geluidsspoor, indien beschikbaar, dat gekozen moet worden."
+
+msgid "HELP_Tertiary playback subtitle language"
+msgstr "Derde taal ondertitels, indien beschikbaar, die gekozen moeten worden."
+
+msgid "HELP_Text shown for initially unknown count and size"
+msgstr "Toon aanvankelijk onbekend aantal bestanden en grootte als"
+
+msgid "HELP_Text shown for initially unknown directory size"
+msgstr "Toon aanvankelijk onbekende map grootte als"
+
+msgid "HELP_Text shown for initially unknown file count"
+msgstr "Toon aanvankelijk onbekend aantal bestanden als"
+
+msgid "HELP_Trashcan enable"
+msgstr ""
+"Instellen van de prullenbak.\n"
+"Drukken op [verwijderen] zal de opnames naar de prullenbak verplaatsen i.p.v. deze onmiddellijk te verwijderen."
+
+msgid "HELP_Trashcan path"
+msgstr ""
+"Instellen van de locatie van de prullenbak.\n"
+"Drukken op [verwijderen] zal de opnames naar de prullenbak verplaatsen i.p.v. deze onmiddellijk te verwijderen."
+
+msgid "HELP_Try to load extra title and more from .meta files"
+msgstr ""
+"Titels worden van het .meta-bestand geladen indien beschikbaar.\n"
+"In andere gevallen wordt de titel uit de bestandsnaam afgeleid.\n"
+"(Indien zowel .meta als .eit geactiveerd zijn, wordt eerst het .meta-bestand gelezen.)"
+
+msgid "HELP_Try to load titles from .eit files"
+msgstr ""
+"Titels worden van het .eit-bestand geladen indien beschikbaar.\n"
+"In andere gevallen wordt de titel uit de bestandsnaam afgeleid.\n"
+"(Indien zowel .meta als .eit geactiveerd zijn, wordt eerst het .meta-bestand gelezen.)"
+
+msgid "HELP_Try to load titles from .meta files"
+msgstr ""
+"Titels worden van het .meta-bestand geladen indien beschikbaar.\n"
+"In andere gevallen wordt de titel uit de bestandsnaam afgeleid.\n"
+"(Indien zowel .meta als .eit geactiveerd zijn, wordt eerst het .meta-bestand gelezen.)"
+
+msgid "HELP_Use cache for files and directories"
+msgstr "Gebruikt cache voor bestanden en mappen"
+
+msgid "HELP_Use original EMC-skin (needs reopen)"
+msgstr "Hiermee wordt de originele EMC-skin gebruikt en niet de variant uit de Enigma2 skin. Matrix-HD, Karven enz."
+
+msgid "HELP_Wake device when entering dir from emc-noscan.cfg"
+msgstr "Apparaat ontwaken bij het openen van map uit emc-noscan.cfg"
+
+msgid "HELP_Yellow button function"
+msgstr "Functie van de Gele knop"
+
+msgid "HELP_Zap to channel after record EOF"
+msgstr "Nadat een opname is beëindigd wordt teruggekeerd naar de TV zender"
+
+msgid "HELP_auto-start window begin"
+msgstr "Stel de begin tijd in"
+
+msgid "HELP_auto-start window end"
+msgstr "Stel de eind tijd in"
+
+msgid "HELP_cfghide_enable"
+msgstr ""
+"Verberg bestanden en mappen die opgenomen zijn in '/etc/enigma2/emc-hide.cfg'.\n"
+"Het aanpassen van deze instelling vereist een herstart van Enigma2!"
+
+msgid "HELP_cfgscan_suppress"
+msgstr ""
+"Niet zoeken naar DVD-structuren in mappen waarvan de locaties opgenomen zijn in '/etc/enigma2/emc-hide.cfg'.  Dit voorkomt het ongewenst opstarten van andere dragers zoals harde schijven, NAS e.d.\n"
+"Het aanpassen van deze instelling vereist een herstart van Enigma2!"
+
+msgid "HELP_hide_MiniTV"
+msgstr "Verberg het Mini-TV scherm"
+
+msgid "HELP_hide_MiniTV cover"
+msgstr "Mini-TV cover verbergen"
+
+msgid "HELP_hide_MiniTV_method"
+msgstr "Mini-TV verberg methode"
+
+msgid "HELP_scan_linked"
+msgstr ""
+"Niet in (submappen van) symlinks  naar DVD-structuren zoeken.\n"
+"Dit voorkomt het ongewenst opstarten van andere dragers zoals harde schijven, NAS e.d."
+
+msgid "Hide Cover"
+msgstr "Cover verbergen"
+
+msgid "Hide MiniTV"
+msgstr "Mini-TV verbergen"
+
+msgid "Hide MiniTV if Cover is shown"
+msgstr "Mini-TV verbergen als cover wordt weergegeven"
+
+msgid "Hide configured entries"
+msgstr "Verberg bestanden en mappen"
+
+msgid "Hide movies being deleted"
+msgstr "Verberg opnames die gewist worden"
+
+msgid "Hide movies being moved"
+msgstr "Verberg opnames die verplaatst worden"
+
+msgid "HomeEnd"
+msgstr "HomeEnd"
+
+msgid "Horizontal alignment for count / size"
+msgstr "Horizontale uitlijning voor totaal / grootte"
+
+msgid "Horizontal alignment for date"
+msgstr "Horizontale uitlijning voor datum"
+
+msgid "How many days files may remain in trashcan"
+msgstr "Hoe veel dagen mogen bestanden in prullenbak blijven"
+
+msgid ""
+"How to copy files:\n"
+"Select some movies with the VIDEO-button, move the cursor on top of the destination directory and press yellow long."
+msgstr ""
+"Hoe bestanden kopiëren:\n"
+"Selecteer een opname met de VIDEO-knop, met de cursor de doelmap kiezen en daarna lang (!) op de gele knop drukken."
+
+msgid ""
+"How to move files:\n"
+"Select some movies with the VIDEO-button, move the cursor on top of the destination directory and press yellow."
+msgstr ""
+"Hoe bestanden kopiëren:\n"
+"Selecteer een opname met de VIDEO-knop, met de cursor de doelmap kiezen en daarna op de gele knop drukken."
+
+msgid "IMDBSearch / EMC-TMDBInfo / TMDBInfo / TMBDInfo / CSFDInfo"
+msgstr "IMDBSearch / EMC-TMDBInfo / TMDBInfo / TMBDInfo / CSFDInfo"
+
+msgid "IMDb"
+msgstr "IMDb"
+
+msgid "IMDb Search"
+msgstr "IMDb zoeken"
+
+msgid "Icon shown for initially unknown count / size"
+msgstr "Toon pictogram voor aanvankelijk onbekend aantal / grootte"
+
+msgid "Information"
+msgstr "Informatie"
+
+msgid "Italian"
+msgstr "Italiaans"
+
+msgid "Jump to first mark when playing movie"
+msgstr "Automatisch naar het eerste markeerpunt springen bij afspelen"
+
+msgid "KEYMAPPING"
+msgstr "KNOP TOEWIJZINGEN"
+
+msgid "Key period value (50-900)"
+msgstr "Toetsduur (50-900)"
+
+msgid "Key repeat value (250-900)"
+msgstr "Toets herhaalwaarde (250-900)"
+
+msgid "LANGUAGE"
+msgstr "TAAL"
+
+msgid "Language:"
+msgstr "Taal:"
+
+msgid "Last played movie/playlist not available..."
+msgstr "Laatst afgespeelde opname/afspeellijst niet beschikbaar..."
+
+msgid "Latest"
+msgstr "Laatste"
+
+msgid "Latest Recordings"
+msgstr "Recente opnames"
+
+msgid "Latest Recordings directory limit"
+msgstr "Nieuwste opnames map limiet"
+
+msgid "Latest Recordings directory use emc-noscan.cfg"
+msgstr "Nieuwste opnames map gebruik emc-noscan.cfg"
+
+msgid "Leave Movie with Exit"
+msgstr "Stop afspelen met Exit?"
+
+msgid "Light green"
+msgstr "Licht Groen"
+
+msgid "Light grey"
+msgstr "Licht Grijs"
+
+msgid "Light orange"
+msgstr "Licht Oranje"
+
+msgid "Light red"
+msgstr "Licht Rood"
+
+msgid "Limit file operations in dirs from emc-noscan.cfg"
+msgstr "Limiteer de bestandsbewerkingen van mappen in de emc-noscan.cfg"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "List entries to skip"
+msgstr "Weergeven invoer tot en met overslaan"
+
+msgid "Listbox is skin able"
+msgstr "Opnamelijst is skinbaar"
+
+msgid "Load Genre:"
+msgstr "Laad genre:"
+
+msgid "Load Production Countries:"
+msgstr "Laad productie land(en):"
+
+msgid "Load Release Date:"
+msgstr "Laad publicatie datum:"
+
+msgid "Load Runtime:"
+msgstr "Laat speeltijd:"
+
+msgid "Load Vote:"
+msgstr "Laad stemmen:"
+
+msgid "Load default settings will overwrite all settings, really load them?"
+msgstr "Standaard instellingen, zal alle instellingen herstellen. Wilt u doorgaan?"
+
+msgid "Locate rogue files and remove them? (permanently if no trashcan available, may take a minute or so)"
+msgstr "Ongewenste bestanden zoeken en verwijderen? (Als er geen prullenbak is worden deze meteen verwijderd - kan even duren)"
+
+msgid "Location:"
+msgstr "Locatie:"
+
+msgid "Long Blue button function"
+msgstr "Functie van de Blauwe knop (lang)"
+
+msgid "Long Red button function"
+msgstr "Functie van de Rode knop (lang) "
+
+msgid "Long Yellow button function"
+msgstr "Functie van de Gele knop (lang)"
+
+msgid "LongInfo Button"
+msgstr "Functie van de Info knop (lang)"
+
+msgid "MM/DD HH:MM"
+msgstr "MM/DD hh:mm"
+
+msgid "Manage Cover"
+msgstr "Beheer cover"
+
+msgid "Mark all movies"
+msgstr "Markeer alle opnames"
+
+msgid "Mark new recordings with a star"
+msgstr "Markeer nieuwe opnames met een ster"
+
+msgid "Method of hiding MiniTV"
+msgstr "Mini-TV verbergen methode"
+
+msgid "Minimum file cache limit (0=cache everything)"
+msgstr "Minimale bestands cache limiet ( 0=cache alles)"
+
+msgid "Minutes"
+msgstr "Minuten"
+
+msgid "Month"
+msgstr "Maand"
+
+msgid "Months"
+msgstr "Maanden"
+
+msgid "Move Cover to:"
+msgstr "Verplaats cover naar:"
+
+msgid "Move Directory:"
+msgstr "Opname map:"
+
+msgid "Move File"
+msgstr "Bestand verplaatsen"
+
+msgid "Move Files"
+msgstr "Bestanden verplaatsen"
+
+msgid "Move cursor down"
+msgstr "Cursor omlaag"
+
+msgid "Move cursor page down"
+msgstr "Cursor pagina omlaag"
+
+msgid "Move cursor page up"
+msgstr "Cursor pagina omhoog"
+
+msgid "Move cursor to the end / Move cursor x entries down / Switch Folders in Movie Home (down)"
+msgstr "Verplaats de cursor naar het einde / verplaats de cursor x plekken naar beneden / Switch mappen in  standaardmap (naar beneden)"
+
+msgid "Move cursor to the top / Move cursor x entries up / Switch Folders in Movie Home (up)"
+msgstr "Verplaats de cursor naar boven / verplaats de cursor x plekken omhoog / Switch mappen in  standaardmap (omhoog)"
+
+msgid "Move cursor up"
+msgstr "Cursor omhoog"
+
+msgid "Move file(s):"
+msgstr "Verplaats bestand(en):"
+
+msgid "Move finished movies in trashcan"
+msgstr "Bekeken opnames naar de prullenbak verplaatsen"
+
+msgid "Movie Color"
+msgstr "Opnamekleur"
+
+#, python-format
+msgid ""
+"Movie Cover downloaded successfully!\n"
+"\n"
+"Can not write Movie Information File\n"
+"\n"
+"%s"
+msgstr ""
+"Opname cover succesvol gedownload!\n"
+"\n"
+"Kan geen opname informatie bestand maken\n"
+"\n"
+"%s"
+
+msgid "Movie Information Download Setup"
+msgstr "Opname informatie download instellingen"
+
+msgid "Movie Information Preview for:"
+msgstr "Opname informatie voorbeeld voor:"
+
+msgid "Movie Information TMDb"
+msgstr "Opname informatie TMDb"
+
+msgid "Movie Information and Cover downloaded successfully!"
+msgstr "Opname informatie en cover succesvol gedownload!"
+
+msgid "Movie Information downloaded successfully!"
+msgstr "Download  informatie succesvol!"
+
+#, python-format
+msgid ""
+"Movie Information downloaded successfully!\n"
+"\n"
+"Can not write Movie Cover File\n"
+"\n"
+"%s"
+msgstr ""
+"Opname informatie succesvol gedownload!\n"
+"\n"
+"Kan geen opname cover bestand maken\n"
+"\n"
+"%s"
+
+msgid "Movie Selection Menu"
+msgstr "Opname selectie menu"
+
+msgid "Movie home"
+msgstr "Standaardmap"
+
+msgid "Movie home at start"
+msgstr "Standaardmap bij opstarten"
+
+msgid "Movie home home path"
+msgstr "Standaardmap"
+
+msgid "Movie information"
+msgstr "Opname informatie"
+
+msgid "Movie preview delay in ms"
+msgstr "Opname voorbeeld vertraging in ms"
+
+msgid "Movies"
+msgstr "Opnames"
+
+msgid "Movietitle:"
+msgstr "Opname titel:"
+
+msgid "N/A"
+msgstr "Niet beschikbaar"
+
+msgid "Next auto-start in "
+msgstr "Volgende auto-start in"
+
+msgid "No"
+msgstr "Nee"
+
+#, python-format
+msgid "No Cover: %s"
+msgstr "Geen cover: %s"
+
+msgid "No DVD-Player found!"
+msgstr "Geen DVD-speler gevonden!"
+
+msgid "No Movies found!"
+msgstr "Geen opnames gevonden!"
+
+msgid "No functionality set..."
+msgstr "Geen functie toegewezen..."
+
+msgid "No limit"
+msgstr "Geen limiet"
+
+msgid "No override"
+msgstr "Niet overschrijven"
+
+msgid "No resume below 10 seconds"
+msgstr "Niet hervatten onder 10 seconden"
+
+msgid "No rogue files found."
+msgstr "Geen ongewenste bestanden gevonden."
+
+msgid "No script operation for VLC streams."
+msgstr "Geen script werking voor VLC streams."
+
+msgid "Not all timers have been stopped. Modify them with the timer editor."
+msgstr "Niet alle timers zijn gestopt. Bewerk ze met de Timer-Editor."
+
+msgid "Nothing was found !"
+msgstr "Niets gevonden !"
+
+msgid "OSError - please reload list (EMC menu)"
+msgstr "OSError - actualiseer de lijst a.u.b. (EMC menu)"
+
+msgid "OTHER"
+msgstr "OVERIGE"
+
+msgid "Off"
+msgstr "Uit"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Open E2 Bookmark path"
+msgstr "Open E2 bladwijzer locatie"
+
+msgid "Open E2 bookmarks"
+msgstr "Open E2 bladwijzers "
+
+msgid "Open EMC Bookmark path"
+msgstr "Open EMC bladwijzer locatie"
+
+msgid "Open Timer List"
+msgstr "Timerlijst openen"
+
+msgid "Open menu"
+msgstr "Menu openen"
+
+msgid "Orange"
+msgstr "Oranje"
+
+msgid "Own Path to movie picons"
+msgstr "Eigen locatie van opname picons"
+
+msgid "Path to movie picons"
+msgstr "Locatie  picons"
+
+msgid "Percent (%)"
+msgstr "Percent (%)"
+
+msgid "Performance"
+msgstr "Prestaties"
+
+msgid "Permanently delete all files in trashcan?"
+msgstr "Alle opnames uit de prullenbak definitief verwijderen?"
+
+msgid "Play All"
+msgstr "Alles afspelen"
+
+msgid "Play All starting"
+msgstr "Start met alles afspelen"
+
+msgid "Play current Playlist"
+msgstr "Speel huidige afspeellijst"
+
+msgid "Play last"
+msgstr "Recentste afspelen"
+
+msgid "Play last movie starting"
+msgstr "Laatste  afspelen"
+
+msgid "Play random current Playlist"
+msgstr "Speel willekeurig uit huidige afspeellijst"
+
+msgid "Play selected movie(s)"
+msgstr "Geselecteerde opname(s) afspelen"
+
+msgid "Playlist Options"
+msgstr "Afspeellijst instellingen"
+
+msgid "Playlist Setup"
+msgstr "Afspeellijst instellingen"
+
+msgid "Playlist open"
+msgstr "Afspeellijst openen"
+
+msgid ""
+"Playlist with same name exists!\n"
+"\n"
+"Try to save the Playlist with another name?"
+msgstr ""
+"Afspeellijst met dezelfde naam bestaat al!\n"
+"\n"
+"Probeer de afspeellijst met een andere naam op te slaan?"
+
+msgid "Portuguese"
+msgstr "Portugees"
+
+msgid "Position movie picons"
+msgstr "Positie  picons"
+
+msgid "Preferred EPG language"
+msgstr "EPG taal voorkeur"
+
+msgid "Preferred cover resolution (if possible):"
+msgstr "Voorkeurs resolutie cover (als mogelijk):"
+
+msgid "Press green button to start search"
+msgstr "Druk op de groene knop om zoeken te starten"
+
+msgid "Primary playback audio language"
+msgstr "Eerste voorkeur voor geluidsspoor"
+
+msgid "Primary playback subtitle language"
+msgstr "Eerste voorkeur voor ondertiteltaal"
+
+msgid "Production Countries:"
+msgstr "Productie land(en):"
+
+msgid "Progress sort"
+msgstr "Op voortgang sorteren"
+
+msgid "Progress sort ascending (P+)"
+msgstr "Vooruitgang (P +) oplopend"
+
+msgid "Progress sort descending (P-)"
+msgstr "Vooruitgang aflopend (P-)"
+
+msgid "ProgressBar"
+msgstr "Voortgangsbalk"
+
+msgid "REC"
+msgstr "REC"
+
+msgid "Radio-button"
+msgstr "Radio-knop"
+
+msgid "Reading directory..."
+msgstr "Map lezen..."
+
+msgid "Really close without saving settings?"
+msgstr "Afsluiten zonder opslaan?"
+
+msgid "Reboot"
+msgstr "Herstarten"
+
+msgid "Red"
+msgstr "Rood"
+
+msgid "Red button function"
+msgstr "Functie van de Rode knop"
+
+msgid "Release Date:"
+msgstr "Publicatie datum:"
+
+msgid "Reload current directory"
+msgstr "Actualiseer huidige map"
+
+msgid "Reload movie file list"
+msgstr "Opname overzicht actualiseren"
+
+msgid "Remove all cut file marker permanently?"
+msgstr "Verwijder alle cut bestanden definitief?"
+
+msgid "Remove all marker permanently?"
+msgstr "Verwijder alle markeringen definitief?"
+
+msgid "Remove cut list marker"
+msgstr "Verwijder cut-list markering"
+
+msgid "Remove directory from E2 Bookmarks"
+msgstr "Map verwijderen uit E2 bladwijzers"
+
+msgid "Remove directory from EMC Bookmarks"
+msgstr "Map verwijderen uit EMC bladwijzers"
+
+msgid "Remove permanent sort"
+msgstr "Permanente sortering verwijderen"
+
+msgid "Remove permanent sort from parent"
+msgstr "Permanent sorteren in de moedermap (parent dir) beëindigen"
+
+msgid "Remove rogue files"
+msgstr "Verwijder ongewenste bestanden"
+
+msgid "Remove selected E2 Bookmark"
+msgstr "Verwijder geselecteerde E2 bladwijzer"
+
+msgid "Remove selected EMC Bookmark"
+msgstr "Verwijder geselecteerde EMC bladwijzer"
+
+msgid "Remove service selection"
+msgstr "Verwijder zenderselectie"
+
+msgid "Rename selected movie(s)"
+msgstr "Hernoem geselecteerde opname(s)"
+
+msgid "Replace special chars in title"
+msgstr "Vervang speciale tekens in de titel"
+
+msgid "Reset marker from selected movie(s)"
+msgstr "Verwijder markering van geselecteerde opname(s)"
+
+msgid "Resolve links and show real path"
+msgstr "Verwijder symlinks en laat echte locatie zien"
+
+#, python-format
+msgid "Resume position at %s"
+msgstr "Hervatten vanaf positie %s"
+
+msgid "Resuming playback"
+msgstr "Afspelen hervatten"
+
+msgid "Rewind finished movies before playing"
+msgstr "Terugspoelen van bekeken opnames voor het afspelen"
+
+msgid "Runtime:"
+msgstr "Speeltijd:"
+
+msgid "SINGLE COVER-SEARCH"
+msgstr ""
+
+msgid "SKIN-SETTINGS"
+msgstr "SKIN-INSTELLINGEN"
+
+msgid "Save"
+msgstr "Bevestigen"
+
+msgid "Save Cover"
+msgstr "Cover opslaan"
+
+msgid "Save current Playlist"
+msgstr "Huidige afspeellijst opslaan"
+
+msgid "Save description to movie.txt file:"
+msgstr "Informatie opslaan naar movie.txt:"
+
+msgid "Scan for DVD structures"
+msgstr "Naar DVD-structuren zoeken"
+
+msgid "Scan for bluray structures"
+msgstr "Naar Bluray-structuren zoeken"
+
+msgid "Scan for bluray structures in .iso"
+msgstr "Naar Bluray-structuren zoeken in .iso"
+
+msgid "Scan for movie structures"
+msgstr "Naar opname-structuren zoeken"
+
+msgid "Scan linked folders"
+msgstr "Naar DVD-structuren zoeken blokkeren (symlinks)"
+
+msgid "Search"
+msgstr "Zoeken"
+
+#, fuzzy
+msgid "Search Results per Search Site (without counting cover range):"
+msgstr " (geen rekening houden met de grootte van de cover)"
+
+msgid "Search Results per Search Site:"
+msgstr "Zoekresultaten per zoeksite:"
+
+msgid "Search filter for matching existing terms in the title:"
+msgstr "Zoekfilter voor overeenkomsten in termen in de titel:"
+
+msgid "Search results for:"
+msgstr "Zoek resultaten voor:"
+
+#, python-format
+msgid "Searching for %s"
+msgstr "Zoeken naar %s"
+
+msgid "Searching..."
+msgstr "Zoeken..."
+
+msgid "Secondary playback audio language"
+msgstr "Tweede voorkeur voor geluidsspoor"
+
+msgid "Secondary playback subtitle language"
+msgstr "Tweede voorkeur voor ondertiteltaal"
+
+msgid "Seek backward"
+msgstr "Spoel achteruit"
+
+msgid "Seek forward"
+msgstr "Spoel vooruit"
+
+msgid "Select Location"
+msgstr "Selecteer locatie"
+
+msgid "Set path to save the folder Cover:"
+msgstr "Selecteer locatie voor opslaan cover map:"
+
+msgid "Set permanent sort"
+msgstr "Permanente sortering instellen"
+
+msgid "Settings have been Saved."
+msgstr "Instellingen zijn opgeslagen."
+
+msgid "Setup"
+msgstr "Instellingen"
+
+msgid "Setup open"
+msgstr "Instellingen openen"
+
+msgid "Short watching percent"
+msgstr "Percentage kort afspelen"
+
+msgid "Show Bookmarks in movielist"
+msgstr "Toon bladwijzers in de opnamelijst"
+
+msgid "Show Cover"
+msgstr "Toon cover"
+
+msgid "Show Cut-Nr if exist"
+msgstr "Toon EMC Cut-Nr. indien beschikbaar"
+
+msgid "Show EMC in extensions menu"
+msgstr "EMC-plugin in extensie menu laten zien"
+
+msgid "Show EMC in main menu"
+msgstr "EMC in hoofd-menu tonen"
+
+msgid "Show Latest Recordings directory"
+msgstr "Toon map met de recentste opnames"
+
+msgid "Show Movie Format"
+msgstr "Toon formaat"
+
+msgid "Show Path if no extended description available"
+msgstr "Toon locatie wanneer geen omschrijving beschikbaar is"
+
+msgid "Show VLC directory"
+msgstr "Toon VLC map"
+
+msgid "Show audio metadata"
+msgstr "Toon geluids-metadata"
+
+msgid "Show current Playlist"
+msgstr "Toon huidige afspeellijst"
+
+msgid "Show directories"
+msgstr "Toon mappen"
+
+msgid "Show directories information"
+msgstr "Toon informatie over de mappen"
+
+msgid "Show directories within movielist"
+msgstr "Toon mappen in opnamelijst"
+
+msgid "Show directory size in skin"
+msgstr "Toon map grootte in skin"
+
+msgid "Show event info"
+msgstr "Toon programma info"
+
+msgid "Show experimental options"
+msgstr "Toon experimentele instellingen"
+
+msgid "Show fallback cover"
+msgstr "Toon terugval cover"
+
+msgid "Show info at the bottom"
+msgstr "Toon info aan de onderkant"
+
+msgid "Show info at the bottom (with MiniTV)"
+msgstr "Toon info aan de onderkant (met Mini-TV)"
+
+msgid "Show info on the left"
+msgstr "Toon info aan de linkerkant"
+
+msgid "Show info on the left (with MiniTV)"
+msgstr "Toon info aan de linkerkant (met Mini-TV)"
+
+msgid "Show link arrow"
+msgstr "Toon link pijl"
+
+msgid "Show message if file added to playlist"
+msgstr "Toon bericht bij toevoegen aan afspeellijst"
+
+msgid "Show movie icons"
+msgstr "Toon opname iconen"
+
+msgid "Show movie picons"
+msgstr "Toon opname picons"
+
+msgid "Show movie preview"
+msgstr "Toon voorbeeld"
+
+msgid "Show movie progress"
+msgstr "Toon voortgang"
+
+msgid "Show plugin config in extensions menu"
+msgstr "EMC-instellingen in extensie menu laten zien"
+
+msgid "Show real length of running records"
+msgstr "Toon werkelijke lengte van lopende opnames"
+
+msgid "Show symlinks"
+msgstr "Toon symlinks"
+
+msgid "Show trashcan directory"
+msgstr "Toon prullenbak"
+
+msgid "Show trashcan information"
+msgstr "Toon prullenbak informatie"
+
+msgid "Shuffle All"
+msgstr "Alles willekeurig afspelen"
+
+msgid "Shuffle All starting"
+msgstr "Start alles afspelen in willekeurige volgorde"
+
+msgid "Single Search:"
+msgstr "Enkele zoekopdracht:"
+
+msgid "Single search"
+msgstr "Enkele zoekopdracht"
+
+msgid "Skip"
+msgstr "Overslaan"
+
+msgid ""
+"Skipping movie, the file does not exist.\n"
+"\n"
+msgstr ""
+"Opname overslaan, het bestand bestaat niet.\n"
+"\n"
+
+msgid "Some settings changes require GUI restart to take effect."
+msgstr "Sommige veranderingen eisen een herstart van E2, de GUI a.u.b. opnieuw starten."
+
+msgid "Sort Mode"
+msgstr "Sorteer methode"
+
+msgid "Sort Options"
+msgstr "Sorteer instellingen"
+
+msgid "Sort Order"
+msgstr "Sorteer volgorde"
+
+msgid "Spanish"
+msgstr "Spaans"
+
+msgid "Standby"
+msgstr "Standby"
+
+msgid "Start / end multiselection"
+msgstr "Start / stop multiselectie"
+
+msgid "Start EMC with"
+msgstr "EMC starten met"
+
+msgid "Start movie preview before last position"
+msgstr "Start  voorbeeld voor laatste positie"
+
+msgid "Stop ongoing recording?\n"
+msgstr "Lopende opname stoppen?\n"
+
+msgid "Stop playback"
+msgstr "Afspelen stoppen"
+
+msgid "Style for original EMC-skin (needs reopen)"
+msgstr "Stijl voor originele EMC-skin (herstart nodig)"
+
+msgid "Suppress scan in selected folders"
+msgstr "Naar DVD-structuren zoeken blokkeren (mappen)"
+
+msgid "TMBD Info"
+msgstr "TMBD Info"
+
+msgid "TMDB Info"
+msgstr "TMDB Info"
+
+msgid "TMDb"
+msgstr "TMDb"
+
+msgid "TRASHCAN"
+msgstr "PRULLENBAK"
+
+msgid "TV Shows"
+msgstr "TV series"
+
+msgid "TV-button"
+msgstr "TV-knop"
+
+msgid "Tertiary playback audio language"
+msgstr "Derde voorkeur voor geluidsspoor"
+
+msgid "Tertiary playback subtitle language"
+msgstr "Derde voorkeur voor ondertiteltaal"
+
+msgid "Text shown for initially unknown count and size"
+msgstr "Toon aanvankelijk onbekend aantal bestanden en grootte als"
+
+msgid "Text shown for initially unknown directory size"
+msgstr "Toon aanvankelijk onbekende map grootte als"
+
+msgid "Text shown for initially unknown file count"
+msgstr "Toon aanvankelijk onbekend aantal bestanden als"
+
+#, python-format
+msgid "The directory %s is already locked. Do you want to unlock it and all its subfolders?"
+msgstr "De map %s is al vergrendeld. Wilt u deze ontgrendelen en alle onderliggende mappen?"
+
+#, python-format
+msgid ""
+"The following files are used for other entrys in List !\n"
+"\n"
+"Also delete these files?\n"
+"\n"
+"%s"
+msgstr ""
+"Deze bestanden worden gebruikt door andere invoeren in de lijst !\n"
+"\n"
+"Deze bestanden ook verwijderen?\n"
+"\n"
+"%s"
+
+msgid "This element belongs to a locked folder and cannot be deleted!"
+msgstr "Dit element behoort tot een vergrendelde map en kan niet worden verwijderd!"
+
+msgid "This folder is locked or contains a locked subfolder, unlock it first!"
+msgstr "Deze map is vergrendeld of bevat een vergrendelde onderliggende map, ontgrendel deze eerst!"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Toggle Cover Button"
+msgstr "Wissel cover knop"
+
+msgid "Toggle service selection"
+msgstr "Verwissel zenderselectie"
+
+msgid "Toggle viewed / not viewed"
+msgstr "Verwissel gezien / niet gezien"
+
+msgid "Total"
+msgstr "Totaal"
+
+msgid "Trashcan"
+msgstr "Prullenbak"
+
+msgid "Trashcan create failed. Check mounts and permissions."
+msgstr "Aanmaken prullenbak mislukt. Mounts en rechten controleren."
+
+msgid "Trashcan enable"
+msgstr "Prullenbak gebruiken"
+
+msgid "Trashcan path"
+msgstr "Prullenbak locatie"
+
+msgid "Try to load extra title and more from .meta files"
+msgstr "Probeer om extra titel en meer uit .meta-bestand te laden"
+
+msgid "Try to load titles from .eit files"
+msgstr "Probeer om titels uit .eit-bestand te lezen"
+
+msgid "Try to load titles from .meta files"
+msgstr "Probeer om titels uit .meta-bestand te lezen"
+
+msgid "UNKNOWN"
+msgstr "ONBEKEND"
+
+msgid "Up"
+msgstr "Omhoog"
+
+msgid "Use cache for files and directories"
+msgstr "Gebruikt cache voor bestanden en mappen"
+
+msgid "Use original EMC-skin (needs reopen)"
+msgstr "Gebruik originele EMC-skin (herstart nodig)"
+
+msgid "VLC"
+msgstr "VLC"
+
+msgid "VLC Server not reachable"
+msgstr "VLC server onbereikbaar"
+
+msgid "VLC-Dir"
+msgstr "VLC-map"
+
+msgid "VLC-Server"
+msgstr "VLC-server"
+
+msgid "Video-button"
+msgstr "Video-knop"
+
+msgid "Vote:"
+msgstr "Stemmen:"
+
+msgid "WD DD.MM. HH:MM"
+msgstr "WD DD.MM. HH:MM"
+
+msgid "WD DD.MM.YYYY"
+msgstr "WD DD.MM.YYYY"
+
+msgid "WD DD.MM.YYYY HH:MM"
+msgstr "WD DD.MM.YYYY HH:MM"
+
+msgid "WD MM/DD HH:MM"
+msgstr "WD MM/DD HH:MM"
+
+msgid "WD YYYY/MM/DD"
+msgstr "WD YYYY/MM/DD"
+
+msgid "WD YYYY/MM/DD HH:MM"
+msgstr "WD YYYY/MM/DD HH:MM"
+
+msgid "Wake device when entering dir from emc-noscan.cfg"
+msgstr "Apparaat ontwaken bij het openen van map uit emc-noscan.cfg"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Weeks"
+msgstr "Weken"
+
+msgid "White"
+msgstr "Wit"
+
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+msgid "YYYY/MM/DD HH:MM"
+msgstr "YYYY/MM/DD HH:MM"
+
+msgid "Yellow button function"
+msgstr "Functie van de Gele knop"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Yes, everything"
+msgstr "Ja, alles"
+
+msgid "Yes, only extra title"
+msgstr "Ja, enkel extra titel"
+
+msgid "Yes, with Message"
+msgstr "Ja, met bericht"
+
+msgid "Yes, without Message"
+msgstr "Ja, zonder bericht"
+
+msgid ""
+"Your Box is about to go into DeepStandby, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Uw Box staat op het punt om uit te schakelen, Doorgaan?\n"
+" Selecteer Nee voor uur uitstel"
+
+msgid ""
+"Your Box is about to go into E2 Restart, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Uw Box staat op het punt om E2 te herstarten, Doorgaan?\n"
+" Selecteer Nee voor uur uitstel"
+
+msgid ""
+"Your Box is about to go into Reboot, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Uw Box staat op het punt om te herstarten, Doorgaan?\n"
+" Selecteer Nee voor uur uitstel"
+
+msgid ""
+"Your Box is about to go into Standby, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Uw Box staat op het punt om in Standby the gaan, Doorgaan?\n"
+" Selecteer Nee voor uur uitstel"
+
+msgid "Zap to channel after record EOF"
+msgstr "Keer terug naar de zender na einde opname"
+
+msgid "after reload list"
+msgstr "na actualiseren lijst"
+
+msgid "after standby"
+msgstr "Na standby"
+
+msgid "all"
+msgstr "alles"
+
+msgid "always"
+msgstr "altijd"
+
+msgid "always hide"
+msgstr "altijd verbergen"
+
+msgid "auto-start is currently not active."
+msgstr "auto-start is momenteel niet actief."
+
+msgid "auto-start window begin"
+msgstr "Tijdsvenster auto-start begin"
+
+msgid "auto-start window end"
+msgstr "Tijdsvenster auto-start einde"
+
+msgid "center"
+msgstr "midden"
+
+msgid "configuration"
+msgstr "Configuratie"
+
+msgid "covers in"
+msgstr "covers in"
+
+msgid "daily auto-start"
+msgstr "Dagelijkse auto-start functie"
+
+msgid "down"
+msgstr "omlaag"
+
+msgid "every single one"
+msgstr "elke individuele"
+
+msgid "forward to the next chapter"
+msgstr "Naar het volgende hoofdstuk springen"
+
+msgid "found"
+msgstr "gevonden"
+
+msgid "from"
+msgstr "van"
+
+msgid "hide live TV"
+msgstr "Verberg live TV"
+
+msgid "hide live TV and timeshift"
+msgstr "Verberg live TV en timeshift"
+
+msgid "hide playback"
+msgstr "Verberg afspelen"
+
+msgid "imdb.com"
+msgstr "imdb.com"
+
+msgid "jump back to the previous title"
+msgstr "Naar de vorige titel springen"
+
+msgid "jump forward to the next title"
+msgstr "Naar de volgende titel springen"
+
+msgid "jump to next marked position"
+msgstr "Spring naar volgend markeerpunt"
+
+msgid "jump to previous marked position"
+msgstr "Spring naar vorig markeerpunt"
+
+msgid "left"
+msgstr "links"
+
+msgid "left from Name"
+msgstr "links van de naam"
+
+msgid "movie manipulation list"
+msgstr "Opname manipulatielijst"
+
+msgid "movies in"
+msgstr "opnames in"
+
+msgid "never hide"
+msgstr "niet verbergen"
+
+msgid "no limit"
+msgstr "geen limiet"
+
+msgid "off"
+msgstr "uit"
+
+msgid "only initially"
+msgstr "enkel bij aanvang"
+
+msgid "overall"
+msgstr "algeheel"
+
+msgid "rewind to the previous chapter"
+msgstr "Naar het vorige hoofdstuk springen"
+
+msgid "right"
+msgstr "rechts"
+
+msgid "right from Name"
+msgstr "rechts van de naam"
+
+msgid "sec"
+msgstr "sec"
+
+msgid "sec found. Avg. Speed:"
+msgstr "sec gevonden. Gem. snelheid:"
+
+msgid "sec."
+msgstr "sec."
+
+msgid "show DVD main menu"
+msgstr "Toon DVD-hoofdmenu"
+
+msgid "single pixel TV, muted"
+msgstr "enkele pixel TV, gedempt"
+
+msgid "standard cover"
+msgstr "standaard cover"
+
+msgid "stop service"
+msgstr "stop zender"
+
+msgid "switch to the next angle"
+msgstr "schakel naar de volgende hoek (angle)"
+
+msgid "switch to the next audio track"
+msgstr "schakel naar het volgende geluidsspoor"
+
+msgid "switch to the next subtitle language"
+msgstr "schakel naar de volgende ondertitelingstaal"
+
+msgid "themoviedb.org"
+msgstr "themoviedb.org"
+
+msgid "themoviedb.org + thetvdb.com"
+msgstr "themoviedb.org + thetvdb.com"
+
+msgid "thetvdb cover number (standard cover):"
+msgstr "thetvdb cover nummer (standaard cover):"
+
+msgid "thetvdb cover range per title:"
+msgstr "thetvdb cover bereik per titel::"
+
+msgid "thetvdb.com"
+msgstr "thetvdb.com"
+
+msgid "three contiguous"
+msgstr "drie aaneengesloten"
+
+msgid "toggle a cut mark at the current position"
+msgstr "Markeerpunt op actuele positie zetten"
+
+msgid "trashcan"
+msgstr "Prullenbak"
+
+msgid "two contiguous"
+msgstr "twee aaneengesloten"
+
+msgid "type 1 - OSD + black (#00000000)"
+msgstr "type 1 - OSD + zwart (#00000000)"
+
+msgid "type 2 - transparent + white (#FFFFFFFF)"
+msgstr "type 2 - transparant + wit (#FFFFFFFF)"
+
+msgid "type 3 - OSD + black (#00FFFFFF)"
+msgstr "type 3 - OSD + zwart (#00FFFFFF)"
+
+msgid "type 4 - transparent + black (#FF000000)"
+msgstr "type 4 - transparant + zwart (#FF000000)"
+
+msgid "unknown"
+msgstr "Onbekend"
+
+msgid "up/down"
+msgstr "omhoog/omlaag"
+
+msgid "view extensions..."
+msgstr "Open extensie menu..."
+
+msgid "x"
+msgstr "x"

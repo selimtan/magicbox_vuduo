@@ -1,0 +1,37 @@
+{
+  "release": "2.0.0 R9",
+  "machine": "vuduo",
+  "source_trees": {
+    "enigma2": {
+      "upstream": "https://github.com/OpenPLi/enigma2.git",
+      "upstream_revision": "65dc39356b2863915745176a16a562ec1aa366b4",
+      "patch": "meta-magicbox/recipes-openpli/enigma2/files/magicbox-native.patch",
+      "patch_sha256": "8ed43a818a4858c0a3aa0c70c47833870e135b1de6dc8026454bf16144ad49b8",
+      "modified_files_verified": 48,
+      "upstream_files": 1593
+    },
+    "EnhancedMovieCenter": {
+      "upstream": "https://github.com/oe-mirrors/EnhancedMovieCenter.git",
+      "upstream_revision": "23dc058965d4743b1d884a6dae63054c047ef2d4",
+      "patch": "meta-magicbox/recipes-openpli/enigma2-plugins/files/0001-openpli-standalone-player.patch",
+      "patch_sha256": "e3c4dd8c21e80356e73d213c5dad9a481b71ec695430b303ee403ab4b67b909e",
+      "modified_files_verified": 4,
+      "upstream_files": 201
+    },
+    "servicemp3": {
+      "upstream": "https://github.com/OpenPLi/servicemp3.git",
+      "upstream_revision": "bdb5a908276b69a913ca50cb8c274d1b5977ad82",
+      "patch": "meta-magicbox/recipes-openpli/enigma2/files/magicbox-stream-cancel.patch",
+      "patch_sha256": "11a1317ccd4529e98236d9dfb140289fc5a522443fdb0fac22bd1767952df560",
+      "modified_files_verified": 2,
+      "upstream_files": 14
+    }
+  },
+  "openpli_oe_core": {
+    "url": "https://github.com/OpenPLi/openpli-oe-core.git",
+    "revision": "0e452344349e700c4a2a7180d61941ce75c5541e"
+  },
+  "canonical_build_inputs": "meta-magicbox/ and source-manifest.json",
+  "readable_source_trees": "Pristine pinned upstream snapshots with the corresponding Magic Box patches applied.",
+  "private_device_data_included": false
+}

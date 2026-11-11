@@ -1,0 +1,3 @@
+[submodule "openpli-oe-core"]
+	path = openpli-oe-core
+	url = https://github.com/OpenPLi/openpli-oe-core.git

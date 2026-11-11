@@ -1,0 +1,2387 @@
+# audi06_19 <audi06_19@hotmail.com>, 2026.
+msgid ""
+msgstr ""
+"Project-Id-Version: EnhancedMovieCenter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-12 09:04+0100\n"
+"PO-Revision-Date: 2026-03-13 13:43+0300\n"
+"Last-Translator: audi06_19 <audi06_19@hotmail.com>\n"
+"Language-Team: audi06_19 audi06_19@hotmail.com\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.9\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: src\n"
+
+msgid " Deleting remotely recorded and it will display an rec-error dialog on the other DB."
+msgstr " Uzaktan kaydedilen siliniyor ve diğer DB üzerinde bir kayıt hatası iletişim kutusu görüntülenecek."
+
+msgid " all selected video files?"
+msgstr " seçili tüm video dosyaları?"
+
+msgid " all selected video files? The currently playing movie is also one of the selections and its playback will be stopped."
+msgstr " seçili tüm video dosyaları? Şu anda oynatılan film de seçimler arasında ve oynatma durdurulacak."
+
+msgid " currently played?"
+msgstr " şu anda oynatılıyor mu?"
+
+msgid " files\n"
+msgstr " dosya\n"
+
+msgid " permanently"
+msgstr " kalıcı olarak"
+
+#, python-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d saniye"
+msgstr[1] "%d saniyeler"
+
+#, python-format
+msgid "%s not removed. Write protect?"
+msgstr "%s kaldırılmadı. Yazma koruması mı var?"
+
+#, python-format
+msgid "%s removed."
+msgstr "%s kaldırıldı."
+
+msgid "( # )"
+msgstr "( # )"
+
+msgid "( # / GB )"
+msgstr "( # / GB )"
+
+msgid "( GB )"
+msgstr "( GB )"
+
+msgid "(Un-)Lock Directory"
+msgstr "Dizini Kilitle/Kilidini Aç"
+
+msgid "(show optional DVD audio menu)"
+msgstr "(isteğe bağlı DVD ses menüsünü göster)"
+
+msgid "*** Multiselection active ***"
+msgstr "*** Çoklu seçim etkin ***"
+
+msgid ".../foldername.jpg"
+msgstr ".../klasöradı.jpg"
+
+msgid ".../foldername/folder.jpg"
+msgstr ".../klasöradı/klasör.jpg"
+
+msgid ".../foldername/foldername.jpg"
+msgstr ".../klasöradı/klasöradı.jpg"
+
+msgid ""
+"ATTENTION\n"
+"\n"
+"This option will move all finished movies in Movie Home automatically to Your trashcan at the given time.\n"
+"At next trashcan cleanup all movies will be deleted.\n"
+"\n"
+"Confirm this with the blue key followed by the green key."
+msgstr ""
+"DİKKAT\n"
+"\n"
+"Bu seçenek, Movie Home içindeki tamamlanmış tüm filmleri belirtilen zamanda otomatik olarak çöp kutunuza taşıyacaktır.\n"
+"Bir sonraki çöp kutusu temizliğinde tüm filmler silinecektir.\n"
+"\n"
+"Bunu önce mavi tuş, ardından yeşil tuş ile onaylayın."
+
+msgid "AUDIO METADATA"
+msgstr "SES ÜST VERİSİ"
+
+msgid "AUTOSTART"
+msgstr "OTOMATİK BAŞLAT"
+
+msgid "About"
+msgstr "Hakkında"
+
+msgid "Add directory to E2 Bookmarks"
+msgstr "Dizini E2 Yer İmlerine ekle"
+
+msgid "Add directory to EMC Bookmarks"
+msgstr "Dizini EMC Yer İmlerine ekle"
+
+msgid "Add to Playlist"
+msgstr "Oynatma listesine ekle"
+
+msgid "Add to current Playlist"
+msgstr "Geçerli oynatma listesine ekle"
+
+msgid "After file OPs only re-scan affected dirs"
+msgstr "Dosya işlemlerinden sonra yalnızca etkilenen dizinleri yeniden tara"
+
+msgid "Age of finished movies in movie folder (days)"
+msgstr "Film klasöründeki tamamlanmış filmlerin yaşı (gün)"
+
+msgid "Album:"
+msgstr "Albüm:"
+
+msgid "Alpha sort"
+msgstr "Alfabetik sıralama"
+
+msgid "Alpha sort ascending (AZ)"
+msgstr "Alfabetik artan sıralama (AZ)"
+
+msgid "Alpha sort ascending with meta (AZM)"
+msgstr "Meta ile alfabetik artan sıralama (AZM)"
+
+msgid "Alpha sort ascending with meta, Date descending (AZMD-)"
+msgstr "Meta ile alfabetik artan, tarihe göre azalan sıralama (AZMD-)"
+
+msgid "Alpha sort ascending, Date descending (AZD-)"
+msgstr "Alfabetik artan, tarihe göre azalan sıralama (AZD-)"
+
+msgid "Alpha sort date newest"
+msgstr "Alfabetik sıralama, en yeni tarih"
+
+msgid "Alpha sort descending (ZA)"
+msgstr "Alfabetik azalan sıralama (ZA)"
+
+msgid "Alpha sort descending with meta (ZAM)"
+msgstr "Meta ile alfabetik azalan sıralama (ZAM)"
+
+msgid "Alpha sort descending with meta, Date ascending (ZAMD+)"
+msgstr "Meta ile alfabetik azalan, tarihe göre artan sıralama (ZAMD+)"
+
+msgid "Alpha sort descending, Date ascending (ZAD+)"
+msgstr "Alfabetik azalan, tarihe göre artan sıralama (ZAD+)"
+
+msgid "Alpha sort meta"
+msgstr "Meta alfabetik sıralama"
+
+msgid "Alpha sort meta date newest"
+msgstr "Meta alfabetik sıralama, en yeni tarih"
+
+msgid "Always save current Playlist"
+msgstr "Geçerli oynatma listesini her zaman kaydet"
+
+msgid "Always save last played progress as marker"
+msgstr "Son oynatılan ilerlemeyi her zaman işaret olarak kaydet"
+
+msgid "Artist:"
+msgstr "Sanatçı:"
+
+msgid "Automatic timers list cleaning"
+msgstr "Zamanlayıcı listesini otomatik temizleme"
+
+msgid "Available plugins menu"
+msgstr "Kullanılabilir eklentiler menüsü"
+
+msgid "Black"
+msgstr "Siyah"
+
+msgid "Blue button function"
+msgstr "Mavi tuş işlevi"
+
+msgid "Bookmark"
+msgstr "Yer imi"
+
+msgid "Both"
+msgstr "Her ikisi"
+
+msgid "Bouquet buttons behaviour"
+msgstr "Buket tuşlarının davranışı"
+
+msgid "Button disabled"
+msgstr "Tuş devre dışı"
+
+msgid "COVER-SEARCH"
+msgstr "KAPAK-ARAMA"
+
+msgid "CSFD"
+msgstr "CSFD"
+
+msgid "CSFD Info"
+msgstr "CSFD Bilgisi"
+
+msgid "Can not save "
+msgstr "Kaydedilemiyor "
+
+msgid "Can not save Cover in "
+msgstr "Kapak şuraya kaydedilemiyor: "
+
+msgid "Can not save current Playlist!"
+msgstr "Geçerli oynatma listesi kaydedilemiyor!"
+
+#, python-format
+msgid ""
+"Can not write Movie Information File\n"
+"\n"
+"%s"
+msgstr ""
+"Film Bilgisi dosyası yazılamıyor\n"
+"\n"
+"%s"
+
+#, python-format
+msgid ""
+"Can not write Movie Information and Cover File\n"
+"\n"
+"%(info)s\n"
+"%(file)s"
+msgstr ""
+"Film Bilgisi ve Kapak dosyası yazılamıyor\n"
+"\n"
+"%(info)s\n"
+"%(file)s"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Cannot delete the parent directory."
+msgstr "Üst dizin silinemez."
+
+msgid "Change File/Moviename and/or Description"
+msgstr "Dosya/Film adını ve/veya açıklamayı değiştir"
+
+msgid "Change Folder"
+msgstr "Klasörü değiştir"
+
+msgid "Change Foldername"
+msgstr "Klasör adını değiştir"
+
+msgid "Change the filename to save current Playlist:"
+msgstr "Geçerli oynatma listesini kaydetmek için dosya adını değiştir:"
+
+msgid "Chap."
+msgstr "Bölüm"
+
+msgid "Chapter"
+msgstr "Bölüm"
+
+msgid "Check for dead links"
+msgstr "Bozuk bağlantıları denetle"
+
+msgid "Choose Directory:"
+msgstr "Dizin seç:"
+
+msgid "Choose bookmark"
+msgstr "Yer imi seç"
+
+msgid "Choose directory"
+msgstr "Dizin seç"
+
+msgid "Choose operation"
+msgstr "İşlem seç"
+
+msgid "Choose plugin"
+msgstr "Eklenti seç"
+
+msgid "Choose script"
+msgstr "Betik seç"
+
+msgid "Close EMC"
+msgstr "EMC'yi kapat"
+
+msgid "Close EMC and do power button action"
+msgstr "EMC'yi kapat ve güç tuşu eylemini uygula"
+
+msgid "Collection"
+msgstr "Koleksiyon"
+
+msgid "Configured directories at the top of movielist"
+msgstr "Film listesinin üstündeki yapılandırılmış dizinler"
+
+msgid "Content:"
+msgstr "İçerik:"
+
+msgid "Copy File"
+msgstr "Dosyayı kopyala"
+
+msgid "Copy Files"
+msgstr "Dosyaları kopyala"
+
+msgid "Copy file(s):"
+msgstr "Dosya(ları) kopyala:"
+
+#, python-format
+msgid ""
+"Cover %s exists!\n"
+"\n"
+"Do you want to replace the existing cover?"
+msgstr ""
+"%s kapağı zaten mevcut!\n"
+"\n"
+"Var olan kapağı değiştirmek istiyor musunuz?"
+
+msgid "Cover Search"
+msgstr "Kapak Arama"
+
+msgid "Cover background"
+msgstr "Kapak arka planı"
+
+msgid "Cover delay in ms"
+msgstr "Kapak gecikmesi (ms)"
+
+msgid "Cover disabled in EMC-Setup"
+msgstr "Kapak, EMC Ayarlarında devre dışı"
+
+msgid "Cover is Saved."
+msgstr "Kapak kaydedildi."
+
+msgid "Cover search"
+msgstr "Kapak arama"
+
+msgid ""
+"Cover search with all Files in Subdirectories?\n"
+"\n"
+"This may take a while on huge Disks, or Directories!"
+msgstr ""
+"Alt dizinlerdeki tüm dosyalarla kapak araması yapılsın mı?\n"
+"\n"
+"Bu işlem büyük disklerde veya dizinlerde biraz zaman alabilir!"
+
+msgid "Coversize"
+msgstr "Kapak boyutu"
+
+msgid "Create directory"
+msgstr "Dizin oluştur"
+
+msgid "Create link"
+msgstr "Bağlantı oluştur"
+
+msgid "Creating Search List.."
+msgstr "Arama listesi oluşturuluyor.."
+
+msgid "Current Playlist saved successfully!"
+msgstr "Geçerli oynatma listesi başarıyla kaydedildi!"
+
+msgid "Cursor predictive move after selection"
+msgstr "Seçimden sonra imlecin öngörülü hareketi"
+
+msgid "Custom"
+msgstr "Özel"
+
+msgid "Czech"
+msgstr "Çekçe"
+
+msgid "DD.MM. HH:MM"
+msgstr "DD.MM. SS:DD"
+
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+msgid "DD.MM.YYYY HH:MM"
+msgstr "DD.MM.YYYY SS:DD"
+
+msgid "DEBUG"
+msgstr "HATA AYIKLAMA"
+
+msgid "DELAYS"
+msgstr "GECİKMELER"
+
+msgid "DISPLAY-SETTINGS"
+msgstr "GÖRÜNÜM AYARLARI"
+
+msgid "DVD / BLU-RAY / FOLDERS"
+msgstr "DVD / BLU-RAY / KLASÖRLER"
+
+msgid "Daily cleanup time"
+msgstr "Günlük temizleme zamanı"
+
+msgid "Dark green"
+msgstr "Koyu yeşil"
+
+msgid "Dark grey"
+msgstr "Koyu gri"
+
+msgid "Dark orange"
+msgstr "Koyu turuncu"
+
+msgid "Dark red"
+msgstr "Koyu kırmızı"
+
+msgid "Date format"
+msgstr "Tarih biçimi"
+
+msgid "Date sort"
+msgstr "Tarihe göre sırala"
+
+msgid "Date sort ascending (D+)"
+msgstr "Tarihe göre artan sıralama (D+)"
+
+msgid "Date sort descending (D-)"
+msgstr "Tarihe göre azalan sıralama (D-)"
+
+msgid "Day"
+msgstr "Gün"
+
+msgid "Days"
+msgstr "Gün"
+
+msgid "Debug output file name"
+msgstr "Hata ayıklama çıktı dosya adı"
+
+msgid "DeepStandby"
+msgstr "Derin Bekleme"
+
+msgid "Default"
+msgstr "Öntanımlı"
+
+msgid ""
+"Default Playlist is not empty!\n"
+"\n"
+"Save default Playlist?"
+msgstr ""
+"Varsayılan oynatma listesi boş değil!\n"
+"\n"
+"Varsayılan oynatma listesi kaydedilsin mi?"
+
+msgid "Default Playlist name"
+msgstr "Varsayılan oynatma listesi adı"
+
+msgid "Default Playlist path"
+msgstr "Varsayılan oynatma listesi yolu"
+
+msgid "Default color for highlighted movie"
+msgstr "Vurgulanan film için varsayılan renk"
+
+msgid "Default color for partially watched movie"
+msgstr "Kısmen izlenmiş film için varsayılan renk"
+
+msgid "Default color for recording movie"
+msgstr "Kaydedilen film için varsayılan renk"
+
+msgid "Default color for unwatched movie"
+msgstr "İzlenmemiş film için varsayılan renk"
+
+msgid "Default color for watched movie"
+msgstr "İzlenmiş film için varsayılan renk"
+
+msgid "Default sort mode"
+msgstr "Varsayılan sıralama modu"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Delete All"
+msgstr "Tümünü Sil"
+
+msgid "Delete Entry"
+msgstr "Girdiyi Sil"
+
+msgid "Delete current Playlist"
+msgstr "Geçerli oynatma listesini sil"
+
+msgid "Delete cut file(s)"
+msgstr "Kesim dosya(larını) sil"
+
+msgid "Delete error:\n"
+msgstr "Silme hatası:\n"
+
+msgid "Delete failed because the trashcan directory does not exist. Attempt to create it now?"
+msgstr "Silme başarısız oldu çünkü çöp kutusu dizini mevcut değil. Şimdi oluşturmayı denesin mi?"
+
+msgid "Delete failed!"
+msgstr "Silme işlemi başarısız!"
+
+msgid "Delete permanently"
+msgstr "Kalıcı olarak sil"
+
+msgid "Delete validation"
+msgstr "Silme onayı"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "Description field update delay"
+msgstr "Açıklama alanı güncelleme gecikmesi"
+
+msgid "Description:"
+msgstr "Açıklama:"
+
+msgid "Directory"
+msgstr "Dizin"
+
+#, python-format
+msgid "Directory %s already exists!"
+msgstr "%s dizini zaten mevcut!"
+
+msgid "Directory back"
+msgstr "Önceki dizin"
+
+msgid "Directory forward"
+msgstr "Sonraki dizin"
+
+msgid "Directory is not empty! Do you really want to delete it?"
+msgstr "Dizin boş değil! Gerçekten silmek istiyor musunuz?"
+
+msgid "Directory up"
+msgstr "Üst dizin"
+
+msgid "Directory-Cover search"
+msgstr "Dizin-Kapak arama"
+
+msgid "Disable EMC"
+msgstr "EMC'yi devre dışı bırak"
+
+msgid "Display directory reading text"
+msgstr "Dizin okunuyor metnini göster"
+
+msgid ""
+"Do you really want to delete the cut file?\n"
+"If you have selected a directory, all cut files within the folder and its subfolders will be deleted!"
+msgstr ""
+"Kesim dosyasını gerçekten silmek istiyor musunuz?\n"
+"Bir dizin seçtiyseniz, klasör ve alt klasörler içindeki tüm kesim dosyaları silinecektir!"
+
+#, python-format
+msgid "Do you really want to lock the directory %s and all its subfolders?"
+msgstr "%s dizinini ve tüm alt klasörlerini gerçekten kilitlemek istiyor musunuz?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your bookmark\n"
+"%s?"
+msgstr ""
+"%s\n"
+"yer imini gerçekten kaldırmak istiyor musunuz?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your directory\n"
+"%s?"
+msgstr ""
+"%s\n"
+"dizinini gerçekten kaldırmak istiyor musunuz?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your link\n"
+"%s?"
+msgstr ""
+"%s\n"
+"bağlantısını gerçekten kaldırmak istiyor musunuz?"
+
+msgid "Do you want to resume this playback?"
+msgstr "Bu oynatmaya kaldığınız yerden devam etmek istiyor musunuz?"
+
+msgid "Does not contain any scripts."
+msgstr "Hiç betik içermiyor."
+
+msgid "Don't auto scan size of dirs from emc-noscan.cfg"
+msgstr "emc-noscan.cfg içindeki dizin boyutlarını otomatik tarama"
+
+msgid "Download Movie Info"
+msgstr "Film Bilgisini indir"
+
+msgid "Download Movie Information"
+msgstr "Film Bilgilerini indir"
+
+msgid "Download cutlist from Cutlist.at"
+msgstr "Cutlist.at üzerinden kesim listesini indir"
+
+#, python-format
+msgid "Download: %s"
+msgstr "İndiriliyor: %s"
+
+msgid "E2 Bookmark"
+msgstr "E2 Yer İmi"
+
+msgid "E2 Bookmarks"
+msgstr "E2 Yer İmleri"
+
+msgid "E2 Restart"
+msgstr "E2 Yeniden Başlat"
+
+msgid ""
+"EMC\n"
+"Zap to Live TV of record"
+msgstr ""
+"EMC\n"
+"Kayıt için Canlı TV kanalına geç"
+
+msgid "EMC Bookmarks"
+msgstr "EMC Yer İmleri"
+
+msgid "EMC Cover Selecter"
+msgstr "EMC Kapak Seçici"
+
+msgid "EMC Cover search"
+msgstr "EMC Kapak arama"
+
+msgid "EMC Cover search setup"
+msgstr "EMC Kapak arama ayarı"
+
+msgid "EMC Filebrowser"
+msgstr "EMC Dosya gezgini"
+
+msgid "EMC Help"
+msgstr "EMC Yardım"
+
+msgid "EMC Playlist - current playlist"
+msgstr "EMC Oynatma Listesi - geçerli oynatma listesi"
+
+msgid "EMC Playlist Menu"
+msgstr "EMC Oynatma Listesi Menüsü"
+
+msgid "EMC Playlist Setup"
+msgstr "EMC Oynatma Listesi Ayarı"
+
+msgid "EMC Setup"
+msgstr "EMC Ayarları"
+
+msgid "EMC Trashcan Cleanup failed!"
+msgstr "EMC Çöp Kutusu temizliği başarısız oldu!"
+
+msgid "EMC always reload after open"
+msgstr "EMC açıldıktan sonra her zaman yeniden yükle"
+
+msgid "EMC output directory"
+msgstr "EMC çıktı dizini"
+
+msgid "EMC path access limit"
+msgstr "EMC yol erişim sınırı"
+
+msgid "EMC re-open list after Movie end"
+msgstr "Film bittikten sonra listeyi yeniden aç"
+
+msgid "EMC re-open list after STOP-press"
+msgstr "DUR tuşundan sonra listeyi yeniden aç"
+
+msgid "EMC-TMDB Info"
+msgstr "EMC-TMDB Bilgisi"
+
+msgid ""
+"EMC: Skipping Trashcan Cleanup\n"
+"Movie Home Path is equal to or a subfolder of the Trashcan"
+msgstr ""
+"EMC: Çöp kutusu temizliği atlanıyor\n"
+"Movie Home yolu, çöp kutusuna eşit veya onun alt klasörü"
+
+msgid "Edit Tags"
+msgstr "Etiketleri düzenle"
+
+msgid "Empty trashcan"
+msgstr "Çöp kutusunu boşalt"
+
+msgid "Enable EMC debug output"
+msgstr "EMC hata ayıklama çıktısını etkinleştir"
+
+msgid "Enable daily trashcan cleanup"
+msgstr "Günlük çöp kutusu temizliğini etkinleştir"
+
+msgid "Enable playback AC3-track first"
+msgstr "Önce AC3 ses parçasını oynatmayı etkinleştir"
+
+msgid "Enable playback auto-language selection"
+msgstr "Oynatma için otomatik dil seçimini etkinleştir"
+
+msgid "Enable playback auto-subtitling"
+msgstr "Oynatma için otomatik altyazıyı etkinleştir"
+
+msgid "Enable remote recordings"
+msgstr "Uzak kayıtları etkinleştir"
+
+msgid "English"
+msgstr "İngilizce"
+
+msgid "Enter Name for Playlist"
+msgstr "Oynatma listesi için ad girin"
+
+msgid "Enter name for new directory:"
+msgstr "Yeni dizin için ad girin:"
+
+msgid "Exist"
+msgstr "Mevcut"
+
+#, python-format
+msgid "Exist: %s"
+msgstr "Mevcut: %s"
+
+msgid "F1-button"
+msgstr "F1 tuşu"
+
+msgid "File added to current Playlist."
+msgstr "Dosya geçerli oynatma listesine eklendi."
+
+msgid "File exists in current Playlist."
+msgstr "Dosya geçerli oynatma listesinde zaten mevcut."
+
+msgid "File not available."
+msgstr "Dosya mevcut değil."
+
+msgid "Filename:"
+msgstr "Dosya adı:"
+
+msgid "Files added to current Playlist."
+msgstr "Dosyalar geçerli oynatma listesine eklendi."
+
+#, python-format
+msgid ""
+"Files added to current Playlist:\n"
+"%(add)s\n"
+"\n"
+"Files exists in current Playlist:\n"
+"%(exist)s"
+msgstr ""
+"Geçerli oynatma listesine eklenen dosyalar:\n"
+"%(add)s\n"
+"\n"
+"Geçerli oynatma listesinde zaten bulunan dosyalar:\n"
+"%(exist)s"
+
+#, python-format
+msgid ""
+"Files exists in current Playlist:\n"
+"%s"
+msgstr ""
+"Geçerli oynatma listesinde zaten bulunan dosyalar:\n"
+"%s"
+
+msgid "Finished watching percent"
+msgstr "Tamamlandı sayılacak izleme yüzdesi"
+
+msgid "Foldername:"
+msgstr "Klasör adı:"
+
+msgid "Force standby after auto-restart"
+msgstr "Otomatik yeniden başlatmadan sonra beklemeyi zorla"
+
+msgid "Format AVSwitch"
+msgstr "AVSwitch biçimi"
+
+msgid ""
+"Found rogue files:\n"
+"\n"
+msgstr ""
+"Sahipsiz dosyalar bulundu:\n"
+"\n"
+
+msgid "Free: "
+msgstr "Boş: "
+
+msgid "French"
+msgstr "Fransızca"
+
+msgid "GENERAL"
+msgstr "GENEL"
+
+msgid "Genre:"
+msgstr "Tür:"
+
+msgid "German"
+msgstr "Almanca"
+
+#, python-format
+msgid "Given path %s does not exist. Please change."
+msgstr "Verilen %s yolu mevcut değil. Lütfen değiştirin."
+
+msgid "Go to trashcan"
+msgstr "Çöp kutusuna git"
+
+msgid "Green"
+msgstr "Yeşil"
+
+msgid "Grey"
+msgstr "Gri"
+
+msgid "HELP_About"
+msgstr "EMC hakkında bilgileri gösterir."
+
+msgid "HELP_After file OPs only re-scan affected dirs"
+msgstr "Dosya işlemlerinden sonra yalnızca etkilenen klasörleri yeniden tarar."
+
+msgid "HELP_Age of finished movies in movie folder (days)"
+msgstr "Tamamlanmış filmlerin kaç gün sonra eski sayılacağını belirler."
+
+msgid "HELP_Always save last played progress as marker"
+msgstr "Son izleme konumunu her zaman işaret olarak kaydeder."
+
+msgid "HELP_Automatic timers list cleaning"
+msgstr "Zamanlayıcı listesini otomatik olarak temizler."
+
+msgid "HELP_Blue button function"
+msgstr "Mavi tuşa basıldığında yapılacak işlevi belirler."
+
+msgid "HELP_Bouquet buttons behaviour"
+msgstr "Buket tuşlarının EMC içinde nasıl davranacağını ayarlar."
+
+msgid "HELP_Check for dead links"
+msgstr "Bozuk veya hedefi bulunmayan bağlantıları kontrol eder."
+
+msgid "HELP_Configure in etc/enigma2/emc-topdir.cfg"
+msgstr "Bu seçenek /etc/enigma2/emc-topdir.cfg dosyasında yapılandırılır."
+
+msgid "HELP_Cover background"
+msgstr "Kapak görselinin arka plan görünümünü ayarlar."
+
+msgid "HELP_Cover delay in ms"
+msgstr "Kapak gösterilmeden önceki gecikmeyi milisaniye olarak belirler."
+
+msgid "HELP_Cursor predictive move after selection"
+msgstr "Seçimden sonra imlecin otomatik hareket davranışını ayarlar."
+
+msgid "HELP_Daily auto-start"
+msgstr "EMC'nin günlük otomatik başlatılmasını etkinleştirir."
+
+msgid "HELP_Daily cleanup time"
+msgstr "Günlük temizleme işleminin saatini belirler."
+
+msgid "HELP_Date format"
+msgstr "Tarihlerin hangi biçimde gösterileceğini ayarlar."
+
+msgid "HELP_Debug output file name"
+msgstr "Hata ayıklama çıktısının yazılacağı dosya adını belirler."
+
+msgid "HELP_Default color highlighted"
+msgstr "Vurgulanan film için varsayılan rengi belirler."
+
+msgid "HELP_Default color partially watched"
+msgstr "Kısmen izlenmiş filmler için varsayılan rengi belirler."
+
+msgid "HELP_Default color recording"
+msgstr "Kaydedilmekte olan filmler için varsayılan rengi belirler."
+
+msgid "HELP_Default color unwatched"
+msgstr "İzlenmemiş filmler için varsayılan rengi belirler."
+
+msgid "HELP_Default color watched"
+msgstr "İzlenmiş filmler için varsayılan rengi belirler."
+
+msgid "HELP_Delete validation"
+msgstr "Silme işlemlerinde onay sorulup sorulmayacağını belirler."
+
+msgid "HELP_Description field update delay"
+msgstr "Açıklama alanının güncellenme gecikmesini ayarlar."
+
+msgid "HELP_Disable EMC"
+msgstr "EMC eklentisini devre dışı bırakır."
+
+msgid "HELP_Display directory reading text"
+msgstr "Klasör okunurken bilgilendirme metni gösterir."
+
+msgid "HELP_Don't auto scan size of dirs from emc-noscan.cfg"
+msgstr "emc-noscan.cfg içindeki klasörlerin boyutunu otomatik taramaz."
+
+msgid "HELP_Download cutlist from Cutlist.at"
+msgstr "Cutlist.at üzerinden kesim listesi indirilmesini sağlar."
+
+msgid "HELP_Dynamic trashcan"
+msgstr "Çöp kutusunun dinamik kullanım davranışını ayarlar."
+
+msgid "HELP_EMC always reload after open"
+msgstr "EMC açıldığında listenin her zaman yeniden yüklenmesini sağlar."
+
+msgid "HELP_EMC output directory"
+msgstr "EMC'nin çıktı dizinini belirler."
+
+msgid "HELP_EMC path access limit"
+msgstr "EMC içinde erişilebilecek yol sınırını belirler."
+
+msgid "HELP_EMC re-open list after Movie end"
+msgstr "Film bittiğinde listenin yeniden açılmasını sağlar."
+
+msgid "HELP_EMC re-open list after STOP-press"
+msgstr "DUR tuşundan sonra listenin yeniden açılmasını sağlar."
+
+msgid "HELP_Enable EMC debug output"
+msgstr "EMC hata ayıklama çıktısını etkinleştirir."
+
+msgid "HELP_Enable daily trashcan cleanup"
+msgstr "Çöp kutusunun her gün otomatik temizlenmesini etkinleştirir."
+
+msgid "HELP_Enable playback AC3-track first"
+msgstr "Oynatmada AC3 ses parçasını öncelikli seçer."
+
+msgid "HELP_Enable playback auto-language selection"
+msgstr "Oynatmada dilin otomatik seçilmesini sağlar."
+
+msgid "HELP_Enable playback auto-subtitling"
+msgstr "Oynatmada altyazının otomatik açılmasını sağlar."
+
+msgid "HELP_Enable remote recordings"
+msgstr "Uzak kayıtların görüntülenmesini ve kullanılmasını etkinleştirir."
+
+msgid "HELP_Fallback Cover"
+msgstr "Kapak bulunamazsa yedek kapak gösterir."
+
+msgid "HELP_Finished watching percent"
+msgstr "Bir filmin izlenmiş sayılması için gereken yüzdeyi belirler."
+
+msgid "HELP_Force standby after auto-start"
+msgstr "Otomatik başlatma sonrası bekleme modunu zorlar."
+
+msgid "HELP_Hide movies being deleted"
+msgstr "Silinmekte olan filmleri listede gizler."
+
+msgid "HELP_Hide movies being moved"
+msgstr "Taşınmakta olan filmleri listede gizler."
+
+msgid "HELP_Horizontal alignment for count / size"
+msgstr "Adet ve boyut bilgisinin yatay hizasını belirler."
+
+msgid "HELP_Horizontal alignment for date"
+msgstr "Tarih bilgisinin yatay hizasını belirler."
+
+msgid "HELP_How many days files may remain in trashcan"
+msgstr "Dosyaların çöp kutusunda kaç gün kalacağını belirler."
+
+msgid "HELP_Icon shown for initially unknown count / size"
+msgstr "Başlangıçta bilinmeyen adet ve boyut için gösterilecek simgeyi belirler."
+
+msgid "HELP_Jump to first mark when playing movie"
+msgstr "Film oynatılırken ilk işarete atlanmasını sağlar."
+
+msgid "HELP_Key period value (50-900)"
+msgstr "Tuş tekrar periyot değerini ayarlar."
+
+msgid "HELP_Key repeat value (250-900)"
+msgstr "Tuş tekrar hızını ayarlar."
+
+msgid "HELP_Latest Recordings directory limit"
+msgstr "Son kayıtlar klasörü için gösterim sınırını belirler."
+
+msgid "HELP_Latest Recordings directory use emc-noscan.cfg"
+msgstr "Son kayıtlar klasöründe emc-noscan.cfg kullanımını ayarlar."
+
+msgid "HELP_Leave Movie with Exit"
+msgstr "EXIT tuşunun filmi kapatma davranışını belirler."
+
+msgid "HELP_Limit file operations in dirs from emc-noscan.cfg"
+msgstr "emc-noscan.cfg içindeki klasörlerde dosya işlemlerini sınırlar."
+
+msgid "HELP_List entries to skip"
+msgstr "Listede atlanacak girdileri belirler."
+
+msgid "HELP_Listbox is skin able"
+msgstr "Liste kutusunun skin ile özelleştirilmesini sağlar."
+
+msgid "HELP_Long Blue button function"
+msgstr "Mavi tuşa uzun basıldığında yapılacak işlevi belirler."
+
+msgid "HELP_Long Red button function"
+msgstr "Kırmızı tuşa uzun basıldığında yapılacak işlevi belirler."
+
+msgid "HELP_Long Yellow button function"
+msgstr "Sarı tuşa uzun basıldığında yapılacak işlevi belirler."
+
+msgid "HELP_LongInfo Button"
+msgstr "INFO tuşuna uzun basma işlevini belirler."
+
+msgid "HELP_Mark new recordings with a star"
+msgstr "Yeni kayıtları yıldız ile işaretler."
+
+msgid "HELP_Minimum file cache limit"
+msgstr "En düşük dosya önbellek sınırını belirler."
+
+msgid "HELP_Move finished movies in trashcan"
+msgstr "Tamamlanmış filmleri çöp kutusuna taşır."
+
+msgid "HELP_Movie home at start"
+msgstr "EMC açıldığında film ana klasörüne gitmesini sağlar."
+
+msgid "HELP_Movie home home path"
+msgstr "Film ana klasör yolunu belirler."
+
+msgid "HELP_Movie preview delay in ms"
+msgstr "Film önizleme gecikmesini milisaniye olarak ayarlar."
+
+msgid "HELP_Movie preview offset in seconds"
+msgstr "Film önizlemesinin kaçıncı saniyeden başlayacağını belirler."
+
+msgid "HELP_No resume below 10 seconds"
+msgstr "10 saniyenin altındaki izleme konumlarından devam etmeyi engeller."
+
+msgid "HELP_Own Path to movie picons"
+msgstr "Film piconları için özel klasör yolunu belirler."
+
+msgid "HELP_Path to movie picons"
+msgstr "Film piconlarının bulunduğu yolu belirler."
+
+msgid "HELP_Position movie picons"
+msgstr "Film piconlarının ekrandaki konumunu belirler."
+
+msgid "HELP_Preferred EPG language"
+msgstr "Tercih edilen EPG dilini belirler."
+
+msgid "HELP_Primary playback audio language"
+msgstr "Birincil ses dilini belirler."
+
+msgid "HELP_Primary playback subtitle language"
+msgstr "Birincil altyazı dilini belirler."
+
+msgid "HELP_Red button function"
+msgstr "Kırmızı tuşa basıldığında yapılacak işlevi belirler."
+
+msgid "HELP_Replace special chars in title"
+msgstr "Başlıktaki özel karakterlerin dönüştürülmesini sağlar."
+
+msgid "HELP_Resolve links and show real path"
+msgstr "Bağlantıları çözüp gerçek yolu gösterir."
+
+msgid "HELP_Rewind finished movies before playing"
+msgstr "Tamamlanmış filmleri oynatmadan önce başa sarar."
+
+msgid "HELP_Scan for DVD structures"
+msgstr "DVD klasör yapılarının taranmasını sağlar."
+
+msgid "HELP_Scan for bluray structures"
+msgstr "Bluray klasör yapılarının taranmasını sağlar."
+
+msgid "HELP_Scan for bluray structures in .iso"
+msgstr ".iso içindeki Bluray yapılarının taranmasını sağlar."
+
+msgid "HELP_Scan for movie structures"
+msgstr "Film klasör yapılarının taranmasını sağlar."
+
+msgid "HELP_Secondary playback audio language"
+msgstr "İkincil ses dilini belirler."
+
+msgid "HELP_Secondary playback subtitle language"
+msgstr "İkincil altyazı dilini belirler."
+
+msgid "HELP_Short watching percent"
+msgstr "Kısa izleme yüzdesi sınırını belirler."
+
+msgid "HELP_Show Bookmarks in movielist"
+msgstr "Yer imlerinin film listesinde gösterilmesini sağlar."
+
+msgid "HELP_Show Cover"
+msgstr "Kapak görsellerinin gösterilmesini sağlar."
+
+msgid "HELP_Show Cut-Nr if exist"
+msgstr "Varsa kesim numarasını gösterir."
+
+msgid "HELP_Show EMC in extensions menu"
+msgstr "EMC'nin uzantılar menüsünde görünmesini sağlar."
+
+msgid "HELP_Show EMC in main menu"
+msgstr "EMC'nin ana menüde görünmesini sağlar."
+
+msgid "HELP_Show Latest Recordings directory"
+msgstr "Son kayıtlar klasörünü gösterir."
+
+msgid "HELP_Show Movie Format"
+msgstr "Film biçimini gösterir."
+
+msgid "HELP_Show Path if no extended description available"
+msgstr "Geniş açıklama yoksa yolu gösterir."
+
+msgid "HELP_Show VLC directory"
+msgstr "VLC klasörünün gösterilmesini sağlar."
+
+msgid "HELP_Show audio metadata"
+msgstr "Ses üst verisinin gösterilmesini sağlar."
+
+msgid "HELP_Show directories"
+msgstr "Klasörlerin gösterilmesini sağlar."
+
+msgid "HELP_Show directories information"
+msgstr "Klasör bilgilerinin gösterilmesini sağlar."
+
+msgid "HELP_Show directories within movielist"
+msgstr "Film listesi içinde klasörlerin gösterilmesini sağlar."
+
+msgid "HELP_Show directory size in skin"
+msgstr "Skin içinde klasör boyutunu gösterir."
+
+msgid "HELP_Show experimental options"
+msgstr "Deneysel seçenekleri görünür yapar."
+
+msgid "HELP_Show link arrow"
+msgstr "Bağlantı okunun gösterilmesini sağlar."
+
+msgid "HELP_Show message if file added to playlist"
+msgstr "Dosya oynatma listesine eklenince mesaj gösterir."
+
+msgid "HELP_Show movie icons"
+msgstr "Film simgelerinin gösterilmesini sağlar."
+
+msgid "HELP_Show movie picons"
+msgstr "Film piconlarının gösterilmesini sağlar."
+
+msgid "HELP_Show movie preview"
+msgstr "Film önizlemesini gösterir."
+
+msgid "HELP_Show movie progress"
+msgstr "Film izleme ilerlemesini gösterir."
+
+msgid "HELP_Show plugin config in extensions menu"
+msgstr "Eklenti ayarlarını uzantılar menüsünde gösterir."
+
+msgid "HELP_Show real length of running records"
+msgstr "Devam eden kayıtların gerçek süresini gösterir."
+
+msgid "HELP_Show symlinks"
+msgstr "Sembolik bağlantıların gösterilmesini sağlar."
+
+msgid "HELP_Show trashcan directory"
+msgstr "Çöp kutusu klasörünü gösterir."
+
+msgid "HELP_Sort mode at startup"
+msgstr "Başlangıçtaki sıralama modunu belirler."
+
+msgid "HELP_Start EMC with"
+msgstr "EMC'nin hangi görünümle başlayacağını belirler."
+
+msgid "HELP_Style for original EMC-skin (needs reopen)"
+msgstr "Orijinal EMC skin stilini ayarlar; yeniden açma gerekir."
+
+msgid "HELP_Tertiary playback audio language"
+msgstr "Üçüncül ses dilini belirler."
+
+msgid "HELP_Tertiary playback subtitle language"
+msgstr "Üçüncül altyazı dilini belirler."
+
+msgid "HELP_Text shown for initially unknown count and size"
+msgstr "Başlangıçta bilinmeyen adet ve boyut için gösterilecek metni belirler."
+
+msgid "HELP_Text shown for initially unknown directory size"
+msgstr "Başlangıçta bilinmeyen klasör boyutu için gösterilecek metni belirler."
+
+msgid "HELP_Text shown for initially unknown file count"
+msgstr "Başlangıçta bilinmeyen dosya sayısı için gösterilecek metni belirler."
+
+msgid "HELP_Trashcan enable"
+msgstr "Çöp kutusu özelliğini etkinleştirir."
+
+msgid "HELP_Trashcan path"
+msgstr "Çöp kutusunun yolunu belirler."
+
+msgid "HELP_Try to load extra title and more from .meta files"
+msgstr ".meta dosyalarından ek başlık ve diğer bilgileri yüklemeyi dener."
+
+msgid "HELP_Try to load titles from .eit files"
+msgstr ".eit dosyalarından başlıkları yüklemeyi dener."
+
+msgid "HELP_Try to load titles from .meta files"
+msgstr ".meta dosyalarından başlıkları yüklemeyi dener."
+
+msgid "HELP_Use cache for files and directories"
+msgstr "Dosya ve klasörler için önbellek kullanımını etkinleştirir."
+
+msgid "HELP_Use original EMC-skin (needs reopen)"
+msgstr "Orijinal EMC skinini kullanır; yeniden açma gerekir."
+
+msgid "HELP_Wake device when entering dir from emc-noscan.cfg"
+msgstr "emc-noscan.cfg içindeki klasöre girildiğinde cihazı uyandırır."
+
+msgid "HELP_Yellow button function"
+msgstr "Sarı tuşa basıldığında yapılacak işlevi belirler."
+
+msgid "HELP_Zap to channel after record EOF"
+msgstr "Kayıt bitince ilgili kanala geçer."
+
+msgid "HELP_auto-start window begin"
+msgstr "Otomatik başlatma zaman aralığının başlangıcını belirler."
+
+msgid "HELP_auto-start window end"
+msgstr "Otomatik başlatma zaman aralığının bitişini belirler."
+
+msgid "HELP_cfghide_enable"
+msgstr "Yapılandırılmış gizleme seçeneğini etkinleştirir."
+
+msgid "HELP_cfgscan_suppress"
+msgstr "Seçili klasörlerde taramayı bastırır."
+
+msgid "HELP_hide_MiniTV"
+msgstr "MiniTV'nin gizlenme davranışını ayarlar."
+
+msgid "HELP_hide_MiniTV cover"
+msgstr "Kapak gösterildiğinde MiniTV'nin gizlenmesini ayarlar."
+
+msgid "HELP_hide_MiniTV_method"
+msgstr "MiniTV gizleme yöntemini belirler."
+
+msgid "HELP_scan_linked"
+msgstr "Bağlı klasörlerin taranmasını ayarlar."
+
+msgid "Hide Cover"
+msgstr "Kapağı gizle"
+
+msgid "Hide MiniTV"
+msgstr "MiniTV'yi gizle"
+
+msgid "Hide MiniTV if Cover is shown"
+msgstr "Kapak gösteriliyorsa MiniTV'yi gizle"
+
+msgid "Hide configured entries"
+msgstr "Yapılandırılmış girdileri gizle"
+
+msgid "Hide movies being deleted"
+msgstr "Silinen filmleri gizle"
+
+msgid "Hide movies being moved"
+msgstr "Taşınan filmleri gizle"
+
+msgid "HomeEnd"
+msgstr "Başa/Sona"
+
+msgid "Horizontal alignment for count / size"
+msgstr "Adet / boyut için yatay hizalama"
+
+msgid "Horizontal alignment for date"
+msgstr "Tarih için yatay hizalama"
+
+msgid "How many days files may remain in trashcan"
+msgstr "Dosyalar çöp kutusunda kaç gün kalabilir"
+
+msgid ""
+"How to copy files:\n"
+"Select some movies with the VIDEO-button, move the cursor on top of the destination directory and press yellow long."
+msgstr ""
+"Dosyalar nasıl kopyalanır:\n"
+"VIDEO tuşuyla bazı filmleri seçin, imleci hedef dizinin üzerine getirin ve sarı tuşa uzun basın."
+
+msgid ""
+"How to move files:\n"
+"Select some movies with the VIDEO-button, move the cursor on top of the destination directory and press yellow."
+msgstr ""
+"Dosyalar nasıl taşınır:\n"
+"VIDEO tuşuyla bazı filmleri seçin, imleci hedef dizinin üzerine getirin ve sarı tuşa basın."
+
+msgid "IMDBSearch / EMC-TMDBInfo / TMDBInfo / TMBDInfo / CSFDInfo"
+msgstr "IMDBSearch / EMC-TMDBInfo / TMDBInfo / TMBDInfo / CSFDInfo"
+
+msgid "IMDb"
+msgstr "IMDb"
+
+msgid "IMDb Search"
+msgstr "IMDb Arama"
+
+msgid "Icon shown for initially unknown count / size"
+msgstr "Başlangıçta bilinmeyen adet / boyut için gösterilen simge"
+
+msgid "Information"
+msgstr "Bilgiler"
+
+msgid "Italian"
+msgstr "İtalyanca"
+
+msgid "Jump to first mark when playing movie"
+msgstr "Filmi oynatırken ilk işarete atla"
+
+msgid "KEYMAPPING"
+msgstr "TUŞ EŞLEME"
+
+msgid "Key period value (50-900)"
+msgstr "Tuş periyot değeri (50-900)"
+
+msgid "Key repeat value (250-900)"
+msgstr "Tuş tekrar değeri (250-900)"
+
+msgid "LANGUAGE"
+msgstr "DİL"
+
+msgid "Language:"
+msgstr "Dil:"
+
+msgid "Last played movie/playlist not available..."
+msgstr "Son oynatılan film/oynatma listesi mevcut değil..."
+
+msgid "Latest"
+msgstr "En son"
+
+msgid "Latest Recordings"
+msgstr "Son Kayıtlar"
+
+msgid "Latest Recordings directory limit"
+msgstr "Son Kayıtlar dizin sınırı"
+
+msgid "Latest Recordings directory use emc-noscan.cfg"
+msgstr "Son Kayıtlar dizini emc-noscan.cfg kullansın"
+
+msgid "Leave Movie with Exit"
+msgstr "Çıkış ile filmden çık"
+
+msgid "Light green"
+msgstr "Açık yeşil"
+
+msgid "Light grey"
+msgstr "Açık gri"
+
+msgid "Light orange"
+msgstr "Açık turuncu"
+
+msgid "Light red"
+msgstr "Açık kırmızı"
+
+msgid "Limit file operations in dirs from emc-noscan.cfg"
+msgstr "emc-noscan.cfg içindeki dizinlerde dosya işlemlerini sınırla"
+
+msgid "Link"
+msgstr "Bağlantı"
+
+msgid "List entries to skip"
+msgstr "Atlanacak liste girdileri"
+
+msgid "Listbox is skin able"
+msgstr "Liste kutusu skin ile özelleştirilebilir"
+
+msgid "Load Genre:"
+msgstr "Türü yükle:"
+
+msgid "Load Production Countries:"
+msgstr "Yapım ülkelerini yükle:"
+
+msgid "Load Release Date:"
+msgstr "Yayınlanma tarihini yükle:"
+
+msgid "Load Runtime:"
+msgstr "Süreyi yükle:"
+
+msgid "Load Vote:"
+msgstr "Oyu yükle:"
+
+msgid "Load default settings will overwrite all settings, really load them?"
+msgstr "Varsayılan ayarları yüklemek tüm ayarların üzerine yazacak, gerçekten yüklensin mi?"
+
+msgid "Locate rogue files and remove them? (permanently if no trashcan available, may take a minute or so)"
+msgstr "Sahipsiz dosyalar bulunsun ve kaldırılsın mı? (çöp kutusu yoksa kalıcı olarak silinir, biraz zaman alabilir)"
+
+msgid "Location:"
+msgstr "Konum:"
+
+msgid "Long Blue button function"
+msgstr "Mavi tuş uzun basma işlevi"
+
+msgid "Long Red button function"
+msgstr "Kırmızı tuş uzun basma işlevi"
+
+msgid "Long Yellow button function"
+msgstr "Sarı tuş uzun basma işlevi"
+
+msgid "LongInfo Button"
+msgstr "Uzun Bilgi tuşu"
+
+msgid "MM/DD HH:MM"
+msgstr "MM/DD SS:DD"
+
+msgid "Manage Cover"
+msgstr "Kapağı yönet"
+
+msgid "Mark all movies"
+msgstr "Tüm filmleri işaretle"
+
+msgid "Mark new recordings with a star"
+msgstr "Yeni kayıtları yıldızla işaretle"
+
+msgid "Method of hiding MiniTV"
+msgstr "MiniTV gizleme yöntemi"
+
+msgid "Minimum file cache limit (0=cache everything)"
+msgstr "En düşük dosya önbellek sınırı (0=her şeyi önbelleğe al)"
+
+msgid "Minutes"
+msgstr "Dakika"
+
+msgid "Month"
+msgstr "Ay"
+
+msgid "Months"
+msgstr "Ay"
+
+msgid "Move Cover to:"
+msgstr "Kapağı şuraya taşı:"
+
+msgid "Move Directory:"
+msgstr "Dizini taşı:"
+
+msgid "Move File"
+msgstr "Dosyayı taşı"
+
+msgid "Move Files"
+msgstr "Dosyaları taşı"
+
+msgid "Move cursor down"
+msgstr "İmleci aşağı taşı"
+
+msgid "Move cursor page down"
+msgstr "İmleci sayfa aşağı taşı"
+
+msgid "Move cursor page up"
+msgstr "İmleci sayfa yukarı taşı"
+
+msgid "Move cursor to the end / Move cursor x entries down / Switch Folders in Movie Home (down)"
+msgstr "İmleci sona taşı / İmleci x kayıt aşağı taşı / Movie Home içindeki klasörleri değiştir (aşağı)"
+
+msgid "Move cursor to the top / Move cursor x entries up / Switch Folders in Movie Home (up)"
+msgstr "İmleci başa taşı / İmleci x kayıt yukarı taşı / Movie Home içindeki klasörleri değiştir (yukarı)"
+
+msgid "Move cursor up"
+msgstr "İmleci yukarı taşı"
+
+msgid "Move file(s):"
+msgstr "Dosya(ları) taşı:"
+
+msgid "Move finished movies in trashcan"
+msgstr "Tamamlanmış filmleri çöp kutusuna taşı"
+
+msgid "Movie Color"
+msgstr "Film rengi"
+
+#, python-format
+msgid ""
+"Movie Cover downloaded successfully!\n"
+"\n"
+"Can not write Movie Information File\n"
+"\n"
+"%s"
+msgstr ""
+"Film kapağı başarıyla indirildi!\n"
+"\n"
+"Film Bilgisi dosyası yazılamıyor\n"
+"\n"
+"%s"
+
+msgid "Movie Information Download Setup"
+msgstr "Film Bilgisi indirme ayarı"
+
+msgid "Movie Information Preview for:"
+msgstr "Şunun için Film Bilgisi önizlemesi:"
+
+msgid "Movie Information TMDb"
+msgstr "Film Bilgisi TMDb"
+
+msgid "Movie Information and Cover downloaded successfully!"
+msgstr "Film bilgisi ve kapak başarıyla indirildi!"
+
+msgid "Movie Information downloaded successfully!"
+msgstr "Film bilgisi başarıyla indirildi!"
+
+#, python-format
+msgid ""
+"Movie Information downloaded successfully!\n"
+"\n"
+"Can not write Movie Cover File\n"
+"\n"
+"%s"
+msgstr ""
+"Film bilgisi başarıyla indirildi!\n"
+"\n"
+"Film kapak dosyası yazılamıyor\n"
+"\n"
+"%s"
+
+msgid "Movie Selection Menu"
+msgstr "Film seçim menüsü"
+
+msgid "Movie home"
+msgstr "Film ana dizini"
+
+msgid "Movie home at start"
+msgstr "Başlangıçta film ana dizini"
+
+msgid "Movie home home path"
+msgstr "Film ana dizini yolu"
+
+msgid "Movie information"
+msgstr "Film bilgisi"
+
+msgid "Movie preview delay in ms"
+msgstr "Film önizleme gecikmesi (ms)"
+
+msgid "Movies"
+msgstr "Filmler"
+
+msgid "Movietitle:"
+msgstr "Film adı:"
+
+msgid "N/A"
+msgstr "Yok"
+
+msgid "Next auto-start in "
+msgstr "Bir sonraki otomatik başlatma: "
+
+msgid "No"
+msgstr "Hayır"
+
+#, python-format
+msgid "No Cover: %s"
+msgstr "Kapak yok: %s"
+
+msgid "No DVD-Player found!"
+msgstr "DVD oynatıcı bulunamadı!"
+
+msgid "No Movies found!"
+msgstr "Film bulunamadı!"
+
+msgid "No functionality set..."
+msgstr "Hiç işlev ayarlanmadı..."
+
+msgid "No limit"
+msgstr "Sınırsız"
+
+msgid "No override"
+msgstr "Geçersiz kılma yok"
+
+msgid "No resume below 10 seconds"
+msgstr "10 saniyenin altında devam etme yok"
+
+msgid "No rogue files found."
+msgstr "Sahipsiz dosya bulunamadı."
+
+msgid "No script operation for VLC streams."
+msgstr "VLC akışları için betik işlemi yok."
+
+msgid "Not all timers have been stopped. Modify them with the timer editor."
+msgstr "Tüm zamanlayıcılar durdurulmadı. Zamanlayıcı düzenleyici ile değiştirin."
+
+msgid "Nothing was found !"
+msgstr "Hiçbir şey bulunamadı !"
+
+msgid "OSError - please reload list (EMC menu)"
+msgstr "OSError - lütfen listeyi yeniden yükleyin (EMC menüsü)"
+
+msgid "OTHER"
+msgstr "DİĞER"
+
+msgid "Off"
+msgstr "Kapalı"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "Open E2 Bookmark path"
+msgstr "E2 Yer İmi yolunu aç"
+
+msgid "Open E2 bookmarks"
+msgstr "E2 yer imlerini aç"
+
+msgid "Open EMC Bookmark path"
+msgstr "EMC Yer İmi yolunu aç"
+
+msgid "Open Timer List"
+msgstr "Zamanlayıcı listesini aç"
+
+msgid "Open menu"
+msgstr "Menüyü aç"
+
+msgid "Orange"
+msgstr "Turuncu"
+
+msgid "Own Path to movie picons"
+msgstr "Film piconları için özel yol"
+
+msgid "Path to movie picons"
+msgstr "Film piconları yolu"
+
+msgid "Percent (%)"
+msgstr "Yüzde (%)"
+
+msgid "Performance"
+msgstr "Performans"
+
+msgid "Permanently delete all files in trashcan?"
+msgstr "Çöp kutusundaki tüm dosyalar kalıcı olarak silinsin mi?"
+
+msgid "Play All"
+msgstr "Tümünü Oynat"
+
+msgid "Play All starting"
+msgstr "Tümünü oynat başlatılıyor"
+
+msgid "Play current Playlist"
+msgstr "Geçerli oynatma listesini oynat"
+
+msgid "Play last"
+msgstr "Sonuncuyu oynat"
+
+msgid "Play last movie starting"
+msgstr "Son filmi oynatmayı başlat"
+
+msgid "Play random current Playlist"
+msgstr "Geçerli oynatma listesini rastgele oynat"
+
+msgid "Play selected movie(s)"
+msgstr "Seçili film(leri) oynat"
+
+msgid "Playlist Options"
+msgstr "Oynatma listesi seçenekleri"
+
+msgid "Playlist Setup"
+msgstr "Oynatma listesi ayarı"
+
+msgid "Playlist open"
+msgstr "Oynatma listesi açık"
+
+msgid ""
+"Playlist with same name exists!\n"
+"\n"
+"Try to save the Playlist with another name?"
+msgstr ""
+"Aynı ada sahip oynatma listesi zaten mevcut!\n"
+"\n"
+"Oynatma listesi başka bir adla kaydedilsin mi?"
+
+msgid "Portuguese"
+msgstr "Portekizce"
+
+msgid "Position movie picons"
+msgstr "Film picon konumu"
+
+msgid "Preferred EPG language"
+msgstr "Tercih edilen EPG dili"
+
+msgid "Preferred cover resolution (if possible):"
+msgstr "Tercih edilen kapak çözünürlüğü (mümkünse):"
+
+msgid "Press green button to start search"
+msgstr "Aramayı başlatmak için yeşil tuşa basın"
+
+msgid "Primary playback audio language"
+msgstr "Birincil oynatma ses dili"
+
+msgid "Primary playback subtitle language"
+msgstr "Birincil oynatma altyazı dili"
+
+msgid "Production Countries:"
+msgstr "Yapım Ülkeleri:"
+
+msgid "Progress sort"
+msgstr "İlerlemeye göre sıralama"
+
+msgid "Progress sort ascending (P+)"
+msgstr "İlerlemeye göre artan sıralama (P+)"
+
+msgid "Progress sort descending (P-)"
+msgstr "İlerlemeye göre azalan sıralama (P-)"
+
+msgid "ProgressBar"
+msgstr "İlerleme çubuğu"
+
+msgid "REC"
+msgstr "KAYIT"
+
+msgid "Radio-button"
+msgstr "Radyo tuşu"
+
+msgid "Reading directory..."
+msgstr "Dizin okunuyor..."
+
+msgid "Really close without saving settings?"
+msgstr "Ayarları kaydetmeden gerçekten kapatılsın mı?"
+
+msgid "Reboot"
+msgstr "Yeniden başlat"
+
+msgid "Red"
+msgstr "Kırmızı"
+
+msgid "Red button function"
+msgstr "Kırmızı tuş işlevi"
+
+msgid "Release Date:"
+msgstr "Yayınlanma Tarihi:"
+
+msgid "Reload current directory"
+msgstr "Geçerli dizini yeniden yükle"
+
+msgid "Reload movie file list"
+msgstr "Film dosya listesini yeniden yükle"
+
+msgid "Remove all cut file marker permanently?"
+msgstr "Tüm kesim dosyası işaretleri kalıcı olarak kaldırılsın mı?"
+
+msgid "Remove all marker permanently?"
+msgstr "Tüm işaretler kalıcı olarak kaldırılsın mı?"
+
+msgid "Remove cut list marker"
+msgstr "Kesim listesi işaretini kaldır"
+
+msgid "Remove directory from E2 Bookmarks"
+msgstr "Dizini E2 Yer İmlerinden kaldır"
+
+msgid "Remove directory from EMC Bookmarks"
+msgstr "Dizini EMC Yer İmlerinden kaldır"
+
+msgid "Remove permanent sort"
+msgstr "Kalıcı sıralamayı kaldır"
+
+msgid "Remove permanent sort from parent"
+msgstr "Üst klasörden kalıcı sıralamayı kaldır"
+
+msgid "Remove rogue files"
+msgstr "Sahipsiz dosyaları kaldır"
+
+msgid "Remove selected E2 Bookmark"
+msgstr "Seçili E2 Yer İmini kaldır"
+
+msgid "Remove selected EMC Bookmark"
+msgstr "Seçili EMC Yer İmini kaldır"
+
+msgid "Remove service selection"
+msgstr "Servis seçimini kaldır"
+
+msgid "Rename selected movie(s)"
+msgstr "Seçili film(leri) yeniden adlandır"
+
+msgid "Replace special chars in title"
+msgstr "Başlıktaki özel karakterleri değiştir"
+
+msgid "Reset marker from selected movie(s)"
+msgstr "Seçili film(lerde)ki işaretleri sıfırla"
+
+msgid "Resolve links and show real path"
+msgstr "Bağlantıları çöz ve gerçek yolu göster"
+
+#, python-format
+msgid "Resume position at %s"
+msgstr "%s konumundan devam et"
+
+msgid "Resuming playback"
+msgstr "Oynatma sürdürülüyor"
+
+msgid "Rewind finished movies before playing"
+msgstr "Oynatmadan önce tamamlanmış filmleri geri sar"
+
+msgid "Runtime:"
+msgstr "Süre:"
+
+msgid "SINGLE COVER-SEARCH"
+msgstr "TEKLİ KAPAK ARAMA"
+
+msgid "SKIN-SETTINGS"
+msgstr "SKIN AYARLARI"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Save Cover"
+msgstr "Kapağı kaydet"
+
+msgid "Save current Playlist"
+msgstr "Geçerli oynatma listesini kaydet"
+
+msgid "Save description to movie.txt file:"
+msgstr "Açıklamayı movie.txt dosyasına kaydet:"
+
+msgid "Scan for DVD structures"
+msgstr "DVD yapıları için tara"
+
+msgid "Scan for bluray structures"
+msgstr "Bluray yapıları için tara"
+
+msgid "Scan for bluray structures in .iso"
+msgstr ".iso içindeki bluray yapıları için tara"
+
+msgid "Scan for movie structures"
+msgstr "Film yapıları için tara"
+
+msgid "Scan linked folders"
+msgstr "Bağlı klasörleri tara"
+
+msgid "Search"
+msgstr "Arama"
+
+msgid "Search Results per Search Site (without counting cover range):"
+msgstr "Arama sitesi başına sonuç sayısı (kapak aralığı hariç):"
+
+msgid "Search Results per Search Site:"
+msgstr "Arama sitesi başına sonuç sayısı:"
+
+msgid "Search filter for matching existing terms in the title:"
+msgstr "Başlıktaki mevcut terimlerle eşleşme için arama filtresi:"
+
+msgid "Search results for:"
+msgstr "Şunun için arama sonuçları:"
+
+#, python-format
+msgid "Searching for %s"
+msgstr "%s aranıyor"
+
+msgid "Searching..."
+msgstr "Aranıyor..."
+
+msgid "Secondary playback audio language"
+msgstr "İkincil oynatma ses dili"
+
+msgid "Secondary playback subtitle language"
+msgstr "İkincil oynatma altyazı dili"
+
+msgid "Seek backward"
+msgstr "Geri sar"
+
+msgid "Seek forward"
+msgstr "İleri sar"
+
+msgid "Select Location"
+msgstr "Konum seç"
+
+msgid "Set path to save the folder Cover:"
+msgstr "Klasör kapağını kaydetmek için yolu ayarla:"
+
+msgid "Set permanent sort"
+msgstr "Kalıcı sıralamayı ayarla"
+
+msgid "Settings have been Saved."
+msgstr "Ayarlar kaydedildi."
+
+msgid "Setup"
+msgstr "Ayarlar"
+
+msgid "Setup open"
+msgstr "Ayarlar açık"
+
+msgid "Short watching percent"
+msgstr "Kısa izleme yüzdesi"
+
+msgid "Show Bookmarks in movielist"
+msgstr "Yer imlerini film listesinde göster"
+
+msgid "Show Cover"
+msgstr "Kapağı göster"
+
+msgid "Show Cut-Nr if exist"
+msgstr "Varsa Kesim No'yu göster"
+
+msgid "Show EMC in extensions menu"
+msgstr "EMC'yi uzantılar menüsünde göster"
+
+msgid "Show EMC in main menu"
+msgstr "EMC'yi ana menüde göster"
+
+msgid "Show Latest Recordings directory"
+msgstr "Son Kayıtlar dizinini göster"
+
+msgid "Show Movie Format"
+msgstr "Film biçimini göster"
+
+msgid "Show Path if no extended description available"
+msgstr "Genişletilmiş açıklama yoksa yolu göster"
+
+msgid "Show VLC directory"
+msgstr "VLC dizinini göster"
+
+msgid "Show audio metadata"
+msgstr "Ses üst verisini göster"
+
+msgid "Show current Playlist"
+msgstr "Geçerli oynatma listesini göster"
+
+msgid "Show directories"
+msgstr "Dizinleri göster"
+
+msgid "Show directories information"
+msgstr "Dizin bilgilerini göster"
+
+msgid "Show directories within movielist"
+msgstr "Film listesi içinde dizinleri göster"
+
+msgid "Show directory size in skin"
+msgstr "Skin içinde dizin boyutunu göster"
+
+msgid "Show event info"
+msgstr "Etkinlik bilgisini göster"
+
+msgid "Show experimental options"
+msgstr "Deneysel seçenekleri göster"
+
+msgid "Show fallback cover"
+msgstr "Yedek kapağı göster"
+
+msgid "Show info at the bottom"
+msgstr "Bilgiyi altta göster"
+
+msgid "Show info at the bottom (with MiniTV)"
+msgstr "Bilgiyi altta göster (MiniTV ile)"
+
+msgid "Show info on the left"
+msgstr "Bilgiyi solda göster"
+
+msgid "Show info on the left (with MiniTV)"
+msgstr "Bilgiyi solda göster (MiniTV ile)"
+
+msgid "Show link arrow"
+msgstr "Bağlantı okunu göster"
+
+msgid "Show message if file added to playlist"
+msgstr "Dosya oynatma listesine eklenirse mesaj göster"
+
+msgid "Show movie icons"
+msgstr "Film simgelerini göster"
+
+msgid "Show movie picons"
+msgstr "Film piconlarını göster"
+
+msgid "Show movie preview"
+msgstr "Film önizlemesini göster"
+
+msgid "Show movie progress"
+msgstr "Film ilerlemesini göster"
+
+msgid "Show plugin config in extensions menu"
+msgstr "Eklenti yapılandırmasını uzantılar menüsünde göster"
+
+msgid "Show real length of running records"
+msgstr "Devam eden kayıtların gerçek uzunluğunu göster"
+
+msgid "Show symlinks"
+msgstr "Sembolik bağlantıları göster"
+
+msgid "Show trashcan directory"
+msgstr "Çöp kutusu dizinini göster"
+
+msgid "Show trashcan information"
+msgstr "Çöp kutusu bilgisini göster"
+
+msgid "Shuffle All"
+msgstr "Tümünü karıştır"
+
+msgid "Shuffle All starting"
+msgstr "Tümünü karıştırarak başlat"
+
+msgid "Single Search:"
+msgstr "Tekli Arama:"
+
+msgid "Single search"
+msgstr "Tekli arama"
+
+msgid "Skip"
+msgstr "Atla"
+
+msgid ""
+"Skipping movie, the file does not exist.\n"
+"\n"
+msgstr ""
+"Film atlanıyor, dosya mevcut değil.\n"
+"\n"
+
+msgid "Some settings changes require GUI restart to take effect."
+msgstr "Bazı ayar değişikliklerinin etkili olması için GUI yeniden başlatılmalıdır."
+
+msgid "Sort Mode"
+msgstr "Sıralama modu"
+
+msgid "Sort Options"
+msgstr "Sıralama seçenekleri"
+
+msgid "Sort Order"
+msgstr "Sıralama düzeni"
+
+msgid "Spanish"
+msgstr "İspanyolca"
+
+msgid "Standby"
+msgstr "Bekleme"
+
+msgid "Start / end multiselection"
+msgstr "Çoklu seçimi başlat / bitir"
+
+msgid "Start EMC with"
+msgstr "EMC'yi şununla başlat"
+
+msgid "Start movie preview before last position"
+msgstr "Film önizlemesini son konumdan önce başlat"
+
+msgid "Stop ongoing recording?\n"
+msgstr "Devam eden kayıt durdurulsun mu?\n"
+
+msgid "Stop playback"
+msgstr "Oynatmayı durdur"
+
+msgid "Style for original EMC-skin (needs reopen)"
+msgstr "Orijinal EMC skin stili (yeniden açma gerekir)"
+
+msgid "Suppress scan in selected folders"
+msgstr "Seçili klasörlerde taramayı engelle"
+
+msgid "TMBD Info"
+msgstr "TMBD Bilgisi"
+
+msgid "TMDB Info"
+msgstr "TMDB Bilgisi"
+
+msgid "TMDb"
+msgstr "TMDb"
+
+msgid "TRASHCAN"
+msgstr "ÇÖP KUTUSU"
+
+msgid "TV Shows"
+msgstr "TV Dizileri"
+
+msgid "TV-button"
+msgstr "TV tuşu"
+
+msgid "Tertiary playback audio language"
+msgstr "Üçüncül oynatma ses dili"
+
+msgid "Tertiary playback subtitle language"
+msgstr "Üçüncül oynatma altyazı dili"
+
+msgid "Text shown for initially unknown count and size"
+msgstr "Başlangıçta bilinmeyen adet ve boyut için gösterilen metin"
+
+msgid "Text shown for initially unknown directory size"
+msgstr "Başlangıçta bilinmeyen dizin boyutu için gösterilen metin"
+
+msgid "Text shown for initially unknown file count"
+msgstr "Başlangıçta bilinmeyen dosya sayısı için gösterilen metin"
+
+#, python-format
+msgid "The directory %s is already locked. Do you want to unlock it and all its subfolders?"
+msgstr "%s dizini zaten kilitli. Kilidi ve tüm alt klasörlerinin kilidini açmak istiyor musunuz?"
+
+#, python-format
+msgid ""
+"The following files are used for other entrys in List !\n"
+"\n"
+"Also delete these files?\n"
+"\n"
+"%s"
+msgstr ""
+"Aşağıdaki dosyalar listedeki diğer girdiler tarafından kullanılıyor!\n"
+"\n"
+"Bu dosyalar da silinsin mi?\n"
+"\n"
+"%s"
+
+msgid "This element belongs to a locked folder and cannot be deleted!"
+msgstr "Bu öğe kilitli bir klasöre ait ve silinemez!"
+
+msgid "This folder is locked or contains a locked subfolder, unlock it first!"
+msgstr "Bu klasör kilitli veya kilitli bir alt klasör içeriyor, önce kilidi açın!"
+
+msgid "Title"
+msgstr "Başlık"
+
+msgid "Toggle Cover Button"
+msgstr "Kapak düğmesini aç/kapat"
+
+msgid "Toggle service selection"
+msgstr "Servis seçimini aç/kapat"
+
+msgid "Toggle viewed / not viewed"
+msgstr "İzlendi / izlenmedi durumunu değiştir"
+
+msgid "Total"
+msgstr "Toplam"
+
+msgid "Trashcan"
+msgstr "Çöp kutusu"
+
+msgid "Trashcan create failed. Check mounts and permissions."
+msgstr "Çöp kutusu oluşturulamadı. Bağlamaları ve izinleri kontrol edin."
+
+msgid "Trashcan enable"
+msgstr "Çöp kutusunu etkinleştir"
+
+msgid "Trashcan path"
+msgstr "Çöp kutusu yolu"
+
+msgid "Try to load extra title and more from .meta files"
+msgstr ".meta dosyalarından ek başlık ve daha fazlasını yüklemeyi dene"
+
+msgid "Try to load titles from .eit files"
+msgstr ".eit dosyalarından başlıkları yüklemeyi dene"
+
+msgid "Try to load titles from .meta files"
+msgstr ".meta dosyalarından başlıkları yüklemeyi dene"
+
+msgid "UNKNOWN"
+msgstr "BİLİNMİYOR"
+
+msgid "Up"
+msgstr "Yukarı"
+
+msgid "Use cache for files and directories"
+msgstr "Dosya ve dizinler için önbellek kullan"
+
+msgid "Use original EMC-skin (needs reopen)"
+msgstr "Orijinal EMC skinini kullan (yeniden açma gerekir)"
+
+msgid "VLC"
+msgstr "VLC"
+
+msgid "VLC Server not reachable"
+msgstr "VLC sunucusuna ulaşılamıyor"
+
+msgid "VLC-Dir"
+msgstr "VLC-Dizin"
+
+msgid "VLC-Server"
+msgstr "VLC-Sunucu"
+
+msgid "Video-button"
+msgstr "Video tuşu"
+
+msgid "Vote:"
+msgstr "Oy:"
+
+msgid "WD DD.MM. HH:MM"
+msgstr "GH DD.MM. SS:DD"
+
+msgid "WD DD.MM.YYYY"
+msgstr "GH DD.MM.YYYY"
+
+msgid "WD DD.MM.YYYY HH:MM"
+msgstr "GH DD.MM.YYYY SS:DD"
+
+msgid "WD MM/DD HH:MM"
+msgstr "GH MM/DD SS:DD"
+
+msgid "WD YYYY/MM/DD"
+msgstr "GH YYYY/MM/DD"
+
+msgid "WD YYYY/MM/DD HH:MM"
+msgstr "GH YYYY/MM/DD SS:DD"
+
+msgid "Wake device when entering dir from emc-noscan.cfg"
+msgstr "emc-noscan.cfg içindeki dizine girildiğinde cihazı uyandır"
+
+msgid "Week"
+msgstr "Hafta"
+
+msgid "Weeks"
+msgstr "Hafta"
+
+msgid "White"
+msgstr "Beyaz"
+
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+msgid "YYYY/MM/DD HH:MM"
+msgstr "YYYY/MM/DD SS:DD"
+
+msgid "Yellow button function"
+msgstr "Sarı tuş işlevi"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "Yes, everything"
+msgstr "Evet, her şey"
+
+msgid "Yes, only extra title"
+msgstr "Evet, yalnızca ek başlık"
+
+msgid "Yes, with Message"
+msgstr "Evet, mesaj ile"
+
+msgid "Yes, without Message"
+msgstr "Evet, mesaj olmadan"
+
+msgid ""
+"Your Box is about to go into DeepStandby, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Cihazınız Derin Bekleme moduna geçmek üzere, devam edilsin mi?\n"
+" Bir saat ertelemek için hayır seçin"
+
+msgid ""
+"Your Box is about to go into E2 Restart, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Cihazınız E2 Yeniden Başlat moduna geçmek üzere, devam edilsin mi?\n"
+" Bir saat ertelemek için hayır seçin"
+
+msgid ""
+"Your Box is about to go into Reboot, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Cihazınız yeniden başlatılmak üzere, devam edilsin mi?\n"
+" Bir saat ertelemek için hayır seçin"
+
+msgid ""
+"Your Box is about to go into Standby, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Cihazınız Bekleme moduna geçmek üzere, devam edilsin mi?\n"
+" Bir saat ertelemek için hayır seçin"
+
+msgid "Zap to channel after record EOF"
+msgstr "Kayıt EOF sonrası kanala geç"
+
+msgid "after reload list"
+msgstr "liste yeniden yüklendikten sonra"
+
+msgid "after standby"
+msgstr "beklemeden sonra"
+
+msgid "all"
+msgstr "tümü"
+
+msgid "always"
+msgstr "her zaman"
+
+msgid "always hide"
+msgstr "her zaman gizle"
+
+msgid "auto-start is currently not active."
+msgstr "otomatik başlatma şu anda etkin değil."
+
+msgid "auto-start window begin"
+msgstr "otomatik başlatma pencere başlangıcı"
+
+msgid "auto-start window end"
+msgstr "otomatik başlatma pencere sonu"
+
+msgid "center"
+msgstr "orta"
+
+msgid "configuration"
+msgstr "yapılandırma"
+
+msgid "covers in"
+msgstr "kapaklar içinde"
+
+msgid "daily auto-start"
+msgstr "günlük otomatik başlatma"
+
+msgid "down"
+msgstr "aşağı"
+
+msgid "every single one"
+msgstr "her biri"
+
+msgid "forward to the next chapter"
+msgstr "sonraki bölüme ileri git"
+
+msgid "found"
+msgstr "bulundu"
+
+msgid "from"
+msgstr "şuradan"
+
+msgid "hide live TV"
+msgstr "canlı TV'yi gizle"
+
+msgid "hide live TV and timeshift"
+msgstr "canlı TV ve timeshift'i gizle"
+
+msgid "hide playback"
+msgstr "oynatmayı gizle"
+
+#, fuzzy
+msgid "imdb.com"
+msgstr "imdb.com"
+
+msgid "jump back to the previous title"
+msgstr "önceki başlığa geri atla"
+
+msgid "jump forward to the next title"
+msgstr "sonraki başlığa ileri atla"
+
+msgid "jump to next marked position"
+msgstr "sonraki işaretli konuma atla"
+
+msgid "jump to previous marked position"
+msgstr "önceki işaretli konuma atla"
+
+msgid "left"
+msgstr "sol"
+
+msgid "left from Name"
+msgstr "Adın solunda"
+
+msgid "movie manipulation list"
+msgstr "film işlem listesi"
+
+msgid "movies in"
+msgstr "filmler içinde"
+
+msgid "never hide"
+msgstr "asla gizleme"
+
+#, fuzzy
+msgid "no limit"
+msgstr "sınırsız"
+
+msgid "off"
+msgstr "kapalı"
+
+msgid "only initially"
+msgstr "yalnızca başlangıçta"
+
+msgid "overall"
+msgstr "genel"
+
+msgid "rewind to the previous chapter"
+msgstr "önceki bölüme geri sar"
+
+msgid "right"
+msgstr "sağ"
+
+msgid "right from Name"
+msgstr "Adın sağında"
+
+msgid "sec"
+msgstr "sn"
+
+msgid "sec found. Avg. Speed:"
+msgstr "sn bulundu. Ort. Hız:"
+
+msgid "sec."
+msgstr "sn."
+
+msgid "show DVD main menu"
+msgstr "DVD ana menüsünü göster"
+
+msgid "single pixel TV, muted"
+msgstr "tek piksel TV, sessiz"
+
+msgid "standard cover"
+msgstr "standart kapak"
+
+msgid "stop service"
+msgstr "servisi durdur"
+
+msgid "switch to the next angle"
+msgstr "sonraki açıya geç"
+
+msgid "switch to the next audio track"
+msgstr "sonraki ses parçasına geç"
+
+msgid "switch to the next subtitle language"
+msgstr "sonraki altyazı diline geç"
+
+msgid "themoviedb.org"
+msgstr "themoviedb.org"
+
+#, fuzzy
+msgid "themoviedb.org + thetvdb.com"
+msgstr "themoviedb.org + thetvdb.com"
+
+msgid "thetvdb cover number (standard cover):"
+msgstr "thetvdb kapak numarası (standart kapak):"
+
+msgid "thetvdb cover range per title:"
+msgstr "başlık başına thetvdb kapak aralığı:"
+
+msgid "thetvdb.com"
+msgstr "thetvdb.com"
+
+msgid "three contiguous"
+msgstr "üç bitişik"
+
+msgid "toggle a cut mark at the current position"
+msgstr "geçerli konumda bir kesim işaretini aç/kapat"
+
+msgid "trashcan"
+msgstr "çöp kutusu"
+
+msgid "two contiguous"
+msgstr "iki bitişik"
+
+msgid "type 1 - OSD + black (#00000000)"
+msgstr "tip 1 - OSD + siyah (#00000000)"
+
+msgid "type 2 - transparent + white (#FFFFFFFF)"
+msgstr "tip 2 - şeffaf + beyaz (#FFFFFFFF)"
+
+msgid "type 3 - OSD + black (#00FFFFFF)"
+msgstr "tip 3 - OSD + siyah (#00FFFFFF)"
+
+msgid "type 4 - transparent + black (#FF000000)"
+msgstr "tip 4 - şeffaf + siyah (#FF000000)"
+
+msgid "unknown"
+msgstr "bilinmiyor"
+
+msgid "up/down"
+msgstr "yukarı/aşağı"
+
+msgid "view extensions..."
+msgstr "uzantıları görüntüle..."
+
+msgid "x"
+msgstr "x"

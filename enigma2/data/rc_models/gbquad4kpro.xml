@@ -1,0 +1,62 @@
+<rcs>
+	<rc id="2">
+		<button name="POWER" pos="20,23" />
+		<button name="TV" pos="78,21" />
+
+		<button name="1" pos="22,42" />
+		<button name="2" pos="52,42" />
+		<button name="3" pos="78,42" />
+
+		<button name="4" pos="22,62" />
+		<button name="5" pos="52,62" />
+		<button name="6" pos="78,62" />
+
+		<button name="7" pos="22,80" />
+		<button name="8" pos="52,80" />
+		<button name="9" pos="78,80" />
+
+		<button name="ARROWLEFT" pos="22,98" />
+		<button name="0" pos="52,98" />
+		<button name="ARROWRIGHT" pos="78,98" />
+
+		<button name="RED" pos="18,117" />
+		<button name="GREEN" pos="38,117" />
+		<button name="YELLOW" pos="60,117" />
+		<button name="BLUE" pos="81,117" />
+
+		<button name="INFO" pos="20,152" />
+		<button name="FAV" pos="50,138" />
+		<button name="MENU" pos="79,152" />
+
+		<button name="UP" pos="49,167" />
+		<button name="LEFT" pos="23,193" />
+		<button name="OK" pos="49,193" />
+		<button name="RIGHT" pos="76,193" />
+		<button name="DOWN" pos="49,218" />
+
+		<button name="AUDIO" pos="20,232" />
+		<button name="EXIT" pos="50,245" />
+		<button name="VIDEO" pos="79,232" />
+
+		<button name="VOL+" pos="21,270" />
+		<button name="VOL-" pos="21,287" />
+		<button name="EPG" pos="50,268" />
+		<button name="HISTORY" pos="50,286" />
+		<button name="BOUQUET+" pos="79,270" />
+		<button name="BOUQUET-" pos="79,287" />
+
+		<button name="REWIND" pos="18,306" />
+		<button name="STOP" pos="38,306" />
+		<button name="PLAYPAUSE" pos="60,306" />
+		<button name="FASTFORWARD" pos="81,306" />
+
+		<button name="SCREEN" pos="28,326" />
+		<button name="RECORD" pos="70,326" />
+
+		<button name="TEXT" pos="28,346" />
+		<button name="TIMER" pos="70,346" />
+
+		<button name="SUBTITLE" pos="28,366" />
+		<button name="MUTE" pos="70,366" />
+	</rc>
+</rcs>

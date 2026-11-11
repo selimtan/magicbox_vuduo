@@ -1,0 +1,5 @@
+#!/bin/sh
+case "$1" in
+    start) [ -e /dev/dvb/adapter0/video0 ] && /usr/bin/showiframe /usr/share/bootlogo.mvi ;;
+esac
+exit 0

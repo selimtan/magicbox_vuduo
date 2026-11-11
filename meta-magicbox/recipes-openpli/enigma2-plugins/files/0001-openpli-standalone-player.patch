@@ -1,0 +1,162 @@
+Subject: [PATCH] Support native OpenPLi playback without the EMC browser
+Upstream-Status: Pending
+
+diff --git a/src/EMCMediaCenter.py b/src/EMCMediaCenter.py
+index 656a5d1..e7833aa 100644
+--- a/src/EMCMediaCenter.py
++++ b/src/EMCMediaCenter.py
+@@ -1,4 +1,5 @@
+-﻿# Copyright (C) 2011 by Coolman & Swiss-MAD
++from . import SERVICE_DVD
++# Copyright (C) 2011 by Coolman & Swiss-MAD
+ #
+ # In case of reuse of this source code please do not remove this copyright.
+ #
+@@ -389,7 +390,7 @@ class EMCMediaCenter(CutList, Screen, HelpableScreen, InfoBarTimeshift, InfoBarS
+ 				toggleProgressService(service, True)
+ 				self.service = service
+ 
+-				if service and service.type == eServiceReference.idServiceDVD:
++				if service and service.type == SERVICE_DVD:
+ 					if not self.dvdScreen:
+ 						self.dvdScreen = self.session.instantiateDialog(DVDOverlay)
+ 					if "TeletextActions" in self:
+@@ -427,7 +428,7 @@ class EMCMediaCenter(CutList, Screen, HelpableScreen, InfoBarTimeshift, InfoBarS
+ 				if self.service and self.service.type != eServiceReference.idDVB:
+ 					self.realSeekLength = self.getSeekLength()
+ 
+-				if service and service.type == eServiceReference.idServiceDVD:
++				if service and service.type == SERVICE_DVD:
+ 					# Seek will cause problems with DVDPlayer!
+ 					# ServiceDVD needs this to start
+ 					subs = self.getServiceInterface("subtitle")
+@@ -816,7 +817,7 @@ class EMCMediaCenter(CutList, Screen, HelpableScreen, InfoBarTimeshift, InfoBarS
+ 		self.sendKey(iServiceKeys.keyUser + 8)
+ 
+ 	def sendKey(self, key):
+-		if self.service and self.service.type != eServiceReference.idServiceDVD:
++		if self.service and self.service.type != SERVICE_DVD:
+ 			return None
+ 		keys = self.getServiceInterface("keys")
+ 		if keys:
+@@ -937,7 +938,7 @@ class EMCMediaCenter(CutList, Screen, HelpableScreen, InfoBarTimeshift, InfoBarS
+ 			self["SeekActions"].setEnabled(True)
+ 
+ 	def createSummary(self):
+-		if self.service and self.service.type == eServiceReference.idServiceDVD:
++		if self.service and self.service.type == SERVICE_DVD:
+ 			return DVDSummary
+ 		else:
+ 			return EMCMoviePlayerSummary
+@@ -993,7 +994,7 @@ class EMCMediaCenter(CutList, Screen, HelpableScreen, InfoBarTimeshift, InfoBarS
+ 
+ 	# InfoBarNumberZap
+ 	def keyNumberGlobal(self, number):
+-		if self.service and self.service.type == eServiceReference.idServiceDVD:
++		if self.service and self.service.type == SERVICE_DVD:
+ 			self.session.openWithCallback(self.numberEntered, ChapterZap)
+ 
+ 	# InfoBarMenu Key_Menu
+diff --git a/src/InfoBarSupport.py b/src/InfoBarSupport.py
+index acd3c80..1a22870 100644
+--- a/src/InfoBarSupport.py
++++ b/src/InfoBarSupport.py
+@@ -1,4 +1,5 @@
+-﻿# Copyright (C) 2011 by betonme
++from . import SERVICE_DVD
++# Copyright (C) 2011 by betonme
+ #
+ # In case of reuse of this source code please do not remove this copyright.
+ #
+@@ -23,6 +24,7 @@ from enigma import iPlayableService, eServiceReference
+ from Screens.InfoBarGenerics import *
+ from Screens.MessageBox import MessageBox
+ from Tools.BoundFunction import boundFunction
++from Tools import Notifications
+ from Tools.Directories import fileExists, resolveFilename, SCOPE_PLUGINS
+ 
+ from . import _
+@@ -155,7 +157,7 @@ class InfoBarSupport(InfoBarBase,
+ 		# From Merlin2
+ 		elif config.EMC.movie_jump_first_mark.value is True:
+ 			self.jumpToFirstMark()
+-		elif self.service and self.service.type == eServiceReference.idServiceDVD:
++		elif self.service and self.service.type == SERVICE_DVD:
+ 			DelayedFunction(50, boundFunction(self.dvdPlayerWorkaround))
+ 		self.showAfterSeek()
+ 
+@@ -237,7 +239,7 @@ class InfoBarSupport(InfoBarBase,
+ 		else:
+ 			# Call baseclass function
+ 			InfoBarSeek.doSeek(self, pts)
+-			if self.service and self.service.type == eServiceReference.idServiceDVD:
++			if self.service and self.service.type == SERVICE_DVD:
+ 				DelayedFunction(500, boundFunction(self.dvdPlayerWorkaround))
+ 			if pts and config.usage.show_infobar_on_skip.value:
+ 				# InfoBarSeek
+diff --git a/src/MovieCenter.py b/src/MovieCenter.py
+index 2962eb9..faf5e06 100644
+--- a/src/MovieCenter.py
++++ b/src/MovieCenter.py
+@@ -1,3 +1,4 @@
++from . import SERVICE_DVD, SERVICE_M2TS
+ #
+ # Copyright (C) 2011 by Coolman & Swiss-MAD
+ #
+@@ -97,7 +98,11 @@ def getPosterPath(searchPath):
+ 	else:
+ 		searchname = searchPath.rstrip('/.')
+ 
+-	foldercoverconfig = config.EMC.imdb.singlesearch_foldercoverpath.value
++	# The native browser can start the player without importing EMCCoverSearch.
++	# Use EMC's standard cover order until that optional settings section exists.
++	imdb = getattr(config.EMC, 'imdb', None)
++	setting = getattr(imdb, 'singlesearch_foldercoverpath', None)
++	foldercoverconfig = setting.value if setting is not None else '0'
+ 
+ 	if os.path.isfile(searchPath):
+ 		paths.extend([searchname])									# /dir/mediafolder/mediafile.ext
+@@ -208,7 +213,7 @@ def getPlayerService(path, name="", ext=None):
+ 	elif ext in plyMP3:
+ 		service = eServiceReference(eServiceReference.idServiceMP3, 0, path)
+ 	elif ext in plyDVD:
+-		service = eServiceReference(eServiceReference.idServiceDVD, 0, path)
++		service = eServiceReference(SERVICE_DVD, 0, path)
+ 		#QUESTION Is the special name handling really necessary
+ 		if service:
+ 			# Copied from dvd player
+@@ -220,7 +225,7 @@ def getPlayerService(path, name="", ext=None):
+ 				else:
+ 					name = names[2]
+ 	elif ext in plyM2TS:
+-		service = eServiceReference(eServiceReference.idServiceM2TS, 0, path)
++		service = eServiceReference(SERVICE_M2TS, 0, path)
+ 	else:
+ 		path = path.replace(":", "")  # because of VLC player
+ 		#service = eServiceReference("2:0:1:0:0:0:0:0:0:0:" + path)
+@@ -234,7 +239,7 @@ def getPlayerService(path, name="", ext=None):
+ 
+ 
+ def updatePlayerService(service, name):
+-	if service and service.type != eServiceReference.idServiceDVD and name:
++	if service and service.type != SERVICE_DVD and name:
+ 		if isinstance(name, bytes):
+ 			print("[EMC] WARNING updatePlayerService: name is bytes: " + repr(name))
+ 			name = name.decode()
+diff --git a/src/__init__.py b/src/__init__.py
+index f78bbe9..c1ecedf 100644
+--- a/src/__init__.py
++++ b/src/__init__.py
+@@ -1,5 +1,12 @@
+ from gettext import GNUTranslations, NullTranslations, bindtextdomain, dgettext, find
+ 
++from enigma import eServiceReference
++
++# OpenPLi uses the DVD factory ID without exporting an idServiceDVD enum;
++# M2TS is decoded by its existing GStreamer (idServiceMP3) service.
++SERVICE_DVD = getattr(eServiceReference, 'idServiceDVD', 0x1111)
++SERVICE_M2TS = getattr(eServiceReference, 'idServiceM2TS', eServiceReference.idServiceMP3)
++
+ from skin import loadSkin
+ from Components.Language import language
+ from Tools.Directories import SCOPE_PLUGINS, resolveFilename

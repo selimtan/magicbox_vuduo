@@ -1,0 +1,39 @@
+<setupxml>
+	<setup key="MovieInfoSetup" title="Movie Information Download Setup">
+		<item level="0" text="Language:" description="Language:">config.EMC.movieinfo.language</item>
+		<item level="0" text="Load Runtime:" description="Load Runtime:">config.EMC.movieinfo.ldruntime</item>
+		<item level="0" text="Load Genre:" description="Load Genre:">config.EMC.movieinfo.ldgenre</item>
+		<item level="0" text="Load Production Countries:" description="Load Production Countries:">config.EMC.movieinfo.ldcountries</item>
+		<item level="0" text="Load Release Date:" description="Load Release Date:">config.EMC.movieinfo.ldreleasedate</item>
+		<item level="0" text="Load Vote:" description="Load Vote:">config.EMC.movieinfo.ldvote</item>
+		<item level="0" text="Save Cover" description="Save Cover">config.EMC.movieinfo.coversave</item>
+		<item level="0" text="Coversize" description="Coversize">config.EMC.movieinfo.coversize</item>
+		<item level="0" text="Cover delay in ms" description="Cover delay in ms">config.EMC.movieinfo.cover_delay</item>
+	</setup>
+
+	<setup key="CoverSearchSetup" title="EMC Cover search setup">
+		<item level="0" text="COVER-SEARCH"/>
+		<item level="0" text="Language:" description="Language:">config.EMC.imdb.language</item>
+		<item level="0" text="Search filter for matching existing terms in the title:" description="Search filter for matching existing terms in the title:">config.EMC.imdb.search_filter</item>
+		<item level="0" text="thetvdb cover number (standard cover):" description="thetvdb cover number (standard cover):">config.EMC.imdb.thetvdb_standardcover</item>
+		<item level="0" text="Preferred cover resolution (if possible):" description="Preferred cover resolution (if possible):">config.EMC.imdb.preferred_coversize</item>
+		<item level="0" text="Save description to movie.txt file:" description="Save description to movie.txt file:">config.EMC.imdb.savetotxtfile</item>
+		<item level="0" text="SINGLE COVER-SEARCH"/>
+		<item level="0" text="Single Search:" description="Single Search:">config.EMC.imdb.singlesearch</item>
+		<item level="0" text="Search filter for matching existing terms in the title:" description="Language:">config.EMC.imdb.singlesearch_filter</item>
+		<if conditional="config.EMC.imdb.singlesearch.value not in ('0', '4')">
+			<item level="0" text="thetvdb cover range per title:" description="thetvdb cover range per title:">config.EMC.imdb.singlesearch_tvdbcoverrange</item>
+			<item level="0" text="Search Results per Search Site (without counting cover range):" description="Search Results per Search Site (without counting cover range):">config.EMC.imdb.singlesearch_siteresults</item>
+		<else />
+			<item level="0" text="Search Results per Search Site:" description="Search Results per Search Site:">config.EMC.imdb.singlesearch_siteresults</item>
+		</if>
+		<item level="0" text="Set path to save the folder Cover:" description="Set path to save the folder Cover:">config.EMC.imdb.singlesearch_foldercoverpath</item>
+	</setup>
+
+	<setup key="EMCPlaylistSetup" title="EMC Playlist Setup">
+		<item level="0" text="Default Playlist path" description="Default Playlist path">config.EMC.playlist.default_playlist_path</item>
+		<item level="0" text="Default Playlist name" description="Default Playlist name">config.EMC.playlist.default_playlist_name</item>
+		<item level="0" text="Always save current Playlist" description="Always save current Playlist">config.EMC.playlist.save_default_list</item>
+	</setup>
+
+</setupxml>

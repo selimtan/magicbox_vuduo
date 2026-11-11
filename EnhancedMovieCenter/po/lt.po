@@ -1,0 +1,2458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EMC - betonme git\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-12 09:04+0100\n"
+"PO-Revision-Date: 2021-01-24 15:11+0200\n"
+"Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
+"Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: src\n"
+
+msgid " Deleting remotely recorded and it will display an rec-error dialog on the other DB."
+msgstr " Nuotolinių įrašų pašalinimas ir kitoje DB parodys REC klaidos pranešimą."
+
+msgid " all selected video files?"
+msgstr " visus pasirinktus vaizdo failus?"
+
+msgid " all selected video files? The currently playing movie is also one of the selections and its playback will be stopped."
+msgstr " visus pasirinktus vaizdo failus? Šiuo metu demonstruojamas įrašas taip pat tarp pasirinktų ir jo atkūrimas bus nutrauktas."
+
+msgid " currently played?"
+msgstr " dabar žiūrėtą?"
+
+msgid " files\n"
+msgstr " failai\n"
+
+msgid " permanently"
+msgstr " nuolat"
+
+#, python-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d sekundė"
+msgstr[1] "%d sekundės"
+msgstr[2] "%d sekundžių"
+
+#, python-format
+msgid "%s not removed. Write protect?"
+msgstr "%s nepašalinta. Rašymo apsauga?"
+
+#, python-format
+msgid "%s removed."
+msgstr "%s pašalinta."
+
+msgid "( # )"
+msgstr "( # )"
+
+msgid "( # / GB )"
+msgstr "( # / GB )"
+
+msgid "( GB )"
+msgstr "( GB )"
+
+msgid "(Un-)Lock Directory"
+msgstr "(At-)Užblokuoti katalogą"
+
+msgid "(show optional DVD audio menu)"
+msgstr "(rodyti pasirinktinį DVD garso meniu)"
+
+msgid "*** Multiselection active ***"
+msgstr "*** Įjungtas daugiapasirinkiminis režimas ***"
+
+msgid ".../foldername.jpg"
+msgstr ".../katalogo_pavad.jpg"
+
+msgid ".../foldername/folder.jpg"
+msgstr ".../katalogo_pavad/katlogas.jpg"
+
+msgid ".../foldername/foldername.jpg"
+msgstr ".../katalogo_pavad/katalogo_pavad.jpg"
+
+msgid ""
+"ATTENTION\n"
+"\n"
+"This option will move all finished movies in Movie Home automatically to Your trashcan at the given time.\n"
+"At next trashcan cleanup all movies will be deleted.\n"
+"\n"
+"Confirm this with the blue key followed by the green key."
+msgstr ""
+"DĖMESIO\n"
+"\n"
+"Ši parinktis nustatytu laiku automatiškai perkels visus užbaigtus įrašus į šiukšliadėžę.\n"
+"Valant šiukšliadėžę, įrašai bus galutinai panaikinti.\n"
+"\n"
+"Patvirtinkite tai 'MĖLYNU' mygtuku, po 'ŽALIOJO' paspaudimo."
+
+msgid "AUDIO METADATA"
+msgstr "GARSO DUOMENYS"
+
+msgid "AUTOSTART"
+msgstr "AUTOPALEIDIMAS"
+
+msgid "About"
+msgstr "Apie"
+
+msgid "Add directory to E2 Bookmarks"
+msgstr "Įtraukti katalogą į E2 žymeles"
+
+msgid "Add directory to EMC Bookmarks"
+msgstr "Įtraukti katalogą į EMC žymeles"
+
+msgid "Add to Playlist"
+msgstr "Įtraukti į grojaraštį"
+
+msgid "Add to current Playlist"
+msgstr "Įtraukti į šį grojaraštį"
+
+msgid "After file OPs only re-scan affected dirs"
+msgstr "Po operacijų su failais, perskenuoti tik susijusius katalogus"
+
+msgid "Age of finished movies in movie folder (days)"
+msgstr "Pabaigtų filmų, esančių filmų kataloge, amžius (dienų)"
+
+msgid "Album:"
+msgstr "Albumas:"
+
+msgid "Alpha sort"
+msgstr "pagal pavadinimą"
+
+msgid "Alpha sort ascending (AZ)"
+msgstr "pagal pavadinimą A>Ž"
+
+msgid "Alpha sort ascending with meta (AZM)"
+msgstr "pagal pavad. A>Ž, su metaduom. (AŽM)"
+
+msgid "Alpha sort ascending with meta, Date descending (AZMD-)"
+msgstr "pagal pavad. A>Ž, su metaduom., mažėj. data (AŽMD-)"
+
+msgid "Alpha sort ascending, Date descending (AZD-)"
+msgstr "pagal pavad. A>Ž, mažėj. data (AŽD-)"
+
+msgid "Alpha sort date newest"
+msgstr "pagal naujumą"
+
+msgid "Alpha sort descending (ZA)"
+msgstr "pagal pavadinimą Ž>A"
+
+msgid "Alpha sort descending with meta (ZAM)"
+msgstr "pagal pavad. Ž>A, su metaduom. (ŽAM)"
+
+msgid "Alpha sort descending with meta, Date ascending (ZAMD+)"
+msgstr "pagal pavad. Ž>A, su metaduom.,didėj. data (ŽAMD+)"
+
+msgid "Alpha sort descending, Date ascending (ZAD+)"
+msgstr "pagal pavad. Ž>A, didėj. data (ŽAD+)"
+
+msgid "Alpha sort meta"
+msgstr "pagal metaduomenis"
+
+msgid "Alpha sort meta date newest"
+msgstr "pagal metaduomenis, naujumą"
+
+msgid "Always save current Playlist"
+msgstr "Visada išsaugoti dabartinį grojaraštį"
+
+msgid "Always save last played progress as marker"
+msgstr "Visada išsaugoti paskutinį atkūrimo stovį, kaip žymę"
+
+msgid "Artist:"
+msgstr "Atlikėjas:"
+
+msgid "Automatic timers list cleaning"
+msgstr "Automatinis laikmačių sąrašo valymas"
+
+msgid "Available plugins menu"
+msgstr "Prieinamas įskiepių meniu"
+
+msgid "Black"
+msgstr "juoda"
+
+msgid "Blue button function"
+msgstr "'MĖLYNO' mygtuko funkcija"
+
+msgid "Bookmark"
+msgstr "Žymelė"
+
+msgid "Both"
+msgstr "Abu"
+
+msgid "Bouquet buttons behaviour"
+msgstr "'Bukietų' mygtuko elgesys"
+
+msgid "Button disabled"
+msgstr "Mygtukas išjungtas"
+
+msgid "COVER-SEARCH"
+msgstr ""
+
+msgid "CSFD"
+msgstr "CSFD"
+
+msgid "CSFD Info"
+msgstr "CSFD informacija"
+
+msgid "Can not save "
+msgstr "Nepavyksta išsaugoti "
+
+msgid "Can not save Cover in "
+msgstr "Nepavyksta išsaugoti viršelio į "
+
+msgid "Can not save current Playlist!"
+msgstr "Išsaugoti šio grojaraščio nepavyksta!"
+
+#, python-format
+msgid ""
+"Can not write Movie Information File\n"
+"\n"
+"%s"
+msgstr ""
+"Nepavyksta įrašyti filmo informacijos failo\n"
+"\n"
+"%s"
+
+#, python-format
+msgid ""
+"Can not write Movie Information and Cover File\n"
+"\n"
+"%(info)s\n"
+"%(file)s"
+msgstr ""
+"Nepavyksta įrašyti filmo informacijos ir viršelio failo\n"
+"\n"
+"%(info)s\n"
+"%(file)s"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Cannot delete the parent directory."
+msgstr "Negalite pašalinti aukštesniojo katalogo."
+
+msgid "Change File/Moviename and/or Description"
+msgstr "Pakeisti failo/filmo pavadinimą ir/arba aprašymą"
+
+msgid "Change Folder"
+msgstr "Pakeisti katalogą"
+
+msgid "Change Foldername"
+msgstr "Pervadinti katalogą"
+
+msgid "Change the filename to save current Playlist:"
+msgstr "Išsaugant šį grojaraštį, pervadinti failą:"
+
+msgid "Chap."
+msgstr "Skyr."
+
+msgid "Chapter"
+msgstr "Skyrius"
+
+msgid "Check for dead links"
+msgstr "Tikrinti, ar yra neveikiančių nuorodų"
+
+msgid "Choose Directory:"
+msgstr "Pasirinkite katalogą:"
+
+msgid "Choose bookmark"
+msgstr "Pasirinkite žymelę"
+
+msgid "Choose directory"
+msgstr "Pasirinkite katalogą"
+
+msgid "Choose operation"
+msgstr "Pasirinkite veiksmą"
+
+msgid "Choose plugin"
+msgstr "Pasirinkite įskiepį"
+
+msgid "Choose script"
+msgstr "Pasirinkite scenarijų"
+
+msgid "Close EMC"
+msgstr "Uždaryti EMC"
+
+msgid "Close EMC and do power button action"
+msgstr "Uždarykite EMC ir nustatykite maitinimo mygtuko veiksmą"
+
+msgid "Collection"
+msgstr "Rinkinys"
+
+msgid "Configured directories at the top of movielist"
+msgstr "Sukonfigūruoti katalogai filmų sąrašo viršuje"
+
+msgid "Content:"
+msgstr "Turinys:"
+
+msgid "Copy File"
+msgstr "Kopijuoti failą"
+
+msgid "Copy Files"
+msgstr "Kopijuoti failus"
+
+msgid "Copy file(s):"
+msgstr "Kopijuoti failą(us):"
+
+#, python-format
+msgid ""
+"Cover %s exists!\n"
+"\n"
+"Do you want to replace the existing cover?"
+msgstr ""
+"Viršelis %s jau yra!\n"
+"\n"
+"Ar norite pakeisti turimą viršelį?"
+
+msgid "Cover Search"
+msgstr "Viršelių paieška"
+
+msgid "Cover background"
+msgstr "Viršelio fonas"
+
+msgid "Cover delay in ms"
+msgstr "Viršelio rodymo trukmė (ms)"
+
+msgid "Cover disabled in EMC-Setup"
+msgstr "Viršeliai išjungti EMC sąrankoje"
+
+msgid "Cover is Saved."
+msgstr "Viršelis išsaugotas."
+
+msgid "Cover search"
+msgstr "Viršelių paieška"
+
+msgid ""
+"Cover search with all Files in Subdirectories?\n"
+"\n"
+"This may take a while on huge Disks, or Directories!"
+msgstr ""
+"Viršelių ieškoti tarp visų failų pakatalogiuose?\n"
+"\n"
+"Dideliuose diskuose, ar kataloguose tai gali užtrukti!"
+
+msgid "Coversize"
+msgstr "Viršelio dydis"
+
+msgid "Create directory"
+msgstr "Sukurti katalogą"
+
+msgid "Create link"
+msgstr "Sukurti nuorodą"
+
+msgid "Creating Search List.."
+msgstr "Kuriamas paieškos sąrašas..."
+
+msgid "Current Playlist saved successfully!"
+msgstr "Šis grojaraštis sėkmingai išsaugotas!"
+
+msgid "Cursor predictive move after selection"
+msgstr "Žymeklio nuspėjamas judėjimas po pasirinkimo"
+
+msgid "Custom"
+msgstr "Pasirinktinis"
+
+msgid "Czech"
+msgstr ""
+
+msgid "DD.MM. HH:MM"
+msgstr "MM.DD HH:MM"
+
+msgid "DD.MM.YYYY"
+msgstr "YYYY.MM.DD"
+
+msgid "DD.MM.YYYY HH:MM"
+msgstr "YYYY.MM.DD HH:MM"
+
+msgid "DEBUG"
+msgstr "KLAIDŲ ŠALINIMAS"
+
+msgid "DELAYS"
+msgstr "DELSOS"
+
+msgid "DISPLAY-SETTINGS"
+msgstr "EKRANO NUSTATYMAI"
+
+msgid "DVD / BLU-RAY / FOLDERS"
+msgstr "DVD / BLU-RAY / APLANKAI"
+
+msgid "Daily cleanup time"
+msgstr "Kasdienio ištuštinimo laikas"
+
+msgid "Dark green"
+msgstr "tamsiai žalia"
+
+msgid "Dark grey"
+msgstr "tamsiai pilka"
+
+msgid "Dark orange"
+msgstr "tamsiai oranžinė"
+
+msgid "Dark red"
+msgstr "tamsiai raudona"
+
+msgid "Date format"
+msgstr "Datos formatas"
+
+msgid "Date sort"
+msgstr "pagal datą"
+
+msgid "Date sort ascending (D+)"
+msgstr "pagal datą didėjančiai (D+)"
+
+msgid "Date sort descending (D-)"
+msgstr "pagal datą mažėjančiai (D-)"
+
+msgid "Day"
+msgstr "diena"
+
+msgid "Days"
+msgstr "dienos"
+
+msgid "Debug output file name"
+msgstr "Klaidų derinimo išvesties failo pavadinimas"
+
+msgid "DeepStandby"
+msgstr "Išjungti"
+
+msgid "Default"
+msgstr "Numatytasis"
+
+msgid ""
+"Default Playlist is not empty!\n"
+"\n"
+"Save default Playlist?"
+msgstr ""
+"Numatytasis grojaraštis netuščias!\n"
+"\n"
+"Išsaugoti numatytąjį grojaraštį?"
+
+msgid "Default Playlist name"
+msgstr "Numatytojo grojaraščio pavadinimas"
+
+msgid "Default Playlist path"
+msgstr "Kelias į numatytąjį grojaraštį"
+
+msgid "Default color for highlighted movie"
+msgstr "Numatytoji spalva pažymėtam filmui"
+
+msgid "Default color for partially watched movie"
+msgstr "Numatytoji spalva iš dalies žiūrėtam filmui"
+
+msgid "Default color for recording movie"
+msgstr "Numatytoji spalva įrašomiems filmams"
+
+msgid "Default color for unwatched movie"
+msgstr "Numatytoji spalva nežiūrėtam filmui"
+
+msgid "Default color for watched movie"
+msgstr "Numatytoji spalva žiūrėtam filmui"
+
+msgid "Default sort mode"
+msgstr "Numatytasis rūšiavimo būdas"
+
+msgid "Delete"
+msgstr "Pašalinti"
+
+msgid "Delete All"
+msgstr "Pašalinti viską"
+
+msgid "Delete Entry"
+msgstr "Pašalinti įrašą"
+
+msgid "Delete current Playlist"
+msgstr "Pašalinti šį grojaraštį"
+
+msgid "Delete cut file(s)"
+msgstr "Šalinti iškirptą(us) failą(us)"
+
+msgid "Delete error:\n"
+msgstr "Šalinimo klaida:\n"
+
+msgid "Delete failed because the trashcan directory does not exist. Attempt to create it now?"
+msgstr "Pašalinti nepavyko, nes nėra šiukšliadėžės katalogas neegzistuoja. Bandymas jį sukurti dabar?"
+
+msgid "Delete failed!"
+msgstr "Pašalinti nepavyko!"
+
+msgid "Delete permanently"
+msgstr "Ištrinti negrąžinamai"
+
+msgid "Delete validation"
+msgstr "Pašalinimo patvirtinimas"
+
+msgid "Description"
+msgstr "aprašymas"
+
+msgid "Description field update delay"
+msgstr "Aprašymo lango atvaizdavimo delsa"
+
+msgid "Description:"
+msgstr "Aprašymas:"
+
+msgid "Directory"
+msgstr "Katalogas"
+
+#, python-format
+msgid "Directory %s already exists!"
+msgstr "Katalogas %s jau yra!"
+
+msgid "Directory back"
+msgstr "Virškatalogis"
+
+msgid "Directory forward"
+msgstr "Pakatalogis"
+
+msgid "Directory is not empty! Do you really want to delete it?"
+msgstr ""
+"Katalogas netuščias!\n"
+"Ar tikrai norite jį pašalinti?"
+
+msgid "Directory up"
+msgstr "Aukštesnis katalogas"
+
+msgid "Directory-Cover search"
+msgstr "Katalogas - viršelių paieška"
+
+msgid "Disable EMC"
+msgstr "Išjungti EMC"
+
+msgid "Display directory reading text"
+msgstr "Rodyti 'Katalogas skaitomas...' pranešimą"
+
+msgid ""
+"Do you really want to delete the cut file?\n"
+"If you have selected a directory, all cut files within the folder and its subfolders will be deleted!"
+msgstr ""
+"Ar tikrai norite ištrinti iškirptą failą?\n"
+"Jeigu pasirinkote katalogą, visi iškirpti failai, esantys šiame kataloge ir jo pakatalogiuose bus ištrinti!"
+
+#, python-format
+msgid "Do you really want to lock the directory %s and all its subfolders?"
+msgstr "Ar tikrai norite užrakinti katalogą %s kartu su visais pakatalogiais?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your bookmark\n"
+"%s?"
+msgstr ""
+"Ar tikrai norite pašalinti žymelę\n"
+"%s?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your directory\n"
+"%s?"
+msgstr ""
+"Ar tikrai norite pašalinti katalogą\n"
+"%s?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your link\n"
+"%s?"
+msgstr ""
+"Ar tikrai norite pašalinti nuorodą\n"
+"%s?"
+
+msgid "Do you want to resume this playback?"
+msgstr "Ar norite pratęsti šį atkūrimą?"
+
+msgid "Does not contain any scripts."
+msgstr "Čia nėra jokių scenarijų."
+
+msgid "Don't auto scan size of dirs from emc-noscan.cfg"
+msgstr "Nenuskaityti automatiškai emc-noscan.cfg katalogų dydžio"
+
+msgid "Download Movie Info"
+msgstr "Parsisiųsti informaciją apie filmą"
+
+msgid "Download Movie Information"
+msgstr "Parsisiųsti informaciją apie filmą"
+
+msgid "Download cutlist from Cutlist.at"
+msgstr "Parsisiųsti iškarpų sąrašą iš Cutlist.at"
+
+#, python-format
+msgid "Download: %s"
+msgstr "Parsisiųsti: %s"
+
+msgid "E2 Bookmark"
+msgstr "E2 žymelė"
+
+msgid "E2 Bookmarks"
+msgstr "E2 žymelės"
+
+msgid "E2 Restart"
+msgstr "Paleisti grafinę aplinką iš naujo"
+
+msgid ""
+"EMC\n"
+"Zap to Live TV of record"
+msgstr ""
+"EMC\n"
+"Įrašymui perjungti į tiesioginę TV"
+
+msgid "EMC Bookmarks"
+msgstr "EMC žymelės"
+
+msgid "EMC Cover Selecter"
+msgstr "EMC viršelių parinkimas"
+
+msgid "EMC Cover search"
+msgstr "EMC viršelių paieška"
+
+msgid "EMC Cover search setup"
+msgstr "EMC viršelių paieškos sąranka"
+
+msgid "EMC Filebrowser"
+msgstr "EMC failų naršyklė"
+
+#, fuzzy
+msgid "EMC Help"
+msgstr "EMC sąranka"
+
+msgid "EMC Playlist - current playlist"
+msgstr "EMC grojaraštis - dabartinis grojaraštis"
+
+msgid "EMC Playlist Menu"
+msgstr "EMC grojaraščio meniu"
+
+msgid "EMC Playlist Setup"
+msgstr "EMC grojaraščio sąranka"
+
+msgid "EMC Setup"
+msgstr "EMC sąranka"
+
+msgid "EMC Trashcan Cleanup failed!"
+msgstr "EMC šiukšliadėžės ištuštinti nepavyko!"
+
+msgid "EMC always reload after open"
+msgstr "Atvėrus EMC, visada katalogą įkelti iš naujo"
+
+msgid "EMC output directory"
+msgstr "EMC išvesties katalogas"
+
+msgid "EMC path access limit"
+msgstr "EMC kelio prieigos apribojimas"
+
+msgid "EMC re-open list after Movie end"
+msgstr "Pasibaigus filmui, EMC atverti filmų sąrašą"
+
+msgid "EMC re-open list after STOP-press"
+msgstr "Paspaudus 'STOP', EMC atverti filmų sąrašą"
+
+msgid "EMC-TMDB Info"
+msgstr "EMC TMDb informacija"
+
+msgid ""
+"EMC: Skipping Trashcan Cleanup\n"
+"Movie Home Path is equal to or a subfolder of the Trashcan"
+msgstr ""
+"EMC: Šiukšliadėžė valoma nebus-\n"
+"Filmų namų katalogo kelias toks pat, kaip šiukšliadėžės, arba yra jos pakatalogis"
+
+msgid "Edit Tags"
+msgstr ""
+
+msgid "Empty trashcan"
+msgstr "Ištuštinti šiukšliadėžę"
+
+msgid "Enable EMC debug output"
+msgstr "Įjungti EMC klaidų derinimo išvestį"
+
+msgid "Enable daily trashcan cleanup"
+msgstr "Šiukšliadėžės kasdienis ištuštinimas"
+
+msgid "Enable playback AC3-track first"
+msgstr "Pirmenybė AC3 takeliui"
+
+msgid "Enable playback auto-language selection"
+msgstr "Įjungti automatinį kalbos parinkimą"
+
+msgid "Enable playback auto-subtitling"
+msgstr "Įjungti automatinius subtitrus"
+
+msgid "Enable remote recordings"
+msgstr "Atpažinti nutolusį įrašymą"
+
+msgid "English"
+msgstr "Anglų"
+
+msgid "Enter Name for Playlist"
+msgstr "Įrašykite grojaraščio pavadinimą"
+
+msgid "Enter name for new directory:"
+msgstr "Įrašykite naujojo katalogo pavadinimą:"
+
+msgid "Exist"
+msgstr "Yra"
+
+#, python-format
+msgid "Exist: %s"
+msgstr "Yra: %s"
+
+#, fuzzy
+msgid "F1-button"
+msgstr "'TV' mygtukas"
+
+msgid "File added to current Playlist."
+msgstr "Failas, įtrauktas į šį grojaraštį."
+
+msgid "File exists in current Playlist."
+msgstr "Failas jau yra šiame grojaraštyje."
+
+msgid "File not available."
+msgstr "Šis failas neprieinamas."
+
+msgid "Filename:"
+msgstr "Failas:"
+
+msgid "Files added to current Playlist."
+msgstr "Failai, įtraukti į šį grojaraštį."
+
+#, python-format
+msgid ""
+"Files added to current Playlist:\n"
+"%(add)s\n"
+"\n"
+"Files exists in current Playlist:\n"
+"%(exist)s"
+msgstr ""
+"Failai, įtraukti į šį grojaraštį:\n"
+"%(add)s\n"
+"\n"
+"Failai jau yra šiame grojaraštyje:\n"
+"%(exist)s"
+
+#, python-format
+msgid ""
+"Files exists in current Playlist:\n"
+"%s"
+msgstr ""
+"Failai jau yra šiame grojaraštyje:\n"
+"%s"
+
+msgid "Finished watching percent"
+msgstr "Peržiūrėtas, kai peržiūrėta %"
+
+msgid "Foldername:"
+msgstr "Katalogo pavadinimas:"
+
+msgid "Force standby after auto-restart"
+msgstr "Po autopaleidimo iš naujo į budėjimo būseną"
+
+msgid "Format AVSwitch"
+msgstr "Vaizdo/garso formatų perjungimas"
+
+msgid ""
+"Found rogue files:\n"
+"\n"
+msgstr "Rasti neteisingi failai:\n"
+
+msgid "Free: "
+msgstr "Laisva: "
+
+msgid "French"
+msgstr "Prancūzų"
+
+msgid "GENERAL"
+msgstr "BENDRIEJI"
+
+msgid "Genre:"
+msgstr "Žanras:"
+
+msgid "German"
+msgstr "Vokiečių"
+
+#, python-format
+msgid "Given path %s does not exist. Please change."
+msgstr "Nurodytas kelias %s neegzistuoja. Pakeiskite jį."
+
+msgid "Go to trashcan"
+msgstr "Į šiukšliadėžę"
+
+msgid "Green"
+msgstr "žalia"
+
+msgid "Grey"
+msgstr "pilka"
+
+msgid "HELP_About"
+msgstr "Atidaro įskiepį aprašantį langą."
+
+msgid "HELP_After file OPs only re-scan affected dirs"
+msgstr "Po operacijų su failais, perskenuoti tik su jomis susijusius katalogus."
+
+msgid "HELP_Age of finished movies in movie folder (days)"
+msgstr "Nustatykite, kiek dienų pabaigti (peržiūrėti) įrašai turi būti saugomi \"Filmų namų\" kataloge, prieš perkeliant į šiukšliadėžę."
+
+msgid "HELP_Always save last played progress as marker"
+msgstr ""
+"Pasirinkus 'Taip', žymė nustatoma kiekvienąkart, sustabdžius atkūrimą.\n"
+"Tęsiant atkūrimą, mygtukais '<' ir '>' galima šokinėti per šias žymes (nepriklausomai nuo pratęsimo vietos)."
+
+msgid "HELP_Automatic timers list cleaning"
+msgstr "Baigti vykdyti laikmačiai iš laikmačių sąrašo bus šalinami automatiškai."
+
+msgid "HELP_Blue button function"
+msgstr "Nustatykite, kas vyks, paspaudus 'MĖLYNĄ' mygtuką."
+
+msgid "HELP_Bouquet buttons behaviour"
+msgstr "Nustatykite, kas vyks, paspaudus 'Bouquet' mygtuką."
+
+msgid "HELP_Check for dead links"
+msgstr ""
+"Kadangi daugelis nuorodų būna į nešiojamas/atjungiamas/tinklines laikmenas, kurios bet kada gali būti atjungtos, tokios nuorodos dažnai keičiasi.\n"
+"Ši funkcija ir skirta patikrinti, ar jos dar galioja."
+
+msgid "HELP_Configure in etc/enigma2/emc-topdir.cfg"
+msgstr "Kelias į /etc/enigma2/emc-topdir.cfg konfigūravimo failą."
+
+msgid "HELP_Cover background"
+msgstr "Čia galite pasirinkti viršelio fono spalvą."
+
+msgid "HELP_Cover delay in ms"
+msgstr "Kai pasirinkta rodyti viršelį, čia galite nustatyti jo rodymo trukmę."
+
+msgid "HELP_Cursor predictive move after selection"
+msgstr ""
+"Pasirinkus 'VIDEO/PVR' mygtuku, žymeklis judės nurodyta kryptimi.\n"
+"Su 'Aukštyn/Žemyn' mygtuku, žymeklis judės paskutine nustatyta kryptimi."
+
+msgid "HELP_Daily auto-start"
+msgstr "Leidžia kasdieną atlikti operacijas joms numatytu metu."
+
+msgid "HELP_Daily cleanup time"
+msgstr "Laikas, kuriam praėjus EMC ištrins visus failus iš šiukšlinės."
+
+msgid "HELP_Date format"
+msgstr "Pasirinkite datos ir laiko, kurie bus rodomi prie failo, formatą."
+
+msgid "HELP_Debug output file name"
+msgstr "Klaidų derinimo žurnalo išvesties failo pavadinimas."
+
+msgid "HELP_Default color highlighted"
+msgstr "Pasirinkite numatytąją spalvą pažymėtam filmui"
+
+msgid "HELP_Default color partially watched"
+msgstr "Pasirinkite numatytąją spalvą dalinai žiūrėtiems filmams."
+
+msgid "HELP_Default color recording"
+msgstr "Pasirinkite numatytąją spalvą įrašomiems filmams."
+
+msgid "HELP_Default color unwatched"
+msgstr "Pasirinkite numatytąją spalvą dar nežiūrėtiems filmams."
+
+msgid "HELP_Default color watched"
+msgstr "Pasirinkite numatytąją spalvą jau žiūrėtiems filmams."
+
+msgid "HELP_Delete validation"
+msgstr "Kai naudojama šiukšliadėžė, EMC klaus, arba neklaus pašalinimo patvirtinimo."
+
+msgid "HELP_Description field update delay"
+msgstr ""
+"Aprašymo lango filmų sąraše atvaizdavimo delsa.\n"
+"(pagreitina navigaciją filmų sąrašu aukštyn/žemyn mygtukais, nes aprašymas parodomas tik po pasirinkto uždelsimo)."
+
+msgid "HELP_Disable EMC"
+msgstr "Visiškai išjungs EMC, išskyrus kelias specialias funkcijas, kaip laikmačių išvalymas ir auto matinis paleidimas iš naujo, kurios išliks aktyvios fone."
+
+msgid "HELP_Display directory reading text"
+msgstr "Bus rodomas \"Katalogas skaitomas...\" pranešimas, kol skaitomas to katalogo turinys."
+
+msgid "HELP_Don't auto scan size of dirs from emc-noscan.cfg"
+msgstr "Nenuskaityti automatiškai dydžio katalogų, įtrauktų į emc-noscan.cfg."
+
+msgid "HELP_Download cutlist from Cutlist.at"
+msgstr "Parsisiųsti iškarpų sąrašą iš Cutlist.at, jei toks ten yra."
+
+msgid "HELP_Dynamic trashcan"
+msgstr "Rodyti šiukšliadėžėje esančių įrašų kiekį ir/arba jų užimamos vietos dydį."
+
+msgid "HELP_EMC always reload after open"
+msgstr ""
+"Atidarant EMC, katalogo turinys kiekvienąkart bus perskaitomas iš naujo.\n"
+"Jei ne, paleidžiant EMC antrąkart, katalogo turinys bus skaitomas iš atminties podėlio."
+
+msgid "HELP_EMC output directory"
+msgstr "EMC išvesties katalogas, kuriame bus saugomas klaidų derinimo žurnalo failas."
+
+msgid "HELP_EMC path access limit"
+msgstr ""
+"Čia galite apriboti, kiek giliai galima nueiti \"Filmų namų\" pakatalogiais.\n"
+"'<' ir '>' mygtukais (šalia '0' mygtuko) šį limitą galima peržengti."
+
+msgid "HELP_EMC re-open list after Movie end"
+msgstr ""
+"Kai filmas pasibaigia, bus atveriamas EMC įrašų sąrašas.\n"
+"Jei ne, vėl įjungiamas ankstesnės TV transliacijos režimas."
+
+msgid "HELP_EMC re-open list after STOP-press"
+msgstr ""
+"Kai atkūrimas sustabdytas, bus atvertas EMC įrašų sąrašas.\n"
+"Jei ne, vėl įjungiamas ankstesnės TV transliacijos režimas."
+
+msgid "HELP_Enable EMC debug output"
+msgstr ""
+"Įjungti EMC klaidų derinimo žurnalą. Klaidų žurnalo failas bus išsaugotas EMC išvesties kataloge.\n"
+"!!! ĮJUNKITE ČIA TIK TADA, KAI TURITE PROBLEMŲ SU EMC !!!"
+
+msgid "HELP_Enable daily trashcan cleanup"
+msgstr "EMC ištrins senus failus iš šiukšliadėžės, kai jie pasieks žemiau nurodytą laiko limitą."
+
+msgid "HELP_Enable playback AC3-track first"
+msgstr "Jei yra galimybė, pirmenybę teikti AC3 garso takeliui."
+
+msgid "HELP_Enable playback auto-language selection"
+msgstr "Įjungti automatinį atkuriamos kalbos parinkimą."
+
+msgid "HELP_Enable playback auto-subtitling"
+msgstr "Čia galite įjungti automatinį subtitrų kalbos parinkimą."
+
+msgid "HELP_Enable remote recordings"
+msgstr ""
+"Atpažinti įrašus, darytus kitų aparatų į bendrą laikmeną.\n"
+"Šie įrašai pažymimi specialia piktograma."
+
+msgid "HELP_Fallback Cover"
+msgstr "Pasirinkus 'Ne\", fono paveikslėlis rodomas tik tada, kai yra pagrindinis viršelis."
+
+msgid "HELP_Finished watching percent"
+msgstr ""
+"Galite nurodyti, kiek procentų peržiūrėjus, įrašas bus skaitomas, kaip \"peržiūrėtas\".\n"
+"Eigos juosta pasikeis į žalią."
+
+msgid "HELP_Force standby after auto-start"
+msgstr "Po autopaleidimo iš naujo imtuvas bus perjungtas į budėjimo būseną."
+
+msgid "HELP_Hide movies being deleted"
+msgstr ""
+"Įrašas bus paslėptas, t.y. šalinimo metu filmų sąraše nebus rodomas\n"
+"(bet kokiu atveju, šalinimas vis tiek vyks fono režime)."
+
+msgid "HELP_Hide movies being moved"
+msgstr ""
+"Įrašas bus paslėptas, t.y. perkėlimo metu filmų sąraše nebus rodomas\n"
+"(bet kokiu atveju, perkėlimas vis tiek vyks fono režime)."
+
+msgid "HELP_Horizontal alignment for count / size"
+msgstr "Horizontalus teksto išdėstymas pagal žinomus skaičių/dydį."
+
+msgid "HELP_Horizontal alignment for date"
+msgstr "Horizontalus teksto išdėstymas pagal žinomas datas."
+
+msgid "HELP_How many days files may remain in trashcan"
+msgstr ""
+"Nustatykite, kiek dienų failai turi išbūti šiukšliadėžėje, kol EMC juos ištrins galutinai.\n"
+"Kai pasirinkta [0], failai visada bus trinami iškart."
+
+msgid "HELP_Icon shown for initially unknown count / size"
+msgstr "Ar bus rodoma piktograma, esant iš anksto nežinomam skaičiui / dydžiui."
+
+msgid "HELP_Jump to first mark when playing movie"
+msgstr ""
+"Automatiškai pereis prie pirmos įrašo žymės, jei tai įmanoma.\n"
+"(gali padėti automatiškai praleisti pradinio laiko intarpus)."
+
+msgid "HELP_Key period value (50-900)"
+msgstr "Laikotarpis, iki komanda pakartojama, jei mygtukas laikomas nuspaustas."
+
+msgid "HELP_Key repeat value (250-900)"
+msgstr "Komandos kartojimo greitis, jei mygtukas laikomas nuspaustas."
+
+msgid "HELP_Latest Recordings directory limit"
+msgstr ""
+"Nustatykite virtualaus \"Naujausių įrašų\" katalogo apribojimus.\n"
+"VTI galimi apribojimai dienomis."
+
+msgid "HELP_Latest Recordings directory use emc-noscan.cfg"
+msgstr "\"Naujausių įrašų\" katalogo nustatymams naudoti emc-noscan.cfg."
+
+msgid "HELP_Leave Movie with Exit"
+msgstr "Atkūrimas gali būti sustabdytas ne tik 'STOP', bet ir 'EXIT' mygtuku."
+
+msgid "HELP_Limit file operations in dirs from emc-noscan.cfg"
+msgstr "Įjungus čia, atvertas EMC vengs operacijų su failais kataloguose, esančiuose /etc/enigma2/emc-noscan.cfg."
+
+msgid "HELP_List entries to skip"
+msgstr "Praleidžiamų , ignoruojamų sąrašas."
+
+msgid "HELP_Listbox is skin able"
+msgstr "Jei įmanoma, naudojama filmų sąrašo vizualizacija iš vartotojo temos (tiktai <widget name=\"list\"). Jei ne, tada, kaip nurodyta EMC sąrankoje."
+
+msgid "HELP_Long Blue button function"
+msgstr "Nustatykite, kas vyks, ilgai spaudžiant 'MĖLYNĄ' mygtuką."
+
+msgid "HELP_Long Red button function"
+msgstr "Nustatykite, kas vyks, ilgai spaudžiant 'RAUDONĄ' mygtuką."
+
+msgid "HELP_Long Yellow button function"
+msgstr "Nustatykite, kas vyks, ilgai spaudžiant 'GELTONĄ' mygtuką."
+
+msgid "HELP_LongInfo Button"
+msgstr "Nustatykite, kas vyks, ilgai spaudžiant 'INFO' mygtuką."
+
+msgid "HELP_Mark new recordings with a star"
+msgstr "Visi nauji įrašai bus pažymėti žvaigždute."
+
+msgid "HELP_Minimum file cache limit"
+msgstr "Nustatykite minimalų failams naudojamos atminties podėlio dydį."
+
+msgid "HELP_Move finished movies in trashcan"
+msgstr "Visus pabaigtus (peržiūrėtus) filmus iš \"Filmų namų\" perkelti į šiukšliadėžę, kai jie pasieks žemiau nurodytą laiko limitą."
+
+msgid "HELP_Movie home at start"
+msgstr ""
+"EMC visada pirmiausiai atveria \"Filmų katalogą\".\n"
+"(Žemiau galite pasirinkti pageidaujamą \"Filmų katalogą\")."
+
+msgid "HELP_Movie home home path"
+msgstr "Kelio į \"Filmų namų\" katalogą nustatymas."
+
+msgid "HELP_Movie preview delay in ms"
+msgstr "Jeigu aukščiau pasirinkta rodyti filmo peržiūrą, čia galite nustatyti uždelsimą (ms), reikalingą pradėti peržiūrai. Tai apsaugo nuo atsitiktinių peržiūrų įsijungimo, slenkant sąrašu."
+
+msgid "HELP_Movie preview offset in seconds"
+msgstr "Paleidžia peržiūrą nurodytą sekundžių skaičių anksčiau, nei paskutinė atkūrimo pozicija."
+
+msgid "HELP_No resume below 10 seconds"
+msgstr ""
+"Trumpesnės, kaip 10 sek. paleidimo žymės bus ignoruojamos.\n"
+"Jeigu atkūrimas sustabdytas per pirmąsias 10 sekundžių, paleidus iš naujo, pratęsti siūloma nebus."
+
+msgid "HELP_Own Path to movie picons"
+msgstr "Čia galite nurodyti savo kelią į filmų piktogramas."
+
+msgid "HELP_Path to movie picons"
+msgstr "Standartinis kelias į filmų piktogramas."
+
+msgid "HELP_Position movie picons"
+msgstr "Pasirinkite, kur bus filmų piktogramų vieta."
+
+msgid "HELP_Preferred EPG language"
+msgstr "Čia galite nurodyti pageidaujamą EPG kalbą."
+
+msgid "HELP_Primary playback audio language"
+msgstr "Pagrindinė garso takelio kalba, kuri turėtų būti parenkama, jei yra tokia galimybė."
+
+msgid "HELP_Primary playback subtitle language"
+msgstr "Pagrindinė subtitrų kalba, kuri turėtų būti parenkama, jei yra tokios kalbos subtitrai."
+
+msgid "HELP_Red button function"
+msgstr "Nustatykite, kas vyks, paspaudus 'RAUDONĄ' mygtuką."
+
+msgid "HELP_Replace special chars in title"
+msgstr "Pabraukimai ir taškai pavadinimuose bus pakeičiami tarpais."
+
+msgid "HELP_Resolve links and show real path"
+msgstr ""
+"Bus tikrinami nuorodų keliai.\n"
+"Ilgai rodant suktuką, ar esant NAS prisijungimo problemų, išjunkite šią parinktį. Kelias bus rodomas, kaip \"Išplėstinis aprašymas\"."
+
+msgid "HELP_Rewind finished movies before playing"
+msgstr "Jeu įrašas su žyme \"peržiūrėtas\" paleidžiamas iš naujo, jis bus rodomas iš pradžios."
+
+msgid "HELP_Scan for DVD structures"
+msgstr ""
+"Leidžia išjungti DVD struktūros nuskaitymą visuose kataloguose.\n"
+"Išjungus, išvengiama nepageidaujamų (tinklo) diskų pabudimų."
+
+msgid "HELP_Scan for bluray structures"
+msgstr ""
+"Leidžia išjungti Blu-ray diskų struktūros nuskaitymą.\n"
+"Išjungus, išvengiama nepageidaujamų (tinklo) diskų pabudimų."
+
+msgid "HELP_Scan for bluray structures in .iso"
+msgstr ""
+"Leidžia išjungti Blu-ray diskų struktūros nuskaitymą ISO faile.\n"
+"Išjungus, išvengiama nepageidaujamų (tinklo) diskų pabudimų."
+
+msgid "HELP_Scan for movie structures"
+msgstr ""
+"Leidžia išjungti filmų struktūros nuskaitymą kataloguose.\n"
+"Išjungus, išvengiama nepageidaujamų (tinklo) diskų pabudimų."
+
+msgid "HELP_Secondary playback audio language"
+msgstr "Antroji garso takelio kalba, kuri turėtų būti parenkama, jei būtų tokia galimybė."
+
+msgid "HELP_Secondary playback subtitle language"
+msgstr "Antroji subtitrų kalba, kuri turėtų būti parenkama, jei yra tokios kalbos subtitrai."
+
+msgid "HELP_Short watching percent"
+msgstr ""
+"Galite nurodyti, kiek procentų peržiūrėjus, įrašas bus skaitomas, kaip \"trumpai žiūrėtas\".\n"
+"Eigos juosta pasikeis į mėlyną."
+
+msgid "HELP_Show Bookmarks in movielist"
+msgstr "Filmų sąraše rodyti/nerodyti žymeles."
+
+msgid "HELP_Show Cover"
+msgstr "Jei viršelis prieinamas, tada jis bus parodytas."
+
+msgid "HELP_Show Cut-Nr if exist"
+msgstr ""
+"Jei įrašymo metu Enigma2 pasileis iš naujo, įrašymas bus tęsiamas automatiškai, failo pavadinimo gale pridedant skaitmenį.\n"
+"Kitaip sakant, čia įjungus, prie pavadinimo, nutraukus ir vėliau pratęsus įrašą, bus pridedamas skaičius."
+
+msgid "HELP_Show EMC in extensions menu"
+msgstr ""
+"Pasirinkite, rodyti, ar ne EMC paleidimą plėtinių meniu lange.\n"
+"Šis meniu paprastai atsidaro 'MĖLYNO' mygtuko paspaudimu."
+
+msgid "HELP_Show EMC in main menu"
+msgstr ""
+"Pasirinkite, rodyti, ar ne EMC paleidimą plėtinių meniu lange.\n"
+"Šis meniu paprastai atsidaro 'MĖLYNO' mygtuko paspaudimu."
+
+msgid "HELP_Show Latest Recordings directory"
+msgstr "\"Filmų namų\" kataloge (ir pakatalogiuose) rodyti virtualų \"Naujausių įrašų\" katalogą."
+
+msgid "HELP_Show Movie Format"
+msgstr "Prie failo pavadinimo bus rodomas ir jo plėtinys."
+
+msgid "HELP_Show Path if no extended description available"
+msgstr "Jei nėra išplėstinio aprašymo, vietoje jo bus rodomas kelias į failą."
+
+msgid "HELP_Show VLC directory"
+msgstr "Rodyti/nerodyti VLC katalogą (kai įdiegtas VLC išplėstinis įskiepis)."
+
+msgid "HELP_Show audio metadata"
+msgstr ""
+"Rodyti garso metaduomenis filmų sąraše.\n"
+"Kad jie būtų korektiškai atvaizduojami, reikės atlikti pakeitimus EMC aplinkos temoje."
+
+msgid "HELP_Show directories"
+msgstr "Filmų sąraše rodyti/nerodyti katalogus."
+
+msgid "HELP_Show directories information"
+msgstr "Rodyti informaciją apie įrašus, jų trukmę ir užimamą vietą diske."
+
+msgid "HELP_Show directories within movielist"
+msgstr "Filmų sąrašo viduje rodyti/nerodyti katalogus."
+
+msgid "HELP_Show directory size in skin"
+msgstr "Rodyti vartotojo aplinkos temoje numatytą dydį."
+
+msgid "HELP_Show experimental options"
+msgstr "Rodyti ir eksperimentines EMC parinktis."
+
+msgid "HELP_Show link arrow"
+msgstr "Prie simbolinių nuorodų rodyti krypties rodyklę."
+
+msgid "HELP_Show message if file added to playlist"
+msgstr "Rodyti ar nerodyti pranešimą, kai failas pridėtas į grojaraštį."
+
+msgid "HELP_Show movie icons"
+msgstr "Filmų sąraše bus rodomos filmo turinį atitinkančios piktogramos."
+
+msgid "HELP_Show movie picons"
+msgstr "Prie filmų pavadinimų bus rodomos filmų piktogramos."
+
+msgid "HELP_Show movie preview"
+msgstr "Užlaikius kursorių ties filmu, po nurodyto laiko rodomas PiG filmo fragmentas."
+
+msgid "HELP_Show movie progress"
+msgstr "Filmų sąraše prieš filmą bus rodoma eigos juosta, arba procentai. Įrašymo režimas identifikuojamas pagal piktogramos, arba šrifto spalvą (spalvos rodymą galima atjungti aplinkos temos nustatymuose)."
+
+msgid "HELP_Show plugin config in extensions menu"
+msgstr ""
+"Pasirinkite, rodyti, ar ne įskiepio konfigūravimą plėtinių meniu lange.\n"
+"Šis meniu paprastai atsidaro 'MĖLYNO' mygtuko paspaudimu."
+
+msgid "HELP_Show real length of running records"
+msgstr "Bus rodomas faktiškas vykdomų įrašų dydis."
+
+msgid "HELP_Show symlinks"
+msgstr "Rodyti/nerodyti simbolines nuorodas."
+
+msgid "HELP_Show trashcan directory"
+msgstr ""
+"Šiukšliadėžės katalogą rodyti EMC\n"
+"(kai šiukšliadėžė nerodoma, ją galite atsidaryti EMC paspaudę 'MENU')."
+
+msgid "HELP_Sort mode at startup"
+msgstr "Nustatykite, kokia tvarka bus surūšiuotas filmų sąrašas, paleidžiant EMC."
+
+msgid "HELP_Start EMC with"
+msgstr "Nustatykite EMC tiesioginio paleidimo mygtuką."
+
+msgid "HELP_Style for original EMC-skin (needs reopen)"
+msgstr "Įjungti originalią EMC vartotojo aplinkos temą (reikės EMC paleisti iš naujo)."
+
+msgid "HELP_Tertiary playback audio language"
+msgstr "Trečioji garso takelio kalba, kuri turėtų būti parenkama, jei yra tokia galimybė."
+
+msgid "HELP_Tertiary playback subtitle language"
+msgstr "Trečioji subtitrų kalba, kuri turėtų būti parenkama, jei yra tokios kalbos subtitrai."
+
+msgid "HELP_Text shown for initially unknown count and size"
+msgstr "Ši funkcija nustato, koks tekstas bus prie katalogų su iš anksto nežinomais failų skaičiumi ir jų dydžiu."
+
+msgid "HELP_Text shown for initially unknown directory size"
+msgstr "Ši funkcija nustato, koks tekstas bus prie katalogų su iš anksto nežinomu jų dydžiu."
+
+msgid "HELP_Text shown for initially unknown file count"
+msgstr "Ši funkcija nustato, koks tekstas bus prie katalogų su iš anksto nežinomu failų skaičiumi."
+
+msgid "HELP_Trashcan enable"
+msgstr ""
+"Čia galite įjungti-išjungti šiukšliadėžę.\n"
+"Išjungus, šalinamas turinys bus ištrintas iškart po užklausimo."
+
+msgid "HELP_Trashcan path"
+msgstr "Nurodykite kelią į šiukšliadėžę. Šalinami failai bus perkelti į šį katalogą, o ne trinami iš karto."
+
+msgid "HELP_Try to load extra title and more from .meta files"
+msgstr "Pavadinimus bus bandoma įkelti iš .meta failų. Nepavykus, pavadinimas bus imamas iš failo pavadinimo (jei aktyvūs ir .meta, ir .eit, pirmiausiai bus skaitoma iš .meta)."
+
+msgid "HELP_Try to load titles from .eit files"
+msgstr ""
+"Pavadinimus bus bandoma įkelti iš .eit failų. Jei nepavyks, pavadinimas bus imamas iš failo pavadinimo.\n"
+"(Jei aktyvūs ir .meta, ir .eit, pirmiausiai bus skaitoma iš .meta)"
+
+msgid "HELP_Try to load titles from .meta files"
+msgstr "Pavadinimus bus bandoma įkelti iš .meta failų. Nepavykus, pavadinimas bus imamas iš failo pavadinimo (jei aktyvūs ir .meta, ir .eit, pirmiausiai bus skaitoma iš .meta)."
+
+msgid "HELP_Use cache for files and directories"
+msgstr "Failams ir katalogams naudoti atminties podėlį."
+
+msgid "HELP_Use original EMC-skin (needs reopen)"
+msgstr "Įjungti originalią EMC vartotojo aplinkos temą (reikės EMC paleisti iš naujo)."
+
+msgid "HELP_Wake device when entering dir from emc-noscan.cfg"
+msgstr "Prižadinti prietaisą, kai atveriamas katalogas, esantis /etc/enigma2/emc-noscan.cfg."
+
+msgid "HELP_Yellow button function"
+msgstr "Nustatykite, kas vyks, paspaudus 'GELTONĄ' mygtuką."
+
+msgid "HELP_Zap to channel after record EOF"
+msgstr "Kai grotuvas pasiekia vykdomo įrašo pabaigą (greit persukant, ar peršokant), uždaryti EMC ir atverti įrašomą kanalą tiesioginės TV transliacijos lange."
+
+msgid "HELP_auto-start window begin"
+msgstr "Langų autopaleidimo pradžios laikas."
+
+msgid "HELP_auto-start window end"
+msgstr "Langų autopaleidimo pabaigos laikas."
+
+msgid "HELP_cfghide_enable"
+msgstr ""
+"Slėpti failus ir katalogus, įtrauktus į /etc/enigma2/emc-hide.cfg.\n"
+"Pakeitus šį nustatymą, būtina grafinę aplinką paleisti iš naujo!"
+
+msgid "HELP_cfgscan_suppress"
+msgstr ""
+"Kataloguose, išvardintuose /etc/enigma2/emc-noscan.cfg, stabdyti DVD struktūros nuskaitymą. Taip išvengiama nepageidaujamų (tinklo) diskų pabudimų.\n"
+"Pakeitus šį nustatymą, būtina grafinę aplinką paleisti iš naujo!"
+
+msgid "HELP_hide_MiniTV"
+msgstr "Nurodo situacijas, kada turi būti paslėptas mini TV ekranas"
+
+msgid "HELP_hide_MiniTV cover"
+msgstr "Nurodo situacijas, kada turi būti paslėptas mini TV ekranas."
+
+msgid "HELP_hide_MiniTV_method"
+msgstr ""
+"Pasirenkamas mažojo ekrano slėpimo būdas. Panaudotinas, pvz., kai Gigablue Quad iškraipo teisingą kraštinių santykį.\n"
+"Tiesioginė transliacija nebus nutraukta, bet mini TV alternatyviai sumažins pikselių skaičių."
+
+msgid "HELP_scan_linked"
+msgstr "Išjungti DVD struktūros nuskaitymą pagal pakatalogių simbolines nuorodas. Taip išvengiama nepageidaujamų (tinklo) diskų pabudimų."
+
+msgid "Hide Cover"
+msgstr "Slėpti viršelį"
+
+msgid "Hide MiniTV"
+msgstr "Nurodo situacijas, kada turi būti paslėptas mini TV ekranas"
+
+msgid "Hide MiniTV if Cover is shown"
+msgstr "Slėpti mini TV, jei rodomas viršelis"
+
+msgid "Hide configured entries"
+msgstr "Slėpti nustatymų įrašus"
+
+msgid "Hide movies being deleted"
+msgstr "Slėpti šalinamus filmus"
+
+msgid "Hide movies being moved"
+msgstr "Slėpti perkeliamus filmus"
+
+msgid "HomeEnd"
+msgstr "Sąrašo pabaiga"
+
+msgid "Horizontal alignment for count / size"
+msgstr "Horizontalus lygiavimas pagal skaičių / dydį"
+
+msgid "Horizontal alignment for date"
+msgstr "Horizontalus lygiavimas pagal datą"
+
+msgid "How many days files may remain in trashcan"
+msgstr "Kiek dienų failai išbus šiukšliadėžėje"
+
+msgid ""
+"How to copy files:\n"
+"Select some movies with the VIDEO-button, move the cursor on top of the destination directory and press yellow long."
+msgstr ""
+"Kaip kopijuoti failus:\n"
+"pasirinkite reikiamus filmus 'VIDEO' mygtuku, perkelkite žymeklį ant paskirties katalogo ir ilgai spauskite 'GELTONĄ' mygtuką."
+
+msgid ""
+"How to move files:\n"
+"Select some movies with the VIDEO-button, move the cursor on top of the destination directory and press yellow."
+msgstr ""
+"Kaip perkelti failus:\n"
+"pasirinkite reikiamus filmus 'VIDEO' mygtuku, perkelkite žymeklį ant paskirties katalogo ir paspauskite 'GELTONĄ' mygtuką."
+
+msgid "IMDBSearch / EMC-TMDBInfo / TMDBInfo / TMBDInfo / CSFDInfo"
+msgstr "IMDB paieška / EMC-TMDB info / TMDB info / TMBD info / CSFD info"
+
+msgid "IMDb"
+msgstr "IMDb"
+
+msgid "IMDb Search"
+msgstr "IMDb paieška"
+
+msgid "Icon shown for initially unknown count / size"
+msgstr "Piktograma, rodoma iš pradžių nežinomam skaičiui / dydžiui"
+
+msgid "Information"
+msgstr "Informacija"
+
+msgid "Italian"
+msgstr "Italų"
+
+msgid "Jump to first mark when playing movie"
+msgstr "Atkuriant filmą, pereiti į pirmą žymę"
+
+msgid "KEYMAPPING"
+msgstr "MYGTUKŲ IŠDĖSTYMAS"
+
+msgid "Key period value (50-900)"
+msgstr "Mygtuko nuspaudimo trukmė (50-900)"
+
+msgid "Key repeat value (250-900)"
+msgstr "Mygtuko kartojimo trukmė (250-900)"
+
+msgid "LANGUAGE"
+msgstr "KALBA"
+
+msgid "Language:"
+msgstr "Kalba:"
+
+msgid "Last played movie/playlist not available..."
+msgstr "Paskutinis žiūrėtas filmas/grojaraštis neprieinamas..."
+
+msgid "Latest"
+msgstr "Naujausi"
+
+msgid "Latest Recordings"
+msgstr "Naujausi įrašai"
+
+msgid "Latest Recordings directory limit"
+msgstr "Naujausių įrašų katalogo apribojimas"
+
+msgid "Latest Recordings directory use emc-noscan.cfg"
+msgstr "Naujausių įrašų katalogui naudoti emc-noscan.cfg"
+
+msgid "Leave Movie with Exit"
+msgstr "Užverti filmą 'EXIT' mygtuku"
+
+msgid "Light green"
+msgstr "šviesiai žalia"
+
+msgid "Light grey"
+msgstr "šviesiai pilka"
+
+msgid "Light orange"
+msgstr "šviesiai oranžinė"
+
+msgid "Light red"
+msgstr "šviesiai raudona"
+
+msgid "Limit file operations in dirs from emc-noscan.cfg"
+msgstr "Apriboti operacijas su failais emc-noscan.cfg kataloguose"
+
+msgid "Link"
+msgstr "Nuoroda"
+
+msgid "List entries to skip"
+msgstr "Įrašai, kuriuos praleisti"
+
+msgid "Listbox is skin able"
+msgstr "Sąrašo langas pritaikytinas temai"
+
+msgid "Load Genre:"
+msgstr "Žanras:"
+
+msgid "Load Production Countries:"
+msgstr "Šalys gamintojos:"
+
+msgid "Load Release Date:"
+msgstr "Išleidimo data:"
+
+msgid "Load Runtime:"
+msgstr "Trukmė:"
+
+msgid "Load Vote:"
+msgstr "Atsiliepimai:"
+
+msgid "Load default settings will overwrite all settings, really load them?"
+msgstr "Numatytieji nustatymai perrašys dabartinius, tikrai įkelti numatytuosius?"
+
+msgid "Locate rogue files and remove them? (permanently if no trashcan available, may take a minute or so)"
+msgstr "Nustatyti neteisingus failus ir pašalinti? (visiškai, jei negalima į šiukšliadėžę. Tai užtruks apie minutę)"
+
+msgid "Location:"
+msgstr "Vieta:"
+
+msgid "Long Blue button function"
+msgstr "'MĖLYNO' mygtuko ilgas paspaudimas"
+
+msgid "Long Red button function"
+msgstr "'RAUDONO' mygtuko ilgas paspaudimas"
+
+msgid "Long Yellow button function"
+msgstr "'GELTONO' mygtuko ilgas paspaudimas"
+
+msgid "LongInfo Button"
+msgstr "'INFO' mygtuko ilgas paspaudimas"
+
+msgid "MM/DD HH:MM"
+msgstr "MM/DD HH:MM"
+
+msgid "Manage Cover"
+msgstr "Tvarkyti viršelius"
+
+msgid "Mark all movies"
+msgstr "Pažymėti visus filmus"
+
+msgid "Mark new recordings with a star"
+msgstr "Naujus įrašus pažymėti žvaigždute"
+
+msgid "Method of hiding MiniTV"
+msgstr "mini TV slėpimo būdas"
+
+msgid "Minimum file cache limit (0=cache everything)"
+msgstr "Minimalus failų podėlio limitas (0 = viską į podėlį)"
+
+msgid "Minutes"
+msgstr "min."
+
+msgid "Month"
+msgstr "mėnuo"
+
+msgid "Months"
+msgstr "mėnesiai"
+
+msgid "Move Cover to:"
+msgstr "Perkelti viršelį į:"
+
+msgid "Move Directory:"
+msgstr "Perkelti katalogą:"
+
+msgid "Move File"
+msgstr "Perkelti failą"
+
+msgid "Move Files"
+msgstr "Perkelti failus"
+
+msgid "Move cursor down"
+msgstr "Traukti žymeklį žemyn"
+
+msgid "Move cursor page down"
+msgstr "Perkelti žymeklį per puslapį žemyn"
+
+msgid "Move cursor page up"
+msgstr "Perkelti žymeklį per puslapį aukštyn"
+
+msgid "Move cursor to the end / Move cursor x entries down / Switch Folders in Movie Home (down)"
+msgstr "Perkelti žymeklį į pabaigą / perkelti žymeklį X įrašų žemyn / Perkelti filmų namų katalogus (žemyn)"
+
+msgid "Move cursor to the top / Move cursor x entries up / Switch Folders in Movie Home (up)"
+msgstr "Perkelti žymeklį į pradžią / perkelti žymeklį X įrašų aukštyn / Perkelti filmų namų katalogus (aukštyn)"
+
+msgid "Move cursor up"
+msgstr "Traukti žymeklį aukštyn"
+
+msgid "Move file(s):"
+msgstr "Perkelti failą(us):"
+
+msgid "Move finished movies in trashcan"
+msgstr "Pabaigtus filmus perkelti į šiukšliadėžę"
+
+msgid "Movie Color"
+msgstr "filmo spalva"
+
+#, python-format
+msgid ""
+"Movie Cover downloaded successfully!\n"
+"\n"
+"Can not write Movie Information File\n"
+"\n"
+"%s"
+msgstr ""
+"Filmo viršelis parsiųstas sėkmingai!\n"
+"\n"
+"Nepavyksta įrašyti filmo informacijos failo\n"
+"\n"
+"%s"
+
+msgid "Movie Information Download Setup"
+msgstr "Filmo informacijos parsiuntimo sąranka"
+
+msgid "Movie Information Preview for:"
+msgstr "Filmo informacijos peržiūra:"
+
+msgid "Movie Information TMDb"
+msgstr "Filmo informacija TMDb"
+
+msgid "Movie Information and Cover downloaded successfully!"
+msgstr "Filmo informacija ir viršelis parsiųsti sėkmingai!"
+
+msgid "Movie Information downloaded successfully!"
+msgstr "Filmo informacija parsiųsta sėkmingai!"
+
+#, python-format
+msgid ""
+"Movie Information downloaded successfully!\n"
+"\n"
+"Can not write Movie Cover File\n"
+"\n"
+"%s"
+msgstr ""
+"Filmo informacija parsiųsta sėkmingai!\n"
+"\n"
+"Nepavyksta įrašyti filmo viršelio failo\n"
+"\n"
+"%s"
+
+msgid "Movie Selection Menu"
+msgstr "Filmo pasirinkimo meniu"
+
+msgid "Movie home"
+msgstr "Filmų katalogas"
+
+msgid "Movie home at start"
+msgstr "Filmų namų katalogas paleidžiant"
+
+msgid "Movie home home path"
+msgstr "Kelias į filmų namų katalogą"
+
+msgid "Movie information"
+msgstr "Filmo informacija"
+
+msgid "Movie preview delay in ms"
+msgstr "Filmo peržiūros atvėrimo delsa (ms)"
+
+msgid "Movies"
+msgstr "Filmai"
+
+msgid "Movietitle:"
+msgstr "Filmo pavadinimas:"
+
+msgid "N/A"
+msgstr "N/D"
+
+msgid "Next auto-start in "
+msgstr "Kitas autopaleidimas už "
+
+msgid "No"
+msgstr "ne"
+
+#, python-format
+msgid "No Cover: %s"
+msgstr "Nėra viršelio: %s"
+
+msgid "No DVD-Player found!"
+msgstr "DVD grotuvo nerasta!"
+
+msgid "No Movies found!"
+msgstr "Filmų nerasta!"
+
+msgid "No functionality set..."
+msgstr "Funkcionalumas nenustatytas..."
+
+msgid "No limit"
+msgstr "neribojant"
+
+# No overwrite?
+msgid "No override"
+msgstr "Neperrašyti"
+
+msgid "No resume below 10 seconds"
+msgstr "Mažiau 10 sek. nepratęsti"
+
+msgid "No rogue files found."
+msgstr "Neteisingų failų nėra."
+
+msgid "No script operation for VLC streams."
+msgstr "Jokių scenarijų veiksmų VLC srautams."
+
+msgid "Not all timers have been stopped. Modify them with the timer editor."
+msgstr "Sustabdyt ne visi laikmačiai. Redaguokite juos laikmačių redaktoriumi."
+
+msgid "Nothing was found !"
+msgstr "Nieko nerasta!"
+
+msgid "OSError - please reload list (EMC menu)"
+msgstr "OS klaida - įkelkite sąrašą iš naujo (per EMC meniu)"
+
+msgid "OTHER"
+msgstr "KITA"
+
+msgid "Off"
+msgstr "išjungta"
+
+msgid "Open"
+msgstr "Atverti"
+
+msgid "Open E2 Bookmark path"
+msgstr "Atidaryti E2 žymelės kelią"
+
+msgid "Open E2 bookmarks"
+msgstr "Atverti E2 žymeles"
+
+msgid "Open EMC Bookmark path"
+msgstr "Atidaryti EMC žymelių kelią"
+
+msgid "Open Timer List"
+msgstr "Atidaryti laikmačių sąrašą"
+
+msgid "Open menu"
+msgstr "Atverti meniu"
+
+msgid "Orange"
+msgstr "oranžinė"
+
+msgid "Own Path to movie picons"
+msgstr "Pasirinktinis kelias į filmų piktogramas"
+
+msgid "Path to movie picons"
+msgstr "Kelias į filmų piktogramas"
+
+msgid "Percent (%)"
+msgstr "procentai (%)"
+
+msgid "Performance"
+msgstr "Našumas"
+
+msgid "Permanently delete all files in trashcan?"
+msgstr "Negrįžtamai pašalinti visus įrašus iš šiukšliadėžės?"
+
+msgid "Play All"
+msgstr "Atkurti viską"
+
+msgid "Play All starting"
+msgstr "Pradedami rodyti visi filmai"
+
+msgid "Play current Playlist"
+msgstr "Paleisti dabartinį grojaraštį"
+
+msgid "Play last"
+msgstr "Rodyti paskutinį žiūrėtą"
+
+msgid "Play last movie starting"
+msgstr "Pradedamas rodyti paskutinis filmas"
+
+msgid "Play random current Playlist"
+msgstr "Paleisti atsitiktinį dabartinį grojaraštį"
+
+msgid "Play selected movie(s)"
+msgstr "Atkurti pasirinktus filmus"
+
+msgid "Playlist Options"
+msgstr "Grojaraščio parinktys"
+
+msgid "Playlist Setup"
+msgstr "Grojaraščio sąranka"
+
+msgid "Playlist open"
+msgstr "Atverti grojaraštį"
+
+msgid ""
+"Playlist with same name exists!\n"
+"\n"
+"Try to save the Playlist with another name?"
+msgstr ""
+"Grojaraštis tokiu pavadinimu jau yra!\n"
+"\n"
+"Išsaugoti grojaraštį kitu pavadinimu?"
+
+msgid "Portuguese"
+msgstr "Portugalų"
+
+msgid "Position movie picons"
+msgstr "Filmų piktogramos vieta"
+
+msgid "Preferred EPG language"
+msgstr "Pageidaujama EPG kalba"
+
+msgid "Preferred cover resolution (if possible):"
+msgstr "Pageidautina viršelių rezoliucija (jei galima):"
+
+msgid "Press green button to start search"
+msgstr "Paieškai pradėti, spauskite 'ŽALIĄ' mygtuką"
+
+msgid "Primary playback audio language"
+msgstr "Pagrindinė garso takelio kalba"
+
+msgid "Primary playback subtitle language"
+msgstr "Pagrindinė subtitrų kalba"
+
+msgid "Production Countries:"
+msgstr "Šalys gamintojos:"
+
+msgid "Progress sort"
+msgstr "pagal progresą"
+
+msgid "Progress sort ascending (P+)"
+msgstr "pagal progresą didėjančiai (P+)"
+
+msgid "Progress sort descending (P-)"
+msgstr "pagal progresą mažėjančiai (P-)"
+
+msgid "ProgressBar"
+msgstr "eigos juosta"
+
+msgid "REC"
+msgstr ""
+
+msgid "Radio-button"
+msgstr "'RADIO' mygtukas"
+
+msgid "Reading directory..."
+msgstr "Katalogas skaitomas..."
+
+msgid "Really close without saving settings?"
+msgstr "Ar tikrai uždaryti langą neišsaugant nuostatų?"
+
+msgid "Reboot"
+msgstr "Paleisti iš naujo"
+
+msgid "Red"
+msgstr "raudona"
+
+msgid "Red button function"
+msgstr "'RAUDONO' mygtuko funkcija"
+
+msgid "Release Date:"
+msgstr "Išleidimo data:"
+
+msgid "Reload current directory"
+msgstr "Įkelti šį katalogą iš naujo"
+
+msgid "Reload movie file list"
+msgstr "Filmų failų sąrašą įkelti iš naujo"
+
+msgid "Remove all cut file marker permanently?"
+msgstr "Galutinai pašalinti visus kirpimo žymeklius?"
+
+msgid "Remove all marker permanently?"
+msgstr "Galutinai pašalinti visus žymeklius?"
+
+msgid "Remove cut list marker"
+msgstr "Pašalinti iškirpimo žymeklį"
+
+msgid "Remove directory from E2 Bookmarks"
+msgstr "Pašalinti katalogą iš E2 žymelių"
+
+msgid "Remove directory from EMC Bookmarks"
+msgstr "Pašalinti katalogą iš EMC žymelių"
+
+msgid "Remove permanent sort"
+msgstr "Pašalinti pastovų rūšiavimą"
+
+msgid "Remove permanent sort from parent"
+msgstr "Pašalinti pastovų rūšiavimą nuo pirminio katalogo"
+
+msgid "Remove rogue files"
+msgstr "Pašalinti neteisingus failus"
+
+msgid "Remove selected E2 Bookmark"
+msgstr "Pašalinti pasirinktą iš E2 žymelių"
+
+msgid "Remove selected EMC Bookmark"
+msgstr "Pašalinti pasirinktą iš EMC žymelių"
+
+msgid "Remove service selection"
+msgstr "Pašalinti kanalų pasirinkimą"
+
+msgid "Rename selected movie(s)"
+msgstr "Pervadinti pasirinktus filmus"
+
+msgid "Replace special chars in title"
+msgstr "Pakeisti specialius simbolius pavadinime"
+
+msgid "Reset marker from selected movie(s)"
+msgstr "Išvalyti žymeklius pasirinktuose filmuose"
+
+msgid "Resolve links and show real path"
+msgstr "Atsekti nuorodas ir rodyti tikrąjį kelią"
+
+#, python-format
+msgid "Resume position at %s"
+msgstr "Tęsti nuo %s pozicijos"
+
+msgid "Resuming playback"
+msgstr "Atkūrimas tęsiamas"
+
+msgid "Rewind finished movies before playing"
+msgstr "Atsukti baigtus filmus prieš juos rodant"
+
+msgid "Runtime:"
+msgstr "Darbo trukmė:"
+
+msgid "SINGLE COVER-SEARCH"
+msgstr ""
+
+msgid "SKIN-SETTINGS"
+msgstr "IŠVAIZDOS NUSTATYMAI"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "Save Cover"
+msgstr "Išsaugoti viršelį"
+
+msgid "Save current Playlist"
+msgstr "Išsaugoti šį grojaraštį"
+
+msgid "Save description to movie.txt file:"
+msgstr "Išsaugoti aprašymą movie.txt faile:"
+
+msgid "Scan for DVD structures"
+msgstr "Nuskaityti DVD struktūrą"
+
+msgid "Scan for bluray structures"
+msgstr "Nuskaityti Blu-ray struktūrą"
+
+msgid "Scan for bluray structures in .iso"
+msgstr "Nuskaityti Blu-ray struktūrą ISO faile"
+
+msgid "Scan for movie structures"
+msgstr "Nuskaityti filmo struktūrą"
+
+msgid "Scan linked folders"
+msgstr "Nuskaityti pakatalogių nuorodas"
+
+msgid "Search"
+msgstr "Paieška"
+
+#, fuzzy
+msgid "Search Results per Search Site (without counting cover range):"
+msgstr " (neskaitant viršelių grupės)"
+
+msgid "Search Results per Search Site:"
+msgstr "Paieškos rezultatai svetainėje:"
+
+msgid "Search filter for matching existing terms in the title:"
+msgstr "Terminų pavadinime atitikimo paieškos filtras:"
+
+msgid "Search results for:"
+msgstr "Ieškoti rezultatų:"
+
+#, python-format
+msgid "Searching for %s"
+msgstr "Ieškoma  %s"
+
+msgid "Searching..."
+msgstr "Ieškoma..."
+
+msgid "Secondary playback audio language"
+msgstr "Antroji garso takelio kalba"
+
+msgid "Secondary playback subtitle language"
+msgstr "Antroji subtitrų kalba"
+
+msgid "Seek backward"
+msgstr "Ieškoti atgal"
+
+msgid "Seek forward"
+msgstr "Ieškoti pirmyn"
+
+msgid "Select Location"
+msgstr "Pasirinkite vietą"
+
+msgid "Set path to save the folder Cover:"
+msgstr "Nurodykite kelią į katalogą viršeliams:"
+
+msgid "Set permanent sort"
+msgstr "Nustatyti pastovų rūšiavimą"
+
+msgid "Settings have been Saved."
+msgstr "Nustatymai išsaugoti."
+
+msgid "Setup"
+msgstr "Sąranka"
+
+msgid "Setup open"
+msgstr "Atverti sąranką"
+
+msgid "Short watching percent"
+msgstr "Trumpai žiūrėtas, kai peržiūrėta %"
+
+msgid "Show Bookmarks in movielist"
+msgstr "Filmų sąraše rodyti žymeles"
+
+msgid "Show Cover"
+msgstr "Rodyti viršelį"
+
+msgid "Show Cut-Nr if exist"
+msgstr "Jei yra, rodyti kirpimo Nr."
+
+msgid "Show EMC in extensions menu"
+msgstr "Rodyti EMC plėtinių meniu lange"
+
+msgid "Show EMC in main menu"
+msgstr "Rodyti EMC pagrindiniame meniu"
+
+msgid "Show Latest Recordings directory"
+msgstr "Rodyti naujausių įrašų katalogą"
+
+msgid "Show Movie Format"
+msgstr "Rodyti filmo formatą"
+
+msgid "Show Path if no extended description available"
+msgstr "Jei nėra išplėstinio aprašymo, rodyti kelią"
+
+msgid "Show VLC directory"
+msgstr "Rodyti VLC katalogą"
+
+msgid "Show audio metadata"
+msgstr "Rodyti garso metaduomenis (reikės pakeitimų temoje)"
+
+msgid "Show current Playlist"
+msgstr "Rodyti dabartinį grojaraštį"
+
+msgid "Show directories"
+msgstr "Rodyti katalogus filmų sąraše"
+
+msgid "Show directories information"
+msgstr "Rodyti katalogų informaciją"
+
+msgid "Show directories within movielist"
+msgstr "Rodyti katalogus sąrašo viduje"
+
+msgid "Show directory size in skin"
+msgstr "Temoje rodyti katalogo dydį"
+
+msgid "Show event info"
+msgstr "Rodyti informaciją apie įvykį"
+
+msgid "Show experimental options"
+msgstr "Rodyti eksperimentines parinktis"
+
+msgid "Show fallback cover"
+msgstr "Rodyti fono viršelį"
+
+msgid "Show info at the bottom"
+msgstr "Rodyti informaciją apačioje"
+
+msgid "Show info at the bottom (with MiniTV)"
+msgstr "Rodyti informaciją apačioje (mini TV)"
+
+msgid "Show info on the left"
+msgstr "Rodyti informaciją kairėje"
+
+msgid "Show info on the left (with MiniTV)"
+msgstr "Rodyti informaciją kairėje (mini TV)"
+
+msgid "Show link arrow"
+msgstr "Rodyti krypties rodyklę"
+
+msgid "Show message if file added to playlist"
+msgstr "Rodyti žinutę, jei failas pridėtas į grojaraštį"
+
+msgid "Show movie icons"
+msgstr "Rodyti filmų turinio piktogramas"
+
+msgid "Show movie picons"
+msgstr "Rodyti filmų piktogramas"
+
+msgid "Show movie preview"
+msgstr "Rodyti filmo peržiūrą"
+
+msgid "Show movie progress"
+msgstr "Rodyti filmo eigą"
+
+msgid "Show plugin config in extensions menu"
+msgstr "Rodyti įskiepio konfigūravimą plėtinių meniu"
+
+msgid "Show real length of running records"
+msgstr "Rodyti vykdomų įrašų tikrąjį dydį"
+
+msgid "Show symlinks"
+msgstr "Rodyti nuorodas"
+
+msgid "Show trashcan directory"
+msgstr "Rodyti šiukšliadėžės katalogą"
+
+msgid "Show trashcan information"
+msgstr "Rodyti šiukšliadėžės informaciją"
+
+msgid "Shuffle All"
+msgstr "Sumaišyti"
+
+msgid "Shuffle All starting"
+msgstr "Sumaišomi visi"
+
+msgid "Single Search:"
+msgstr "Atskira paieška:"
+
+msgid "Single search"
+msgstr "Atskira paieška"
+
+msgid "Skip"
+msgstr "Praleisti"
+
+msgid ""
+"Skipping movie, the file does not exist.\n"
+"\n"
+msgstr ""
+"Filmas praleidžiamas, tokio failo nėra.\n"
+"\n"
+
+msgid "Some settings changes require GUI restart to take effect."
+msgstr "Kad įsigaliotų parametrų pakeitimai, reikia grafinę aplinką paleisti iš naujo."
+
+msgid "Sort Mode"
+msgstr "Rūšiavimo būdas"
+
+msgid "Sort Options"
+msgstr "Rūšiavimo parinktys"
+
+msgid "Sort Order"
+msgstr "Rūšiavimo tvarka"
+
+msgid "Spanish"
+msgstr "Ispanų"
+
+msgid "Standby"
+msgstr "Budintis režimas"
+
+msgid "Start / end multiselection"
+msgstr "Pradėti / baigti multipasirinkimą"
+
+msgid "Start EMC with"
+msgstr "EMC atverti su"
+
+msgid "Start movie preview before last position"
+msgstr "Pradėti filmo peržiūrą prieš paskutinę poziciją (sek.)"
+
+msgid "Stop ongoing recording?\n"
+msgstr "Sustabdyti įrašymą?\n"
+
+msgid "Stop playback"
+msgstr "Stabdyti atkūrimą"
+
+msgid "Style for original EMC-skin (needs reopen)"
+msgstr "Naudoti originalią EMC aplinkos temą (reikės paleisti iš naujo)"
+
+msgid "Suppress scan in selected folders"
+msgstr "Kataloguose iš emc-noscan.cfg išjungti paiešką"
+
+msgid "TMBD Info"
+msgstr "TMBD informacija"
+
+msgid "TMDB Info"
+msgstr "TMDb informacija"
+
+msgid "TMDb"
+msgstr "TMDb"
+
+msgid "TRASHCAN"
+msgstr "ŠIUKŠLIADĖŽĖ"
+
+msgid "TV Shows"
+msgstr "Pramoginės TV laidos"
+
+msgid "TV-button"
+msgstr "'TV' mygtukas"
+
+msgid "Tertiary playback audio language"
+msgstr "Trečioji garso takelio kalba"
+
+msgid "Tertiary playback subtitle language"
+msgstr "Trečioji subtitrų kalba"
+
+msgid "Text shown for initially unknown count and size"
+msgstr "Tekstas, rodomas iš pradžių nežinomam skaičiui ir dydžiui"
+
+msgid "Text shown for initially unknown directory size"
+msgstr "Tekstas, rodomas iš pradžių nežinomam katalogo dydžiui"
+
+msgid "Text shown for initially unknown file count"
+msgstr "Tekstas, rodomas iš pradžių nežinomam failų skaičiui"
+
+#, python-format
+msgid "The directory %s is already locked. Do you want to unlock it and all its subfolders?"
+msgstr "Katalogas %s jau užrakintas. Ar norite atrakinti jį kartu su visais pakatalogiais?"
+
+#, python-format
+msgid ""
+"The following files are used for other entrys in List !\n"
+"\n"
+"Also delete these files?\n"
+"\n"
+"%s"
+msgstr ""
+"Šie failai naudojami kitiems sąrašo įrašams!\n"
+"\n"
+"Vis tiek ištrinti šiuos failus?\n"
+"\n"
+"%s"
+
+msgid "This element belongs to a locked folder and cannot be deleted!"
+msgstr "Šis elementas yra užrakintame kataloge ir negali būti pašalintas!"
+
+msgid "This folder is locked or contains a locked subfolder, unlock it first!"
+msgstr "Šis katalogas yra užrakintas, arba jame yra užrakintas pakatalogis. Pirmiausiai atrakinkite!"
+
+msgid "Title"
+msgstr "Pavadinimas"
+
+msgid "Toggle Cover Button"
+msgstr "Viršelių perjungimo mygtukas"
+
+msgid "Toggle service selection"
+msgstr "Sukeisti kanalų pasirinkimą"
+
+msgid "Toggle viewed / not viewed"
+msgstr "Sukeisti  žiūrėtus / nežiūrėtus"
+
+msgid "Total"
+msgstr "Iš viso"
+
+msgid "Trashcan"
+msgstr "Šiukšliadėžė"
+
+msgid "Trashcan create failed. Check mounts and permissions."
+msgstr "Šiukšliadėžės sukurti nepavyko. Tikrinkite pajungimus ir leidimų lygį."
+
+msgid "Trashcan enable"
+msgstr "Įjungti šiukšliadėžę"
+
+msgid "Trashcan path"
+msgstr "Kelias į  šiukšliadėžę"
+
+msgid "Try to load extra title and more from .meta files"
+msgstr "Bandyti įkelti pavadinimus iš .meta failų"
+
+msgid "Try to load titles from .eit files"
+msgstr "Bandyti įkelti pavadinimus iš .eit failų"
+
+msgid "Try to load titles from .meta files"
+msgstr "Bandyti įkelti pavadinimus iš .meta failų"
+
+msgid "UNKNOWN"
+msgstr "NEŽINOMA"
+
+msgid "Up"
+msgstr "Aukštyn"
+
+msgid "Use cache for files and directories"
+msgstr "Failams ir katalogams naudoti podėlį"
+
+msgid "Use original EMC-skin (needs reopen)"
+msgstr "Naudoti originalią EMC aplinkos temą (reikės paleisti iš naujo)"
+
+msgid "VLC"
+msgstr "VLC"
+
+msgid "VLC Server not reachable"
+msgstr "VLC serveris nepasiekiamas"
+
+msgid "VLC-Dir"
+msgstr "VLC katalogas"
+
+msgid "VLC-Server"
+msgstr "VLC serveris"
+
+msgid "Video-button"
+msgstr "'VIDEO' mygtukas"
+
+msgid "Vote:"
+msgstr "Balsuoti:"
+
+msgid "WD DD.MM. HH:MM"
+msgstr "MM.DD HH:MM WD"
+
+msgid "WD DD.MM.YYYY"
+msgstr "YYYY.MM.DD WD"
+
+msgid "WD DD.MM.YYYY HH:MM"
+msgstr "YYYY.MM.DD HH:MM WD"
+
+msgid "WD MM/DD HH:MM"
+msgstr "MM/DD HH:MM WD"
+
+msgid "WD YYYY/MM/DD"
+msgstr "YYYY/MM/DD WD"
+
+msgid "WD YYYY/MM/DD HH:MM"
+msgstr "YYYY/MM/DD HH:MM WD "
+
+msgid "Wake device when entering dir from emc-noscan.cfg"
+msgstr "Prižadinti, atveriant katalogą iš emc-noscan.cfg"
+
+msgid "Week"
+msgstr "savaitė"
+
+msgid "Weeks"
+msgstr "savaitės"
+
+msgid "White"
+msgstr "balta"
+
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+msgid "YYYY/MM/DD HH:MM"
+msgstr "YYYY/MM/DD HH:MM"
+
+msgid "Yellow button function"
+msgstr "'GELTONO' mygtuko funkcija"
+
+msgid "Yes"
+msgstr "taip"
+
+msgid "Yes, everything"
+msgstr "Taip, viskam"
+
+msgid "Yes, only extra title"
+msgstr "Taip, tik papildomą pavadinimą"
+
+msgid "Yes, with Message"
+msgstr "taip, su pranešimu"
+
+msgid "Yes, without Message"
+msgstr "taip, be pranešimo"
+
+msgid ""
+"Your Box is about to go into DeepStandby, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Aparatas ruošiasi išsijungti, tęsti?\n"
+"Pasirinkite, kad valandą nelauktų"
+
+msgid ""
+"Your Box is about to go into E2 Restart, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Aparatas ruošiasi grafinę aplinką paleisti iš naujo, tęsti?\n"
+"Pasirinkite, kad valandą nelauktų"
+
+msgid ""
+"Your Box is about to go into Reboot, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Aparatas ruošiasi pasileisti iš naujo, tęsti?\n"
+"Pasirinkite, kad valandą nelauktų"
+
+msgid ""
+"Your Box is about to go into Standby, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Aparatas ruošiasi pereiti į budėjimo būseną, tęsti?\n"
+"Pasirinkite, kad valandą nelauktų"
+
+msgid "Zap to channel after record EOF"
+msgstr "Priėjus įrašo pabaigą, įjungti TV kanalą"
+
+msgid "after reload list"
+msgstr "įkėlus sąrašą iš naujo"
+
+msgid "after standby"
+msgstr "po budėjimo režimo"
+
+msgid "all"
+msgstr "visi"
+
+msgid "always"
+msgstr "visada"
+
+msgid "always hide"
+msgstr "nerodyti niekada"
+
+msgid "auto-start is currently not active."
+msgstr "autopaleidimas šiuo metu neįjungtas."
+
+msgid "auto-start window begin"
+msgstr "autopaleidimo pradžios langas"
+
+msgid "auto-start window end"
+msgstr "autopaleidimo pabaigos langas"
+
+msgid "center"
+msgstr "centre"
+
+msgid "configuration"
+msgstr "konfigūracija"
+
+msgid "covers in"
+msgstr "viršeliai"
+
+msgid "daily auto-start"
+msgstr "Kasdienis autopaleidimas"
+
+msgid "down"
+msgstr "žemyn"
+
+msgid "every single one"
+msgstr "kiekvienas atskiras"
+
+msgid "forward to the next chapter"
+msgstr "pereiti į kitą skyrių"
+
+msgid "found"
+msgstr "rasta"
+
+msgid "from"
+msgstr "iš"
+
+msgid "hide live TV"
+msgstr "nerodyti tiesioginės TV"
+
+msgid "hide live TV and timeshift"
+msgstr "nerodyti tiesioginės TV ir laiko poslinkio"
+
+msgid "hide playback"
+msgstr "nerodyti įrašų atkūrimo"
+
+msgid "imdb.com"
+msgstr "imdb.com"
+
+msgid "jump back to the previous title"
+msgstr "peršokti į ankstesnį pavadinimą"
+
+msgid "jump forward to the next title"
+msgstr "peršokti į sekantį pavadinimą"
+
+msgid "jump to next marked position"
+msgstr "peršokti į sekančią pažymėtą poziciją"
+
+msgid "jump to previous marked position"
+msgstr "peršokti į ankstesnę pažymėtą poziciją"
+
+msgid "left"
+msgstr "kairėje"
+
+msgid "left from Name"
+msgstr "pavadinimo kairėje"
+
+msgid "movie manipulation list"
+msgstr "filmų manipuliavimo sąrašas"
+
+msgid "movies in"
+msgstr "filmai"
+
+msgid "never hide"
+msgstr "visada rodyti"
+
+msgid "no limit"
+msgstr "neribojant"
+
+msgid "off"
+msgstr "išjungti"
+
+msgid "only initially"
+msgstr "tik iš pradžių"
+
+msgid "overall"
+msgstr "visuotinis"
+
+msgid "rewind to the previous chapter"
+msgstr "atsukti į ankstesnį skyrių"
+
+msgid "right"
+msgstr "dešinėje"
+
+msgid "right from Name"
+msgstr "pavadinimo dešinėje"
+
+msgid "sec"
+msgstr "sek."
+
+msgid "sec found. Avg. Speed:"
+msgstr "sek. rasta. Vid. greitis:"
+
+msgid "sec."
+msgstr "sek."
+
+msgid "show DVD main menu"
+msgstr "rodyti pagrindinį DVD meniu"
+
+msgid "single pixel TV, muted"
+msgstr "vieno pikselio TV, be garso"
+
+msgid "standard cover"
+msgstr "paprastas viršelis"
+
+msgid "stop service"
+msgstr "išjungti kanalą"
+
+msgid "switch to the next angle"
+msgstr "perjungti į kitą kampą"
+
+msgid "switch to the next audio track"
+msgstr "perjungti į kitą garso takelį"
+
+msgid "switch to the next subtitle language"
+msgstr "perjungti į kitą subtitrų kalbą"
+
+msgid "themoviedb.org"
+msgstr "themoviedb.org"
+
+msgid "themoviedb.org + thetvdb.com"
+msgstr "themoviedb.org + thetvdb.com"
+
+msgid "thetvdb cover number (standard cover):"
+msgstr "thetvdb viršelių skaičius (įprastiniai viršeliai):"
+
+msgid "thetvdb cover range per title:"
+msgstr "thetvdb viršelių apimtis kūriniui:"
+
+msgid "thetvdb.com"
+msgstr "thetvdb.com"
+
+msgid "three contiguous"
+msgstr "trys gretutiniai"
+
+msgid "toggle a cut mark at the current position"
+msgstr "perkelti iškirpimo žymeklį į šią poziciją"
+
+msgid "trashcan"
+msgstr "šiukšliadėžė"
+
+msgid "two contiguous"
+msgstr "du gretutiniai"
+
+msgid "type 1 - OSD + black (#00000000)"
+msgstr "tipas 1 - OSD + juoda (#00000000)"
+
+msgid "type 2 - transparent + white (#FFFFFFFF)"
+msgstr "tipas 2 - skaidri + balta (#FFFFFFFF)"
+
+msgid "type 3 - OSD + black (#00FFFFFF)"
+msgstr "tipas 3 - OSD + juoda (#00FFFFFF)"
+
+msgid "type 4 - transparent + black (#FF000000)"
+msgstr "tipas 4 - skaidri + juoda (#FF000000)"
+
+msgid "unknown"
+msgstr "nežinoma"
+
+msgid "up/down"
+msgstr "aukštyn/žemyn"
+
+msgid "view extensions..."
+msgstr "rodyti plėtinius..."
+
+msgid "x"
+msgstr ""

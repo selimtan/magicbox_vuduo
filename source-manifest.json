@@ -1,0 +1,792 @@
+{
+  "enigma2": "65dc39356b2863915745176a16a562ec1aa366b4",
+  "oe_core": "0e452344349e700c4a2a7180d61941ce75c5541e",
+  "enhancedmoviecenter": "23dc058965d4743b1d884a6dae63054c047ef2d4",
+  "servicemp3": "bdb5a908276b69a913ca50cb8c274d1b5977ad82",
+  "patch_sha256": "8ed43a818a4858c0a3aa0c70c47833870e135b1de6dc8026454bf16144ad49b8",
+  "files": [
+    {
+      "path": "meta-magicbox/classes/magicbox-plugin-languages.bbclass",
+      "bytes": 1496,
+      "sha256": "9ad7c017729d5b422f2a0217bcc0756cfa5997ca3f75f5ed839c98980913f774"
+    },
+    {
+      "path": "meta-magicbox/conf/layer.conf",
+      "bytes": 297,
+      "sha256": "67a710742dbb97815ba9d4ce9e82e0d15a83aafc98818a4c621a3186619b609f"
+    },
+    {
+      "path": "meta-magicbox/recipes-core/glibc/glibc-locale_%.bbappend",
+      "bytes": 205,
+      "sha256": "ac3512ff736f2738357b808f460db0d6cb9d7d53096d0b9206e84d8a0db832d6"
+    },
+    {
+      "path": "meta-magicbox/recipes-magicbox/bootlogo/files/bootlogo",
+      "bytes": 128,
+      "sha256": "dd64eb028e008c309325a44ffc3bab2c7edd42e93b4bb0e60d3a7325115f86d3"
+    },
+    {
+      "path": "meta-magicbox/recipes-magicbox/bootlogo/files/bootlogo.mvi",
+      "bytes": 247587,
+      "sha256": "372e491c11f7e68a9c4a4ac57e711c83cca270ac558664ca1ffaee2002409bfc"
+    },
+    {
+      "path": "meta-magicbox/recipes-magicbox/bootlogo/magicbox-bootlogo.bb",
+      "bytes": 672,
+      "sha256": "63915f83ca841ec50fb6a184fb52e87ae329cd743df80a2b5eea4927ddba8c27"
+    },
+    {
+      "path": "meta-magicbox/recipes-magicbox/config/files/bouquets.tv",
+      "bytes": 105,
+      "sha256": "4f63a07d041411081edb0817a728b96cdd6e1e4ce524fa86483801d89db27d87"
+    },
+    {
+      "path": "meta-magicbox/recipes-magicbox/config/files/lamedb",
+      "bytes": 14090,
+      "sha256": "5e858a243b9fbf7f18c193ffb76be4d34be416d9680d70575e6cfd9ff7e98e99"
+    },
+    {
+      "path": "meta-magicbox/recipes-magicbox/config/files/magicbox-updates.crt",
+      "bytes": 1505,
+      "sha256": "97eff6654586bfdf3f424045d6233bf6b4b70a830647aaf1f8416b397281df26"
+    },
+    {
+      "path": "meta-magicbox/recipes-magicbox/config/files/settings",
+      "bytes": 501,
+      "sha256": "1b28169318842024606ee72c914abd5d1846c8502850645b351280f54fb5a8fd"
+    },
+    {
+      "path": "meta-magicbox/recipes-magicbox/config/files/userbouquet.magicbox.tv",
+      "bytes": 15738,
+      "sha256": "98102a8d0b4d0dc89a13e8bdc0cd5009bcf6408663b6f4fc29a2f353c7d0440d"
+    },
+    {
+      "path": "meta-magicbox/recipes-magicbox/config/magicbox-config.bb",
+      "bytes": 2011,
+      "sha256": "2bfaa1373e43bb00dbeed7975e1a328e4035e190e2dbb3c0f86c139964d8a18f"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/e2openplugins/enigma2-plugin-extensions-openwebif.bbappend",
+      "bytes": 59,
+      "sha256": "34c41a9ecb5bb056aab5f678d7ab29403db8b267f6379ab6319bfba7e3f8f5da"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/enigma-info.bbappend",
+      "bytes": 964,
+      "sha256": "b43edc175ec92dae1cec8fbdfbc07019e985b871e234e3bd14bac2a9ae13cc64"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/enigma2-plugin-systemplugins-servicemp3.bbappend",
+      "bytes": 250,
+      "sha256": "fee6db4bbc7e89e64c6005f1d3cf6851cf9ec463239114c60fd24b6f14a22bdd"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/enigma2.bbappend",
+      "bytes": 1158,
+      "sha256": "85ecadde4e7c7789e59a4c257d372b6e67c3cc9370973ff38dc0690bdc7102c7"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/background-1920x1080.jpg",
+      "bytes": 876690,
+      "sha256": "6eeaea455ca8789453ced759e380b2380aef94d7a4df0918d35360b5b638bc7e"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/background.jpg",
+      "bytes": 388322,
+      "sha256": "cec7ac10e5dc477bb6ba5c3683eee00117670796640d42cd6c98c74bb1e4418d"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/mute.svg",
+      "bytes": 423,
+      "sha256": "35dcba5ab3f094b040c38b79cabdf84508500f2128124dd9e18b1f3112b88103"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/OFL.txt",
+      "bytes": 4393,
+      "sha256": "0e4cc6ece88573545be2ed25835363662a6182ba4a4c1b5c8feda52add30e8a6"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/06ed54beb778c425.png",
+      "bytes": 3971,
+      "sha256": "616dde58c51ebf8eea49754e2a40e18a79e2760a4d792278841771206363b462"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/0cb1ff6c6469a855.png",
+      "bytes": 5517,
+      "sha256": "bc833e5456375019017b5ec9a6e665c27b2750fb38d6e028fb2061c4219011aa"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/0d246ca292fcfe07.png",
+      "bytes": 966,
+      "sha256": "5b7da00e3d5827877f4110fbb5c6af9bd2c4ae343177e4b0811f7a497c7525a1"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/10bd3b9aa9aa2a47.png",
+      "bytes": 4559,
+      "sha256": "c795105678dd0dd99444238874a25d5f35cc69c159a05900f73024b0af05bd74"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/1120058eb2137a15.png",
+      "bytes": 1708,
+      "sha256": "04521c8fa11e764b513f84436906e370436b2e31d7dff49d1175fb6ef07d3f31"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/12c5a0519ab2d3c5.png",
+      "bytes": 4264,
+      "sha256": "4bfe5dc289c71307cb99ee290de9c799d9434caeb68b71639f228e6dabf5602a"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/13ad4ae986e7ff03.png",
+      "bytes": 1588,
+      "sha256": "ef14b8b7a7891f58d48f9dad8053dd5d5192ff5d72ec64239f55a0c2a68bea2c"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/16e6e7757b63995f.png",
+      "bytes": 1015,
+      "sha256": "85f6d7ccf757f6296adc028ccc9f1730650c17b2a8e854804fe9052ca3537d7f"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/16f9e730f3c4f31d.png",
+      "bytes": 3075,
+      "sha256": "2893c932888573c9469e49f222ad1037b0d7a0c4058c14785c48446d747f3ab0"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/1909ea54551265d7.png",
+      "bytes": 3810,
+      "sha256": "1bfe2c746d3d02d027fdaadfc71295cdc9250c2eb80de042f342d9c37104ec5e"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/20b61942fc282438.png",
+      "bytes": 1855,
+      "sha256": "d04a2a2187d2d7aa902208d20bd02b4ff8295cc5bc98f82b064a655d8d58a715"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/231416b3b6fc6ba7.png",
+      "bytes": 5052,
+      "sha256": "49a510608f2c244897b82511f51f8d8f80c035a4692f2f53a7f320fe6a5986be"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/23181c2708f325d1.png",
+      "bytes": 1459,
+      "sha256": "f0c95ae4461de8cfe8a26ea7b02c924104dab670a92f964745ce6c29551d3a78"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/2597c676c9261c54.png",
+      "bytes": 1463,
+      "sha256": "b3b9b698ce91f689614a575880e2992b1320774c6ce56e4b55443e306e213db2"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/26adea2f652eec1e.png",
+      "bytes": 3557,
+      "sha256": "6501748a1eb5224df24775f4c28169ca44ad79c84340d317e90dbea3f89878d4"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/26f5f9a2464be1a8.png",
+      "bytes": 2957,
+      "sha256": "db7bf2fd391da7c1e733fe8cee8828a983e69a37e2a646848404a380433c1c9d"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/294f07025f230cb8.png",
+      "bytes": 2876,
+      "sha256": "b575c5bb0e929f57acd57fdce2c289170b47f83a382db94501a2b26ff0db8563"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/2a7e15bd02f70453.png",
+      "bytes": 2115,
+      "sha256": "93b33b98ba79bc716eb3fc0ea7dbdf5f45f699c699a1917080244332aeff0b83"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/2ccab1c6f92646d5.png",
+      "bytes": 3543,
+      "sha256": "52093777d2eef7905599fb3dfb0b20d6e46e6113700c04f9a7ee47c699d91a93"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/2d7557d6b6485aa5.png",
+      "bytes": 2746,
+      "sha256": "1469f38f12da5bb17a9e0379e8a98a47ebc6da6ee34a736e329e0bfd64b68a38"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/314e43cd7a87c984.png",
+      "bytes": 2579,
+      "sha256": "7c3302f9b230082d7f21d3c5f5b7456839d3a49cc3e71f4bede4cc0486108f8b"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/322b469eee962fe5.png",
+      "bytes": 3052,
+      "sha256": "3c2c89bb5f4d15548f98886af636011757d19af3b3c87abfac6edc7e2515bb4f"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/335bc73eb15af4eb.png",
+      "bytes": 2875,
+      "sha256": "f76e9a2ec50b7353390f6cce350cfa29ceb9be5c8a8cbdb22ced9d4c8296b6a3"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/37019dd3e6d10385.png",
+      "bytes": 961,
+      "sha256": "010f76d441600cf0453477108b70eaeb840a3cc07cedeccb499e5405768647c7"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/3aa9ac4089b52c2f.png",
+      "bytes": 4588,
+      "sha256": "9c195c6eb77790c53de6f95495729e7f9eee0d8db56dfd1e5893cc1952cb2e1c"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/41b6f444add9435c.png",
+      "bytes": 1338,
+      "sha256": "977b1bd012def5d9358fe2bb9e1c7437dccc3785bae343b586e3a78c0c942722"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/41e982554f65fe02.png",
+      "bytes": 2962,
+      "sha256": "593e3f3c24aa8c06de648dad963e895efb64de442c05e54a938b065ebc03fc7b"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/425573a2fcc9eaa3.png",
+      "bytes": 2268,
+      "sha256": "7047abc1fca45919ad30ce716c4b5dba3abf9098d5ef215b15f9dad1f392228e"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/43cc9d261b5ad4d8.png",
+      "bytes": 1841,
+      "sha256": "34c35a1b3ac1861f3f86f24518a8d5f6bb11b998d7e169a05d770ea1229f6709"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/441cc3cee77a23fa.png",
+      "bytes": 3293,
+      "sha256": "7f16d085ab098dcd4cc18a00c5bdb0599ec3e5c2621138f317fb48f32c651175"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/45d526d3320faf4e.png",
+      "bytes": 3636,
+      "sha256": "799baea8db12fbef8f08f96918405fb307b195ce81caecbf6607bc90e2b20bb9"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/48789eb1ce893892.png",
+      "bytes": 2902,
+      "sha256": "c81cc00aa37ffa03c068d4d7892a8fb1f6003119b899b93a1f70288c6cf72c2b"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/4ae18f4a907f7a26.png",
+      "bytes": 2194,
+      "sha256": "22b43fbbf8811d2b296213b169fb4a871cff7e7a5bc1d5e6a403d0e4a3e0e6a5"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/4cc969e211b9dafc.png",
+      "bytes": 4114,
+      "sha256": "fda07c76b66f8322553a496fd55352b001110c2d743b20eb911c884342bb9f64"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/4e127dd2ed8751bc.png",
+      "bytes": 4113,
+      "sha256": "993de169c9c21557aef4437bd55b03a97a558b1ed1bca3dc0bc17de4884cd499"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/4efe3e472716698d.png",
+      "bytes": 3373,
+      "sha256": "697752bb5c6bc668a303d0efba7978ca8a85d51ff1b7f6b8b056af03d5874624"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/51189da7a2796558.png",
+      "bytes": 4001,
+      "sha256": "a0e4c6c1f8075533f37ca574605ef2f811b80a7dc87c5edd99814bf94d2d5572"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/52998def33a119b7.png",
+      "bytes": 3412,
+      "sha256": "8c58927e6f4b80dad1fffbbd3e39175b5a988c85b12017161b4bd8c086784d5f"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/53d70cbfa9aee758.png",
+      "bytes": 4274,
+      "sha256": "2d418714bf759c4f22af8a6a43350a63adcd664f3c510cfb6c5ae6b671a7c4b5"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/57fa9175dc662515.png",
+      "bytes": 1965,
+      "sha256": "74a9bdf774fc4db9b002e928c843fcd68311ff7d983334760c7a1552e0f7a0d6"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/586731e634125e20.png",
+      "bytes": 2455,
+      "sha256": "0034f2b37987541fff31fa50f0f015415c77e222c81551f91758e396ec2dd80e"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/5b3e31b1acc82d44.png",
+      "bytes": 3287,
+      "sha256": "e0937eb984216bb8e30cb0354fca25b7b97454dc01fa5a3afc8f6c7e4e65b969"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/5bab6fa1fa978ea7.png",
+      "bytes": 2523,
+      "sha256": "90ca7177e3131902f19dafb8ee9d6c4bdbb25dc5f5042f4493900ad930e4f254"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/5cc4a029c5239f23.png",
+      "bytes": 812,
+      "sha256": "bb6213d002499ce11e78170dae8032c873f4874ba5c48eafdec362d052389718"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/5ed41df5f8685ec3.png",
+      "bytes": 1449,
+      "sha256": "bf49ac9996fb8ecf739730a24c05894a4a87a32b89b5ca2136618c066028b741"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/60e600dd7e25bf8a.png",
+      "bytes": 2675,
+      "sha256": "e705ac5ea8d1134311f1125ad6985088ee1818f746436439a32b0f256ac62214"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/61172cc72abdf792.png",
+      "bytes": 4112,
+      "sha256": "1ae2cda884a894db2312f53aef3441ca2b231bf2e443413bc7f2b3d919a6f37f"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/644ebcd8d469138b.png",
+      "bytes": 1519,
+      "sha256": "368f3538027566d0d108755ebe2dbc94370c978557a73f883d6a7bb2c093d53d"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/65bc1b9e08148639.png",
+      "bytes": 2291,
+      "sha256": "00446e0fc20f101b833d67fe47428c0d4cdbe486b9789e6590c2e848ef0c48ed"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/69efb00c2bf5c155.png",
+      "bytes": 3104,
+      "sha256": "f22830db223eee134c9d38adcc7b8a0a56bbe687fd75f2a458fd14a14015be48"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/6b20f6fd4cbb49ea.png",
+      "bytes": 1851,
+      "sha256": "7037b489a51b479d98d4ed9feb4384fc8b995346e6cbf0a0d3ee9574d4d45431"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/6b33016b84fdcb0f.png",
+      "bytes": 3112,
+      "sha256": "cc0a999fc95897309858aee9557baee765d9041ff6f7900d4b7ea3635446529f"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/6c82e0ba34c0585d.png",
+      "bytes": 2530,
+      "sha256": "406e6e1e65507bd2e81bf46657ad326deb88cecd436c6657792f4e314ef48b98"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/6db5dc4500357dde.png",
+      "bytes": 2003,
+      "sha256": "8f5feaf5e5fc135b37b535bce6b338d49c45174aef03ce3705e6920ac1c5b664"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/6f8d57fd2cd89a0d.png",
+      "bytes": 1698,
+      "sha256": "a5abe275481642cee6ba3cf206ed41c4c05b1181dab8d1f6ecb571cceccc8a8d"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/707aeeef0503fa0b.png",
+      "bytes": 2461,
+      "sha256": "270acd0c3754f07c7a557c709639d865546b7c9487e35b5604514e0c9afb4194"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/7184398481a2d5e8.png",
+      "bytes": 1835,
+      "sha256": "1d4ea209cdef4fdc4d3201988fd4420e1f94da8637205f5ed1db0b10e6860d98"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/71b89c774f20b473.png",
+      "bytes": 3437,
+      "sha256": "e4fe2171bf3f8a10e16831fda385313116764bf8caad918ec6fd0ebab32a9151"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/73d1afaf19b570df.png",
+      "bytes": 2028,
+      "sha256": "f7b5b3742c62f30a18d03c11782024cfa2d3c6b515b0839325b8e1f4c09acccf"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/755fa17cf9341412.png",
+      "bytes": 3306,
+      "sha256": "f04c71b3aa079d336c2d00cc8fe3783a2023bc594e91b593e1cb36423fa4a411"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/7c5b645012241ea1.png",
+      "bytes": 3301,
+      "sha256": "d4fd537e70ec32f69a1c5aa14a3a34ce6e1a3a787f457fec9cedcc749d6b1193"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/7d7d39baa41bb61a.png",
+      "bytes": 2366,
+      "sha256": "0b8b4d33a15c497c679b833988162af6768b7f7ea694ee3d4d290a3f6d7038b8"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/7f80c2178a03fc7d.png",
+      "bytes": 1493,
+      "sha256": "1c2ccd499338e931e434075559a23b8273df3eca856bc8467e2e473d55ecd9a1"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/7fe09fb7aa046f99.png",
+      "bytes": 1945,
+      "sha256": "03a063e26eada8f2655fb9c2c8aac5cfc6dcc8ec6655d51ddee28e1768d90565"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/81ac6ebb5af67223.png",
+      "bytes": 2200,
+      "sha256": "560fb7baff36219190a2c4bb06a88ac7e45651a548d024b5977e0d3a97077739"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/837912aa82007f59.png",
+      "bytes": 2250,
+      "sha256": "fd3db531cf9e85af4bb34d815bece1b217657f11635d464c40a46871eaedf29d"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/8387c7b1b111bfd1.png",
+      "bytes": 2056,
+      "sha256": "780c8cacd94f53ab084dc8cdf56ee001e684a64ba056eac66655397ad204ffc9"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/880ce2767c41d619.png",
+      "bytes": 4741,
+      "sha256": "e0d1bbeb79e15ce4456569634a84a257b72f14029e9c670aeed3dd70f76d4f2c"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/88e210f86d2af997.png",
+      "bytes": 3713,
+      "sha256": "c32eed2053b51e336a8c804643872e8331ffd8015f495379d6b70df01af1fcc0"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/952a143ba742afb8.png",
+      "bytes": 2939,
+      "sha256": "35c629547a84e56fe7d39ace5cf15b6e77b12245ca4dec8de4c784158a445135"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/986f2825245ed378.png",
+      "bytes": 3097,
+      "sha256": "53bcdd199c840ff1d419b0c876dfbf1bbb893aa065c216309066be687ba7dfb1"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/9b305259df161fbf.png",
+      "bytes": 1741,
+      "sha256": "5902e3b70153637618aa87561efb200a736830752635b6a04aa5bdc5323d4988"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/9b586a533cc6b558.png",
+      "bytes": 2014,
+      "sha256": "ed20be2dc3f5323c20b49ed15dd8cc92cb2b2dac7d3716958bea2b0fccd85567"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/9ec5a417a5ea58d6.png",
+      "bytes": 3897,
+      "sha256": "5eacdf5cfa0ef76a2b5df07c53898abda24f7707d9df76b9b4cfb887fc4613c4"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/9f81a08400a036ab.png",
+      "bytes": 2289,
+      "sha256": "4f36513a58e53c4018222595419e79316dce577bb84cbd97cbe03707f723b082"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/a582dd4dc5bc2ad9.png",
+      "bytes": 5039,
+      "sha256": "23e3df35d6ce60f726dcf7e96524af348fcf486820837831fa0cb7bcf1a42908"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/a8987e3c0e7f5904.png",
+      "bytes": 4012,
+      "sha256": "262708a7d40fd43e0747b06189e8c8ff74240b87c3650309abea1fb6b97ede14"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/ac2593689c114cb5.png",
+      "bytes": 2078,
+      "sha256": "05b3bac53fe9aa2c44fd04021ae2551cf886d2e8663ef68958e7b4721b0252c9"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/ad7d0ea0c8383e3d.png",
+      "bytes": 1775,
+      "sha256": "caf979dc1a57b71c0822d32ad218344953d3bf3b03ff7966fc8cef0da0a8ca4d"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/b4ba11e6c954e40b.png",
+      "bytes": 2609,
+      "sha256": "1f1675be27ef159183e89cfb37e4152b3401a1b96baf443f1f0eec5717ff6671"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/b5fd36c7c232b149.png",
+      "bytes": 2039,
+      "sha256": "2d12dc5e0d0b4c8023bc3e2490f30e46dcd22e7dc920e90e3823326b3ab87567"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/b63c9b28c2b886fd.png",
+      "bytes": 1717,
+      "sha256": "280fcdd3a27f3f80acbc0b869b83d9e813dee932f11373edd622b825023d4558"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/b9a10ea37d2494d5.png",
+      "bytes": 2750,
+      "sha256": "2b9bdfec1bdb3282ef38abecd1e7d98a4ea79992112fd7254135f714e9ae303f"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/bd76f94ebd3ca7d5.png",
+      "bytes": 2155,
+      "sha256": "840deb3fe1c3c75f2a9bb7a7d80527afb7fe9ef4097fe8d39db41b2099ecc564"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/c243c013ddb9b04a.png",
+      "bytes": 1985,
+      "sha256": "ef2a33a74e15e4af68c85dac5983c97e94ed1e1dc19e5f56c3e5f7b453dfc4eb"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/c325ea48c27333e9.png",
+      "bytes": 4263,
+      "sha256": "47f64aa82eec7a447537a638928446794afa5f762f1e3c74d3c32a978c73e86c"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/c34325c0a9fd2dac.png",
+      "bytes": 3402,
+      "sha256": "8b622d205fe705dc23a2785e8cd267ec64f968ec6fff1317d023feec663e6ccd"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/c4655962ee5f6531.png",
+      "bytes": 913,
+      "sha256": "10677b90c618532da51f454e153d1d77eb532d4d2a187e2318e5634b5e9e24e2"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/c87166dd717908f0.png",
+      "bytes": 2438,
+      "sha256": "87bea3df69646f3f08465627e8d61a19cfcaf43e5df5c1dbfb24ad4085d402da"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/c9195e1e2135bd31.png",
+      "bytes": 3857,
+      "sha256": "a27c7208e6f45ab42c0dddebffdc5dadf9830de2b6a2511aaf6cb596c853d8ad"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/ca2a31ea8af01885.png",
+      "bytes": 2124,
+      "sha256": "6502ea136f6eb0aad3d0a009ae8aa3d4a21c38d3e825f66578bd19621a8b2c99"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/cc38f5d668a50155.png",
+      "bytes": 2529,
+      "sha256": "0a878369ac03a33873c3e753ccefebbe23b23dd83bc9b387e2a29dbe8a8b2201"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/cd7dab16622510b0.png",
+      "bytes": 2063,
+      "sha256": "931f5b11956257bdc25cf77af77667df34890383b43383ea9f6f95c0d3aaad7c"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/cf6e394f81c02962.png",
+      "bytes": 1395,
+      "sha256": "6ee74425f25930cb7d2ac8562acfad6ac8a650ff4df7536492a2e5d640ef8414"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/d346949a50c0da9b.png",
+      "bytes": 4582,
+      "sha256": "6e283e948a04bb86715d0df504ebef8ebe8566bb838ad8f8d58cf876b768c3cd"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/d3946472759c6f84.png",
+      "bytes": 2092,
+      "sha256": "57bf63bf826ef2f17eaca75ecb297009fa15bf1e073fd5299dd4bb5ef78e41d6"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/d73f834b528a1a8f.png",
+      "bytes": 2280,
+      "sha256": "731c3e76a3dfbc5ad5f51cea7339df89186a6fb2c166a7d38ee840f43e8d415e"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/da0ca9a93eb310fd.png",
+      "bytes": 2117,
+      "sha256": "51343084cf8016484cc710421d88a838746ccf98427cfd75957707867df45ca7"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/db402cb5daf9811f.png",
+      "bytes": 2630,
+      "sha256": "62b3ccd0c2540106a1a8840fbf101362d96958dd58cd384a2f8c98e08f009abd"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/dcc192e03a1e3d7e.png",
+      "bytes": 1013,
+      "sha256": "b02a9636269d9f705cedec9a1f0f4f8dafd20f3b052c68f8dd7fbd0a9fd233a7"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/df2be8dcdf2e5d8a.png",
+      "bytes": 3796,
+      "sha256": "a3f601cce0b3a945deb8418fdd2bcd42ec5a4be54c6afd842b39c9864bca697d"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/e3c6032c18a635e5.png",
+      "bytes": 1588,
+      "sha256": "ef14b8b7a7891f58d48f9dad8053dd5d5192ff5d72ec64239f55a0c2a68bea2c"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/e580f09168cffb35.png",
+      "bytes": 1838,
+      "sha256": "1d17ec691d766b5dd99ca515240299741c2a26131018e8efcd90e96ec018830c"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/e5bb3475d8ef1869.png",
+      "bytes": 1401,
+      "sha256": "fc519736c15fb3e4c17d3569a781c87390d4357717f9e8c351136adad87f9832"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/ee68e8a9dd3699fa.png",
+      "bytes": 2278,
+      "sha256": "afc4383c91e6432efbae46361ae95d5f29a05b492e18edf556ca1513581b71c1"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/f18a69fe3da07677.png",
+      "bytes": 2693,
+      "sha256": "68a6aba581e53e4887f365818aca67c27d3c7da26b96a410988ab8ca3732aa70"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/f67d1eca22c5a189.png",
+      "bytes": 2331,
+      "sha256": "febf4ab16d8378141d361ced0452eaeb1c1a68145e0b32c14c9efbf25333d795"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/f6f34910af52cafc.png",
+      "bytes": 3930,
+      "sha256": "4a698370c1411755d158ebb6475be3c2c4a0c4930e6f55c17110766a7d29c22d"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/f8987bfc630b6861.png",
+      "bytes": 1742,
+      "sha256": "9d13b3276ad151a9160999b33b57a347a796b20344d98856dc891ccddb186d56"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/fc354ac92d2675f6.png",
+      "bytes": 2713,
+      "sha256": "5ba5562b4d075ad2a7c37a66afbf145bcf914f2ca8973c7546bd840f0eb83a6d"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/fc37384ebef8968d.png",
+      "bytes": 4629,
+      "sha256": "84463dccd5a25b4aab82ffdfe8f1baca99448123b3290535cf7219174b64666d"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/fc44bf9521b75a63.png",
+      "bytes": 3826,
+      "sha256": "328260018fecf538710b098a701f1bb4964e8e0df994de974ca8743fc37fc770"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/fcc99d6d8d74c077.png",
+      "bytes": 3745,
+      "sha256": "6ec0d5ad39dcd8b48c013d2fe53486d7387827ae2d38926437111f78fa0496ec"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/fe46fc0aea8a1e3f.png",
+      "bytes": 3456,
+      "sha256": "704543a95c279785facbb8ef78e82c853daa1b13a6779d4bf62db85e47db762a"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/picons/feeee50fdd4c3169.png",
+      "bytes": 2400,
+      "sha256": "2e516832fb1109e5ddbdaa3a0b98dbbc7885f93071e0a0c4b8544e58498abf7a"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/RobotoCondensed.ttf",
+      "bytes": 371616,
+      "sha256": "dace262afcee68a5276f200d8026c57221735c0118ab5fda8c2c0d3dc409a8d0"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/tab-selected-190.svg",
+      "bytes": 186,
+      "sha256": "abc7f15fbcf02502c14de15269e68e12667706f66b657f890d8573591a74bee2"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/tab-selected-220.svg",
+      "bytes": 186,
+      "sha256": "7ec96f6b0cc781af89368ab55cdef6d875b0319332745c8d770f664eb68295f0"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/unhandled-key.svg",
+      "bytes": 284,
+      "sha256": "03110d4589da2e84cc66f7ed3506c1907842807b62a42ba19aef51a86df360be"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/assets/volume-speaker.svg",
+      "bytes": 201,
+      "sha256": "6d49062fb0751443bbf75ef55894ebb34d0ea99d9e131d1c818c15c1bcc62909"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/channels.json",
+      "bytes": 108518,
+      "sha256": "ddd7ed37143304e23fcf9efa1e04dd68fa247931dcfb1bd0b70f9eb1fae78baf"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox/skin.xml",
+      "bytes": 1409,
+      "sha256": "8556109bca8f1448080328234a3b5ca2b30a1ee061c67fe8efc34558a59cac4b"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox-native.patch",
+      "bytes": 213431,
+      "sha256": "8ed43a818a4858c0a3aa0c70c47833870e135b1de6dc8026454bf16144ad49b8"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2/files/magicbox-stream-cancel.patch",
+      "bytes": 7755,
+      "sha256": "11a1317ccd4529e98236d9dfb140289fc5a522443fdb0fac22bd1767952df560"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2-plugins/enigma2-binary-plugins.bbappend",
+      "bytes": 59,
+      "sha256": "34c41a9ecb5bb056aab5f678d7ab29403db8b267f6379ab6319bfba7e3f8f5da"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2-plugins/enigma2-plugin-extensions-autobackup.bbappend",
+      "bytes": 59,
+      "sha256": "34c41a9ecb5bb056aab5f678d7ab29403db8b267f6379ab6319bfba7e3f8f5da"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2-plugins/enigma2-plugin-extensions-enhancedmoviecenter.bbappend",
+      "bytes": 422,
+      "sha256": "8eac776ecbd95e72c4e4cc265830a27bee87a8245e3b2a7767ba68619d1afd30"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2-plugins/enigma2-plugins.bbappend",
+      "bytes": 59,
+      "sha256": "34c41a9ecb5bb056aab5f678d7ab29403db8b267f6379ab6319bfba7e3f8f5da"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/enigma2-plugins/files/0001-openpli-standalone-player.patch",
+      "bytes": 6666,
+      "sha256": "e3c4dd8c21e80356e73d213c5dad9a481b71ec695430b303ee403ab4b67b909e"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/fakelocale/fakelocale.bbappend",
+      "bytes": 238,
+      "sha256": "c5f09c2c938bad8a6bf014bd2a21a3a51ce7c71974a6a24cefec596f263371b3"
+    },
+    {
+      "path": "meta-magicbox/recipes-openpli/images/magicbox-image.bb",
+      "bytes": 4667,
+      "sha256": "b12270ad3de483ad7ddf1d3574dec6bb26b1ac08ed0662ba9c1acee711a2fa62"
+    }
+  ],
+  "layers": {
+    "bitbake": "d01d8326331cfe59208674cfc53aa26c0028b313",
+    "meta-abcom": "80107b8b396bc3fc7f821b0c8ba5af3691b4fb1a",
+    "meta-amiko": "367e038bc236eea21be440af60d6bed48265a6ba",
+    "meta-axas": "05c0b5245aa8dd25e0e9b087e9116f3887fc1d1f",
+    "meta-dream": "95d78260dc7f19dcbe4b19c6d129beed6f0e7035",
+    "meta-edision": "a1f3ef6a9a7f3f1cee7cdc2c871ed031b54c33a7",
+    "meta-formuler": "96c8f7e527795afb73f71af370048d10a60a1f3e",
+    "meta-gfutures": "941eeb779611dab7f0c055a1be4a7e8ef2614560",
+    "meta-gi": "1e05ad1e4df6c4ff7f555eaa3d0e5c971b750342",
+    "meta-gigablue": "5ac1c43f289ed299fe3e0ab2a0a8d42b75a2ebce",
+    "meta-maxytec": "5a568bd7c769ca26fac9c1c498ac58dcebeaf1cf",
+    "meta-miraclebox": "681600fe88287229a48ca26c165c2f4bf7f1f59e",
+    "meta-octagon": "2c80ce691d1ac77b4bf020ad9b3f2c5a61f558a0",
+    "meta-openembedded": "786d3aa313e31a718acc9611ba3adb60573ec458",
+    "meta-qt5": "cf6ffcbad5275a3428f6046468a0c9d572e813d1",
+    "meta-qviart": "4a20daeaf536dd26339af8a2039e7a9460c62e31",
+    "meta-sab": "d9f346c85f155992d981c6812b3e116a94da14e2",
+    "meta-spycat": "6ec6bd1f6761d03f052edbca5f311bef328e7d3b",
+    "meta-uclan": "10cd1beda45d4043bab00fba6157e224f6c821d3",
+    "meta-vuplus": "7de0306aa67b26e9402fb83de9103b957b2fa6cb",
+    "meta-xp": "7ee95261c1d99e43a78a94430232b6c6da994c16",
+    "meta-xpeedc": "db77b6e27c06e1fc933c0d08acfb8b69e14617f0",
+    "meta-xsarius": "15959c63253391f0225b28b1984fd37aef44622c",
+    "meta-xtrend": "66038d825d21ba2a407bbfa120dd21303aca41cf",
+    "meta-zgemma": "74180c517ae876a3a7520c5b2de8b8b92632e263",
+    "openembedded-core": "fbbb689c8df7f82644b8a9bc5bb6884bc6516660"
+  }
+}

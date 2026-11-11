@@ -1,0 +1,49 @@
+{
+  "version": "2.0.0",
+  "revision": "R9",
+  "machine": "vuduo",
+  "bytes": 86084200,
+  "sha256": "54ca4cdda36755d045a617b62879f66ada4fb449f25c3e90f02dc8c288a0810a",
+  "source_sha256": "c30206cf2e55d78ba31817da77116b95b7c736dcfe9465cec77da5339291ae66",
+  "required_package_versions": {
+    "enigma2": {
+      "architecture": "vuduo",
+      "version": "3.9+git21951+65dc393+magicbox2.0.0-r0.magicbox8"
+    },
+    "enigma2-plugin-systemplugins-servicemp3": {
+      "architecture": "vuduo",
+      "version": "git73+bdb5a90-r0.magicbox3"
+    },
+    "enigma2-plugin-extensions-enhancedmoviecenter": {
+      "architecture": "mips32el",
+      "version": "4.0.+git1798+23dc058-r0.magicbox3"
+    },
+    "magicbox-config": {
+      "architecture": "vuduo",
+      "version": "1.0-r0.magicbox3"
+    }
+  },
+  "features": [
+    "native TV/IPTV/Medya/Favorites/Settings launcher",
+    "EMC playback in native Medya tab",
+    "500 ms IPTV preview debounce with cancellation",
+    "Sony green bottom-center volume indicator",
+    "anti-aliased tabs, picons and 256-level text edges",
+    "eight-row paging with bounded end pages",
+    "fullscreen IPTV left/right channel zap and transparent lower info strip",
+    "IPTV initial video metadata readiness",
+    "local media forward/backward seek and wrapped decoder position repair",
+    "en/tr languages only",
+    "exclusive Magic Box update feeds"
+  ],
+  "allowed_ui_languages": [
+    "en",
+    "tr"
+  ],
+  "successful_bitbake_tasks": 6808,
+  "receiver_boot_verified_for_this_zip": false,
+  "image": "magicbox-os-2.0.0-native-r9-vuduo_usb.zip",
+  "source_bundle": "magicbox-os-2.0.0-native-r9-source.tar.gz",
+  "binaries_in_this_git_repository": false,
+  "private_data_audit_passed": true
+}

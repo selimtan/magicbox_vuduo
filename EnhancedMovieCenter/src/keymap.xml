@@ -1,0 +1,126 @@
+<keymap>
+	<map context="EMCConfigActions">
+		<key id="KEY_RED" mapto="red" flags="m" />
+		<key id="KEY_GREEN" mapto="green" flags="m" />
+		<key id="KEY_YELLOW" mapto="yellow" flags="m" />
+		<key id="KEY_BLUE" mapto="blueshort" flags="b" />
+		<key id="KEY_BLUE" mapto="bluelong" flags="l" />
+		<key id="KEY_UP" mapto="up" flags="mr" />
+		<key id="KEY_DOWN" mapto="down" flags="mr" />
+		<key id="KEY_CHANNELUP" mapto="nextBouquet" flags="mr" />
+		<key id="KEY_CHANNELDOWN" mapto="prevBouquet" flags="mr" />
+	</map>
+	<map context="CoolPlayerActions">
+		<key id="KEY_TV" mapto="leavePlayer" flags="m" />
+		<key id="KEY_STOP" mapto="leavePlayer" flags="m" />
+		<key id="KEY_EXIT" mapto="leavePlayer" flags="m" />
+		<key id="KEY_HOME" mapto="leavePlayer" flags="m" />
+		<key id="KEY_ESC" mapto="leavePlayer" flags="m" />
+	</map>
+	<map context="CoolPlayerActions2">
+		<key id="KEY_TV" mapto="leavePlayer" flags="m" />
+		<key id="KEY_STOP" mapto="leavePlayer" flags="m" />
+		<key id="KEY_HOME" mapto="leavePlayer" flags="m" />
+	</map>
+	<map context="EMCGeneralPlayerActions">
+		<key id="KEY_RADIO" mapto="showExtensions" flags="b" />
+		<key id="KEY_GREEN" mapto="EMCGreen" flags="m" />
+		<key id="KEY_INFO" mapto="movieInfo" flags="b" />
+		<key id="KEY_EPG" mapto="movieInfo" flags="b" />
+		<key id="KEY_CHANNELUP" mapto="nextTitle" flags="l" />
+		<key id="KEY_CHANNELDOWN" mapto="prevTitle" flags="l" />
+<!--  With "KEY_LEFT" & "KEY_RIGHT" at map "EMCDVDPlayerActions" works also in the regular player.
+		<key id="KEY_LEFT" mapto="seekBack" flags="b" />
+		<key id="KEY_RIGHT" mapto="seekFwd" flags="b" />
+-->
+	</map>
+	<map context="EMCDVDPlayerActions">
+		<key id="KEY_MENU" mapto="dvdMenu" flags="mr" />
+		<key id="KEY_CHANNELUP" mapto="nextChapter" flags="b" />
+		<key id="KEY_CHANNELDOWN" mapto="prevChapter" flags="b" />
+		<key id="KEY_CHANNELUP" mapto="nextTitle" flags="l" />
+		<key id="KEY_CHANNELDOWN" mapto="prevTitle" flags="l" />
+		<key id="KEY_AUDIO" mapto="dvdAudioMenu" flags="l" />
+		<key id="KEY_RADIO" mapto="dvdAudioMenu" flags="l" />
+		<key id="KEY_RADIO" mapto="nextAudioTrack" flags="b" />
+		<key id="KEY_TEXT" mapto="nextSubtitleTrack" flags="m" />
+		<key id="KEY_VIDEO" mapto="nextAngle" flags="m" />
+		<key id="KEY_LEFT" mapto="left" flags="m" />
+		<key id="KEY_RIGHT" mapto="right" flags="m" />
+	</map>
+	<map context="PluginMovieSelectionActions">
+		<key id="KEY_OK" mapto="EMCOK" flags="m" />
+		<key id="KEY_PLAY" mapto="EMCPLAY" flags="b" />
+		<key id="KEY_PLAY" mapto="EMCSHUFFLE" flags="l" />
+		<key id="KEY_PLAYPAUSE" mapto="EMCPLAY" flags="m" />
+		<key id="KEY_EXIT" mapto="EMCEXIT" flags="m" />
+		<key id="KEY_HOME" mapto="EMCEXIT" flags="m" />
+		<key id="KEY_ESC" mapto="EMCEXIT" flags="m" />
+		<key id="KEY_ENTER" mapto="EMCOK" flags="m" />
+
+		<key id="KEY_MENU" mapto="EMCMENU" flags="b" />
+		<key id="KEY_INFO" mapto="EMCINFO" flags="b" />
+		<key id="KEY_EPG" mapto="EMCINFO" flags="b" />
+		<key id="KEY_MENU" mapto="EMCMENUL" flags="l" />
+		<key id="KEY_INFO" mapto="EMCINFOL" flags="l" />
+		<key id="KEY_EPG" mapto="EMCINFOL" flags="l" />
+
+		<key id="KEY_RED" mapto="EMCRed" flags="b" />
+		<key id="KEY_RED" mapto="EMCREDL" flags="l" />
+		<key id="KEY_GREEN" mapto="EMCGREEN" flags="b" />
+		<key id="KEY_GREEN" mapto="EMCGREENL" flags="l" />
+		<key id="KEY_YELLOW" mapto="EMCYELLOW" flags="b" />
+		<key id="KEY_YELLOW" mapto="EMCYELLOWL" flags="l" />
+		<key id="KEY_BLUE" mapto="EMCBLUE" flags="b" />
+		<key id="KEY_BLUE" mapto="EMCBlueL" flags="l" />
+
+		<key id="KEY_VIDEO" mapto="EMCVIDEOB" flags="b" />
+		<key id="KEY_MEDIA" mapto="EMCVIDEOB" flags="b" />
+		<key id="KEY_PVR" mapto="EMCVIDEOB" flags="b" />
+		<key id="KEY_FILE" mapto="EMCVIDEOB" flags="m" />
+		<key id="KEY_VIDEO" mapto="EMCVIDEOL" flags="l" />
+		<key id="KEY_MEDIA" mapto="EMCVIDEOL" flags="l" />
+		<key id="KEY_PVR" mapto="EMCVIDEOL" flags="l" />
+		<key id="KEY_AUDIO" mapto="EMCAUDIO" flags="m" />
+		<key id="KEY_STOP" mapto="EMCAUDIO" flags="m" />
+		<key id="KEY_TV" mapto="EMCTV" flags="b" />
+		<key id="KEY_TV" mapto="EMCTVL" flags="l" />
+		<key id="KEY_RECORD" mapto="EMCRADIO" flags="m" />
+		<key id="KEY_RADIO" mapto="EMCRADIO" flags="m" />
+		<key id="KEY_TEXT" mapto="EMCTEXT" flags="m" />
+		<key id="KEY_LEFT" mapto="EMCLeft" flags="mr" />
+		<key id="KEY_RIGHT" mapto="EMCRight" flags="mr" />
+		<key id="KEY_UP" mapto="EMCUp" flags="mr" />
+		<key id="KEY_DOWN" mapto="EMCDown" flags="mr" />
+		<key id="KEY_NEXT" mapto="EMCArrowNext" flags="b" />
+		<key id="KEY_PREVIOUS" mapto="EMCArrowPrevious" flags="b" />
+		<key id="KEY_CHANNELUP" mapto="EMCBqtPlus" flags="m" />
+		<key id="KEY_CHANNELDOWN" mapto="EMCBqtMnus" flags="m" />
+		<key id="KEY_0" mapto="0" flags="m" />
+		<key id="KEY_4" mapto="4" flags="m" />
+		<key id="KEY_7" mapto="7" flags="m" />
+		<key id="KEY_8" mapto="8" flags="m" />
+		<key id="KEY_9" mapto="9" flags="m" />
+	</map>
+	<map context="EMCimdb">
+		<key id="KEY_OK" mapto="EMCOK" flags="m" />
+		<key id="KEY_MENU" mapto="EMCMenu" flags="m" />
+		<key id="KEY_EXIT" mapto="EMCEXIT" flags="m" />
+		<key id="KEY_HOME" mapto="EMCEXIT" flags="m" />
+		<key id="KEY_RED" mapto="EMCRed" flags="b" />
+		<key id="KEY_RED" mapto="EMCRedLong" flags="l" />
+		<key id="KEY_GREEN" mapto="EMCGreen" flags="m" />
+		<key id="KEY_YELLOW" mapto="EMCYellow" flags="m" />
+	</map>
+	<map context="EMCMovieInfo">
+		<key id="KEY_EXIT" mapto="EMCEXIT" flags="m" />
+		<key id="KEY_OK" mapto="EMCOK" flags="m" />
+		<key id="KEY_INFO" mapto="EMCINFO" flags="b" />
+		<key id="KEY_EPG" mapto="EMCINFO" flags="b" />
+		<key id="KEY_MENU" mapto="EMCMenu" flags="m" />
+		<key id="KEY_GREEN" mapto="EMCGreen" flags="m" />
+		<key id="KEY_RED" mapto="EMCRed" flags="b" />
+		<key id="KEY_UP" mapto="EMCUp" flags="m" />
+		<key id="KEY_DOWN" mapto="EMCDown" flags="m" />
+	</map>
+</keymap>

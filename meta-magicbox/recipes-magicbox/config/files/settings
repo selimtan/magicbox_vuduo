@@ -1,0 +1,14 @@
+config.skin.primary_skin=MagicBox/skin.xml
+config.misc.firstrun=False
+config.misc.languageselected=False
+config.misc.initialchannelselection=False
+config.misc.videowizardenabled=False
+config.misc.do_overscanwizard=False
+config.osd.language=tr_TR
+config.usage.setup_level=expert
+config.usage.show_infobar_on_zap=False
+config.usage.show_infobar_on_event_change=False
+config.EMC.mainmenu_list=False
+config.EMC.movie_launch=None
+config.EMC.movie_trashcan_clean=False
+config.EMC.movie_finished_clean=False

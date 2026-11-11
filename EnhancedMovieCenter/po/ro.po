@@ -1,0 +1,2350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EMC\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-12 09:04+0100\n"
+"PO-Revision-Date: 2016-05-08 15:10+0200\n"
+"Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
+"Language-Team: \n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_()\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"X-Poedit-SearchPath-0: src\n"
+
+msgid " Deleting remotely recorded and it will display an rec-error dialog on the other DB."
+msgstr " Stergerea unei inregistrari la distanta genereaza o eroare"
+
+msgid " all selected video files?"
+msgstr " toate fisierele selectate"
+
+msgid " all selected video files? The currently playing movie is also one of the selections and its playback will be stopped."
+msgstr " toate fisierele urmatoare vor fi abandonate"
+
+msgid " currently played?"
+msgstr " vizualizat curent"
+
+msgid " files\n"
+msgstr ""
+
+msgid " permanently"
+msgstr " permanent"
+
+#, python-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#, python-format
+msgid "%s not removed. Write protect?"
+msgstr ""
+
+#, python-format
+msgid "%s removed."
+msgstr "%s eliminat."
+
+msgid "( # )"
+msgstr ""
+
+msgid "( # / GB )"
+msgstr "( # /GB )"
+
+msgid "( GB )"
+msgstr "( GB )"
+
+msgid "(Un-)Lock Directory"
+msgstr "Deblocheaza un director"
+
+msgid "(show optional DVD audio menu)"
+msgstr "(Arată meniul DVD audio)"
+
+msgid "*** Multiselection active ***"
+msgstr "*** Multiselection activ ***"
+
+#, fuzzy
+msgid ".../foldername.jpg"
+msgstr "NumeFolder:"
+
+msgid ".../foldername/folder.jpg"
+msgstr ""
+
+msgid ".../foldername/foldername.jpg"
+msgstr ""
+
+msgid ""
+"ATTENTION\n"
+"\n"
+"This option will move all finished movies in Movie Home automatically to Your trashcan at the given time.\n"
+"At next trashcan cleanup all movies will be deleted.\n"
+"\n"
+"Confirm this with the blue key followed by the green key."
+msgstr ""
+"ATENTIE\n"
+"va trimite toate filmele vizionate ln trashcan ... de unde vor fi sterse \n"
+"Confirma asta cu tasta albastră, urmată de tasta verde."
+
+msgid "AUDIO METADATA"
+msgstr ""
+
+msgid "AUTOSTART"
+msgstr ""
+
+msgid "About"
+msgstr "Despre"
+
+msgid "Add directory to E2 Bookmarks"
+msgstr "Adauga directorul la marcajele E2"
+
+msgid "Add directory to EMC Bookmarks"
+msgstr "Adauga directorul la mecaje EMC"
+
+msgid "Add to Playlist"
+msgstr ""
+
+msgid "Add to current Playlist"
+msgstr ""
+
+msgid "After file OPs only re-scan affected dirs"
+msgstr ""
+
+msgid "Age of finished movies in movie folder (days)"
+msgstr "Varsta filmelor din director"
+
+msgid "Album:"
+msgstr ""
+
+msgid "Alpha sort"
+msgstr "Sortare alpha "
+
+msgid "Alpha sort ascending (AZ)"
+msgstr "Sortare alpha crescatoare"
+
+msgid "Alpha sort ascending with meta (AZM)"
+msgstr ""
+
+msgid "Alpha sort ascending with meta, Date descending (AZMD-)"
+msgstr ""
+
+msgid "Alpha sort ascending, Date descending (AZD-)"
+msgstr ""
+
+msgid "Alpha sort date newest"
+msgstr ""
+
+msgid "Alpha sort descending (ZA)"
+msgstr "Sortate alpha descrescatoare"
+
+msgid "Alpha sort descending with meta (ZAM)"
+msgstr ""
+
+msgid "Alpha sort descending with meta, Date ascending (ZAMD+)"
+msgstr ""
+
+msgid "Alpha sort descending, Date ascending (ZAD+)"
+msgstr ""
+
+msgid "Alpha sort meta"
+msgstr ""
+
+msgid "Alpha sort meta date newest"
+msgstr ""
+
+msgid "Always save current Playlist"
+msgstr ""
+
+msgid "Always save last played progress as marker"
+msgstr "Salveaza ultima pozitie drept marker"
+
+msgid "Artist:"
+msgstr ""
+
+msgid "Automatic timers list cleaning"
+msgstr "Curatare automata timere"
+
+msgid "Available plugins menu"
+msgstr "Meniul plugin-uri disponibile"
+
+msgid "Black"
+msgstr ""
+
+msgid "Blue button function"
+msgstr "Funcţie butonu albastru"
+
+msgid "Bookmark"
+msgstr "Marcaj"
+
+msgid "Both"
+msgstr "Ambele"
+
+msgid "Bouquet buttons behaviour"
+msgstr "Comportamentul butonului buchet"
+
+msgid "Button disabled"
+msgstr "Buton dezactivat"
+
+msgid "COVER-SEARCH"
+msgstr ""
+
+msgid "CSFD"
+msgstr "CSFD"
+
+msgid "CSFD Info"
+msgstr "Informatii CSFD"
+
+msgid "Can not save "
+msgstr ""
+
+msgid "Can not save Cover in "
+msgstr ""
+
+msgid "Can not save current Playlist!"
+msgstr ""
+
+#, python-format
+msgid ""
+"Can not write Movie Information File\n"
+"\n"
+"%s"
+msgstr ""
+
+#, python-format
+msgid ""
+"Can not write Movie Information and Cover File\n"
+"\n"
+"%(info)s\n"
+"%(file)s"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Anulare"
+
+msgid "Cannot delete the parent directory."
+msgstr "Directorul tata nu poate fi sters"
+
+msgid "Change File/Moviename and/or Description"
+msgstr "Schimbare fișiere / Moviename și / sau descriere"
+
+msgid "Change Folder"
+msgstr "Schimba director"
+
+msgid "Change Foldername"
+msgstr "Schimbarea Nume Director"
+
+msgid "Change the filename to save current Playlist:"
+msgstr ""
+
+msgid "Chap."
+msgstr "Cap."
+
+msgid "Chapter"
+msgstr "Capitol"
+
+msgid "Check for dead links"
+msgstr ""
+
+msgid "Choose Directory:"
+msgstr ""
+
+msgid "Choose bookmark"
+msgstr "Alege Bookmark"
+
+msgid "Choose directory"
+msgstr "Alegeti directorul"
+
+msgid "Choose operation"
+msgstr "Alege operatia"
+
+msgid "Choose plugin"
+msgstr "Alege plugin"
+
+msgid "Choose script"
+msgstr "Alege script"
+
+msgid "Close EMC"
+msgstr "Închide EMC"
+
+msgid "Close EMC and do power button action"
+msgstr ""
+
+msgid "Collection"
+msgstr "Colectie"
+
+msgid "Configured directories at the top of movielist"
+msgstr "Directoarele configurate ... in capul listei"
+
+msgid "Content:"
+msgstr "Conținut:"
+
+msgid "Copy File"
+msgstr "Copiaza fisier"
+
+msgid "Copy Files"
+msgstr ""
+
+msgid "Copy file(s):"
+msgstr "Copiaza fisiere :"
+
+#, python-format
+msgid ""
+"Cover %s exists!\n"
+"\n"
+"Do you want to replace the existing cover?"
+msgstr ""
+
+msgid "Cover Search"
+msgstr "Cautare coperta"
+
+msgid "Cover background"
+msgstr "Background copperta"
+
+msgid "Cover delay in ms"
+msgstr "Intarziere coperta in ms"
+
+msgid "Cover disabled in EMC-Setup"
+msgstr "Capacul dezactivat în EMC-Setup"
+
+msgid "Cover is Saved."
+msgstr ""
+
+msgid "Cover search"
+msgstr "Cauta coperta"
+
+msgid ""
+"Cover search with all Files in Subdirectories?\n"
+"\n"
+"This may take a while on huge Disks, or Directories!"
+msgstr ""
+
+msgid "Coversize"
+msgstr ""
+
+msgid "Create directory"
+msgstr "Creaza un director"
+
+msgid "Create link"
+msgstr "Creaza un link"
+
+msgid "Creating Search List.."
+msgstr "Creare lista de căutare..."
+
+msgid "Current Playlist saved successfully!"
+msgstr ""
+
+msgid "Cursor predictive move after selection"
+msgstr "Predictie miscare dupa selectie"
+
+msgid "Custom"
+msgstr "Personalizat"
+
+msgid "Czech"
+msgstr ""
+
+msgid "DD.MM. HH:MM"
+msgstr "DD.MM HH:MM"
+
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+msgid "DD.MM.YYYY HH:MM"
+msgstr ""
+
+msgid "DEBUG"
+msgstr ""
+
+msgid "DELAYS"
+msgstr ""
+
+msgid "DISPLAY-SETTINGS"
+msgstr ""
+
+msgid "DVD / BLU-RAY / FOLDERS"
+msgstr ""
+
+msgid "Daily cleanup time"
+msgstr "Ora zilnica de curatare"
+
+msgid "Dark green"
+msgstr ""
+
+msgid "Dark grey"
+msgstr ""
+
+msgid "Dark orange"
+msgstr ""
+
+msgid "Dark red"
+msgstr ""
+
+msgid "Date format"
+msgstr "Format data"
+
+msgid "Date sort"
+msgstr "Sortare dupa data"
+
+msgid "Date sort ascending (D+)"
+msgstr "Sortare dupa data crescatoare"
+
+msgid "Date sort descending (D-)"
+msgstr "Sortare dupa data descrescatoare"
+
+msgid "Day"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Debug output file name"
+msgstr "Nume fisier de debug"
+
+msgid "DeepStandby"
+msgstr "DeepStandby"
+
+msgid "Default"
+msgstr "Implicit"
+
+msgid ""
+"Default Playlist is not empty!\n"
+"\n"
+"Save default Playlist?"
+msgstr ""
+
+msgid "Default Playlist name"
+msgstr ""
+
+msgid "Default Playlist path"
+msgstr ""
+
+msgid "Default color for highlighted movie"
+msgstr ""
+
+msgid "Default color for partially watched movie"
+msgstr ""
+
+msgid "Default color for recording movie"
+msgstr ""
+
+#, fuzzy
+msgid "Default color for unwatched movie"
+msgstr "Ordine de sortare implicita"
+
+#, fuzzy
+msgid "Default color for watched movie"
+msgstr "Ordine de sortare implicita"
+
+msgid "Default sort mode"
+msgstr "Ordine de sortare implicita"
+
+msgid "Delete"
+msgstr "Șterge"
+
+msgid "Delete All"
+msgstr ""
+
+msgid "Delete Entry"
+msgstr ""
+
+msgid "Delete current Playlist"
+msgstr ""
+
+msgid "Delete cut file(s)"
+msgstr ""
+
+msgid "Delete error:\n"
+msgstr ""
+
+msgid "Delete failed because the trashcan directory does not exist. Attempt to create it now?"
+msgstr "Stergere esuata pentru ca Trashcan nu exista"
+
+msgid "Delete failed!"
+msgstr "Stergere esuata"
+
+msgid "Delete permanently"
+msgstr "Stergere permanenta"
+
+msgid "Delete validation"
+msgstr "Sterge validarea"
+
+msgid "Description"
+msgstr "Descriere"
+
+msgid "Description field update delay"
+msgstr "Intarziere update camp descriptor"
+
+msgid "Description:"
+msgstr "Descriere:"
+
+msgid "Directory"
+msgstr "Director"
+
+#, python-format
+msgid "Directory %s already exists!"
+msgstr "Directorul %s exista deja"
+
+msgid "Directory back"
+msgstr "Director înapoi"
+
+msgid "Directory forward"
+msgstr "Director înainte"
+
+msgid "Directory is not empty! Do you really want to delete it?"
+msgstr "Directorul nu este gol ... chiar vrei sa-l stergi ?"
+
+msgid "Directory up"
+msgstr "Direstor parinte"
+
+msgid "Directory-Cover search"
+msgstr ""
+
+msgid "Disable EMC"
+msgstr "Dezactivaţi EMC"
+
+msgid "Display directory reading text"
+msgstr "Arata textul explicativ al directorului"
+
+msgid ""
+"Do you really want to delete the cut file?\n"
+"If you have selected a directory, all cut files within the folder and its subfolders will be deleted!"
+msgstr ""
+
+#, python-format
+msgid "Do you really want to lock the directory %s and all its subfolders?"
+msgstr "Chiar doresti sa blochezi %s si subdirectoarele lui ?"
+
+#, python-format
+msgid ""
+"Do you really want to remove your bookmark\n"
+"%s?"
+msgstr ""
+
+#, python-format
+msgid ""
+"Do you really want to remove your directory\n"
+"%s?"
+msgstr ""
+
+#, python-format
+msgid ""
+"Do you really want to remove your link\n"
+"%s?"
+msgstr ""
+
+msgid "Do you want to resume this playback?"
+msgstr "Doriti sa reluati vizionarea"
+
+msgid "Does not contain any scripts."
+msgstr "Nu conține nici un script."
+
+msgid "Don't auto scan size of dirs from emc-noscan.cfg"
+msgstr ""
+
+msgid "Download Movie Info"
+msgstr "Descarca informatie film"
+
+msgid "Download Movie Information"
+msgstr "Descarca informatie film"
+
+msgid "Download cutlist from Cutlist.at"
+msgstr "Descarca cutlist"
+
+#, python-format
+msgid "Download: %s"
+msgstr "Download: %s"
+
+msgid "E2 Bookmark"
+msgstr "E2 Bookmark"
+
+msgid "E2 Bookmarks"
+msgstr "Marcaje E2"
+
+msgid "E2 Restart"
+msgstr "E2 Restart"
+
+msgid ""
+"EMC\n"
+"Zap to Live TV of record"
+msgstr ""
+"EMC\n"
+"Salt la LiveTV înregistrat"
+
+msgid "EMC Bookmarks"
+msgstr "Marcaje EMC"
+
+msgid "EMC Cover Selecter"
+msgstr ""
+
+msgid "EMC Cover search"
+msgstr "Căutare coperta EMC"
+
+msgid "EMC Cover search setup"
+msgstr ""
+
+msgid "EMC Filebrowser"
+msgstr ""
+
+#, fuzzy
+msgid "EMC Help"
+msgstr "Setup EMC"
+
+msgid "EMC Playlist - current playlist"
+msgstr ""
+
+msgid "EMC Playlist Menu"
+msgstr ""
+
+msgid "EMC Playlist Setup"
+msgstr ""
+
+msgid "EMC Setup"
+msgstr "Setup EMC"
+
+msgid "EMC Trashcan Cleanup failed!"
+msgstr "EMC Trashcan Cleanup nu a reușit!"
+
+msgid "EMC always reload after open"
+msgstr "EMC se reincarca dupa open"
+
+msgid "EMC output directory"
+msgstr "Director de iesire EMC"
+
+msgid "EMC path access limit"
+msgstr "limita cale EMC"
+
+msgid "EMC re-open list after Movie end"
+msgstr "EMO redeschide lista dupa sfarsitul filmului"
+
+msgid "EMC re-open list after STOP-press"
+msgstr "EMC redeschide lista dupa STOP"
+
+msgid "EMC-TMDB Info"
+msgstr ""
+
+msgid ""
+"EMC: Skipping Trashcan Cleanup\n"
+"Movie Home Path is equal to or a subfolder of the Trashcan"
+msgstr ""
+
+msgid "Edit Tags"
+msgstr ""
+
+msgid "Empty trashcan"
+msgstr "Goleste trashcan"
+
+msgid "Enable EMC debug output"
+msgstr "Activați EMC ieșire depanare"
+
+msgid "Enable daily trashcan cleanup"
+msgstr "Activeaza curatarea zilnica a trashcan"
+
+msgid "Enable playback AC3-track first"
+msgstr ""
+
+msgid "Enable playback auto-language selection"
+msgstr "Activeaza selectia auto-language"
+
+msgid "Enable playback auto-subtitling"
+msgstr "Activeaza afisarea auto-subtitling"
+
+msgid "Enable remote recordings"
+msgstr "Activeaza inregistrarile de la remote"
+
+msgid "English"
+msgstr "Engleza"
+
+msgid "Enter Name for Playlist"
+msgstr ""
+
+msgid "Enter name for new directory:"
+msgstr "Introdu numele noului director"
+
+msgid "Exist"
+msgstr "Exista"
+
+#, python-format
+msgid "Exist: %s"
+msgstr "Exista: %s"
+
+#, fuzzy
+msgid "F1-button"
+msgstr "Buton TV"
+
+msgid "File added to current Playlist."
+msgstr ""
+
+msgid "File exists in current Playlist."
+msgstr ""
+
+msgid "File not available."
+msgstr "File not available."
+
+msgid "Filename:"
+msgstr "Nume fișier :"
+
+msgid "Files added to current Playlist."
+msgstr ""
+
+#, python-format
+msgid ""
+"Files added to current Playlist:\n"
+"%(add)s\n"
+"\n"
+"Files exists in current Playlist:\n"
+"%(exist)s"
+msgstr ""
+
+#, python-format
+msgid ""
+"Files exists in current Playlist:\n"
+"%s"
+msgstr ""
+
+msgid "Finished watching percent"
+msgstr "Arata procentul pana la sfarsit"
+
+msgid "Foldername:"
+msgstr "NumeFolder:"
+
+msgid "Force standby after auto-restart"
+msgstr "Vigoare în standby după auto-restart"
+
+msgid "Format AVSwitch"
+msgstr "Format AVSwitch"
+
+msgid ""
+"Found rogue files:\n"
+"\n"
+msgstr ""
+
+msgid "Free: "
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "GENERAL"
+msgstr ""
+
+msgid "Genre:"
+msgstr "Gen:"
+
+msgid "German"
+msgstr "Germană"
+
+#, python-format
+msgid "Given path %s does not exist. Please change."
+msgstr "Calea %s nu exista ... corectati"
+
+msgid "Go to trashcan"
+msgstr "Mergi la trashcan"
+
+msgid "Green"
+msgstr ""
+
+msgid "Grey"
+msgstr ""
+
+msgid "HELP_About"
+msgstr "HELP_Despre"
+
+msgid "HELP_After file OPs only re-scan affected dirs"
+msgstr ""
+
+msgid "HELP_Age of finished movies in movie folder (days)"
+msgstr "HELP_Age de filme finite din dosar film (zile)"
+
+msgid "HELP_Always save last played progress as marker"
+msgstr "HELP_Always cu excepția a jucat ultima progres ca să îi trimită"
+
+msgid "HELP_Automatic timers list cleaning"
+msgstr "Cronometre HELP_Automatic listă de curățare"
+
+msgid "HELP_Blue button function"
+msgstr "Functia buton HELP_Blue"
+
+msgid "HELP_Bouquet buttons behaviour"
+msgstr "HELP_Bouquet buton"
+
+#, fuzzy
+msgid "HELP_Check for dead links"
+msgstr "HELP_Cover întârziere în ms"
+
+msgid "HELP_Configure in etc/enigma2/emc-topdir.cfg"
+msgstr "Help etc/enigma2/emc-topdir.cfg"
+
+msgid "HELP_Cover background"
+msgstr "HELP_Cover fundal"
+
+msgid "HELP_Cover delay in ms"
+msgstr "HELP_Cover întârziere în ms"
+
+msgid "HELP_Cursor predictive move after selection"
+msgstr "Help predictie miscare"
+
+msgid "HELP_Daily auto-start"
+msgstr "HELP_Daily auto-start"
+
+msgid "HELP_Daily cleanup time"
+msgstr "HELP_Daily ora de curatire"
+
+msgid "HELP_Date format"
+msgstr "Format HELP_Date"
+
+msgid "HELP_Debug output file name"
+msgstr "HELP_Debug nume fișier de ieșire"
+
+msgid "HELP_Default color highlighted"
+msgstr ""
+
+msgid "HELP_Default color partially watched"
+msgstr ""
+
+#, fuzzy
+msgid "HELP_Default color recording"
+msgstr "Înregistrări de la distanță HELP_Enable"
+
+msgid "HELP_Default color unwatched"
+msgstr ""
+
+#, fuzzy
+msgid "HELP_Default color watched"
+msgstr "Format HELP_Date"
+
+msgid "HELP_Delete validation"
+msgstr "Validare HELP_Delete"
+
+msgid "HELP_Description field update delay"
+msgstr "HELP_Description întârziere actualizare domeniu"
+
+msgid "HELP_Disable EMC"
+msgstr "HELP_Dezactivare EMC"
+
+msgid "HELP_Display directory reading text"
+msgstr "HELP_Display textului lectură director"
+
+msgid "HELP_Don't auto scan size of dirs from emc-noscan.cfg"
+msgstr ""
+
+msgid "HELP_Download cutlist from Cutlist.at"
+msgstr "HELP_Download listă de tăieturi din Cutlist.at"
+
+msgid "HELP_Dynamic trashcan"
+msgstr "HELP_Dynamic gunoi"
+
+msgid "HELP_EMC always reload after open"
+msgstr "HELP_EMC reîncărcați întotdeauna după deschis"
+
+msgid "HELP_EMC output directory"
+msgstr "Directorul de ieșire HELP_EMC"
+
+msgid "HELP_EMC path access limit"
+msgstr "Help limita cale EMC"
+
+msgid "HELP_EMC re-open list after Movie end"
+msgstr "HELP_EMC-re deschis listă după terminarea Film"
+
+msgid "HELP_EMC re-open list after STOP-press"
+msgstr "HELP_EMC re-deschis listă după STOP-press"
+
+msgid "HELP_Enable EMC debug output"
+msgstr "HELP_Enable EMC ieșire depanare"
+
+msgid "HELP_Enable daily trashcan cleanup"
+msgstr "HELP_Enable aleatorie trashcan zilnic"
+
+msgid "HELP_Enable playback AC3-track first"
+msgstr ""
+
+msgid "HELP_Enable playback auto-language selection"
+msgstr "Selecție HELP_Enable limba auto redare"
+
+msgid "HELP_Enable playback auto-subtitling"
+msgstr "HELP_Enable redare auto-subtitrare"
+
+msgid "HELP_Enable remote recordings"
+msgstr "Înregistrări de la distanță HELP_Enable"
+
+msgid "HELP_Fallback Cover"
+msgstr "HELP_Fallback coperta"
+
+msgid "HELP_Finished watching percent"
+msgstr "Help - Arata procentul pana la sfarsit"
+
+msgid "HELP_Force standby after auto-start"
+msgstr "HELP_Force aşteptare după auto-start"
+
+msgid "HELP_Hide movies being deleted"
+msgstr "Filme HELP_Hide fiind eliminat"
+
+msgid "HELP_Hide movies being moved"
+msgstr "Filme HELP_Hide deplasate"
+
+msgid "HELP_Horizontal alignment for count / size"
+msgstr ""
+
+msgid "HELP_Horizontal alignment for date"
+msgstr ""
+
+msgid "HELP_How many days files may remain in trashcan"
+msgstr "HELP_How multe fișiere zi poate rămâne în gunoi"
+
+msgid "HELP_Icon shown for initially unknown count / size"
+msgstr ""
+
+msgid "HELP_Jump to first mark when playing movie"
+msgstr "HELP_Jump la primul marcaj când redați un film"
+
+msgid "HELP_Key period value (50-900)"
+msgstr "Valoarea perioada HELP_Key (50-900)"
+
+msgid "HELP_Key repeat value (250-900)"
+msgstr "Valoarea repeta HELP_Key (250-900)"
+
+msgid "HELP_Latest Recordings directory limit"
+msgstr ""
+
+msgid "HELP_Latest Recordings directory use emc-noscan.cfg"
+msgstr ""
+
+msgid "HELP_Leave Movie with Exit"
+msgstr "HELP_Leave film cu Exit"
+
+msgid "HELP_Limit file operations in dirs from emc-noscan.cfg"
+msgstr ""
+
+msgid "HELP_List entries to skip"
+msgstr "HELP_List intrări de sărit"
+
+msgid "HELP_Listbox is skin able"
+msgstr "HELP_Listbox este capabil piele"
+
+msgid "HELP_Long Blue button function"
+msgstr "Functia  HELP_Long Blue"
+
+msgid "HELP_Long Red button function"
+msgstr "Functia buton HELP_Long Red"
+
+msgid "HELP_Long Yellow button function"
+msgstr "HELP_Long galben lung"
+
+msgid "HELP_LongInfo Button"
+msgstr "Help LongInfo"
+
+msgid "HELP_Mark new recordings with a star"
+msgstr "HELP_Mark noi înregistrări cu o stea"
+
+msgid "HELP_Minimum file cache limit"
+msgstr ""
+
+msgid "HELP_Move finished movies in trashcan"
+msgstr "HELP_Move terminat filme în gunoi"
+
+msgid "HELP_Movie home at start"
+msgstr "Help film la inceput"
+
+msgid "HELP_Movie home home path"
+msgstr "Help cale film"
+
+msgid "HELP_Movie preview delay in ms"
+msgstr "HELP_Movie întârziere previzualizare în ms"
+
+msgid "HELP_Movie preview offset in seconds"
+msgstr "HELP_Movie previzualizare compensate în câteva secunde"
+
+msgid "HELP_No resume below 10 seconds"
+msgstr "HELP_No reia de mai jos 10 secunde"
+
+msgid "HELP_Own Path to movie picons"
+msgstr ""
+
+msgid "HELP_Path to movie picons"
+msgstr ""
+
+msgid "HELP_Position movie picons"
+msgstr ""
+
+msgid "HELP_Preferred EPG language"
+msgstr "Limba HELP_Preferred EPG"
+
+msgid "HELP_Primary playback audio language"
+msgstr "HELP_Primary redare limbă audio"
+
+msgid "HELP_Primary playback subtitle language"
+msgstr "Redare HELP_Primary limbă de subtitrare"
+
+msgid "HELP_Red button function"
+msgstr "Functia buton HELP_Red"
+
+msgid "HELP_Replace special chars in title"
+msgstr "HELP_Replace caractere speciale în titlu"
+
+msgid "HELP_Resolve links and show real path"
+msgstr "Link-uri HELP_Resolve și arată calea reală"
+
+msgid "HELP_Rewind finished movies before playing"
+msgstr "HELP_Rewind terminat filme înainte de a juca"
+
+msgid "HELP_Scan for DVD structures"
+msgstr "HELP_Scan pentru structuri DVD"
+
+msgid "HELP_Scan for bluray structures"
+msgstr "HELP_Scan pentru structuri BluRay"
+
+msgid "HELP_Scan for bluray structures in .iso"
+msgstr ""
+
+msgid "HELP_Scan for movie structures"
+msgstr "HELP_Scan pentru structuri de film"
+
+msgid "HELP_Secondary playback audio language"
+msgstr "HELP_Secondary redare limbă audio"
+
+msgid "HELP_Secondary playback subtitle language"
+msgstr "Redare HELP_Secondary limbă de subtitrare"
+
+msgid "HELP_Short watching percent"
+msgstr "HELP_Short uitam la sută"
+
+msgid "HELP_Show Bookmarks in movielist"
+msgstr "HELP_Show Marcaje în movielist"
+
+msgid "HELP_Show Cover"
+msgstr "HELP_Show Cover"
+
+msgid "HELP_Show Cut-Nr if exist"
+msgstr "HELP_Show Cut-Nr dacă există"
+
+msgid "HELP_Show EMC in extensions menu"
+msgstr "EMC HELP_Show în meniul de extensii"
+
+#, fuzzy
+msgid "HELP_Show EMC in main menu"
+msgstr "EMC HELP_Show în meniul de extensii"
+
+msgid "HELP_Show Latest Recordings directory"
+msgstr "HELP_Show Ultimele director Înregistrări"
+
+msgid "HELP_Show Movie Format"
+msgstr "HELP_Show film Format"
+
+msgid "HELP_Show Path if no extended description available"
+msgstr "HELP_Show Calea dacă există descriere extinsă disponibile"
+
+msgid "HELP_Show VLC directory"
+msgstr "Director HELP_Show VLC"
+
+#, fuzzy
+msgid "HELP_Show audio metadata"
+msgstr "HELP_Show film Format"
+
+msgid "HELP_Show directories"
+msgstr "Help arata directoare"
+
+msgid "HELP_Show directories information"
+msgstr "Informații directoare HELP_Show"
+
+msgid "HELP_Show directories within movielist"
+msgstr "Directoare HELP_Show în movielist"
+
+msgid "HELP_Show directory size in skin"
+msgstr ""
+
+msgid "HELP_Show experimental options"
+msgstr ""
+
+msgid "HELP_Show link arrow"
+msgstr "HELP_Show link sageata"
+
+msgid "HELP_Show message if file added to playlist"
+msgstr ""
+
+msgid "HELP_Show movie icons"
+msgstr "HELP_Show icoane film"
+
+msgid "HELP_Show movie picons"
+msgstr ""
+
+msgid "HELP_Show movie preview"
+msgstr "HELP_Show previzualizare film"
+
+msgid "HELP_Show movie progress"
+msgstr "HELP_Show progres film"
+
+msgid "HELP_Show plugin config in extensions menu"
+msgstr "HELP_Show plugin config în meniul de extensii"
+
+msgid "HELP_Show real length of running records"
+msgstr "HELP_Show lungime reală a înregistrărilor de funcționare"
+
+msgid "HELP_Show symlinks"
+msgstr "Legături simbolice HELP_Show"
+
+msgid "HELP_Show trashcan directory"
+msgstr "HELP_Show director gunoi"
+
+msgid "HELP_Sort mode at startup"
+msgstr "Help ordine implicita"
+
+msgid "HELP_Start EMC with"
+msgstr "HELP_Start EMC cu"
+
+msgid "HELP_Style for original EMC-skin (needs reopen)"
+msgstr ""
+
+msgid "HELP_Tertiary playback audio language"
+msgstr "HELP_Tertiary redare limbă audio"
+
+msgid "HELP_Tertiary playback subtitle language"
+msgstr "Redare HELP_Tertiary limbă de subtitrare"
+
+msgid "HELP_Text shown for initially unknown count and size"
+msgstr ""
+
+msgid "HELP_Text shown for initially unknown directory size"
+msgstr ""
+
+msgid "HELP_Text shown for initially unknown file count"
+msgstr ""
+
+msgid "HELP_Trashcan enable"
+msgstr "HELP_Trashcan activare"
+
+msgid "HELP_Trashcan path"
+msgstr "Cale HELP_Trashcan"
+
+#, fuzzy
+msgid "HELP_Try to load extra title and more from .meta files"
+msgstr "HELP_Try pentru a încărca titluri din fișiere .meta"
+
+msgid "HELP_Try to load titles from .eit files"
+msgstr "HELP_Try pentru a încărca titluri din fișiere .eit"
+
+msgid "HELP_Try to load titles from .meta files"
+msgstr "HELP_Try pentru a încărca titluri din fișiere .meta"
+
+msgid "HELP_Use cache for files and directories"
+msgstr "Cache HELP_Use pentru fișiere și directoare"
+
+msgid "HELP_Use original EMC-skin (needs reopen)"
+msgstr ""
+
+msgid "HELP_Wake device when entering dir from emc-noscan.cfg"
+msgstr ""
+
+msgid "HELP_Yellow button function"
+msgstr "Functia buton HELP_Yellow"
+
+msgid "HELP_Zap to channel after record EOF"
+msgstr "HELP_Zap revenire la canal după înregistrare EOF"
+
+msgid "HELP_auto-start window begin"
+msgstr "HELP_auto-start fereastra începe"
+
+msgid "HELP_auto-start window end"
+msgstr "Sfârşitul de fereastra HELP_auto-start"
+
+msgid "HELP_cfghide_enable"
+msgstr "HELP_cfghide_enable"
+
+msgid "HELP_cfgscan_suppress"
+msgstr "HELP_cfgscan_suppress"
+
+#, fuzzy
+msgid "HELP_hide_MiniTV"
+msgstr "HELP_cfghide_enable"
+
+msgid "HELP_hide_MiniTV cover"
+msgstr ""
+
+msgid "HELP_hide_MiniTV_method"
+msgstr ""
+
+msgid "HELP_scan_linked"
+msgstr "HELP_scan_linked"
+
+msgid "Hide Cover"
+msgstr "Ascunde Cover"
+
+msgid "Hide MiniTV"
+msgstr ""
+
+msgid "Hide MiniTV if Cover is shown"
+msgstr ""
+
+msgid "Hide configured entries"
+msgstr "Ascunde intrarile configurate"
+
+msgid "Hide movies being deleted"
+msgstr "Ascunde filmele sterse"
+
+msgid "Hide movies being moved"
+msgstr "Ascund filmele mutate"
+
+msgid "HomeEnd"
+msgstr "HomeEnd"
+
+msgid "Horizontal alignment for count / size"
+msgstr ""
+
+msgid "Horizontal alignment for date"
+msgstr ""
+
+msgid "How many days files may remain in trashcan"
+msgstr "Cate zile raman fisierele in trashcan"
+
+msgid ""
+"How to copy files:\n"
+"Select some movies with the VIDEO-button, move the cursor on top of the destination directory and press yellow long."
+msgstr ""
+
+msgid ""
+"How to move files:\n"
+"Select some movies with the VIDEO-button, move the cursor on top of the destination directory and press yellow."
+msgstr ""
+
+msgid "IMDBSearch / EMC-TMDBInfo / TMDBInfo / TMBDInfo / CSFDInfo"
+msgstr ""
+
+msgid "IMDb"
+msgstr "IMDB"
+
+msgid "IMDb Search"
+msgstr "Cautare IMDB"
+
+msgid "Icon shown for initially unknown count / size"
+msgstr ""
+
+msgid "Information"
+msgstr "Informație"
+
+msgid "Italian"
+msgstr ""
+
+msgid "Jump to first mark when playing movie"
+msgstr "Salt la primul marcaj cand vizionezi"
+
+msgid "KEYMAPPING"
+msgstr ""
+
+msgid "Key period value (50-900)"
+msgstr "Perioada buton apasat 50-900"
+
+msgid "Key repeat value (250-900)"
+msgstr "Perioada de repetitie 250-900"
+
+msgid "LANGUAGE"
+msgstr ""
+
+msgid "Language:"
+msgstr "Limbi:"
+
+msgid "Last played movie/playlist not available..."
+msgstr "Last played movie/playlist not available..."
+
+msgid "Latest"
+msgstr "Ultimele"
+
+msgid "Latest Recordings"
+msgstr "Ultimele inregistrari"
+
+msgid "Latest Recordings directory limit"
+msgstr ""
+
+msgid "Latest Recordings directory use emc-noscan.cfg"
+msgstr ""
+
+msgid "Leave Movie with Exit"
+msgstr "Abandoneaza vizionarea prin Exit"
+
+msgid "Light green"
+msgstr ""
+
+msgid "Light grey"
+msgstr ""
+
+msgid "Light orange"
+msgstr ""
+
+msgid "Light red"
+msgstr ""
+
+msgid "Limit file operations in dirs from emc-noscan.cfg"
+msgstr ""
+
+msgid "Link"
+msgstr "Referinta"
+
+msgid "List entries to skip"
+msgstr "Lista de intrări de sărit"
+
+msgid "Listbox is skin able"
+msgstr "Listbox capabil de skin"
+
+msgid "Load Genre:"
+msgstr "Gen:"
+
+msgid "Load Production Countries:"
+msgstr "Țara producătoare :"
+
+msgid "Load Release Date:"
+msgstr "Data lansării:"
+
+msgid "Load Runtime:"
+msgstr "Runtime:"
+
+msgid "Load Vote:"
+msgstr "Vot:"
+
+msgid "Load default settings will overwrite all settings, really load them?"
+msgstr "Reset general ! sunteti sigur ?"
+
+msgid "Locate rogue files and remove them? (permanently if no trashcan available, may take a minute or so)"
+msgstr "Localizeaza si sterge fisierele rogue ?"
+
+msgid "Location:"
+msgstr "Locaţia:"
+
+msgid "Long Blue button function"
+msgstr "Functia Albastru lung"
+
+msgid "Long Red button function"
+msgstr "Functie lung roşu "
+
+msgid "Long Yellow button function"
+msgstr "Functia galben lung "
+
+msgid "LongInfo Button"
+msgstr "LongInfo buton"
+
+msgid "MM/DD HH:MM"
+msgstr "MM/DD HH:MM"
+
+msgid "Manage Cover"
+msgstr "Administrare copertă"
+
+msgid "Mark all movies"
+msgstr "Marcheza toate filmele"
+
+msgid "Mark new recordings with a star"
+msgstr "Marcheaza cu * inregistrarile noi"
+
+msgid "Method of hiding MiniTV"
+msgstr ""
+
+msgid "Minimum file cache limit (0=cache everything)"
+msgstr ""
+
+msgid "Minutes"
+msgstr "Minute"
+
+msgid "Month"
+msgstr ""
+
+msgid "Months"
+msgstr ""
+
+msgid "Move Cover to:"
+msgstr ""
+
+msgid "Move Directory:"
+msgstr ""
+
+msgid "Move File"
+msgstr ""
+
+msgid "Move Files"
+msgstr ""
+
+msgid "Move cursor down"
+msgstr "Mutați cursorul în jos"
+
+msgid "Move cursor page down"
+msgstr "Mută ​​pagina cursorul în jos"
+
+msgid "Move cursor page up"
+msgstr "Mută ​​pagina cursorul în sus"
+
+msgid "Move cursor to the end / Move cursor x entries down / Switch Folders in Movie Home (down)"
+msgstr "Mutați cursorul la sfârșitul / Mutare cursor x intrări jos / comutator foldere în Movie Acasa (jos)"
+
+msgid "Move cursor to the top / Move cursor x entries up / Switch Folders in Movie Home (up)"
+msgstr "Mutați cursorul la începutul / Mutare cursor x intrări sus Dosare / Schimbarea în film Acasă (sus)"
+
+msgid "Move cursor up"
+msgstr "Mutați cursorul în sus"
+
+msgid "Move file(s):"
+msgstr "Muta fisiere"
+
+msgid "Move finished movies in trashcan"
+msgstr "Muta filmele vizionate in trashcan"
+
+msgid "Movie Color"
+msgstr "Culoare film"
+
+#, python-format
+msgid ""
+"Movie Cover downloaded successfully!\n"
+"\n"
+"Can not write Movie Information File\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid "Movie Information Download Setup"
+msgstr "Informații Film Descarca Setup"
+
+msgid "Movie Information Preview for:"
+msgstr "Previzualizare"
+
+msgid "Movie Information TMDb"
+msgstr ""
+
+msgid "Movie Information and Cover downloaded successfully!"
+msgstr ""
+
+msgid "Movie Information downloaded successfully!"
+msgstr "Descarcare informatie film reusita"
+
+#, python-format
+msgid ""
+"Movie Information downloaded successfully!\n"
+"\n"
+"Can not write Movie Cover File\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid "Movie Selection Menu"
+msgstr "Meniul de selectie film"
+
+msgid "Movie home"
+msgstr "Inceput de film"
+
+msgid "Movie home at start"
+msgstr "Filmul este la inceput"
+
+msgid "Movie home home path"
+msgstr "Calea filmului"
+
+msgid "Movie information"
+msgstr "Informaţii film"
+
+msgid "Movie preview delay in ms"
+msgstr "Intarziere preview movie in ms"
+
+msgid "Movies"
+msgstr ""
+
+msgid "Movietitle:"
+msgstr "Titlu film:"
+
+msgid "N/A"
+msgstr "Indisponibil"
+
+msgid "Next auto-start in "
+msgstr "Urmatorul auto-start in "
+
+msgid "No"
+msgstr "Nu"
+
+#, python-format
+msgid "No Cover: %s"
+msgstr "Fara coperta : %s"
+
+msgid "No DVD-Player found!"
+msgstr "DVD-Player negăsit!"
+
+msgid "No Movies found!"
+msgstr ""
+
+msgid "No functionality set..."
+msgstr "No functionality set..."
+
+msgid "No limit"
+msgstr ""
+
+msgid "No override"
+msgstr "nu suprascrie"
+
+msgid "No resume below 10 seconds"
+msgstr "Fara restart sub 10 secunde"
+
+msgid "No rogue files found."
+msgstr "Nu sunt fisiere rogue"
+
+msgid "No script operation for VLC streams."
+msgstr "Nici o operațiune script pentru VLC stream."
+
+#, fuzzy
+msgid "Not all timers have been stopped. Modify them with the timer editor."
+msgstr "Not stopping any repeating timers. Modify them with the timer editor."
+
+msgid "Nothing was found !"
+msgstr ""
+
+msgid "OSError - please reload list (EMC menu)"
+msgstr ""
+
+msgid "OTHER"
+msgstr ""
+
+msgid "Off"
+msgstr "Off"
+
+msgid "Open"
+msgstr ""
+
+msgid "Open E2 Bookmark path"
+msgstr "Deschideți E2 Bookmark cale"
+
+msgid "Open E2 bookmarks"
+msgstr "Deschide marcaje E2"
+
+msgid "Open EMC Bookmark path"
+msgstr "Deschide calea marcaj EMC"
+
+msgid "Open Timer List"
+msgstr "Deschideți lista timer"
+
+msgid "Open menu"
+msgstr "Deschideți meniul"
+
+msgid "Orange"
+msgstr ""
+
+msgid "Own Path to movie picons"
+msgstr ""
+
+msgid "Path to movie picons"
+msgstr ""
+
+msgid "Percent (%)"
+msgstr "Procent (%)"
+
+msgid "Performance"
+msgstr "Performanta"
+
+msgid "Permanently delete all files in trashcan?"
+msgstr "Sterge definitiv fisierele din trashcan"
+
+msgid "Play All"
+msgstr "Reda toate"
+
+msgid "Play All starting"
+msgstr "Play All starting"
+
+msgid "Play current Playlist"
+msgstr ""
+
+msgid "Play last"
+msgstr "Vizualizeaza ultimul"
+
+msgid "Play last movie starting"
+msgstr "Play last movie starting"
+
+msgid "Play random current Playlist"
+msgstr ""
+
+msgid "Play selected movie(s)"
+msgstr "Joaca film selectat (e)"
+
+msgid "Playlist Options"
+msgstr ""
+
+msgid "Playlist Setup"
+msgstr ""
+
+msgid "Playlist open"
+msgstr ""
+
+msgid ""
+"Playlist with same name exists!\n"
+"\n"
+"Try to save the Playlist with another name?"
+msgstr ""
+
+msgid "Portuguese"
+msgstr ""
+
+msgid "Position movie picons"
+msgstr ""
+
+msgid "Preferred EPG language"
+msgstr "Limba favorita EPG"
+
+msgid "Preferred cover resolution (if possible):"
+msgstr ""
+
+msgid "Press green button to start search"
+msgstr "Apăsaţi butonul verde pentru a începe cautarea"
+
+msgid "Primary playback audio language"
+msgstr "Limba primara audio"
+
+msgid "Primary playback subtitle language"
+msgstr "Limba principala de subtitrare"
+
+msgid "Production Countries:"
+msgstr "Țara producătoare"
+
+msgid "Progress sort"
+msgstr "Sortare dupa progres"
+
+msgid "Progress sort ascending (P+)"
+msgstr "Sortare dupa progres crescator"
+
+msgid "Progress sort descending (P-)"
+msgstr "Sortare dupa progres descrescator"
+
+msgid "ProgressBar"
+msgstr "ProgressBar"
+
+msgid "REC"
+msgstr ""
+
+msgid "Radio-button"
+msgstr "Buton Radio"
+
+msgid "Reading directory..."
+msgstr "Reading director ..."
+
+msgid "Really close without saving settings?"
+msgstr "Abandonati fara salvare ?"
+
+msgid "Reboot"
+msgstr "Reboot"
+
+msgid "Red"
+msgstr ""
+
+msgid "Red button function"
+msgstr "Functie buton roşu "
+
+msgid "Release Date:"
+msgstr "Release Date:"
+
+msgid "Reload current directory"
+msgstr "Reincarca directorul curent"
+
+msgid "Reload movie file list"
+msgstr "Reîncarcă lista de fișiere film"
+
+msgid "Remove all cut file marker permanently?"
+msgstr "Sterge toate marcherele fisiereleor cut"
+
+msgid "Remove all marker permanently?"
+msgstr ""
+
+msgid "Remove cut list marker"
+msgstr "Sterge marcaj cut list "
+
+msgid "Remove directory from E2 Bookmarks"
+msgstr "Sterge directorul din marcajele E2"
+
+msgid "Remove directory from EMC Bookmarks"
+msgstr "Sterge directorul din marcaje EMC"
+
+msgid "Remove permanent sort"
+msgstr "Sterge sortarea permanenta"
+
+msgid "Remove permanent sort from parent"
+msgstr "Sterge sortarea permanenta din parinte"
+
+msgid "Remove rogue files"
+msgstr "Elimina fisere rogue"
+
+msgid "Remove selected E2 Bookmark"
+msgstr "Sterge marcajul E2 selectat"
+
+msgid "Remove selected EMC Bookmark"
+msgstr "Sterge marcajul EMC selectat"
+
+msgid "Remove service selection"
+msgstr "Eliminați de selecție serviciu"
+
+msgid "Rename selected movie(s)"
+msgstr "Renumeste filmul selectat"
+
+msgid "Replace special chars in title"
+msgstr "Inlocuieste caracterele speciale din titlu"
+
+msgid "Reset marker from selected movie(s)"
+msgstr ""
+
+msgid "Resolve links and show real path"
+msgstr "Rezolva referinta si arata calea reala"
+
+#, python-format
+msgid "Resume position at %s"
+msgstr "Pozitie de reluare la %s"
+
+msgid "Resuming playback"
+msgstr "Reluare vizionare"
+
+msgid "Rewind finished movies before playing"
+msgstr "Repune la inceputul filmului inainte de play"
+
+msgid "Runtime:"
+msgstr "Runtime :"
+
+msgid "SINGLE COVER-SEARCH"
+msgstr ""
+
+msgid "SKIN-SETTINGS"
+msgstr ""
+
+msgid "Save"
+msgstr "Salvează"
+
+msgid "Save Cover"
+msgstr ""
+
+msgid "Save current Playlist"
+msgstr ""
+
+msgid "Save description to movie.txt file:"
+msgstr ""
+
+msgid "Scan for DVD structures"
+msgstr "Scaneaza structurile DVD"
+
+msgid "Scan for bluray structures"
+msgstr "Scaneaza structurile Blue-Ray"
+
+msgid "Scan for bluray structures in .iso"
+msgstr ""
+
+msgid "Scan for movie structures"
+msgstr "Scaneaza structurile film"
+
+msgid "Scan linked folders"
+msgstr "Scaneaza directoarele referite"
+
+msgid "Search"
+msgstr "Căutare"
+
+#, fuzzy
+msgid "Search Results per Search Site (without counting cover range):"
+msgstr "REzultat cautare pentru :"
+
+#, fuzzy
+msgid "Search Results per Search Site:"
+msgstr "REzultat cautare pentru :"
+
+msgid "Search filter for matching existing terms in the title:"
+msgstr ""
+
+msgid "Search results for:"
+msgstr "REzultat cautare pentru :"
+
+#, python-format
+msgid "Searching for %s"
+msgstr "Căutare pentru %s"
+
+msgid "Searching..."
+msgstr "Cauta..."
+
+msgid "Secondary playback audio language"
+msgstr "Limba secundara audio"
+
+msgid "Secondary playback subtitle language"
+msgstr "Limba secundara de subtitrare"
+
+msgid "Seek backward"
+msgstr "Căuta înapoi"
+
+msgid "Seek forward"
+msgstr "Cauta înainte"
+
+msgid "Select Location"
+msgstr "Alegeti locatia"
+
+msgid "Set path to save the folder Cover:"
+msgstr ""
+
+msgid "Set permanent sort"
+msgstr "Defineste sortarea permanenta"
+
+msgid "Settings have been Saved."
+msgstr ""
+
+msgid "Setup"
+msgstr "Configurare"
+
+msgid "Setup open"
+msgstr ""
+
+msgid "Short watching percent"
+msgstr "Arata procentul vizionarii"
+
+msgid "Show Bookmarks in movielist"
+msgstr "Arata marcajele din lista de filme"
+
+msgid "Show Cover"
+msgstr "Arata coperta"
+
+msgid "Show Cut-Nr if exist"
+msgstr "Arata Cut-Nr daca exista"
+
+msgid "Show EMC in extensions menu"
+msgstr "Arată EMC în meniul de extensii"
+
+#, fuzzy
+msgid "Show EMC in main menu"
+msgstr "Arată EMC în meniul de extensii"
+
+msgid "Show Latest Recordings directory"
+msgstr "Arata directorul ultimelor inregistrari"
+
+msgid "Show Movie Format"
+msgstr "Arata formatul filmului"
+
+msgid "Show Path if no extended description available"
+msgstr "Arata calea daca nu exista descriere extinsa"
+
+msgid "Show VLC directory"
+msgstr "Arata directorul VLC"
+
+msgid "Show audio metadata"
+msgstr ""
+
+msgid "Show current Playlist"
+msgstr ""
+
+msgid "Show directories"
+msgstr "Arata directoare"
+
+msgid "Show directories information"
+msgstr "Informații Arata directoare"
+
+msgid "Show directories within movielist"
+msgstr "Arata directoarele din lista de filme"
+
+msgid "Show directory size in skin"
+msgstr ""
+
+msgid "Show event info"
+msgstr "Informatie eveniment"
+
+msgid "Show experimental options"
+msgstr ""
+
+msgid "Show fallback cover"
+msgstr "Arata retragerea copertii"
+
+msgid "Show info at the bottom"
+msgstr ""
+
+msgid "Show info at the bottom (with MiniTV)"
+msgstr ""
+
+msgid "Show info on the left"
+msgstr ""
+
+msgid "Show info on the left (with MiniTV)"
+msgstr ""
+
+msgid "Show link arrow"
+msgstr "Arata sageata referinta"
+
+msgid "Show message if file added to playlist"
+msgstr ""
+
+msgid "Show movie icons"
+msgstr "Arata movie icon"
+
+msgid "Show movie picons"
+msgstr ""
+
+msgid "Show movie preview"
+msgstr "Arata preview movie"
+
+msgid "Show movie progress"
+msgstr "Arata progresul filmului"
+
+msgid "Show plugin config in extensions menu"
+msgstr "Afişează plugin config in meniul de extensii"
+
+msgid "Show real length of running records"
+msgstr "Arata lungimea reala a inregistrarii"
+
+msgid "Show symlinks"
+msgstr "Arata symlinks"
+
+msgid "Show trashcan directory"
+msgstr "Arata director Trashcan"
+
+msgid "Show trashcan information"
+msgstr "Arata informatie trashcan"
+
+msgid "Shuffle All"
+msgstr "Start redare aleatorie"
+
+msgid "Shuffle All starting"
+msgstr "Start redare aleatorie"
+
+msgid "Single Search:"
+msgstr "Cautare singulara:"
+
+msgid "Single search"
+msgstr "Căutare singulara"
+
+msgid "Skip"
+msgstr "Salt"
+
+msgid ""
+"Skipping movie, the file does not exist.\n"
+"\n"
+msgstr ""
+
+msgid "Some settings changes require GUI restart to take effect."
+msgstr "Setarile necesita restart GUI"
+
+msgid "Sort Mode"
+msgstr "Sort Mode"
+
+msgid "Sort Options"
+msgstr "Optiuni de sortare"
+
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Standby"
+msgstr "Standby"
+
+msgid "Start / end multiselection"
+msgstr "Start / end multiselection"
+
+msgid "Start EMC with"
+msgstr "Începe EMC cu"
+
+msgid "Start movie preview before last position"
+msgstr "Start preview movie inainte de ultima pozitie"
+
+msgid "Stop ongoing recording?\n"
+msgstr ""
+
+msgid "Stop playback"
+msgstr "Opriti redarea"
+
+msgid "Style for original EMC-skin (needs reopen)"
+msgstr ""
+
+msgid "Suppress scan in selected folders"
+msgstr "Suprima scanarea in directoarele selectate"
+
+msgid "TMBD Info"
+msgstr ""
+
+msgid "TMDB Info"
+msgstr "Informatii TMDB"
+
+msgid "TMDb"
+msgstr "TMDB"
+
+msgid "TRASHCAN"
+msgstr ""
+
+msgid "TV Shows"
+msgstr ""
+
+msgid "TV-button"
+msgstr "Buton TV"
+
+msgid "Tertiary playback audio language"
+msgstr "Limba tertiara audio"
+
+msgid "Tertiary playback subtitle language"
+msgstr "Limba tertiara de subtitrare"
+
+msgid "Text shown for initially unknown count and size"
+msgstr ""
+
+msgid "Text shown for initially unknown directory size"
+msgstr ""
+
+msgid "Text shown for initially unknown file count"
+msgstr ""
+
+#, python-format
+msgid "The directory %s is already locked. Do you want to unlock it and all its subfolders?"
+msgstr "Directorul %s este deja blocat ... doresti deblocarea sa si a subdirectoarelor ?"
+
+#, python-format
+msgid ""
+"The following files are used for other entrys in List !\n"
+"\n"
+"Also delete these files?\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid "This element belongs to a locked folder and cannot be deleted!"
+msgstr "Elementul apartine unei liste blocate - nu poate fi sters"
+
+msgid "This folder is locked or contains a locked subfolder, unlock it first!"
+msgstr "Acest director este blocat pentru ca contine un subdirector blocat"
+
+msgid "Title"
+msgstr "Titlu"
+
+msgid "Toggle Cover Button"
+msgstr "Schimba buton coperta"
+
+msgid "Toggle service selection"
+msgstr "Schimba Selecție serviciu"
+
+msgid "Toggle viewed / not viewed"
+msgstr "Schimba văzute / nevazute"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Trashcan"
+msgstr "Trascan"
+
+msgid "Trashcan create failed. Check mounts and permissions."
+msgstr "Creare trashcan esuat ... verificati mounts"
+
+msgid "Trashcan enable"
+msgstr "Trashcan activat"
+
+msgid "Trashcan path"
+msgstr "Cale trashcan"
+
+#, fuzzy
+msgid "Try to load extra title and more from .meta files"
+msgstr "Incearca incarcarea titlurilor din meta fisiere"
+
+msgid "Try to load titles from .eit files"
+msgstr "Incearca incarcarea titlurilor din fisiere .eit"
+
+msgid "Try to load titles from .meta files"
+msgstr "Incearca incarcarea titlurilor din meta fisiere"
+
+msgid "UNKNOWN"
+msgstr "Necunoscut"
+
+msgid "Up"
+msgstr "Sus"
+
+msgid "Use cache for files and directories"
+msgstr "Foloseste cache pentru fisiere si directoare"
+
+msgid "Use original EMC-skin (needs reopen)"
+msgstr ""
+
+msgid "VLC"
+msgstr "VLC"
+
+msgid "VLC Server not reachable"
+msgstr "Server VLC inaccesibil"
+
+msgid "VLC-Dir"
+msgstr "VLC-Dir"
+
+msgid "VLC-Server"
+msgstr "VLC-Server"
+
+msgid "Video-button"
+msgstr "Buton video"
+
+msgid "Vote:"
+msgstr "Votează"
+
+#, fuzzy
+msgid "WD DD.MM. HH:MM"
+msgstr "DD.MM HH:MM"
+
+#, fuzzy
+msgid "WD DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+#, fuzzy
+msgid "WD DD.MM.YYYY HH:MM"
+msgstr "DD.MM HH:MM"
+
+#, fuzzy
+msgid "WD MM/DD HH:MM"
+msgstr "MM/DD HH:MM"
+
+#, fuzzy
+msgid "WD YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+#, fuzzy
+msgid "WD YYYY/MM/DD HH:MM"
+msgstr "MM/DD HH:MM"
+
+msgid "Wake device when entering dir from emc-noscan.cfg"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "White"
+msgstr ""
+
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+msgid "YYYY/MM/DD HH:MM"
+msgstr ""
+
+msgid "Yellow button function"
+msgstr "Funcţie buton galben"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "Yes, everything"
+msgstr ""
+
+msgid "Yes, only extra title"
+msgstr ""
+
+msgid "Yes, with Message"
+msgstr ""
+
+msgid "Yes, without Message"
+msgstr ""
+
+msgid ""
+"Your Box is about to go into DeepStandby, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Receptorul este pe cale de DeepStandby, continua? \n"
+" selectaţi nu pentru o oră de întârziere"
+
+msgid ""
+"Your Box is about to go into E2 Restart, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Receptorul este pe cale de Restart Enigma, continua? \n"
+" selectaţi nu pentru o oră de întârziere"
+
+msgid ""
+"Your Box is about to go into Reboot, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Receptorul este pe cale de Reboot, continua? \n"
+" selectaţi nu pentru o oră de întârziere"
+
+msgid ""
+"Your Box is about to go into Standby, continue?\n"
+" Select no to delay one hour"
+msgstr ""
+"Receptorul este pe cale de Standby, continua? \n"
+" selectaţi nu pentru o oră de întârziere"
+
+msgid "Zap to channel after record EOF"
+msgstr "Revine la canal dupa finalul inregistrarii"
+
+msgid "after reload list"
+msgstr ""
+
+#, fuzzy
+msgid "after standby"
+msgstr "Standby"
+
+msgid "all"
+msgstr "tot"
+
+msgid "always"
+msgstr ""
+
+msgid "always hide"
+msgstr ""
+
+msgid "auto-start is currently not active."
+msgstr "auto-start nu este activ."
+
+msgid "auto-start window begin"
+msgstr "Auto-start inceput"
+
+msgid "auto-start window end"
+msgstr "sfârşitul de fereastră auto-start"
+
+msgid "center"
+msgstr ""
+
+msgid "configuration"
+msgstr "configuratie"
+
+msgid "covers in"
+msgstr "acopera în"
+
+msgid "daily auto-start"
+msgstr "auto-start zilnic"
+
+msgid "down"
+msgstr "jos"
+
+msgid "every single one"
+msgstr ""
+
+msgid "forward to the next chapter"
+msgstr "Capitolul următor"
+
+msgid "found"
+msgstr "Găsit"
+
+msgid "from"
+msgstr "de la"
+
+msgid "hide live TV"
+msgstr ""
+
+msgid "hide live TV and timeshift"
+msgstr ""
+
+#, fuzzy
+msgid "hide playback"
+msgstr "Opriti redarea"
+
+#, fuzzy
+msgid "imdb.com"
+msgstr "imdb.de"
+
+msgid "jump back to the previous title"
+msgstr "Salt la titlul precedent"
+
+msgid "jump forward to the next title"
+msgstr "Salt la titlul urmator"
+
+msgid "jump to next marked position"
+msgstr "salt la mrcajul urmator"
+
+msgid "jump to previous marked position"
+msgstr "salt la marcajul precedent"
+
+msgid "left"
+msgstr ""
+
+msgid "left from Name"
+msgstr ""
+
+msgid "movie manipulation list"
+msgstr "lista de manipulare filme"
+
+msgid "movies in"
+msgstr "filme în"
+
+msgid "never hide"
+msgstr ""
+
+msgid "no limit"
+msgstr ""
+
+msgid "off"
+msgstr "off"
+
+msgid "only initially"
+msgstr ""
+
+#, fuzzy
+msgid "overall"
+msgstr "acopera"
+
+msgid "rewind to the previous chapter"
+msgstr "Capitol precedent"
+
+msgid "right"
+msgstr ""
+
+msgid "right from Name"
+msgstr ""
+
+msgid "sec"
+msgstr "sec."
+
+msgid "sec found. Avg. Speed:"
+msgstr "sec găsite. Viteza medie:"
+
+msgid "sec."
+msgstr "sec."
+
+msgid "show DVD main menu"
+msgstr "Arată meniul DVD "
+
+msgid "single pixel TV, muted"
+msgstr ""
+
+#, fuzzy
+msgid "standard cover"
+msgstr "Administrare copertă"
+
+msgid "stop service"
+msgstr ""
+
+msgid "switch to the next angle"
+msgstr "Comută la următorul grup"
+
+msgid "switch to the next audio track"
+msgstr "comuta pista audio urmatoare"
+
+msgid "switch to the next subtitle language"
+msgstr "Comutare la următoarea limbă de subtitrare"
+
+msgid "themoviedb.org"
+msgstr "themoviedb.org"
+
+#, fuzzy
+msgid "themoviedb.org + thetvdb.com"
+msgstr "themoviedb.org"
+
+msgid "thetvdb cover number (standard cover):"
+msgstr ""
+
+msgid "thetvdb cover range per title:"
+msgstr ""
+
+msgid "thetvdb.com"
+msgstr "thetvdb.com"
+
+msgid "three contiguous"
+msgstr ""
+
+msgid "toggle a cut mark at the current position"
+msgstr "schimba marcajul la pozitia actuala"
+
+msgid "trashcan"
+msgstr ""
+
+msgid "two contiguous"
+msgstr ""
+
+msgid "type 1 - OSD + black (#00000000)"
+msgstr "tip 1 - transparent"
+
+msgid "type 2 - transparent + white (#FFFFFFFF)"
+msgstr "tip 2 - transparent + alb"
+
+msgid "type 3 - OSD + black (#00FFFFFF)"
+msgstr "tip 3 - OSD + negru"
+
+msgid "type 4 - transparent + black (#FF000000)"
+msgstr "tip 4 - transparent + negru"
+
+msgid "unknown"
+msgstr ""
+
+msgid "up/down"
+msgstr "sus/jos"
+
+msgid "view extensions..."
+msgstr "Vezi extensiile..."
+
+msgid "x"
+msgstr ""
