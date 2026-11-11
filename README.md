@@ -15,6 +15,10 @@ Magic Box OS 2.0.0 R9, **orijinal Vu+ Duo** için OpenPLi 9.2 tabanlı bir imajd
 - Yalnız Türkçe ve İngilizce arayüz/dil paketleri.
 - Katmanda tanımlanan Magic Box güncelleme depoları ve güven sertifikası.
 
+## Ekran görüntüleri
+
+TV, IPTV, Medya ve tam ekran kanal bilgi şeridinin cihaz testlerinden alınan [dört ekran görüntüsü](docs/screenshots/README.md) `docs/screenshots/` klasöründedir.
+
 ## Kaynak düzeni
 
 | Dizin | İçerik |
